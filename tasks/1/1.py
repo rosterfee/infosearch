@@ -1,42 +1,23 @@
 import requests
-from bs4 import BeautifulSoup
 
+index = open('../index.txt', 'w+')
 
-def get_html(link):
-
-    page = requests.get(link)
-    html = page.text
-    content = BeautifulSoup(html, 'html.parser')
-
-    scripts = content.findAll("script")
-    for script in scripts:
-        script.decompose()
-
-    links = content.findAll(attrs={'rel': 'stylesheet'})
-    for link in links:
-        link.decompose()
-
-    return content.prettify(encoding='utf-8')
-
-
-index = open('index.txt', 'w+')
-
-with open('links.txt', 'r') as links:
+headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) '
+                         'Chrome/111.0.0.0 Safari/537.36'
+           }
+with open('../links.txt', 'r') as links:
     links = links.readlines()
-    for i in range(len(links)):
+    error_links = []
+    for i in range(100):
 
         link = links[i]
-        html = get_html(link)
+        response = requests.get(link.strip(), headers=headers)
 
-        print(link, end='')
-
-        page = open(f'{i + 1}.txt', 'w+')
-        page.write(str(html))
-        page.close()
+        with open(f'../{i + 1}.txt', 'w+', encoding='utf-8') as file:
+            file.write(response.text)
+            file.close()
 
         index.write(f"{i + 1} : {link}")
 
 index.close()
-
-
 
