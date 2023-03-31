@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Моэ, Эрлинг — Википедия</title>
+<script>document.documentElement.className="client-js";(function(){var cookie=document.cookie.match(/(?:^|; )ruwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"cbb0829b-677b-4797-871b-2aa7ce70592c","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Моэ,_Эрлинг","wgTitle":"Моэ, Эрлинг","wgCurRevisionId":129252761,"wgRevisionId":129252761,"wgArticleId":10130342,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":
+null,"wgUserGroups":["*"],"wgCategories":["Википедия:Страницы с шаблоном ФИО со ссылкой на общие неоднозначности","Википедия:Биографии современников","Проект:Футбол:Последняя правка в 2023 году","Проект:Футбол:Последняя правка в текущем месяце","Википедия:Статьи о футболистах без портретов","Родившиеся 22 июля","Родившиеся в 1970 году","Родившиеся в Молде","Персоналии по алфавиту","Спортсмены по алфавиту","Футболисты по алфавиту","Футбольные тренеры по алфавиту","Футболисты Норвегии","Футбольные тренеры Норвегии","Игроки ФК «Трефф»","Тренеры ФК «Молде»"],"wgPageContentLanguage":"ru",
+"wgPageContentModel":"wikitext","wgRelevantPageName":"Моэ,_Эрлинг","wgRelevantArticleId":10130342,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":129252761,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":6000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q21282988","GEHomepageSuggestedEditsEnableTopics":
+true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","skins.vector.legacy.js","ext.flaggedRevs.advanced","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging",
+"ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","oojs-ui.styles.icons-media","oojs-ui-core.icons","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.41.0-wmf.1"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Моэ, Эрлинг — Википедия"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%9C%D0%BE%D1%8D,_%D0%AD%D1%80%D0%BB%D0%B8%D0%BD%D0%B3"/>
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9C%D0%BE%D1%8D,_%D0%AD%D1%80%D0%BB%D0%B8%D0%BD%D0%B3&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%8D,_%D0%AD%D1%80%D0%BB%D0%B8%D0%BD%D0%B3"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Моэ_Эрлинг rootpage-Моэ_Эрлинг skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Моэ, Эрлинг</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ru" dir="ltr"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable dabhide">В Википедии есть статьи о других людях с такой фамилией, см. <a href="/wiki/%D0%9C%D0%BE%D1%8D_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)" class="mw-disambig" title="Моэ (значения)">Моэ</a>.</div>
+<style data-mw-deduplicate="TemplateStyles:r117420358/mw-parser-output/.infobox[data-name=Футболист]">body.skin-modern .mw-parser-output .infobox[data-name=Футболист] .infobox-above,body.skin-monobook .mw-parser-output .infobox[data-name=Футболист] .infobox-above,body.skin-timeless .mw-parser-output .infobox[data-name=Футболист] .infobox-above,body.skin-vector .mw-parser-output .infobox[data-name=Футболист] .infobox-above{background:#99cc99}body.skin-modern .mw-parser-output .infobox[data-name=Футболист] .infobox-header,body.skin-monobook .mw-parser-output .infobox[data-name=Футболист] .infobox-header,body.skin-timeless .mw-parser-output .infobox[data-name=Футболист] .infobox-header,body.skin-vector .mw-parser-output .infobox[data-name=Футболист] .infobox-header{background:#d5efd5}body.skin-modern .mw-parser-output .infobox[data-name=Футболист] .infobox-below,body.skin-monobook .mw-parser-output .infobox[data-name=Футболист] .infobox-below,body.skin-timeless .mw-parser-output .infobox[data-name=Футболист] .infobox-below,body.skin-vector .mw-parser-output .infobox[data-name=Футболист] .infobox-below{background:#eaecf0}</style>
+<style data-mw-deduplicate="TemplateStyles:r113275834">.mw-parser-output .ts-Спортивная_карьера-table{width:100%!important;display:table;margin:0 0 -2px;border-collapse:separate;text-align:left}.mw-parser-output .ts-Спортивная_карьера-table th{text-align:center}.mw-parser-output .ts-Спортивная_карьера-table td:nth-child(1){width:27%}.mw-parser-output .ts-Спортивная_карьера-table td:nth-child(3){width:20%}.mw-parser-output .ts-Спортивная_карьера-table.stripped tr:nth-child(odd){background-color:#f8f9fa}.mw-parser-output .ts-Спортивная_карьера-table.stripped tr:nth-child(even){background-color:#eff1f3}.mw-parser-output .ts-Спортивная_карьера-table.stripped tr.odd{background-color:#f8f9fa}.mw-parser-output .ts-Спортивная_карьера-table.stripped tr.even{background-color:#eff1f3}body.skin-minerva .mw-parser-output .ts-Спортивная_карьера-table.stripped tr{background-color:transparent}</style>
+<table class="infobox infobox-2899d4d9c20c0d36" style="font-size:96%;" data-name="Футболист"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="font-size:110%;"><style data-mw-deduplicate="TemplateStyles:r113288029">.mw-parser-output .ts_Спортсмен_имя{position:relative}.mw-parser-output .ts_Спортсмен_имя .icon{display:flex;align-items:center;position:absolute;top:0;bottom:0;left:0}.mw-parser-output .ts_Спортсмен_имя .icon img{display:block}.mw-parser-output .ts_Спортсмен_имя .label{margin:0 2em}@media(min-width:720px){.mw-parser-output .ts_Спортсмен_имя{margin:.15em}}body.skin-minerva .mw-parser-output .ts_Спортсмен_имя{margin:0}</style><div class="ts_Спортсмен_имя"><div class="icon" style=""><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Soccerball_mark.svg" class="image" title="Футбол"><img alt="Футбол" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Soccerball_mark.svg/20px-Soccerball_mark.svg.png" decoding="async" width="20" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Soccerball_mark.svg/30px-Soccerball_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Soccerball_mark.svg/40px-Soccerball_mark.svg.png 2x" data-file-width="512" data-file-height="459" /></a></div><div class="label">Эрлинг Моэ</div></div></th></tr>
+<tr>
+<th scope="row" class="plainlist" style="width:7em; white-space:nowrap; text-align:left;">Родился</th>
+<td class="plainlist" style="text-align:left;">
+<span data-wikidata-claim-id="Q21282988$2D525232-DB2E-4C69-A32C-9EDADB7F7F27" class="wikidata-claim" data-wikidata-property-id="P569"><span class="wikidata-snak wikidata-main-snak"><span class="nowrap"><a href="/wiki/22_%D0%B8%D1%8E%D0%BB%D1%8F" title="22 июля">22 июля</a> <a href="/wiki/1970_%D0%B3%D0%BE%D0%B4" title="1970 год">1970</a></span><span style="display:none">(<span class="bday">1970-07-22</span>)</span></span> <span style="white-space:nowrap;">(52 года)</span></span><br /><ul><li><span data-wikidata-claim-id="Q21282988$80C45B73-A97B-404D-9AEB-EB9295FFA486" class="wikidata-claim" data-wikidata-property-id="P19"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9C%D0%BE%D0%BB%D0%B4%D0%B5" title="Молде">Молде</a></span>, <span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F" title="Норвегия">Норвегия</a></span></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:7em; white-space:nowrap; text-align:left;">Гражданство</th>
+<td class="plainlist" style="text-align:left;">
+<ul><li><span data-wikidata-claim-id="Q21282988$b4adf4c3-4af7-1f7a-12b4-4a0117936786" class="wikidata-claim" data-wikidata-property-id="P27"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/20px-Flag_of_Norway.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/30px-Flag_of_Norway.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/40px-Flag_of_Norway.svg.png 2x" data-file-width="512" data-file-height="372" />&#160;<span class="country-name"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F" title="Норвегия">Норвегия</a></span></span></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:7em; white-space:nowrap; text-align:left;">Позиция</th>
+<td class="plainlist" style="text-align:left;">
+<span data-wikidata-claim-id="Q21282988$a7bf6be1-4a51-4ef0-24b6-25546ba4b31b" class="wikidata-claim" data-wikidata-property-id="P413"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%97%D0%B0%D1%89%D0%B8%D1%82%D0%BD%D0%B8%D0%BA_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB)" title="Защитник (футбол)">защитник</a></span></span></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="">Информация о клубе</th>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:7em; white-space:nowrap; text-align:left;">Клуб</th>
+<td class="plainlist" style="text-align:left;">
+<span data-wikidata-property-id="P54" class="no-wikidata"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Norway.svg" class="image" title="Флаг Норвегии"><img alt="Флаг Норвегии" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/20px-Flag_of_Norway.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/30px-Flag_of_Norway.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/40px-Flag_of_Norway.svg.png 2x" data-file-width="512" data-file-height="372" /></a> <a href="/wiki/%D0%9C%D0%BE%D0%BB%D0%B4%D0%B5_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Молде (футбольный клуб)">Молде</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:7em; white-space:nowrap; text-align:left;">Должность</th>
+<td class="plainlist" style="text-align:left;">
+главный тренер</td>
+</tr>
+<tr>
+<td colspan="2" class="infobox-table plainlist" style="text-align:center;text-align:left;">
+<table class="ts-Спортивная_карьера-table threecolumns stripped">
+
+
+
+
+
+
+<tbody><tr>
+<th scope="colgroup" class="infobox-header" colspan="3">Клубная карьера<sup id="cite_ref-club2_1-0" class="reference"><a href="#cite_note-club2-1">&#91;* 1&#93;</a></sup>
+</th></tr>
+
+<tr class="nowrap odd">
+<td>
+</td>
+<td colspan="2"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Norway.svg" class="image" title="Флаг Норвегии"><img alt="Флаг Норвегии" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/20px-Flag_of_Norway.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/30px-Flag_of_Norway.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/40px-Flag_of_Norway.svg.png 2x" data-file-width="512" data-file-height="372" /></a> Трефф
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<th scope="colgroup" class="infobox-header" colspan="3">Тренерская карьера<sup id="cite_ref-coach_2-0" class="reference"><a href="#cite_note-coach-2">&#91;* 2&#93;</a></sup>
+</th></tr>
+
+<tr class="nowrap odd">
+<td>1999—2002
+</td>
+<td colspan="2"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Norway.svg" class="image" title="Флаг Норвегии"><img alt="Флаг Норвегии" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/20px-Flag_of_Norway.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/30px-Flag_of_Norway.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/40px-Flag_of_Norway.svg.png 2x" data-file-width="512" data-file-height="372" /></a> Трефф
+</td></tr>
+<tr class="nowrap even">
+<td>2005—2011
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Norway.svg" class="image" title="Флаг Норвегии"><img alt="Флаг Норвегии" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/20px-Flag_of_Norway.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/30px-Flag_of_Norway.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/40px-Flag_of_Norway.svg.png 2x" data-file-width="512" data-file-height="372" /></a> <a href="/wiki/%D0%9C%D0%BE%D0%BB%D0%B4%D0%B5_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Молде (футбольный клуб)">Молде</a>
+</td>
+<td>юн.
+</td></tr>
+<tr class="nowrap odd">
+<td>2011
+</td>
+<td colspan="2"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Norway.svg" class="image" title="Флаг Норвегии"><img alt="Флаг Норвегии" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/20px-Flag_of_Norway.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/30px-Flag_of_Norway.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/40px-Flag_of_Norway.svg.png 2x" data-file-width="512" data-file-height="372" /></a> <a href="/wiki/%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD%D1%81%D1%83%D0%BD%D0%BD_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Кристиансунн (футбольный клуб)">Кристиансунн</a>
+</td></tr>
+<tr class="nowrap even">
+<td>2012—2015
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Norway.svg" class="image" title="Флаг Норвегии"><img alt="Флаг Норвегии" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/20px-Flag_of_Norway.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/30px-Flag_of_Norway.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/40px-Flag_of_Norway.svg.png 2x" data-file-width="512" data-file-height="372" /></a> <a href="/wiki/%D0%9C%D0%BE%D0%BB%D0%B4%D0%B5_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Молде (футбольный клуб)">Молде</a>
+</td>
+<td>юн.
+</td></tr>
+<tr class="nowrap odd">
+<td>2015
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Norway.svg" class="image" title="Флаг Норвегии"><img alt="Флаг Норвегии" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/20px-Flag_of_Norway.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/30px-Flag_of_Norway.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/40px-Flag_of_Norway.svg.png 2x" data-file-width="512" data-file-height="372" /></a> <a href="/wiki/%D0%9C%D0%BE%D0%BB%D0%B4%D0%B5_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Молде (футбольный клуб)">Молде</a>
+</td>
+<td><style data-mw-deduplicate="TemplateStyles:r113275842">.mw-parser-output .ts-comment-commentedText{border-bottom:1px dotted;cursor:help}@media(hover:none){.mw-parser-output .ts-comment-commentedText:not(.rt-commentedText){border-bottom:0;cursor:auto}}</style><span class="ts-comment-commentedText" title="исполняющий обязанности главного тренера">и. о.</span>
+</td></tr>
+<tr class="nowrap even">
+<td>2015—2018
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Norway.svg" class="image" title="Флаг Норвегии"><img alt="Флаг Норвегии" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/20px-Flag_of_Norway.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/30px-Flag_of_Norway.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/40px-Flag_of_Norway.svg.png 2x" data-file-width="512" data-file-height="372" /></a> <a href="/wiki/%D0%9C%D0%BE%D0%BB%D0%B4%D0%B5_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Молде (футбольный клуб)">Молде</a>
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113275842"/><span class="ts-comment-commentedText" title="ассистент главного тренера">асс.</span>
+</td></tr>
+<tr class="nowrap odd">
+<td>2018—2019
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Norway.svg" class="image" title="Флаг Норвегии"><img alt="Флаг Норвегии" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/20px-Flag_of_Norway.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/30px-Flag_of_Norway.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/40px-Flag_of_Norway.svg.png 2x" data-file-width="512" data-file-height="372" /></a> <a href="/wiki/%D0%9C%D0%BE%D0%BB%D0%B4%D0%B5_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Молде (футбольный клуб)">Молде</a>
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113275842"/><span class="ts-comment-commentedText" title="исполняющий обязанности главного тренера">и. о.</span>
+</td></tr>
+<tr class="nowrap even">
+<td>2019—<abbr title="настоящее время" class="nowrap">н.&#8201;в.</abbr>
+</td>
+<td colspan="2"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Norway.svg" class="image" title="Флаг Норвегии"><img alt="Флаг Норвегии" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/20px-Flag_of_Norway.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/30px-Flag_of_Norway.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/40px-Flag_of_Norway.svg.png 2x" data-file-width="512" data-file-height="372" /></a> <a href="/wiki/%D0%9C%D0%BE%D0%BB%D0%B4%D0%B5_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Молде (футбольный клуб)">Молде</a>
+</td></tr>
+
+
+
+</tbody></table></td>
+</tr>
+<tr>
+<td colspan="2" class="noplainlist" style="text-align:center;text-align:left;padding:0.2em 0 0; font-size:80%; color:#555555;">
+<ol class="references">
+<li id="cite_note-club2-1"><span class="mw-cite-backlink"><a href="#cite_ref-club2_1-0">↑</a></span> <span class="reference-text"> Количество игр и голов за профессиональный клуб считается только для различных лиг национальных чемпионатов. </span>
+</li>
+<li id="cite_note-coach-2"><span class="mw-cite-backlink"><a href="#cite_ref-coach_2-0">↑</a></span> <span class="reference-text"> Обновлено по состоянию на <span class="nowrap">15 марта 2023 года</span>. </span>
+</li>
+</ol></td>
+</tr>
+</tbody></table>
+<p><b>Эрлинг Моэ</b> (<a href="/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B6%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Норвежский язык">норв.</a> <span lang="no" style="font-style:italic;">Erling Hagset Moe</span>; род. <span data-wikidata-claim-id="Q21282988$2D525232-DB2E-4C69-A32C-9EDADB7F7F27" class="wikidata-claim" data-wikidata-property-id="P569"><span class="wikidata-snak wikidata-main-snak"><span class="nowrap"><a href="/wiki/22_%D0%B8%D1%8E%D0%BB%D1%8F" title="22 июля">22 июля</a> <a href="/wiki/1970_%D0%B3%D0%BE%D0%B4" title="1970 год">1970</a></span></span></span>, <span data-wikidata-claim-id="Q21282988$80C45B73-A97B-404D-9AEB-EB9295FFA486" class="wikidata-claim" data-wikidata-property-id="P19"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9C%D0%BE%D0%BB%D0%B4%D0%B5" title="Молде">Молде</a></span></span>)&#160;— норвежский <a href="/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB" title="Футбол">футбольный</a> <a href="/wiki/%D0%A2%D1%80%D0%B5%D0%BD%D0%B5%D1%80" title="Тренер">тренер</a>. Главный тренер клуба «<a href="/wiki/%D0%9C%D0%BE%D0%BB%D0%B4%D0%B5_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Молде (футбольный клуб)">Молде</a>».
+</p>
+<h2><span id=".D0.9A.D0.B0.D1.80.D1.8C.D0.B5.D1.80.D0.B0"></span><span class="mw-headline" id="Карьера">Карьера</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9C%D0%BE%D1%8D,_%D0%AD%D1%80%D0%BB%D0%B8%D0%BD%D0%B3&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Редактировать раздел «Карьера»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9C%D0%BE%D1%8D,_%D0%AD%D1%80%D0%BB%D0%B8%D0%BD%D0%B3&amp;action=edit&amp;section=1" title="Редактировать раздел «Карьера»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Играл за «Трефф» из города <a href="/wiki/%D0%9C%D0%BE%D0%BB%D0%B4%D0%B5" title="Молде">Молде</a> — команду одного из низших норвежских дивизионов. Затем, с 1999 по 2002 год, тренировал эту команду<sup id="cite_ref-trenr_3-0" class="reference"><a href="#cite_note-trenr-3">&#91;1&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;2&#93;</a></sup>, в 2002 году<sup><a href="https://en.wikipedia.org/wiki/2002_Norwegian_Second_Division" class="extiw" title="en:2002 Norwegian Second Division">en</a></sup> она вылетела из второго дивизиона (третий по уровню) в третий.
+</p><p>С января 2005 года в течение длительного времени работал в структуре клуба <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Норвегии по футболу">высшего дивизиона</a> «<a href="/wiki/%D0%9C%D0%BE%D0%BB%D0%B4%D0%B5_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Молде (футбольный клуб)">Молде</a>» тренером юниорских команд и координатором по развитию талантов<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;3&#93;</a></sup>, с перерывом в 2011 году, когда во второй части сезона тренировал клуб второго дивизиона «<a href="/wiki/%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD%D1%81%D1%83%D0%BD%D0%BD_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Кристиансунн (футбольный клуб)">Кристиансунн</a>»<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;4&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;5&#93;</a></sup>.
+</p><p>С 2015 года — в тренерском штабе главной команды «Молде». Был помощником <a href="/wiki/%D0%A1%D1%83%D0%BB%D1%8C%D1%88%D0%B5%D1%80,_%D0%A3%D0%BB%D0%B5_%D0%93%D1%83%D0%BD%D0%BD%D0%B0%D1%80" title="Сульшер, Уле Гуннар">Уле Гуннара Сульшера</a>, исполняющим обязанности главного тренера<sup id="cite_ref-trenr_3-1" class="reference"><a href="#cite_note-trenr-3">&#91;1&#93;</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;6&#93;</a></sup>. С 2019 — главный тренер<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;7&#93;</a></sup>.
+</p>
+<h2><span id=".D0.94.D0.BE.D1.81.D1.82.D0.B8.D0.B6.D0.B5.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Достижения">Достижения</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9C%D0%BE%D1%8D,_%D0%AD%D1%80%D0%BB%D0%B8%D0%BD%D0%B3&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Редактировать раздел «Достижения»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9C%D0%BE%D1%8D,_%D0%AD%D1%80%D0%BB%D0%B8%D0%BD%D0%B3&amp;action=edit&amp;section=2" title="Редактировать раздел «Достижения»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Чемпион Норвегии: <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2019" title="Чемпионат Норвегии по футболу 2019">2019</a>, <span data-interwiki-lang="en" data-interwiki-article="2022 Eliteserien"><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2022&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат Норвегии по футболу 2022 (страница отсутствует)">2022</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a href="https://en.wikipedia.org/wiki/2022_Eliteserien" class="extiw" title="en:2022 Eliteserien"><span title="2022 Eliteserien — версия статьи «Чемпионат Норвегии по футболу 2022» на английском языке">[en]</span></a></sup></span></li>
+<li>Облдатель <a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Кубок Норвегии по футболу">Кубка Норвегии</a>: <span data-interwiki-lang="en" data-interwiki-article="2021–22 Norwegian Football Cup"><a href="/w/index.php?title=%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2021/2022&amp;action=edit&amp;redlink=1" class="new" title="Кубок Норвегии по футболу 2021/2022 (страница отсутствует)">2021/22</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a href="https://en.wikipedia.org/wiki/2021%E2%80%9322_Norwegian_Football_Cup" class="extiw" title="en:2021–22 Norwegian Football Cup"><span title="2021–22 Norwegian Football Cup — версия статьи «Кубок Норвегии по футболу 2021/2022» на английском языке">[en]</span></a></sup></span></li>
+<li><a href="/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B8%D1%81%D1%82_%D0%B3%D0%BE%D0%B4%D0%B0_%D0%B2_%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D0%B8#Тренер_года" title="Футболист года в Норвегии">Тренер года в Норвегии</a>: 2022<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;8&#93;</a></sup></li></ul>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9C%D0%BE%D1%8D,_%D0%AD%D1%80%D0%BB%D0%B8%D0%BD%D0%B3&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Редактировать раздел «Примечания»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9C%D0%BE%D1%8D,_%D0%AD%D1%80%D0%BB%D0%B8%D0%BD%D0%B3&amp;action=edit&amp;section=3" title="Редактировать раздел «Примечания»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-trenr-3"><span class="mw-cite-backlink">↑ <a href="#cite_ref-trenr_3-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-trenr_3-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Jørund Wessel Carlsen.</i>&#32;<span lang="no"><a rel="nofollow" class="external text" href="https://www.vg.no/sport/fotball/i/8gBlG/her-er-den-nye-molde-treneren">Her er den nye Molde-treneren</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на норвежском языке">(норв.)</span>.&#32;<i>vg.no</i>&#32;(7 августа 2015).</span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="citation"><span lang="no"><a rel="nofollow" class="external text" href="http://www.traeff.no/site/main/les_mer.php?page_id=765">A-lagets trener historie</a></span>.&#32;<small>TRÆFF FOTBALL A-LAGSTRENERE FRA 1970</small>&#160;<span class="ref-info" style="cursor:help;" title="на норвежском языке">(норв.)</span><small>.</small>&#32;<i>traeff.no</i><small>.</small>&#32;<small>Дата обращения: 15 марта 2023.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20131004213955/http://www.traeff.no/site/main/les_mer.php?page_id=765">Архивировано</a> 4 октября 2013 года.</small></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="citation"><span lang="no"><a rel="nofollow" class="external text" href="https://www.moldefk.no/om-klubben/var-historie/2000-2010/2005-manedsvis/2005-forsesongen">2005 Forsesongen</a></span>.&#32;<small>Erling Moe jakter på talenter; Bredde og utviklingsavdelingen</small>&#160;<span class="ref-info" style="cursor:help;" title="на норвежском языке">(норв.)</span><small>.</small>&#32;<i>moldefk.no</i><small>.</small>&#32;<small>Дата обращения: 15 марта 2023.</small></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><span class="citation"><span lang="no"><a rel="nofollow" class="external text" href="https://www.tk.no/lokal-fotball/moe-og-raket-leder-treningen/s/1-113-5680858">Moe og Råket leder treningen</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на норвежском языке">(норв.)</span>.&#32;<i>tk.no</i>&#32;(25 июля 2011).</span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="citation"><span lang="no"><a rel="nofollow" class="external text" href="https://www.tk.no/lokal-fotball/moe-sa-nei-til-kbk/s/1-113-5774587">Erling Moe gir seg som trener i KBK</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на норвежском языке">(норв.)</span>.&#32;<i>tk.no</i>&#32;(18 октября 2011).</span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="https://www.bbc.com/sport/football/46825431">Hamilton: Frerdrik Brustad recalled by Molde after one goal in 15 games</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<i><a href="/wiki/Bbc.com" class="mw-redirect" title="Bbc.com">bbc.com</a></i>&#32;(10 января 2019).&#32;<small>Дата обращения: 15 марта 2023.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190414162927/https://www.bbc.com/sport/football/46825431">Архивировано</a> 14 апреля 2019 года.</small></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><span class="citation"><span lang="no"><a rel="nofollow" class="external text" href="https://www.moldefk.no/nyheter/erling-moe-forlenger-til-2020">Erling Moe forlenger til ut 2020</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на норвежском языке">(норв.)</span>.&#32;<i>moldefk.no</i>.&#32;<small>Дата обращения: 15 марта 2023.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190430105735/https://www.moldefk.no/nyheter/erling-moe-forlenger-til-2020">Архивировано</a> 30 апреля 2019 года.</small></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><span class="citation"><span lang="no"><a rel="nofollow" class="external text" href="https://www.eliteserien.no/nyheter/disse-vant-arets-priser-i-eliteserien">Disse vant årets priser i Eliteserien</a></span>.&#32;<small>Årets trener — Erling Moe (Molde)</small>&#160;<span class="ref-info" style="cursor:help;" title="на норвежском языке">(норв.)</span><small>.</small>&#32;<i>eliteserien.no</i>&#32;(14 ноября 2022)<small>.</small>&#32;<small>Дата обращения: 15 марта 2023.</small></span></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-label="Навигационный шаблон" data-name="External links"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div style="float: left;"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a>&#160;&#160;<a href="https://www.wikidata.org/wiki/Q21282988#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="14" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></div>&#160;&#160;Тематические сайты</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://news.sportbox.ru/Vidy_sporta/Futbol/Erling_Moje_Futbol_22071970">Sportbox.ru</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.transfermarkt.com/transfermarkt/profil/trainer/41529">Transfermarkt (тренер)</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Футбольный_клуб_«Молде»_(по_состоянию_на_12_октября_2022)" data-name="Состав ФК Молде"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2" style="background:#0071bb; color:white; box-shadow: inset 1px 1px white, inset -1px -1px white;"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A1%D0%BE%D1%81%D1%82%D0%B0%D0%B2_%D0%A4%D0%9A_%D0%9C%D0%BE%D0%BB%D0%B4%D0%B5" title="Перейти к шаблону «Состав ФК Молде»"><img alt="Перейти к шаблону «Состав ФК Молде»" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wikipedia_interwiki_section_gear_icon_white.svg/14px-Wikipedia_interwiki_section_gear_icon_white.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wikipedia_interwiki_section_gear_icon_white.svg/21px-Wikipedia_interwiki_section_gear_icon_white.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wikipedia_interwiki_section_gear_icon_white.svg/28px-Wikipedia_interwiki_section_gear_icon_white.svg.png 2x" data-file-width="14" data-file-height="14" /></a>&#160;</span><div id="Футбольный_клуб_«Молде»_(по_состоянию_на_12_октября_2022)" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%9C%D0%BE%D0%BB%D0%B4%D0%B5_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Молде (футбольный клуб)"><span style="color: white; text-decoration: inherit; -moz-text-decoration-color: white; text-decoration-color: white;"> Футбольный клуб «Молде»</span></a> <small>(по состоянию на 12 октября 2022)</small></div></th></tr><tr><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><small>1</small> <a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D0%BB%D1%81%D1%82%D1%80%D1%91%D0%BC,_%D0%AF%D0%BA%D0%BE%D0%B1&amp;action=edit&amp;redlink=1" class="new" title="Карлстрём, Якоб (страница отсутствует)">Карлстрём</a> <small><a href="/wiki/%D0%92%D1%80%D0%B0%D1%82%D0%B0%D1%80%D1%8C_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB)" title="Вратарь (футбол)">(в)</a></small></li>
+<li><small>2</small> <a href="/w/index.php?title=%D0%91%D1%8C%D0%BE%D1%80%D0%BD%D0%B1%D0%B0%D0%BA,_%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Бьорнбак, Мартин (страница отсутствует)">Бьорнбак</a></li>
+<li><small>3</small> <a href="/w/index.php?title=%D0%A0%D0%B8%D1%81%D0%B0,_%D0%91%D0%B8%D1%80%D0%BA&amp;action=edit&amp;redlink=1" class="new" title="Риса, Бирк (страница отсутствует)">Риса</a></li>
+<li><small>4</small> <a href="/wiki/%D0%A5%D0%B0%D0%BD%D1%81%D0%B5%D0%BD,_%D0%91%D0%B5%D0%BD%D1%8C%D1%8F%D0%BC%D0%B8%D0%BD" title="Хансен, Беньямин">Хансен</a></li>
+<li><small>5</small> <a href="/w/index.php?title=%D0%A1%D0%B8%D0%BD%D1%8C%D1%8F%D0%BD,_%D0%A8%D0%B5%D1%80%D0%B8%D1%84&amp;action=edit&amp;redlink=1" class="new" title="Синьян, Шериф (страница отсутствует)">Синьян</a></li>
+<li><small>6</small> <a href="/wiki/%D0%AD%D0%BB%D0%BB%D0%B8%D0%BD%D0%B3%D1%81%D0%B5%D0%BD,_%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD" title="Эллингсен, Мартин">Эллингсен</a></li>
+<li><small>7</small> <a href="/wiki/%D0%AD%D0%B9%D0%BA%D1%80%D0%B5%D0%BC,_%D0%9C%D0%B0%D0%B3%D0%BD%D1%83%D1%81" title="Эйкрем, Магнус">Эйкрем</a> <small><a href="/wiki/%D0%9A%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB)" title="Капитан (футбол)">(к)</a></small></li>
+<li><small>8</small> <a href="/wiki/%D0%9C%D0%B0%D0%BD%D0%BD%D1%81%D0%B2%D0%B5%D1%80%D0%BA,_%D0%A1%D0%B8%D0%B2%D0%B5%D1%80%D1%82" title="Маннсверк, Сиверт">Маннсверк</a></li>
+<li><small>9</small> <a href="/wiki/%D0%91%D0%B5%D1%80%D0%B8%D1%88%D0%B0,_%D0%92%D0%B5%D1%82%D0%BE%D0%BD" title="Бериша, Ветон">Бериша</a></li>
+<li><small>10</small> <a href="/wiki/%D0%91%D1%8C%D1%91%D1%80%D0%BD_%D0%91%D0%B5%D1%80%D0%B3%D0%BC%D0%B0%D0%BD%D0%BD_%D0%A1%D0%B8%D0%B3%D1%83%D1%80%D0%B4%D0%B0%D1%80%D1%81%D0%BE%D0%BD" title="Бьёрн Бергманн Сигурдарсон">Сигурдарсон</a></li>
+<li><small>11</small> <a href="/wiki/%D0%91%D1%80%D0%B8%D0%BD%D0%B4%D1%85%D0%B8%D0%BB%D1%8C%D1%81%D0%B5%D0%BD,_%D0%9E%D0%BB%D0%B0" title="Бриндхильсен, Ола">Бриндхильсен</a></li>
+<li><small>12</small> <a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D0%BD%D0%B8%D0%BD%D0%BA%D1%81,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81&amp;action=edit&amp;redlink=1" class="new" title="Кранинкс, Алекс (страница отсутствует)">Кранинкс</a> <small><a href="/wiki/%D0%92%D1%80%D0%B0%D1%82%D0%B0%D1%80%D1%8C_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB)" title="Вратарь (футбол)">(в)</a></small></li>
+<li><small>14</small> <a href="/w/index.php?title=%D0%9A%D0%BD%D1%83%D0%B4%D1%82%D1%81%D0%BE%D0%BD,_%D0%AD%D1%80%D0%BB%D0%B8%D0%BD%D0%B3&amp;action=edit&amp;redlink=1" class="new" title="Кнудтсон, Эрлинг (страница отсутствует)">Кнудтсон</a></li>
+<li><small>15</small> <a href="/w/index.php?title=%D0%9A%D0%BE%D1%81%D0%B0,_%D0%9C%D0%B0%D1%80%D0%BA%D1%83%D1%81_%D0%90%D0%BD%D0%B4%D1%80%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Коса, Маркус Андре (страница отсутствует)">Коса</a></li>
+<li><small>16</small> <a href="/w/index.php?title=%D0%91%D1%80%D0%B5%D0%B9%D0%B2%D0%B8%D0%BA,_%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C&amp;action=edit&amp;redlink=1" class="new" title="Брейвик, Эмиль (страница отсутствует)">Брейвик</a></li>
+<li><small>17</small> <a href="/wiki/%D0%97%D0%B5%D1%85%D0%BD%D0%B8%D0%BD%D0%B8,_%D0%A0%D0%B0%D1%84%D0%B8%D0%BA" title="Зехнини, Рафик">Зехнини</a></li>
+<li><small>18</small> <a href="/w/index.php?title=%D0%A5%D0%B0%D1%80%D0%B0%D0%BB%D1%8C%D0%B4%D1%81%D0%B5%D0%B9%D0%B4,_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%84%D1%84%D0%B5%D1%80&amp;action=edit&amp;redlink=1" class="new" title="Харальдсейд, Кристоффер (страница отсутствует)">Харальдсейд</a></li>
+<li><small>19</small> <a href="/w/index.php?title=%D0%A5%D1%91%D1%83%D0%B3%D0%B0%D0%BD,_%D0%AD%D0%B9%D1%80%D0%B8%D0%BA&amp;action=edit&amp;redlink=1" class="new" title="Хёуган, Эйрик (страница отсутствует)">Хёуган</a></li>
+<li><small>20</small> <a href="/w/index.php?title=%D0%AD%D1%80%D0%B8%D0%BA%D1%81%D0%B5%D0%BD,_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B8%D1%81%D1%82,_1995)&amp;action=edit&amp;redlink=1" class="new" title="Эриксен, Кристиан (футболист, 1995) (страница отсутствует)">Эриксен</a></li>
+<li><small>21</small> <a href="/wiki/%D0%9B%D0%B8%D0%BD%D0%BD%D0%B5%D1%81,_%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD" title="Линнес, Мартин">Линнес</a></li>
+<li><small>22</small> <a href="/w/index.php?title=%D0%93%D1%80%D1%91%D0%B4%D0%B5%D0%BC,_%D0%9C%D0%B0%D0%B3%D0%BD%D1%83%D1%81&amp;action=edit&amp;redlink=1" class="new" title="Грёдем, Магнус (страница отсутствует)">Грёдем</a></li>
+<li><small>23</small> <a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD,_%D0%AD%D0%B9%D1%80%D0%B8%D0%BA&amp;action=edit&amp;redlink=1" class="new" title="Андерсен, Эйрик (страница отсутствует)">Андерсен</a></li>
+<li><small>24</small> <a href="/w/index.php?title=%D0%91%D0%B0%D0%BA%D0%BA%D0%B5,_%D0%99%D0%BE%D1%85%D0%B0%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Бакке, Йохан (страница отсутствует)">Бакке</a></li>
+<li><small>25</small> <a href="/w/index.php?title=%D0%A5%D0%B0%D0%B3%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D1%8C%D0%B5%D1%80,_%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81&amp;action=edit&amp;redlink=1" class="new" title="Хагельскьер, Андерс (страница отсутствует)">Хагельскьер</a></li>
+<li><small>26</small> <a href="/w/index.php?title=%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D1%81%D0%B5%D0%BD,_%D0%9E%D0%BB%D0%B8%D0%B2%D0%B5%D1%80&amp;action=edit&amp;redlink=1" class="new" title="Петерсен, Оливер (страница отсутствует)">Петерсен</a> <small><a href="/wiki/%D0%92%D1%80%D0%B0%D1%82%D0%B0%D1%80%D1%8C_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB)" title="Вратарь (футбол)">(в)</a></small></li>
+<li><small>28</small> <a href="/wiki/%D0%A5%D0%B0%D1%83%D0%B3%D0%B5%D0%BD,_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%84%D1%84%D0%B5%D1%80" title="Хауген, Кристоффер">Хауген</a></li>
+<li><small>30</small> <a href="/wiki/%D0%91%D0%BE%D0%BB%D0%BB%D0%B8,_%D0%9C%D0%B0%D1%82%D0%B8%D1%81" title="Болли, Матис">Болли</a></li>
+<li><small>31</small> <a href="/w/index.php?title=%D0%9B%D1%91%D0%B2%D0%B8%D0%BA,_%D0%9C%D0%B0%D1%82%D0%B8%D0%B0%D1%81_%D0%A4%D1%8C%D1%91%D1%80%D1%82%D0%BE%D1%84%D1%82&amp;action=edit&amp;redlink=1" class="new" title="Лёвик, Матиас Фьёртофт (страница отсутствует)">Лёвик</a></li>
+<li><small>32</small> <a href="/w/index.php?title=%D0%A5%D1%91%D1%83%D0%B3%D0%BB%D0%B0%D0%BD%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BB%D0%B0%D1%81&amp;action=edit&amp;redlink=1" class="new" title="Хёугланн, Никлас (страница отсутствует)">Хёугланн</a></li>
+<li><small>33</small> <a href="/w/index.php?title=%D0%AD%D0%B4%D0%B5%D0%B3%D0%BE%D1%80,_%D0%9D%D0%B8%D0%BA%D0%BB%D0%B0%D1%81&amp;action=edit&amp;redlink=1" class="new" title="Эдегор, Никлас (страница отсутствует)">Эдегор</a></li>
+<li><small>34</small> <a href="/w/index.php?title=%D0%9B%D0%B5%D1%80%D0%B2%D0%B8%D0%BA,_%D0%9F%D0%B5%D0%B4%D0%B5%D1%80_%D0%A5%D0%BE%D1%8D%D0%BB%D1%8C&amp;action=edit&amp;redlink=1" class="new" title="Лервик, Педер Хоэль (страница отсутствует)">Лервик</a> <small><a href="/wiki/%D0%92%D1%80%D0%B0%D1%82%D0%B0%D1%80%D1%8C_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB)" title="Вратарь (футбол)">(в)</a></small></li>
+<li><small>54</small> <a href="/w/index.php?title=%D0%9C%D1%8E%D0%BA%D0%BB%D0%B5%D0%B1%D1%83%D1%81%D1%82,_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B0%D1%81_%D0%AD%D0%B9%D0%BA%D1%80%D0%B5%D0%BC&amp;action=edit&amp;redlink=1" class="new" title="Мюклебуст, Андреас Эйкрем (страница отсутствует)">Мюклебуст</a></li>
+<li><small>58</small> <a href="/w/index.php?title=%D0%91%D1%91%D1%80%D1%81%D0%B5%D1%82,_%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81_%D0%A0%D1%91%D0%BD%D0%BD%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Бёрсет, Андерс Рённе (страница отсутствует)">Бёрсет</a></li>
+<li><small>главный тренер:</small> <a class="mw-selflink selflink">Эрлинг Моэ</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1405
+Cached time: 20230330153745
+Cache expiry: 86400
+Reduced expiry: true
+Complications: [no‐toc‐conversion]
+CPU time usage: 0.447 seconds
+Real time usage: 0.611 seconds
+Preprocessor visited node count: 3388/1000000
+Post‐expand include size: 82876/2097152 bytes
+Template argument size: 25563/2097152 bytes
+Highest expansion depth: 24/100
+Expensive parser function count: 9/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 10929/5000000 bytes
+Lua time usage: 0.269/10.000 seconds
+Lua memory usage: 6925550/52428800 bytes
+Number of Wikibase entities loaded: 8/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  565.413      1 -total
+ 68.06%  384.804      1 Шаблон:Футболист
+ 61.03%  345.066      1 Шаблон:Карточка
+ 41.31%  233.598     23 Шаблон:Wikidata
+ 21.18%  119.772      2 Шаблон:Br_separated_entries
+  7.38%   41.741      1 Шаблон:ВС
+  6.68%   37.784      9 Шаблон:If-wikidata
+  6.43%   36.368      1 Шаблон:ФИО
+  6.28%   35.522      1 Шаблон:Примечания
+  5.76%   32.554      2 Шаблон:Футбольная_карьера
+-->
+
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:10130342-0!canonical and timestamp 20230330153744 and revision id 129252761. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Моэ,_Эрлинг&amp;oldid=129252761">https://ru.wikipedia.org/w/index.php?title=Моэ,_Эрлинг&amp;oldid=129252761</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_22_%D0%B8%D1%8E%D0%BB%D1%8F" title="Категория:Родившиеся 22 июля">Родившиеся 22 июля</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_1970_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Родившиеся в 1970 году">Родившиеся в 1970 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_%D0%9C%D0%BE%D0%BB%D0%B4%D0%B5" title="Категория:Родившиеся в Молде">Родившиеся в Молде</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Персоналии по алфавиту">Персоналии по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D1%81%D0%BC%D0%B5%D0%BD%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Спортсмены по алфавиту">Спортсмены по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B8%D1%81%D1%82%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Футболисты по алфавиту">Футболисты по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D1%82%D1%80%D0%B5%D0%BD%D0%B5%D1%80%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Футбольные тренеры по алфавиту">Футбольные тренеры по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B8%D1%81%D1%82%D1%8B_%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D0%B8" title="Категория:Футболисты Норвегии">Футболисты Норвегии</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D1%82%D1%80%D0%B5%D0%BD%D0%B5%D1%80%D1%8B_%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D0%B8" title="Категория:Футбольные тренеры Норвегии">Футбольные тренеры Норвегии</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B3%D1%80%D0%BE%D0%BA%D0%B8_%D0%A4%D0%9A_%C2%AB%D0%A2%D1%80%D0%B5%D1%84%D1%84%C2%BB" title="Категория:Игроки ФК «Трефф»">Игроки ФК «Трефф»</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D1%80%D0%B5%D0%BD%D0%B5%D1%80%D1%8B_%D0%A4%D0%9A_%C2%AB%D0%9C%D0%BE%D0%BB%D0%B4%D0%B5%C2%BB" title="Категория:Тренеры ФК «Молде»">Тренеры ФК «Молде»</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%BE%D0%BC_%D0%A4%D0%98%D0%9E_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%BE%D0%B9_%D0%BD%D0%B0_%D0%BE%D0%B1%D1%89%D0%B8%D0%B5_%D0%BD%D0%B5%D0%BE%D0%B4%D0%BD%D0%BE%D0%B7%D0%BD%D0%B0%D1%87%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Категория:Википедия:Страницы с шаблоном ФИО со ссылкой на общие неоднозначности">Википедия:Страницы с шаблоном ФИО со ссылкой на общие неоднозначности</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%91%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%B8_%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Категория:Википедия:Биографии современников">Википедия:Биографии современников</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB:%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0_%D0%B2_2023_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Проект:Футбол:Последняя правка в 2023 году">Проект:Футбол:Последняя правка в 2023 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB:%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0_%D0%B2_%D1%82%D0%B5%D0%BA%D1%83%D1%89%D0%B5%D0%BC_%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B5" title="Категория:Проект:Футбол:Последняя правка в текущем месяце">Проект:Футбол:Последняя правка в текущем месяце</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B8%D1%81%D1%82%D0%B0%D1%85_%D0%B1%D0%B5%D0%B7_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%BE%D0%B2" title="Категория:Википедия:Статьи о футболистах без портретов">Википедия:Статьи о футболистах без портретов</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9C%D0%BE%D1%8D%2C+%D0%AD%D1%80%D0%BB%D0%B8%D0%BD%D0%B3" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9C%D0%BE%D1%8D%2C+%D0%AD%D1%80%D0%BB%D0%B8%D0%BD%D0%B3" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%9C%D0%BE%D1%8D,_%D0%AD%D1%80%D0%BB%D0%B8%D0%BD%D0%B3" title="Просмотр основной страницы [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="new mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9C%D0%BE%D1%8D,_%D0%AD%D1%80%D0%BB%D0%B8%D0%BD%D0%B3&amp;action=edit&amp;redlink=1" rel="discussion" title="Обсуждение основной страницы (страница отсутствует) [t]" accesskey="t"><span>Обсуждение</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Изменить вариант языка"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%9C%D0%BE%D1%8D,_%D0%AD%D1%80%D0%BB%D0%B8%D0%BD%D0%B3"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%9C%D0%BE%D1%8D,_%D0%AD%D1%80%D0%BB%D0%B8%D0%BD%D0%B3&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%9C%D0%BE%D1%8D,_%D0%AD%D1%80%D0%BB%D0%B8%D0%BD%D0%B3&amp;action=edit" title="Эту статью можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%9C%D0%BE%D1%8D,_%D0%AD%D1%80%D0%BB%D0%B8%D0%BD%D0%B3&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Служебная:Поиск">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="vector-menu mw-portlet mw-portlet-participation vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9C%D0%BE%D1%8D,_%D0%AD%D1%80%D0%BB%D0%B8%D0%BD%D0%B3" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9C%D0%BE%D1%8D,_%D0%AD%D1%80%D0%BB%D0%B8%D0%BD%D0%B3" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%9C%D0%BE%D1%8D,_%D0%AD%D1%80%D0%BB%D0%B8%D0%BD%D0%B3&amp;oldid=129252761" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%9C%D0%BE%D1%8D,_%D0%AD%D1%80%D0%BB%D0%B8%D0%BD%D0%B3&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9C%D0%BE%D1%8D%2C_%D0%AD%D1%80%D0%BB%D0%B8%D0%BD%D0%B3&amp;id=129252761&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q21282988" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%9C%D0%BE%D1%8D%2C+%D0%AD%D1%80%D0%BB%D0%B8%D0%BD%D0%B3" title="Создать книгу или коллекцию статей"><span>Создать книгу</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9C%D0%BE%D1%8D%2C_%D0%AD%D1%80%D0%BB%D0%B8%D0%BD%D0%B3&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%9C%D0%BE%D1%8D,_%D0%AD%D1%80%D0%BB%D0%B8%D0%BD%D0%B3&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%A5%D8%B1%D9%84%D9%8A%D9%86%D8%BA_%D9%85%D9%88" title="إرلينغ مو — арабский" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D8%A7%D8%B1%D9%84%D9%8A%D9%86%D8%AC_%D9%85%D9%88" title="ارلينج مو — Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Erling_Moe" title="Erling Moe — немецкий" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Erling_Moe" title="Erling Moe — английский" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Erling_Moe" title="Erling Moe — венгерский" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Erling_Moe" title="Erling Moe — итальянский" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Erling_Moe_(fotballtrener)" title="Erling Moe (fotballtrener) — норвежский букмол" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%95%D1%80%D0%BB%D1%96%D0%BD%D0%B3_%D0%9C%D0%BE%D0%B5" title="Ерлінг Мое — украинский" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q21282988#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 15 марта 2023 в 23:44.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%9C%D0%BE%D1%8D,_%D0%AD%D1%80%D0%BB%D0%B8%D0%BD%D0%B3&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw1405","wgBackendResponseTime":743,"wgPageParseReport":{"limitreport":{"cputime":"0.447","walltime":"0.611","ppvisitednodes":{"value":3388,"limit":1000000},"postexpandincludesize":{"value":82876,"limit":2097152},"templateargumentsize":{"value":25563,"limit":2097152},"expansiondepth":{"value":24,"limit":100},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":10929,"limit":5000000},"entityaccesscount":{"value":8,"limit":400},"timingprofile":["100.00%  565.413      1 -total"," 68.06%  384.804      1 Шаблон:Футболист"," 61.03%  345.066      1 Шаблон:Карточка"," 41.31%  233.598     23 Шаблон:Wikidata"," 21.18%  119.772      2 Шаблон:Br_separated_entries","  7.38%   41.741      1 Шаблон:ВС","  6.68%   37.784      9 Шаблон:If-wikidata","  6.43%   36.368      1 Шаблон:ФИО","  6.28%   35.522      1 Шаблон:Примечания","  5.76%   32.554      2 Шаблон:Футбольная_карьера"]},"scribunto":{"limitreport-timeusage":{"value":"0.269","limit":"10.000"},"limitreport-memusage":{"value":6925550,"limit":52428800},"limitreport-logs":"Loaded datatype monolingualtext of P1449 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P21 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P21 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P54 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P54 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype monolingualtext of P1449 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype quantity of P2048 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw1405","timestamp":"20230330153745","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u041c\u043e\u044d, \u042d\u0440\u043b\u0438\u043d\u0433","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%9C%D0%BE%D1%8D,_%D0%AD%D1%80%D0%BB%D0%B8%D0%BD%D0%B3","sameAs":"http:\/\/www.wikidata.org\/entity\/Q21282988","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q21282988","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2023-03-15T20:00:08Z","dateModified":"2023-03-15T23:44:29Z"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u041c\u043e\u044d, \u042d\u0440\u043b\u0438\u043d\u0433","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%9C%D0%BE%D1%8D,_%D0%AD%D1%80%D0%BB%D0%B8%D0%BD%D0%B3","sameAs":"http:\/\/www.wikidata.org\/entity\/Q21282988","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q21282988","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2023-03-15T20:00:08Z","dateModified":"2023-03-15T23:44:29Z"}</script>
+</body>
+</html>

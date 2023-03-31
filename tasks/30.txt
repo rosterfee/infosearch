@@ -1,0 +1,489 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="propeller" content="076f2c9be30d81a110529518136da401">
+
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112065124-5"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag()
+			{
+				dataLayer.push(arguments);
+			}
+			gtag('js', new Date());
+			gtag('config', 'UA-112065124-5');
+		</script>
+
+	<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
+	<link rel="stylesheet" href="/style/base.css?v=50">
+	<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+    <script>  var basepath = "";
+	</script>
+
+
+	<link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+	<link rel="manifest" href="/img/favicon/site.webmanifest">
+	<link rel="mask-icon" href="/img/favicon/safari-pinned-tab.svg" color="#5bbad5">
+	<meta name="coinzilla" content="c4c2230c2653ca4baf5ed6b34323c632">
+	<meta name="apple-mobile-web-app-title" content="Free-Ethereum">
+	<meta name="application-name" content="Free-Ethereum">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="theme-color" content="#ffffff">
+
+
+		<script  src="/js/nette.ajax.js"></script>
+	<script>
+		$(function () {
+			$.nette.init();
+			AOS.init();
+		});
+		var urlpasswordrequest = "\/?do=changerestorepassword";
+		var subaction="";
+		var recaptchatype="0";
+	</script>
+
+		<script src="https://hcaptcha.com/1/api.js" async defer></script>
+
+
+
+	<script src="/js/defaultPage.js?v=78"></script>
+	<script src="/js/scroolingscript.js?v=78"></script>
+	<script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+	<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+	<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+
+
+	<title>Free-Ethereum.io Win free Ethereum every hour!</title>
+	<meta name="description" content=">Free-Ethereum.io Win free Ethereum every hour!">
+
+</head>
+
+<body >
+
+
+<nav class="navbar navbar-expand-md  fixed-top navbar-dark" id="navbarmain">
+	<a class="navbar-brand" href="/">Free-Ethereum</a>
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+		<span class="navbar-toggler-icon"></span>
+	</button>
+	<div class="collapse navbar-collapse" id="collapsibleNavbar">
+		<ul class="navbar-nav">
+			<li class="nav-item">
+				<a class="nav-link active" href="#features">Features</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link active" href="#ethereum">Ethereum</a>
+			</li>
+
+		</ul>
+		<ul class="navbar-nav  ml-auto">
+			<li class="nav-item active"><a class="nav-link pricemenu"><img  src='/img/svg/Ethereum_logo_2014.svg'>1783.2400$</a></li>
+			<li class="nav-item active"><a class="nav-link" href="#"  id="signup">Sign Up</a></li>
+			<li class="nav-item active"><a class="nav-link" href="#" id="login" >Login</a></li>
+		</ul>
+	</div>
+</nav>
+<div class="modal fade" id="passwordrestore" role="dialog" >
+	<div class="modal-dialog modal-lg">
+
+		<!-- Modal content-->
+		<div class="modal-content">
+			<div class="modal-header">
+				<h4 class="modal-title">Password Reset Request</h4>
+				<button type="button" class="close" data-dismiss="modal">&times;</button>
+			</div>
+			<div class="modal-body">
+				<p class="text-center">Please type in the email address that you had entered during signup in the box bellow and a password reset link will be sent to you.</p>
+				<p class="text-center">We will turn off two factor authentication when you request password reset.</p>
+				<div style="padding: 10px">
+
+					<div class="form-group" style="padding: 0 20px">
+						<label for="usr">Email Address:</label>
+						<input type="email" name="email" class="form-control" id="restorepasswordmail">
+					</div>
+
+					<h2 class="text-center" id="responsemessege"></h2>
+					<div class="text-center" id="buttonrestorecaptcha">
+						<br>
+<div id="snippet--passwordsnippet">
+						<h2 id="passwordresult"	>
+							
+						</h2>
+
+
+</div>
+							<div class="h-captcha" id="passwordcaptcha" data-callback="callbackhcaptcha"  data-sitekey="47b20bb5-6ca5-4a53-a1f3-2601796dce7e"></div>
+
+
+						<button onclick="passswordrequest()" type="submit" id="passwordbutton" class="btn btn-primary" >Send Request</button>  </div>
+				</div>
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-default" data-dismiss="modal" style="color: black">Close</button>
+			</div>
+		</div>
+
+	</div>   </div>
+<div class="modal fade" id="termofservice" role="dialog" >
+	<div class="modal-dialog modal-lg">
+
+		<!-- Modal content-->
+		<div class="modal-content">
+			<div class="modal-header">
+				<h4 class="modal-title text-center " style="width: 100%">Terms of service</h4>
+				<button type="button" class="close" data-dismiss="modal">&times;</button>
+			</div>
+			<div class="modal-body">
+				<p class="text-center">Please follow this rules when use our website</p>
+				<div class="col-xs-12">
+					<ol class="list-group">
+						<li class="list-group-item">
+							<p>Contact us correctly and don't use strong language.</p>
+						</li>
+						<li class="list-group-item">
+							<p>Don't use bot or apps to send automatized request.</p>
+						</li>
+						<li class="list-group-item">
+							<p>Don't create more account for collecting price more than once a hour it is
+								forbidden or don't use vpn or proxy.</p>
+						</li>
+						<li class="list-group-item">
+							<p style="display: inline;">
+								And other website info about use and condition are</p>
+							<a style="display: inline;" class="nav-link" href="/siterules/">other rules</a>
+						</li>
+					</ol>
+				</div>
+
+				<br>
+				<p>If we find that you are not following this rules or trying to gain an unfair advantage ,
+					your account will be disable and your account balance will be frozen (You will lose balance).</p>
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+			</div>
+		</div>
+
+	</div>   </div>
+
+
+
+
+<section class="loginregister">
+	<div class="container paddingtopnav">
+
+		<div class="row">
+			<div  class="col-sm-6 text-white notdisplaymobile descriptionmain">
+				<h1>Win free Ethereum <img  src='/img/svg/Ethereum_logo_2014.svg'></h1><br>
+				<div>
+					<ul id="list">
+						<li> Earn free Ethereum</li>
+						<li> Multiply your Ethereum</li>
+						<li> Invest your Ethereum</li>
+						<li> Deposit your Ethereum</li>
+						<li> Withdraw your Ethereum</li>
+					</ul>
+
+				</div>
+
+			</div>
+			<div  class="col-sm-6"  id="signupform"  style="display: none">
+				<form method="post">
+					<div >
+						<h2>Sign Up</h2>
+						<form action="/" method="post" id="frm-signForm">
+							<div class="form-group">
+								<label for="usr">Email</label>
+								<div class="input-group">
+									<input type="email" class="form-control"   name="emailreg" required autofocus><div class="input-group-prepend" >
+										<span class="input-group-text">@</span>
+									</div>
+								</div>
+
+							</div>
+							<div class="form-group">
+								<label for="usr">Password</label>
+								<input type="password" class="form-control"  name="passwordreg" required autofocus>
+							</div>
+							<div class="form-group">
+								<label for="usr">Referer</label>
+								<input name="referer"  type="number" class="form-control" id="referer" value="0">
+								<small class="form-text text-muted">Optional field</small>
+							</div>
+							<div class="form-group">
+								<label for="usr">Ethereum Withdraw Address</label>
+								<div class="input-group">
+									<input name="withdrawadress"  type="text" class="form-control" value="">
+									<div class="input-group-prepend" >
+										<span class="input-group-text"><img src="/img/svg/Ethereum_logo_2014.svg" alt="Logo" style="width:18px;"></a></span>
+									</div>
+								</div>
+								<small class="form-text text-muted">Optional field</small>
+							</div>
+
+							<div class="h-captcha" style="text-align: center" data-sitekey="fb7adf19-6725-48f2-af56-6c180344e3ef"></div>
+
+
+
+
+							<div class="text-center hrefbasic"><a href="https://www.myetherwallet.com/" target="_blank">Create a Ethereum address?</a>
+								<a data-toggle="modal" href="#" data-target="#termofservice">Terms of service?</a></div>
+							<div class="text-center">
+								<button type="submit"  class="btn btn-lg btn-primary text-center"   id="signupbutton" >Sign Up</button>
+							</div>
+						<input type="hidden" name="_do" value="signForm-submit"></form>
+
+					</div>
+
+				</form>
+			</div>
+			<div class="col-sm-6"  id="loginform" >
+				<form class="form" method="post" >
+					<h2>Login</h2>
+					<form action="/" method="post" id="frm-loginForm">
+						<div class="form-group">
+							<label for="usr">Email</label>
+							<div class="input-group">
+								<input type="email"  class="form-control"   name="email" required autofocus><div class="input-group-prepend" >
+									<span class="input-group-text">@</span>
+								</div>
+							</div>
+						</div>
+						<div class="form-group">
+							<label for="usr">Password</label>
+							<input type="password" class="form-control"  name="password" required autofocus>
+						</div>
+
+						<div class="h-captcha" style="text-align: center" data-sitekey="2e947d1e-f2a1-4622-9685-a363d6f02dc4"></div>
+
+
+
+							<div class="text-center">
+							</div>
+
+
+						<div class="text-center hrefbasic">
+							<a  data-toggle="modal" href="#" data-target="#passwordrestore">Forgot Password?</a>	</div>
+
+						<div class="text-center">
+							<button type="submit"  id="loginbutton" class="btn btn-lg btn-primary text-center">Login</button>
+						</div>
+					<input type="hidden" name="_do" value="loginForm-submit"></form>
+
+				</form>
+			</div>
+		</div>
+	</div>
+
+</section>
+
+<section class="features">
+	<div class="text-center" id="sitestats">
+
+
+		<div class="row">
+
+
+			<div class="col-sm-4" >
+
+
+				<div class="countclock"> <span class="count">1500000</span>+</div>
+				<h2>User count</h2>
+				<p>All this user are registered in our site</p>
+				</p>
+
+			</div>
+			<div class="col-sm-4" >
+
+
+				<div class="countclock"> <span class="count">9000</span>+<img style='vertical-align:middle; width: 30px;' src='/img/svg/Ethereum_logo_2014.svg'></div>
+				<h2>Volume</h2>
+				<p>Ethereum earned and wins</p>
+
+
+			</div>
+			<div class="col-sm-4" >
+
+				<div class="countclock"> <span class="count">500</span>+<img style='vertical-align:middle; width: 30px;' src='/img/svg/Ethereum_logo_2014.svg'></div>
+				<h2>Ethereum earned</h2>
+				<p>All Ethereum earned in free section</p>
+
+			</div>
+
+
+
+
+		</div>
+	</div>
+
+	<div class="container text-center text-white" id="features">
+
+		<h2>Features of site</h2>
+		<br>
+		<div class="row">
+
+
+			<div class="col-sm-4" data-aos="fade-up"  data-aos-once="true">
+
+				<div class="mainpageicon">
+					<img src="/img/svg/Ethereum_logo_2014.svg" alt="Logo" style="width:62px;">
+				</div>
+
+				<h2>Free Ethereum</h2>
+				<p>Every hour you can could win more than $250 in Ethereum </p>
+
+
+			</div>
+			<div class="col-sm-4"  data-aos="fade-up"  data-aos-once="true">
+
+
+				<div class="mainpageicon">
+					<i class="fas fa-gamepad"></i>
+				</div>
+				<h2>Multiply game</h2>
+				<p>You can earn more by playing our fair multiply game</p>
+
+
+			</div>
+			<div class="col-sm-4" data-aos="fade-up"  data-aos-once="true">
+
+
+				<div class="mainpageicon">
+					<i class="fas fa-handshake"></i>
+				</div>
+				<h2>Fair & Secure</h2>
+				<p>We use strict rules for secured our user funds and all of our activity is transparent</p>
+
+
+			</div>
+			<div class="col-sm-4" data-aos="fade-up"  data-aos-once="true">
+
+
+				<div class="mainpageicon">
+					<i class="fas fa-users"></i>
+				</div>
+				<h2>Referer program</h2>
+				<p>Refer user to our site and you can earn 25% the Ethereum what he earn</p>
+
+
+			</div>
+			<div class="col-sm-4" data-aos="fade-up"  data-aos-once="true">
+
+
+				<div class="mainpageicon">
+					<i class="fas fa-wallet"></i>
+				</div>
+				<h2>Interest</h2>
+				<p>You can earn more ethereum for just letting it in your account our year interest rate 10%</p>
+
+
+			</div>
+			<div class="col-sm-4"  data-aos="fade-up"  data-aos-once="true">
+
+
+				<div class="mainpageicon">
+					<i class="fas fa-exchange-alt"></i>
+				</div>
+
+				<h2>Withdraw Deposit</h2>
+				<p>You can withdraw and deposit your Ethereum without limit</p>
+
+			</div>
+		</div>
+</section>
+<section class="whatis" id="ethereum">
+	<div class="container text-center">
+
+		<br>
+		<div><h2 class="text-center">What is Ethereum?</h2> </div>
+		<div class="row" >
+			<div class="coinmarketcap-currency-widget" data-currencyid="1027" data-base="USD" data-secondary="BTC" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div>
+			<br>
+
+			<div id="framevideo">
+				<iframe src="https://www.youtube.com/embed/TDGq4aeevgY" width="672" height="378" frameborder="0"></iframe>
+				<div>
+					<p>Ethereum is an open source, public, blockchain-based
+						distributed computing platform and operating system featuring smart contract
+						(scripting) functionality. It supports a modified version of Nakamoto consensus
+						via transaction-based state transitions.</p>
+
+
+				</div>
+				<div id="technical">
+
+
+					<h3>History?</h3>
+					<p>Ethereum was officially with an unusually long list of founders. Anthony Di Iorio wrote
+						"Ethereum was founded by Vitalik Buterin, Myself, Charles Hoskinson, Mihai Alisie,
+						& Amir Chetrit in December 2013. Joseph Lubin, Gavin Wood, & Jeffrey
+						Wilke were added in early 2014 as founders." Formal development of the Ethereum software
+						project began in early 2014 through a Swiss company, Ethereum Switzerland GmbH
+						. The basic idea of putting executable smart contracts in the blockchain
+						needed to be specified before the software could be implemented; this work was done
+						by Gavin Wood, then chief technology officer, in the Ethereum Yellow Paper that
+						specified the Ethereum Virtual Machine. Subsequently, a Swiss non-profit
+						foundation, the Ethereum Foundation , was created as well.
+						Development was funded by an online public crowdsale during July–August 2014,
+						with the participants buying the Ethereum value token with another
+						digital currency, bitcoin.
+					</p>
+
+					<p>Read more: <a href="https://en.wikipedia.org/wiki/Ethereum#History">What Is Ethereum And How Does It Work?</a></p>
+					<h3>Buy sell Ethereum?</h3>
+					<p>Ethereum is the second largest cryptocurrency.
+						Most crypto stock like coinbase,poloniex,binance support ethereum buy or sell with bitcoin or credit card.
+						But don't forget after you buy your ethereum you should know where you want to store your ethereum, detailed explain in the article below.
+					</p>
+					<p>Read more: <a href="https://www.buybitcoinworldwide.com/ethereum/buy/">Buy sell Ethereum?</a></p>
+					<h3>Storing your Ethereum?</h3>
+					<p>Storing your Ethereum. If you want to buy Ethereum or you already have Ethereum,
+						you have to find some safe place where you will hold it. You have a lot of option’s.
+						It depends on your idea of what you want done with your Ethereum. Most common option is putting
+						your Ethereum into a software wallet. This option is relatively safe but not very practical.
+						Second most common variant is to put your Ethereum into some cryptocurrency stock, where your
+						Ethereum is not secured as it would be in a software wallet. But, you have more options on what
+						you can do with your Ethereum. You can sell your Ethereum. You can buy more Ethereum. You can
+						exchange your Ethereum. Or, you can lend your Ethereum and make some profit off of them. It
+						only depends on you. Newest way to storing your Ethereum, is to put your Ethereum into a
+						hardware wallet. Be careful, because there are differences between hardware and software
+						wallets. In a hardware wallet, your Ethereum is absolutely safe. No one could steal your
+						Ethereum unless you lost your hardware wallet. Hardware wallets are technologically similar
+						to a flash drive. If you damage or destroy this hardware wallet you will lose all of your
+						Ethereum. Be careful as this option is not practical. If your main concern is to gain more
+						Ethereum, we recommend you store it on your account here because you will earn yearly interest
+						of 10%. But it only depends on what type of variant is best for you.
+					</p>
+					<p>Read more: <a href="https://www.buybitcoinworldwide.com/ethereum/buy/">Storing your Ethereum?</a></p>
+
+					<h3>Contact us?</h3>
+					<p>
+						If you encounter any problems or have some question, you can contact us on  this mail address <a href="/cdn-cgi/l/email-protection#177e79717857716572723a72637f726572627a397e78"><span class="__cf_email__" data-cfemail="224b4c444d62445047470f47564a475047574f0c4b4d">[email&#160;protected]</span></a>
+
+					</p>
+
+
+
+
+				</div>
+
+</section>
+</div>
+<a href="#" id="scroll" style="display: none;"><span></span></a>
+	<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://nette.github.io/resources/js/netteForms.min.js"></script>
+
+	<footer class="container-fluid text-center">
+		<p>Free-Ethereum.io © 2023 All rights reserved </p>
+	</footer>
+
+</body>
+</html>

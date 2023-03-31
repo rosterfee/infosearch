@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>5-Second Films &middot; Wasting your time, but not very much.</title>
+	
+	<!-- facebook -->
+	<meta property="og:title" content="Timmy&#8217;s Dying Wish" />
+	<meta property="og:type" content="video" />
+	<meta property="og:url" content="http://5secondfilms.com/watch/timmys-dying-wish" />
+	<meta property="og:description" content="âTimmy&#8217;s quick thinking, however, was not enough to save him from the medical bills to follow - a payment to be made in &#8220;either blood or victory,&#8221; which required venturing to the Mountains of Oor to pluck the Horn of Miracles from atop the crown of the Liquid Night Beast. Luckily, Timmy was able to convince another dying kid to wish that the Liquid Night Beast stopped caring about his earthly possessions, so all was well.
+
+
+
+&nbsp;" />
+	<meta property="og:image" content="http://static.5secondfilms.com/img-entries/_list/TimmyDyingWish.jpg" />
+	<meta property="og:site_name" content="5-Second Films" />
+<meta name="bitly-verification" content="3c4b425374a5"/>
+	
+	<meta name="description" content="Wasting your time, but not very much." />
+	<meta name="google-site-verification" content="RmhE9p5mPijenwKmdBDyQcM1fGzygyHiIFW9urxdlVY" />
+	<!-- link rel="stylesheet" type="text/css" href="/site.css" -->
+	<link rel="stylesheet" type="text/css" href="site.css" />
+	<link rel="icon" href="favicon.ico" />
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-326833-36', 'auto');
+  ga('send', 'pageview');
+
+</script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="modal"></script>
+	<script type="text/javascript" src="zero"></script>
+	<script type="text/javascript" src="main"></script>
+    <script>
+		$("document").ready(function() {
+    			setTimeout(function() {$('#dbplink').trigger('click');},10);
+		});
+	</script>
+</head>
+<!-- navigation -->
+<body>
+  <div id="wrapper">
+		<div class="modal" id="reclaim">
+			<h3>Account Reclaim</h3>
+			<form id="contact_form" class="form" method="post" action="index.html"  >
+<div class='hiddenFields'>
+<input type="hidden" name="XID" value="48a8f638543de7b50dfbc0bb6c2349e5c2fd8e89" />
+<input type="hidden" name="ACT" value="5" />
+<input type="hidden" name="RET" value="http://5secondfilms.com/" />
+<input type="hidden" name="URI" value="index" />
+<input type="hidden" name="recipients" value="ZGFuaWVsLmhvbGxpc3RlckBnbWFpbC5jb21jYjM4MjQ0ZWYyNTg5NTcwYmExOGIzZmZjMDBhNTQ4YQ==" />
+<input type="hidden" name="user_recipients" value="16a63fcb202a091d6e2d7324391ddbf5" />
+<input type="hidden" name="charset" value="" />
+<input type="hidden" name="redirect" value="" />
+<input type="hidden" name="replyto" value="" />
+<input type="hidden" name="site_id" value="1" />
+</div>
+
+
+				<fieldset>
+					<label for="message[]">Username:</label>
+					<input type="text" name="message[]" value="" />
+					<label for="message[]">Email address:</label>
+					<input type="text" name="message[]" value="" />
+										<label for="captcha">Are you human?</label>
+					<img src="images/captchas/1550231764.1696.jpg" width="140" height="30" style="border:0;" alt=" " />
+					<input type="text" class="captchainput" name="captcha" value="" placeholder="prove it..." />
+										<p>If the account and email you list match up with what's on the old site, you'll receive a password reset email, and all your data (comments, etc.) will be migrated within a couple days.</p>
+					<input type="submit" value="Send Report" class="submit" />
+				</fieldset>
+				<input type="hidden" name="from" value="reports@5secondfilms.com" />
+				<input type="hidden" name="subject" value="5SF Account Reclaim" />
+			</form>
+		</div>
+    <div id="navbar">
+      <div class="area">
+        <ul id="navigation">
+          <li class="home"><a href="index.html">Home</a></li>
+          <li><a href="films/recent">Films</a></li>
+          <li><a href="sketches/recent">Sketches</a></li>
+          <li><a href="extras/cotw">Extras</a></li>
+          <li><a href="./store.5secondfilms.com/index.html">Store</a></li>
+          <li><a href="about">About</a></li>
+          <li><a href="contact">Contact</a></li>
+          <li class="donatelink"><a href="donate">Donate</a></li>
+          
+          
+          <li><a href="watch/a-very-important-dinner" class="random">Random Film</a></li>
+          
+          
+        </ul>
+        <div class="section">
+          <form class="top search" method="post" action="index.html"  >
+<div class='hiddenFields'>
+<input type="hidden" name="ACT" value="8" />
+<input type="hidden" name="XID" value="f2addd6a51036d326689c226092c55eaceca2388" />
+<input type="hidden" name="RES" value="" />
+<input type="hidden" name="meta" value="YTo5OntzOjY6InN0YXR1cyI7czowOiIiO3M6NzoiY2hhbm5lbCI7czo1OiJmaWxtcyI7czo4OiJjYXRlZ29yeSI7czowOiIiO3M6OToic2VhcmNoX2luIjtzOjc6ImVudHJpZXMiO3M6NToid2hlcmUiO3M6MDoiIjtzOjEyOiJzaG93X2V4cGlyZWQiO3M6MDoiIjtzOjE5OiJzaG93X2Z1dHVyZV9lbnRyaWVzIjtiOjA7czoxMToicmVzdWx0X3BhZ2UiO3M6Njoic2VhcmNoIjtzOjE1OiJub19yZXN1bHRzX3BhZ2UiO3M6MDoiIjt9ZGQyZDJkMjFlYWM0ZmEzODMzMzEyNmRlNDJhZDMwMTc=" />
+<input type="hidden" name="site_id" value="1" />
+</div>
+
+
+            <input type="text" name="keywords" value="" placeholder="search" class="keywords" />
+            <input type="submit" value="submit" class="submit" />
+          </form>
+          <ul id="userlinks">
+            
+                                    <li><a rel="modal" href="index.html#login" class="button blue alt">Login</a></li>
+            <li><a rel="modal" href="index.html#register" class="button blue">Register</a></li>
+                        
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div id="header">
+      <div class="area">
+        <h1><a href="index.html" class="btn logo">5-Second Films</a></h1>
+        
+        <!-- advertising -->
+        <div class="top banner">
+          <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 5sf-banner-header -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-2258462125703882"
+     data-ad-slot="3040471645"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+        </div>
+        
+      </div>
+    </div>
+
+<div class="modal" id="login">
+	<h3>Login</h3>
+	<form class="form" method="post" action="index.html"  >
+<div class='hiddenFields'>
+<input type="hidden" name="XID" value="ee87bdc6ff9522ebb54124dcdee52e482edcd2e0" />
+<input type="hidden" name="ACT" value="15" />
+<input type="hidden" name="RET" value="index" />
+<input type="hidden" name="site_id" value="1" />
+</div>
+
+
+		<fieldset>
+			<label for="username">Username</label>
+			<input type="text" name="username" id="username-field" value="" />
+			<label for="password">Password</label>
+			<input type="password" name="password" value="" />
+			<input type="submit" name="submit" value="Login" class="submit" />
+		</fieldset>
+	</form>
+</div>
+
+
+<div class="modal" id="register">
+	<h3>Register</h3>
+	<form class="form" id="member_form" method="post" action="index.html"  >
+<div class='hiddenFields'>
+<input type="hidden" name="XID" value="98c085c35206290eca32a342cce441a6eccaadf2" />
+<input type="hidden" name="ACT" value="27" />
+<input type="hidden" name="RET" value="http://5secondfilms.com/site/regcomplete" />
+<input type="hidden" name="params_id" value="LlBhIfmeAhWxcVutAuRfQLTXd" />
+<input type="hidden" name="site_id" value="1" />
+</div>
+
+
+		<fieldset>
+			<label for="username">Username</label>
+			<input type="text" name="username" value="" />
+			<label for="email">Email Address</label>
+			<input type="text" name="email" value="" />
+			<label for="password">Password</label>
+			<input type="password" name="password" value="" />
+			<label for="password_confirm">Password <span>(again)</span></label>
+			<input type="password" name="password_confirm" value="" />
+						<label for="captcha">Are you human?</label>
+			<img src="images/captchas/1550231764.1696.jpg" width="140" height="30" style="border:0;" alt=" " />
+			<input type="text" class="captchainput" name="captcha" value="" placeholder="prove it..." />
+						<input type="submit" name="submit" value="Sign Up" class="submit" />
+		</fieldset>
+	</form>
+</div>
+
+
+		<!-- content -->
+		<div id="content">
+			
+			<!--<div class="alert area">
+				Thank you all for a truly incredible 5 years! Check back really soon for some big website and community changes. You can also sign up for email updates <a href="http://next.5secondfilms.com/">here</a>!
+			</div>-->
+			
+			
+			<div class="film area">
+				
+				<ul>
+										<span class="btn left disabled">Last Set</span>
+										
+					
+					<a href="P1" class="btn right hp">Next Set</a>
+					
+									</ul>
+				
+				
+				<!-- title -->
+				<div class="heading">
+					<div class="cell">&nbsp;</div>
+					<div class="cell-c"><h2>Timmy&#8217;s Dying Wish</h2></div>
+					<div class="cell">&nbsp;</div>
+				</div>
+				<div id="placeholder">
+				<iframe width="640" height="360" src="http://www.youtube.com/embed/h98YPHubqvg?autoplay=0&modestbranding=1&iv_load_policy=3&rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+				<script type="text/javascript">
+					_gaq.push(['_trackEvent', 'VideoView', 'PageLoad']);
+					console.log('video view');
+				</script>
+				</div>
+				<div id="options">
+					<ul id="buttons">
+						<li><a href="watch/timmys-dying-wish#comments" class="button gray comment">Comment</a></li>
+						<li><a href="https://twitter.com/share?text=Check%20out%20this%205sf!&url=http%3A%2F%2F5sf.tv%2F2247&via=5sf" class="button gray tweet">Tweet</a></li>
+						<li><a rel="modal" href="index.html#embed" class="button gray" title="h98YPHubqvg" id="embedbutton">Embed</a></li>
+						<li><iframe class="fb" src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2F5secondfilms.com%2Fwatch%2Ftimmys-dying-wish&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=false&amp;action=like&amp;colorscheme=dark&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowTransparency="true"></iframe></li>
+					</ul>
+					<div id="surlcontainer">
+						<div class="pw-widget pw-size-medium" pw:url="http://5secondfilms.com/watch/timmys-dying-wish" pw:share-popups="true" pw:title="Timmy&#8217;s Dying Wish" pw:twitter-via="5sf">
+							<a class="pw-button-facebook"></a>
+							<a class="pw-button-twitter"></a>
+							<a class="pw-button-reddit"></a>
+							<a class="pw-button-stumbleupon"></a>
+						</div>
+						<script src="http://i.po.st/share/script/post-widget.js#publisherKey=58bfgkdcgff5qkjo2tv1" type="text/javascript"></script>
+						<!-- <span class="shorturl">http://5sf.tv/2247</span><a href="#" class="button blue" id="copysurl">Copy URL</a> -->
+					</div>
+					<div class="modal" id="embed">
+						<h3>Embed</h3>
+						<p>Copy/paste the following text into your website to embed.</p>
+						<p class="code">&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;http://www.youtube.com/embed/h98YPHubqvg&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;</p>
+						<div id="embedcontainer">
+							<a href="index.html#" class="button blue" id="copyembed">Copy</a>
+						</div>
+					</div>
+					<script type="text/javascript">
+						var surl = new ZeroClipboard.Client();
+						surl.setText('http://5sf.tv/2247');
+						surl.glue('copysurl', 'surlcontainer');
+					</script>
+				</div>
+				
+			</div>
+			
+		</div>
+<div id="tabs">
+	<ul>
+		<li class="active"><a href="index.html#" class="recent">Most Recent</a></li>
+		<li><a href="index.html#" class="viewed">Top Viewed</a></li>
+		<li><a href="index.html#" class="random">Random</a></li>
+	</ul>
+</div>
+<!-- carousel -->
+<div id="carousel">
+	<div id="thumbwrapper">
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+						<span class="btn left disabled">Last Set</span>
+						
+			
+			<a href="P5" class="btn right">Next Set</a>
+			
+					
+		<div class="thumbcontainer">
+			<ul id="thumbs">
+				
+				<li>
+					<a href="watch/timmys-dying-wish">
+												<img src="./static.5secondfilms.com/img-entries/_thumb/TimmyDyingWish.jpg" width="160" height="90" />
+												<div class="thumboverlay">
+							<div>
+								<span>Timmy&#8217;s Dying Wish</span>
+							</div>
+						</div>
+					</a>
+				</li>
+				
+				
+				<li>
+					<a href="watch/behoof">
+												<img src="./static.5secondfilms.com/img-entries/_thumb/behoof_IMAGE.jpg" width="160" height="90" />
+												<div class="thumboverlay">
+							<div>
+								<span>Behoof</span>
+							</div>
+						</div>
+					</a>
+				</li>
+				
+				
+				<li>
+					<a href="watch/broken-clocks">
+												<img src="./static.5secondfilms.com/img-entries/_thumb/broken_clocks.jpg" width="160" height="90" />
+												<div class="thumboverlay">
+							<div>
+								<span>Broken Clocks</span>
+							</div>
+						</div>
+					</a>
+				</li>
+				
+				
+				<li>
+					<a href="watch/big-in-japan">
+												<img src="./static.5secondfilms.com/img-entries/_thumb/BigInJapanThumb.jpg" width="160" height="90" />
+												<div class="thumboverlay">
+							<div>
+								<span>Big in Japan</span>
+							</div>
+						</div>
+					</a>
+				</li>
+				
+				
+				<li>
+					<a href="watch/mr.trump-goes-to-washington">
+												<img src="./static.5secondfilms.com/img-entries/_thumb/TrumpWashingtonthumb.jpg" width="160" height="90" />
+												<div class="thumboverlay">
+							<div>
+								<span>Mr.Trump Goes to Washington</span>
+							</div>
+						</div>
+					</a>
+				</li>
+				
+				
+				
+			</ul>
+		</div>
+	</div>
+</div>
+	<!-- footer -->
+				<div id="footer">
+					<div class="area">
+
+						<!-- advertising -->
+						<div class="bottom banner">
+							<script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 5sf-banner-footer -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-2258462125703882"
+     data-ad-slot="3619510044"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+						</div>
+
+						<div class="footcol">
+							<span class="coltitle">Navigation</span>
+							<ul>
+								<li><a href="index.html">Home</a></li>
+								<li><a href="films/recent">Films</a></li>
+								<li><a href="sketches/recent">Sketches</a></li>
+								<li><a href="extras/cotw">Extras</a></li>
+								<!-- <li><a href="http://5secondfilms.com/donate">Donate</a></li> -->
+								<li><a href="./store.5secondfilms.com/index.html">Store</a></li>
+								<li><a href="donate">Donate</a></li>
+							</ul>
+						</div>
+						<div class="footcol">
+							<span class="coltitle">Site Links</span>
+							<ul>
+								<li><a href="about">About</a></li>
+								<li><a href="contact">Contact</a></li>
+								<li><a href="privacypolicy">Privacy Policy</a></li>
+								<li><a href="termsconditions">Terms &amp; Conditions</a></li>
+							</ul>
+						</div>
+						<div class="footcol">
+							<span class="coltitle">Social</span>
+							<ul>
+								<li><a href="https://twitter.com/5sf">Twitter</a></li>
+								<li><a href="http://www.youtube.com/5secondfilms">YouTube</a></li>
+								<li><a href="http://www.facebook.com/5secondfilms">Facebook</a></li>
+							</ul>
+						</div>
+						<div id="copyright">
+							<p>Copyright &copy; 2008 - 2012 5-Second Films LLC.</p>
+							<p>Wasting your time, but not very much.</p>
+							<form class="search" method="post" action="index.html"  >
+<div class='hiddenFields'>
+<input type="hidden" name="ACT" value="8" />
+<input type="hidden" name="XID" value="2f33c9be393b2a818719484c5066ed4e3bc5d6e1" />
+<input type="hidden" name="RES" value="" />
+<input type="hidden" name="meta" value="YTo5OntzOjY6InN0YXR1cyI7czowOiIiO3M6NzoiY2hhbm5lbCI7czo1OiJmaWxtcyI7czo4OiJjYXRlZ29yeSI7czowOiIiO3M6OToic2VhcmNoX2luIjtzOjc6ImVudHJpZXMiO3M6NToid2hlcmUiO3M6MDoiIjtzOjEyOiJzaG93X2V4cGlyZWQiO3M6MDoiIjtzOjE5OiJzaG93X2Z1dHVyZV9lbnRyaWVzIjtiOjA7czoxMToicmVzdWx0X3BhZ2UiO3M6Njoic2VhcmNoIjtzOjE1OiJub19yZXN1bHRzX3BhZ2UiO3M6MDoiIjt9ZGQyZDJkMjFlYWM0ZmEzODMzMzEyNmRlNDJhZDMwMTc=" />
+<input type="hidden" name="site_id" value="1" />
+</div>
+
+
+								<input type="text" name="keywords" value="" placeholder="search" class="keywords" />
+								<input type="submit" value="submit" class="submit" />
+							</form>
+						</div>
+						<div class="area"></div>
+					</div>
+				</div>
+			</div>
+		</body>
+	</html>

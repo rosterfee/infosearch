@@ -31,6 +31,8 @@ def fillIndexes():
             html = BeautifulSoup(page_file, 'html.parser')
             doc = nlp(html.get_text(" ").lower().strip())
 
+            used_tokens = set()
+            used_lemmas = set()
             doc_tokens_count[page_num] = len(doc)
             doc_tokens_index[page_num] = dict()
             doc_lemmas_index[page_num] = dict()
@@ -43,10 +45,12 @@ def fillIndexes():
                         doc_tokens_index[page_num][token.text] += 1
                     else:
                         doc_tokens_index[page_num][token.text] = 1
-                    if token_in_docs.__contains__(token.text):
-                        token_in_docs[token.text] += 1
-                    else:
-                        token_in_docs[token.text] = 1
+                    if token.text not in used_tokens:
+                        if token_in_docs.__contains__(token.text):
+                            token_in_docs[token.text] += 1
+                        else:
+                            token_in_docs[token.text] = 1
+                        used_tokens.add(token.text)
 
                     lemma = token.lemma_
                     token_count_in_doc = doc_tokens_index[page_num][token.text]
@@ -54,10 +58,12 @@ def fillIndexes():
                         doc_lemmas_index[page_num][lemma] += token_count_in_doc
                     else:
                         doc_lemmas_index[page_num][lemma] = token_count_in_doc
-                    if lemma_in_docs.__contains__(lemma):
-                        lemma_in_docs[lemma] += token_count_in_doc
-                    else:
-                        lemma_in_docs[lemma] = token_count_in_doc
+                    if lemma not in used_lemmas:
+                        if lemma_in_docs.__contains__(lemma):
+                            lemma_in_docs[lemma] += token_count_in_doc
+                        else:
+                            lemma_in_docs[lemma] = token_count_in_doc
+                        used_lemmas.add(lemma)
 
 
 def token_is_right(token: Token):

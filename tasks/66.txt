@@ -1,0 +1,1158 @@
+<!DOCTYPE html><html lang="ru-RU"><head>
+				
+				
+
+				<meta name="csrf-token" content="1MXc0DDLJWQAAAAA"/>
+			<meta charset="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><meta name="viewport" content="width=device-width"/><!-- /rb/620533?_SITEID=173 (csp) --><meta http-equiv="Content-Security-Policy" content="default-src 'self' tel: blob: data: 'unsafe-inline' 'unsafe-eval' mail.ru *.mail.ru *.devmail.ru *.imgsmail.ru *.2gis.com *.2gis.ru s0.2mdn.net *.adlooxtracking.com *.adlooxtracking.ru *.adriver.ru *.ampproject.net *.ampproject.org *.apester.com *.cloudfront.net www.dailymail.co.uk coub.com *.coub.com *.doubleclick.net *.doubleverify.com *.gemius.pl giphy.com *.google.com *.googleapis.com *.googlesyndication.com themes.googleusercontent.com *.gstatic.com video.khl.ru *.moatads.com *.mradx.net ok.ru *.ok.ru *.playbuzz.com *.qmerce.com *.relap.io rutube.ru *.rutube.ru *.serving-sys.com *.serving-sys.ru soundcloud.com *.soundcloud.com *.streamrail.com *.twimg.com twitter.com *.twitter.com player.vimeo.com vine.co vk.com *.vk.com *.weborama.fr *.weborama-tech.ru *.yandex.ru yandex.ru *.yandex.net *.strm.yandex.net yandex.st yandexadexchange.net *.yandexadexchange.net yastatic.net *.youtube.com *.adsafeprotected.com *.newstube.ru *.bbc.com *.viqeo.tv facecast.net *.facecast.net *.nativeroll.tv *.seedr.com *.ex.co consentmanager.mgr.consensu.org *.consentmanager.mgr.consensu.org *.criteo.com *.criteo.net *.tiktok.com *.tiktokcdn.com promotools.cc telegram.org t.me *.pinterest.com videolink.mycdn.me *.bbc.com bbc-maps.carto.com wtrfall.com *.1tv.ru corpmail.fluidsurveys.com *.newstube.ru *.nhl.com *.knightlab.com imgur.com *.tradingview.com paymaster.ru silatv.ru *.silatv.ru cdn.embedly.com player.vgtrk.com sportmail.ru *.sportmail.ru piter.tv *.bonus-tv.ru uma.media learningapps.org oprosso.net *.tele-sport.ru sportrecs.com vd-tv.ru;script-src 'self' 'unsafe-inline' 'unsafe-eval' js-inject *.mail.ru *.devmail.ru *.imgsmail.ru *.api.2gis.ru s0.2mdn.net *.adlooxtracking.com *.adlooxtracking.ru *.algovid.com s3.amazonaws.com cdn.ampproject.org *.apester.com *.bing.com static.bbc.co.uk news.files.bbci.co.uk coub.com *.coub.com *.criteo.com *.criteo.net *.doubleclick.net *.doubleverify.com *.dvtps.com *.flickr.com translate.google.com *.google.com *.googleadservices.com *.googleapis.com *.googlesyndication.com *.googletagmanager.com *.googletagservices.com *.google-analytics.com *.google.ru mediatoday.ru *.moatads.com *.mradx.net *.mxpnl.com *.odnoklassniki.ru ok.ru *.ok.ru *.playbuzz.com *.qmerce.com relap.io *.relap.io sb.scorecardresearch.com *.twimg.com *.twitter.com platform.vine.co vk.com *.vk.com *.webvisor.com *.mtproxy.yandex.net *.strm.yandex.net *.yandex.ru yandex.ru yandex.st yastatic.net *.pinterest.com *.adsafeprotected.com *.serving-sys.com *.serving-sys.ru *.viqeo.tv *.videonow.ru *.nativeroll.tv *.seedr.com *.consentmanager.mgr.consensu.org consentmanager.mgr.consensu.org *.tns-counter.ru *.youtube.com *.ytimg.com *.ex.co *.weborama.fr *.weborama-tech.ru *.tiktok.com *.tiktokcdn.com promotools.cc *.ibytedtos.com telegram.org videolink.mycdn.me news.files.bbci.co.uk apis.google.com wtrfall.com *.cloudfront.net *.imgur.com *.tradingview.com mytopf.com *.redditmedia.com cdn.embedly.com sportmail.ru *.sportmail.ru;connect-src 'self' wss://*.mail.ru wss://*.devmail.ru wss://*.viqeo.tv *.mail.ru *.devmail.ru *.imgsmail.ru *.api.2gis.ru s0.2mdn.net *.adlooxtracking.com *.adlooxtracking.ru *.algovid.com *.ampproject.net cdn.ampproject.org *.apester.com *.doubleclick.net *.flickr.com *.googleapis.com *.google-analytics.com *.googlesyndication.com *.googletagmanager.com *.gstatic.com *.mixpanel.com *.mradx.net *.playbuzz.com *.qmerce.com geo.query.yahoo.com relap.io *.relap.io twitter.com *.twitter.com *.yadro.ru yandex.ru *.yandex.ru *.strm.yandex.net yandex.st yastatic.net collector.mediator.media *.serving-sys.com *.serving-sys.ru *.doubleverify.com *.viqeo.tv *.videonow.ru *.vidiom.net *.nativeroll.tv *.seedr.com *.consentmanager.mgr.consensu.org consentmanager.mgr.consensu.org *.criteo.com *.criteo.net *.ex.co *.ibytedtos.com *.smailru.net *.adfox.ru *.weborama.fr *.weborama-tech.ru ok.ru vk.com *.vk.team videolink.mycdn.me wtrfall.com *.mediator.media mytopf.com *.reddit.com wss://sportmail.ru wss://*.sportmail.ru sportmail.ru *.sportmail.ru *.maps.me;img-src 'self' * data: blob: mmr: *.criteo.com *.criteo.net ;worker-src blob: 'self' *.mail.ru *.devmail.ru sportmail.ru *.sportmail.ru;" /><meta name="referrer" content="unsafe-url" /><link rel="preconnect" href="https://mcdn.imgsmail.ru/" crossorigin="" /><link rel="preconnect" href="https://mcdn.imgsmail.ru/" /><link rel="dns-prefetch" href="https://mcdn.imgsmail.ru/" /><link rel="preconnect" href="https://ad.mail.ru" crossorigin="use-credentials" /><link rel="dns-prefetch" href="https://ad.mail.ru" /><link rel="preconnect" href="https://resizer.mail.ru" /><link rel="dns-prefetch" href="https://resizer.mail.ru" /><link rel="preconnect" href="https://rs.mail.ru" /><link rel="dns-prefetch" href="https://rs.mail.ru" /><link rel="preconnect" href="https://r.mradx.net" /><link rel="dns-prefetch" href="https://r.mradx.net" /><link rel="preconnect" href="https:/mc.yandex.ru" /><link rel="dns-prefetch" href="https:/mc.yandex.ru" /><link rel="preconnect" href="https:/yastatic.net" /><link rel="dns-prefetch" href="https:/yastatic.net" /><link rel="preconnect" href="https://avatars.mds.yandex.net" /><link rel="dns-prefetch" href="https://avatars.mds.yandex.net" /><link rel="preconnect" href="https://ads.adfox.ru" /><link rel="dns-prefetch" href="https://ads.adfox.ru" /><link rel="dns-prefetch" href="https://limg.imgsmail.ru" /><link rel="dns-prefetch" href="https://top-fwz1.mail.ru/" /><link rel="dns-prefetch" href="https://www.tns-counter.ru/" /><link rel="dns-prefetch" href="https://counter.yadro.ru" /><link rel="dns-prefetch" href="https://www.google-analytics.com" /><link rel="dns-prefetch" href="https:/www.googletagmanager.com" /><!-- //rb/620533?_SITEID=173 (csp) --><!-- /rb/28299 (experiment for new design (static)) --><!-- //rb/28299 (experiment for new design (static)) --><!-- /rb/1108607 (project fonts) --><link rel="preload" href="https://mcdn.imgsmail.ru/fonts/roboto/1.0.1/roboto_400.woff2" as="font" type="font/woff2" crossorigin="" /><link rel="preload" href="https://mcdn.imgsmail.ru/fonts/roboto/1.0.1/roboto_400.woff" as="font" type="font/woff" crossorigin="" /><link rel="preload" href="https://mcdn.imgsmail.ru/fonts/roboto/1.0.1/roboto_700.woff2" as="font" type="font/woff2" crossorigin="" /><link rel="preload" href="https://mcdn.imgsmail.ru/fonts/roboto/1.0.1/roboto_700.woff" as="font" type="font/woff" crossorigin="" /><link rel="preload" href="https://mcdn.imgsmail.ru/fonts/roboto/1.0.1/robotoslab_300.woff2" as="font" type="font/woff2" crossorigin="" /><link rel="preload" href="https://mcdn.imgsmail.ru/fonts/roboto/1.0.1/robotoslab_300.woff" as="font" type="font/woff" crossorigin="" /><link rel="preload" href="https://mcdn.imgsmail.ru/fonts/roboto/1.0.1/robotoslab_700.woff2" as="font" type="font/woff2" crossorigin="" /><link rel="preload" href="https://mcdn.imgsmail.ru/fonts/roboto/1.0.1/robotoslab_700.woff" as="font" type="font/woff" crossorigin="" /><link rel="preload" href="https://mcdn.imgsmail.ru/fonts/roboto/1.0.1/robotocondensed_700.woff2" as="font" type="font/woff2" crossorigin="" /><link rel="preload" href="https://mcdn.imgsmail.ru/fonts/roboto/1.0.1/robotocondensed_700.woff" as="font" type="font/woff" crossorigin="" /><link rel="preload" href="https://mcdn.imgsmail.ru/fonts/roboto/1.0.1/roboto_500.woff2" as="font" type="font/woff2" crossorigin="" /><link rel="preload" href="https://mcdn.imgsmail.ru/fonts/roboto/1.0.1/roboto_500.woff" as="font" type="font/woff" crossorigin="" /><link rel="stylesheet preload" href="https://mcdn.imgsmail.ru/fonts/roboto/1.0.1/roboto.deg.css" as="style" /><!-- //rb/1108607 (project fonts) --><link rel="preload" href="/-/c5037e71/bem/sport/web/web.bundles/common/_common.css" as="style"/><link rel="preload" href="/-/e4288d98/js/cmpld/sport/web/head.js" as="script"/><title>Все новости спорта, фото и видео, трансляции и репортажи, статистика и результаты матчей - Спорт Mail.ru</title><meta property="og:title" content="Все новости спорта, фото и видео, трансляции и репортажи, статистика и результаты матчей"/><meta name="twitter:title" content="Все новости спорта, фото и видео, трансляции и репортажи, статистика и результаты матчей"/><meta name="mrc__share_title" content="Все новости спорта, фото и видео, трансляции и репортажи, статистика и результаты матчей"/><meta property="og:description" content="Новости спорта: все новости футбола, хоккея, баскетбола, тенниса и других видов спорта - фото и видео, прямые трансляции, репортажи с лучших спортивных арен, статистика и результаты матчей на Спорт Mail.ru"/><meta name="mrc__share_description" content="Новости спорта: все новости футбола, хоккея, баскетбола, тенниса и других видов спорта - фото и видео, прямые трансляции, репортажи с лучших спортивных арен, статистика и результаты матчей на Спорт Mail.ru"/><meta name="description" content="Новости спорта: все новости футбола, хоккея, баскетбола, тенниса и других видов спорта - фото и видео, прямые трансляции, репортажи с лучших спортивных арен, статистика и результаты матчей на Спорт Mail.ru"/><meta property="og:image" content="https://news.mail.ru/social_preview/index/sport/"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><link rel="canonical" href="https://sportmail.ru/"/><meta property="og:url" content="https://sportmail.ru/"/><meta property="og:type" content="website"/><meta property="og:site_name" content="Спорт Mail.ru"/><link rel="apple-touch-icon" href="/img/logo/sport/apple-touch-icon.png" sizes="180x180"/><link rel="shortcut icon" type="image/x-icon" href="/img/logo/sport/favicon.ico"/><link rel="icon" type="image/png" href="/img/logo/sport/favicon-16x16.png" sizes="16x16"/><link rel="icon" type="image/png" href="/img/logo/sport/favicon-32x32.png" sizes="32x32"/><link rel="icon" type="image/png" href="/img/logo/sport/favicon-120x120.png" sizes="120x120"/><link rel="icon" type="image/svg" href="/img/logo/sport/favicon.svg"/><link rel="manifest" href="/manifest.json"/><meta name="msapplication-config" content="/browserconfig.xml"/><meta name="msapplication-TileColor" content="#005FF9"/><meta name="theme-color" content="#005FF9"/><meta property="fb:pages" content="569814646503137"/><meta name="robots" content="noyaca"/><meta property="yandex_recommendations_kill" content="1"/><!-- /rb/1084681?_SITEID=173&version=web (@mail-core/dashboard: XRay) --><script id="__xray__">var xrayCore=function(){'use strict';function a(a){for(n.push(a);n.length>o.maxSize;)n.shift()}function b(a){return b="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(a){return typeof a}:function(a){return a&&"function"==typeof Symbol&&a.constructor===Symbol&&a!==Symbol.prototype?"symbol":typeof a},b(a)}function c(a){return a&&"object"===b(a)&&!d(a)}function d(a){return"[object Array]"===Object.prototype.toString.call(a)}function e(){for(var a,b={},d=0;d<arguments.length;++d)for(var f in a=arguments[d],a)b[f]=b[f]&&c(b[f])&&c(a[f])?e(b[f],a[f]):a[f];return b}function f(a){var b=encodeURIComponent(JSON.stringify(a));return{size:b.length,raw:b}}function g(){this._batchesByUrls={},this._timeoutId=null,this._config={maxBatchSize:6e4,maxChunkSize:4e3,timeout:1000,idle:!1},"undefined"!=typeof window&&window.addEventListener("beforeunload",this.process.bind(this,!0))}function h(a){return"s".concat(a,"s").replace(/s+/g,"s").replace(/^s$/g,"")}function j(a){for(var b in a)("undefined"==typeof a[b]||null===a[b])&&delete a[b];return a}function k(a,b){for(var c=-1,d=0;d<a.length;d++)if(b===a[d]){c=d;break}return c}function l(){this._config={xrayRadarUrl:"https://xray.mail.ru",pgid:(Date.now()+Math.random()).toString(36),radarPrefix:"",r:"undefined"!=typeof document&&document.referrer||"",defaultParams:{p:"mail",t_feature:"",v:1,skipdwh:!1}}}function m(a,b){for(var c=a.split("&"),d=c[0],e={},f=1;f<c.length;++f){var g=c[f].split("="),h=decodeURIComponent(g[0]),j=decodeURIComponent(g[1]);try{j=JSON.parse(j)}catch(a){}e[h]=j}b=b||{},b.immediately?z.sendImmediately(d,e,b.ga):z.send(d,e,b.ga)}var n=[],o={maxSize:500,getLog:function(){return Array.prototype.slice.call(n,0)},clear:function(){n=[]}},p={log:function(){try{(console.debug||console.log).apply(console,arguments)}catch(a){}},error:function(){try{console.error.apply(console,arguments)}catch(a){}},warn:function(){try{console.warn.apply(console,arguments)}catch(a){}}},q=["p","email","split","utm","r","pgid","o_ss","o_v"],r=!1;g.prototype.setConfig=function(a){var b=Math.max;if(!r)return a.timeout=b(1e3,a.timeout||0),this._config=e(this._config,a),void(r=!0);var c=[];for(var d in a){if(d in this._config){c.push(d);continue}this._config[d]=a[d]}c.length&&p.warn("Queue config field(s) "+c.join(", ")+" are already set and can't be modified")},g.prototype.getConfig=function(){return e(this._config,{})},g.prototype.push=function(b,c){a(c);var d=b+"/batch?"+g._buildQueryString(c);c=g._stringifyParams(c);var e=f(c);if(e.size+2>this._config.maxBatchSize)return void p.error("Radar #"+c.uid+" body is too long: "+e.raw);this._batchesByUrls[d]||(this._batchesByUrls[d]=[[]]);var h,j=this._batchesByUrls[d];for(h=0;h<j.length;++h){var k=j[h];if(f(k.concat([c])).size<=this._config.maxBatchSize){k.push(c);break}}h===j.length&&j.push([c]),this._timeoutId||"function"!=typeof setTimeout||(this._timeoutId=setTimeout(this.process.bind(this),this._config.timeout))},g.prototype.process=function(a){for(var b in clearTimeout(this._timeoutId),this._timeoutId=null,this._batchesByUrls){for(var c=this._batchesByUrls[b],d=0;d<c.length;++d)this._send(b,c[d],a);delete this._batchesByUrls[b]}},g.prototype.isIdle=function(){return this._config.idle},g._buildQueryString=function(a){for(var b=[],c=0;c<q.length;++c){var d=q[c],e="string"==typeof a[d]?a[d]:JSON.stringify(a[d]);(delete a[d],"undefined"!=typeof e&&e.length)&&b.push(encodeURIComponent(d)+"="+encodeURIComponent(e))}var f=[];for(var g in a.baseQuery)f.push(g);f=f.sort();for(var h,j=0;j<f.length;++j)h=f[j],b.push(encodeURIComponent(h)+"="+encodeURIComponent(a.baseQuery[h]));return delete a.baseQuery,b.join("&")},g.prototype._send=function(a,b,c){var d={url:a,data:"batch="+encodeURIComponent(JSON.stringify(b)),type:"POST",async:!0};if(!this._config.idle){if("undefined"==typeof XMLHttpRequest&&!navigator.sendBeacon)return void fetch(a,{method:d.type,body:d.data});if(c&&window.navigator.sendBeacon)return void window.navigator.sendBeacon(d.url,d.data);try{var e=new XMLHttpRequest,f="function"==typeof this._config.beforeSend&&!this._config.beforeSend(e,d);if(f)return void e.abort();e.open(d.type,d.url,d.async),e.withCredentials=!0,e.send(d.data)}catch(a){p.error("xray.send failed:",a)}}},g._stringifyParams=function(a){var b={};for(var c in a){if("i"==c){b.i=g._stringifyI(a.i);continue}b[c]="string"==typeof a[c]?a[c]:JSON.stringify(a[c])}return b},g._stringifyI=function(a){var b=[];for(var c in a){var d=a[c];b.push(c+":"+d)}return b.join(",")};var s=0,t=["radarPrefix","split","r","pgid","utm","o_ss","o_v"],u=!1,v=new g,w={rlog_dot_error:"xray_rlog_dot_error",rlog_msg_abs:"xray_rlog_msg_abs",too_long:"xray_too_long",not_configured:"xray_not_configured"},x=32,y=64;l.prototype.logger=o,l.prototype.setConfig=function(a,b){a=a||{},u&&this._deleteProtectedParams(a),this.unsafeSetConfig(a,b)},l.prototype.unsafeSetConfig=function(a,b){a=a||{},u=!0,a.split&&(a.split=h(a.split)),a.defaultParams&&a.defaultParams.i&&(a.defaultParams.i=this._formatIntervals(a.defaultParams.i),delete this._config.defaultParams.i),this._config=b?a:e(this._config,a),a.gaTrackingId&&this._initGA(a.gaTrackingId)},l.prototype._deleteProtectedParams=function(a){for(var b=0;b<t.length;++b)delete a[t[b]];return a},l.prototype.addSplit=function(a){this._config.split=h("".concat(this._config.split||"","s").concat(a))},l.prototype.getConfig=function(){return e(this._config,{})},l.prototype.getTotalSended=function(){return s},l.prototype.setQueueConfig=g.prototype.setConfig.bind(v),l.prototype.getQueueConfig=g.prototype.getConfig.bind(v),l.prototype.getInstanceCopy=function(){var a=new l;return u=!1,a.setConfig(this._config,!0),a},l.prototype.send=function(a,b,c){this._send(a,b,c,!0)},l.prototype._send=function(a,b,c,f){if(f&&!u&&a!==w.not_configured){var g=b||{};g.t=a,this._logOwnError(g,w.not_configured),p.warn("Your xray instance is not configured")}if(b=e(b||{},{}),this._config.middlewares)for(var h=0;h<this._config.middlewares.length;h++){var j=this._config.middlewares[h],k=j(a,b,c);a=k.t,b=k.params,c=k.ga}a=d(a)?a.join("_"):a,b.i&&(b.i=this._formatIntervals(b.i)),b=e(this._config.defaultParams,this._config.expid?{dwh:{expid:this._config.expid}}:{},b,{t:a,split:this._config.split,r:this._config.r,pgid:this._config.pgid,utm:this._config.utm,o_ss:this._config.o_ss,o_v:this._config.o_v,baseQuery:this._config.baseQuery,uid:s++}),b.skipdwh&&b.dwh&&delete b.dwh;for(var l=[b.t_feature,this._config.radarPrefix],m=0;m<l.length;++m)l[m]&&(b.t=l[m]+"_"+b.t);delete b.t_feature;try{b=this._validateParams(b,f)}catch(a){return p.log("xray",b.uid,b),void p.error(a.message)}if(this._config.verbose&&p.log("xray",b.uid,b.t,b,c?"GA: "+!!c:void 0),v.push(this._config.xrayRadarUrl,b),!0===c&&!this._config.gaTrackingId)return void p.error("Radar #"+b.uid+": no GA tracking id specified");var n="string"==typeof c?c:this._config.gaTrackingId;if(!!c&&n&&!v.isIdle()){if(b.i){for(var o in b.i)this._sendGA(a+"_"+o,b.i[o],n);return}this._sendGA(a,b.v,n)}},l.prototype.sendImmediately=function(a,b,c){this.send(a,b,c),v.process()},l.prototype.addMiddleware=function(a){this._config.middlewares||(this._config.middlewares=[]),-1===k(this._config.middlewares,a)&&this._config.middlewares.push(a)},l.prototype.removeMiddleware=function(a){if(this._config.middlewares){var b=k(this._config.middlewares,a);-1<b&&this._config.middlewares.splice(b,1)}},l.prototype._sendGA=function(a,b,c){"function"!=typeof gtag&&this._initGA(c);var d=a.split(/_/g),e=d[1]||d[0],f=d[1]?d[0]:"",g=d.slice(2).join("_"),h={value:b,send_to:c};f&&(h.event_category=f),g&&(h.event_label=g),gtag("event",e,h)},l.prototype._initGA=function(a){if(!window.gtag){var b=document.createElement("script");b.src="https://www.googletagmanager.com/gtag/js?id="+a,b.type="text/javascript",document.getElementsByTagName("head")[0].appendChild(b),window.dataLayer=window.dataLayer||[],window.gtag=function(){window.dataLayer.push(arguments)},gtag("js",new Date)}gtag("config",a,{send_page_view:!1})},l.prototype._logOwnError=function(a,b,c){var d="xray_err",e=a.p;if(e){if(e.length+8+1>x){e=e.slice(0,x-8-1)}d="".concat(e,"_").concat("xray_err")}var f=a.t;f.length>y&&(f=f.slice(0,y)),this._send(b,{skipdwh:!0,rlog:d,rlog_message:{t:f,err:b,value:c}},!1,!1)},l.prototype._validateParams=function(a,b){a=j(a),a.rlog&&-1!==a.rlog.indexOf(".")&&(b&&this._logOwnError(a,w.rlog_dot_error,a.rlog),p.error("Radar #".concat(a.uid,": rlog can not contain file extension")),delete a.rlog,delete a.rlog_message),a.rlog&&a.rlog_message||(a.rlog_message&&(b&&this._logOwnError(a,w.rlog_msg_abs),p.error("Radar #".concat(a.uid,": rlog_message would not be sent without rlog"))),delete a.rlog,delete a.rlog_message);var c={32:[a.p,a.rlog],64:[a.p+"_"+a.t]};for(var d in a.i)c[32].push(d),c[64].push(a.p+"_"+a.t+"_"+d);for(var e in c)for(var f=c[e],g=0;g<f.length;++g)if(f[g]&&f[g].length>e)throw b&&this._logOwnError(a,w.too_long,f[g].slice(0,e)),new Error("Radar #".concat(a.uid,": value is too long: ").concat(c[e][g])+" (len: ".concat(f[g].length,", limit: ").concat(e,")"));return a},l.prototype._formatIntervals=function(a){if(c(a))return a;var b={};if(d(a)){for(var e,f=0;f<a.length;++f)e=a[f].split(":"),b[e[0]]=+e[1]||this._config.defaultParams.v;return b}if("string"==typeof a){var g=a.split(",");return this._formatIntervals(g)}};var z=new l;return m.setConfig=function(a){z.setConfig(j({verbose:a.verbose,pgid:a.pgid,split:a.split,xrayRadarUrl:a.xrayRadarUrl||a.XRAY_RADAR_URL,radarPrefix:a.radarPrefix||a.RadarPrefix,utm:a.utm,o_ss:a.o_ss,o_v:a.o_v,baseQuery:a.baseQuery,gaTrackingId:a.gaTrackingId||a.GA_TRACKING_ID,defaultParams:a.defaultParams||j({p:a.project,email:a.ActiveEmail})})),z.setQueueConfig(j({maxBatchSize:a.MAX_BATCH_SIZE,maxChunkSize:a.MAX_CHUNK_SIZE,beforeSend:a.beforeSend,timeout:a.timeout,idle:a.idle}))},m.getConfig=l.prototype.getConfig.bind(z),m.addSplit=l.prototype.addSplit.bind(z),m.unsafeSetConfig=l.prototype.unsafeSetConfig.bind(z),m.setQueueConfig=l.prototype.setQueueConfig.bind(z),m.getQueueConfig=l.prototype.getQueueConfig.bind(z),m.getTotalSended=l.prototype.getTotalSended.bind(z),m.send=l.prototype.send.bind(z),m.sendImmediately=l.prototype.sendImmediately.bind(z),m.getInstanceCopy=l.prototype.getInstanceCopy.bind(z),m.addMiddleware=l.prototype.addMiddleware.bind(z),m.removeMiddleware=l.prototype.removeMiddleware.bind(z),"undefined"!=typeof window&&"function"==typeof window.define&&window.define.amd&&window.define("@mail/xray",function(){return m}),m}();</script><script id="__xray-init__">xrayCore.setConfig({defaultParams: {p: 'sport-mail-ru-web',},verbose: true});xrayCore.send('pk-xray-ready');</script><!-- //rb/1084681?_SITEID=173&version=web (@mail-core/dashboard: XRay) --><script>window.fest = {
+			_svgPath:{"news_web":"/-/4b21da14/bem/news/web/web.bundles/common/common.svg","news_touch":"/-/a66c1448/bem/news/touch/touch.bundles/common/common.svg","sport_web":"/-/4b21da14/bem/sport/web/web.bundles/common/common.svg","sport_touch":"/-/1068eac3/bem/sport/touch/touch.bundles/common/common.svg"},
+		};</script><!-- /rb/38218?_SITEZONE=31 (radar-report) --><script type="text/javascript">window._logJsErrors = true;</script><!-- //rb/38218?_SITEZONE=31 (radar-report) --><link rel="stylesheet" href="/-/c5037e71/bem/sport/web/web.bundles/common/_common.css"/><link rel="preload" href="/-/8a95a372/js/cmpld/react/widgets/media.css" as="style" onload="this.onload=null;this.rel='stylesheet'"/><noscript><link rel="stylesheet" href="/-/8a95a372/js/cmpld/react/widgets/media.css"/></noscript><link rel="preload" href="/-/cf0870d5/js/cmpld/react/widgets/common-style.css" as="style" onload="this.onload=null;this.rel='stylesheet'"/><noscript><link rel="stylesheet" href="/-/cf0870d5/js/cmpld/react/widgets/common-style.css"/></noscript><!-- /rb/1104794?version=web (кастомные стили для conversionlink) --><style>
+.winline .button {color: #000; background-color: #FF6A13; border: 1px solid #000;}
+
+@media (prefers-color-scheme: dark) {
+ .winline .button {color: #000; background-color: #FF6A13; border: 1px solid #666;}
+}
+</style><!-- //rb/1104794?version=web (кастомные стили для conversionlink) --><script src="/-/e4288d98/js/cmpld/sport/web/head.js"></script><script>var SCREEN_SIZE_OPTIONS = {
+						minBranding: 0,
+						maxBranding: 5000
+					};</script><script>(function (window) {
+	"use strict";
+
+	var OPTIONS = window.SCREEN_SIZE_OPTIONS || {};
+	// wrapper + options.padding * 2
+	var sizeList = [980,1220,1340];
+	var nameList = ['small', 'medium', 'large'];
+	var sizesLength = sizeList.length;
+	var isBranding = false;
+	var htmlElement = document.documentElement;
+	var lastState, className;
+	var options = {
+		padding: 20,
+		sideWidth: 140,
+		largeSideWidth: 240,
+		bannerStub: sizeList[0],
+		minBranding: OPTIONS.minBranding || sizeList[1],
+		maxBranding: OPTIONS.maxBranding || 1920,
+		classRe: /\s*screen_(\S+)/gi,
+		classPrefix: 'screen_'
+	};
+
+	// ширина экрана для больших ушей, когда они полностью помещаются для самого большого экрана
+	var widthForLargeSide = sizeList[sizeList.length - 1] + (options.largeSideWidth + options.padding) * 2;
+
+	function screenSize(branding) {
+		var windowWidth = window.innerWidth;
+		var actualWidth = windowWidth;
+		var sideWidth, canBranding, canBrandingStub, size, result, state;
+
+		// запоминаем состояние последнего вызова, например screenSize(true) в слоте п-брендинга
+		if (typeof branding === 'boolean') {
+			isBranding = branding;
+		}
+
+		if (isBranding) {
+			sideWidth = windowWidth > widthForLargeSide && options.largeSideWidth || options.sideWidth;
+
+			// используем 20 отступы по бокам под брендирование
+			if (sideWidth) {
+				actualWidth -= (sideWidth + options.padding) * 2;
+			}
+		}
+
+		canBranding = windowWidth >= options.minBranding && windowWidth <= options.maxBranding;
+
+		// не показываем брендинг на экраны меньше 1024 и больше 1900
+		if (!canBranding) {
+			actualWidth = windowWidth;
+		}
+
+		canBrandingStub = actualWidth >= options.bannerStub && actualWidth < options.minBranding;
+
+		// подбираем экран под окно пользователя с учетом брендинга
+		for (var sizeNo = 1; sizeNo < sizesLength; sizeNo++) {
+			if (actualWidth < sizeList[sizeNo]) {
+				size = nameList[sizeNo - 1];
+				break;
+			}
+		}
+
+		if (!size) {
+			size = nameList[nameList.length - 1];
+		}
+
+		state = [size, isBranding, canBranding, canBrandingStub, sideWidth].join();
+
+		if (lastState != state) {
+			lastState = state;
+
+			className = htmlElement.className.replace(options.classRe, '').split(' ');
+			className.push(options.classPrefix + size);
+
+			if (isBranding) {
+				className.push(options.classPrefix + 'branding-p_need');
+				if (canBranding) {
+					className.push(options.classPrefix + 'branding-p');
+					className.push(options.classPrefix + 'branding-p_' + sideWidth);
+				} else if (canBrandingStub) {
+					className.push(options.classPrefix + 'branding-p_banner-stub');
+				}
+			}
+
+			htmlElement.className = className.join(' ');
+			try {
+				window.dispatchEvent(new Event('resize'));
+			} catch (ex) {}
+		}
+	}
+
+	/**
+	 * Создает функцию, игнорирующую вызовы происходящие чаще заданого интервала
+	 * @param originalFn функция, частоту вызова которой необходимо ограничить
+	 * @param [timeout = 100] интервал
+	 * @param [callImmediately = false] флаг, указывающий что функция должна выполняться в начале группы вызовов
+	 * @returns {Function}
+	 */
+	function debounce (originalFn, timeout, callImmediately) {
+		var timer = null;
+		return function debounced () {
+			var context = this,
+				args = arguments;
+
+			function delayed () {
+				if (!callImmediately) {
+					originalFn.apply(context, args);
+				}
+				timer = null;
+			}
+
+			if (timer !== null) {
+				clearTimeout(timer);
+			} else if (callImmediately) {
+				originalFn.apply(context, args);
+			}
+			timer = setTimeout(delayed, timeout || 100);
+		};
+	}
+
+	screenSize();
+	window.screenSize = screenSize;
+	if (window.addEventListener) {
+		window.addEventListener("resize", debounce(screenSize), false);
+	} else if (window.attachEvent) {
+		window.attachEvent("onresize", debounce(screenSize));
+	}
+})(this);
+</script><!-- /rb/250069?brandsafety=0&_SITEID=173 (p-branding logic) --><!-- //rb/250069?brandsafety=0&_SITEID=173 (p-branding logic) --></head><body class="js-module" data-module="MostSharedNewsModel,Gallery,LazyLoad.PromoPopup,AdvMarker" data-view="MostSharedNews" data-mp="LazyItem as LazyBody" data-gallery-url="/nsport/ajax/json__gallery/" data-now="1680198448" id="index_page"><!-- /rb/1084682?_SITEID=173 (@mail-core/dashboard: Core Keeper) --><script id="__core-keeper__">
+var coreKeeper=function(a){"use strict";var S="string",i="object",y="function";function z(a,b){return typeof a===b}function T(c,a){for(var b in a)Object.defineProperty(c,b,{enumerable:!1,value:a[b]})}var U,b=typeof globalThis===i&&globalThis|| typeof window===i&&window|| typeof global===i&&global||{},V=b.console,o=b.document||{},A=b.location||{},p=b.navigator||{},d=p.connection,j=b.performance,k=function(){},B=z(j&&j.now,y)?function(){return j.now()}:Date.now,C=b.setTimeout.bind(b),W=(b.requestAnimationFrame||C).bind(b),X=(b.addEventListener||k).bind(b),_=null,Y=void 0;function D(a){var e,f,b,g=0,h=(a=a||{}).now||B,i=a.warn,j=a.prefix||"",c=a.addons||[],k=[],l=function(a,b,d){for(e=c.length;e--;)c[e][a](b,d)},d=function(c,m,p,t,u,q,n,o,v){c=j+c,(m===b||o)&&(m=!o&&k[0]||_),p[c]&&i&&i("Timer '"+c+"' exists");var r=q==_,a=p[c]={id:++g,name:c,parent:m,unit:t||"ms",start:r?h():q,end:n!=_?n:_,meta:v};function s(a,b,c){(f=p[a=j+a])?z(f.stop,y)?f.stop(b,c):i&&i("Timer '"+a+"'.stop is not a func",{entry:f}):i&&i("Timer '"+a+"' not exists")}return T(a,{stop:function(b,d){if(b==_||b>=0||(d=b,b=Y),a.meta=a.meta||d,a.end=b==_?h():b,p[c]=_,u)for(e=k.length;e--;)k[e]===a&&k.splice(e,1);return l("end",a,r),a}}),m&&(m.end!==_&&n==_?i&&i("Timer '"+c+"' stopped"):(a.unit=m.unit,m.entries.push(a))),u&&(a.entries=[],T(a,{add:function(c,e,b,f,g){return d(c,a,p,f,0,e,b).stop(b,g)},time:function(e,b,c){return b>=0||(c=b,b=Y),d(e,a,p,c,Y,b)},group:function(f,b,c,e){return z(b,"boolean")&&(e=c,c=b,b=_),z(b,S)&&(e=b,b=_,c=0),z(c,S)&&(e=c),d(f,a,p,e,1,b,_,c)},timeEnd:s,groupEnd:s}),!o&&g>1&&k.unshift(a)),l("start",a,r),a};return(b=d(0,_,Object.create(null),"ms",1,0,0,1)).v="2.0.0-rc.28",b.addons=c,b}var e=function(b,c){var a;try{(a=new PerformanceObserver(function(a){a.getEntries().map(c)})).observe({type:b,buffered:!0})}catch(d){}return a},Z=function(a){a&&a.disconnect()},aa=function(a,b){try{a&&a.takeRecords().map(b)}catch(c){}},E="hidden",ab=!1,ac=!1,F=-1,f=function(b,a){ab||(ab=!0,X("pagehide",function(a){ac=!a.persisted}),X("beforeunload",k)),X("visibilitychange",function(a){o.visibilityState===E&&b(a.timeStamp,ac)},{capture:!0,once:!!a})};o&&(F=o.visibilityState===E?0:1/0,f(function(a){F=a},!0));var ad=function(){return F};function ae(c){var a,e,h=this.badge,b=c.unit,d=(c.end-c.start)/("KB"===b?1024:1),f=h+c.name+("none"!==b&&b?": %c"+(b&&"raw"!==b?d.toFixed(3)+b:d):"%c"),g="font-weight:bold;"+(a=d,"color:#"+((a="KB"===(e=b)?a/8:"fps"===e?70-a:a)<5?"ccc":a<10?"666":a<25?"333":a<50?"f90":a<100?"f60":"f00"));"entries"in c?((V.groupCollapsed||V.group)(f,g),c.entries.forEach(ae,this),V.groupEnd()):V.log(f,g)}var G,l,H=D({addons:/pk-print/.test(A)?[(G={badge:"\u{1F505}"},{start:k,end:function(a){a.parent||ae.call(G,a)}})]:[]}),m=function(a,b,c,d,e,f){W(function(){var i=H.group(a,b,e);for(var g in d)if(d.hasOwnProperty(g)){var h=d[g];i.add(g,h[0],h[1],h[2])}i.stop(c,f)})},g=p.deviceMemory,h=j.hardwareConcurrency,q=h<=4||g<=4,I=h>4||g>4?"high":q?"low":"unk",$=q||d&&(["slow-2g","2g","3g"].indexOf(d.effectiveType)> -1||d.saveData)?"low":"high",n=((l={})["type_"+I]=[0,1],l["exp_"+$]=[0,1],l);g&&(n.memory=[0,g]),h&&(n.hardware_concurrency=[0,h]),m("pk-device",0,1,n,"raw");var af=0,J=function(){try{var a=j.getEntriesByType("navigation")[0],k=a.fetchStart,l=a.domainLookupStart,e=a.domainLookupEnd,f=a.requestStart,g=a.responseStart,b=a.responseEnd,c=a.domComplete,h=a.domInteractive,i=a.domContentLoadedEventEnd,d=a.loadEventEnd;b&&0===af&&(af=1,m("pk-nav-net",k,b,{dns:[l,e],tcp:[e,f],request:[f,g],response:[g,b]})),c&&1===af&&(af=2,m("pk-nav-dom-ready",b,c,{interactive:[b,h],"content-loaded":[h,i],complete:[i,c]})),d&&2===af&&(af=3,m("pk-nav-dom-load",b,d,{ready:[b,c],load:[c,d]})),3!==af&&C(J,250)}catch(n){}};J();var ag,ah=function(a,b,c){return a<=b?"good":a<=c?"needs-improvement":"poor"},ai=0,aj=0,K=function(b){var c,d,e,f=b.startTime,a=b.processingStart-f;f<ad()&&(a&&m("pk-fid",0,a,((c={value:[0,a]})["score_"+ah(a,100,300)]=[0,a],c)),ai&&m("pk-tbt",0,ai,((d={value:[0,ai]})["score_"+ah(ai,300,600)]=[0,ai],d)),aj&&m("pk-tti",0,aj,((e={value:[0,aj]})["score_"+ah(aj,3800,7300)]=[0,ai],e)),Z(ag),Z(ak))},ak=e("first-input",K);f(function(){aa(ak,K)},!0);var al={},am=e("paint",function(b){var d,c=b.name,a=b.startTime;a<ad()&&(al[c]=[0,a],"first-contentful-paint"===c&&(al["score_"+ah(a,1e3,2500)]=[0,a],m("pk-paint",0,a,al),d=a,ag=e("longtask",function(a){var c=a.startTime,b=a.duration;c>d&&"self"===a.name&&b>0&&(ai+=b-50,aj=c+b)}),Z(am)))}),an=0,ao=!1,L=function(b){var a=b.startTime;a<ad()?an=a:aq()},ap=e("largest-contentful-paint",L),aq=function(){var a;!ao&&an&&m("pk-lcp",0,an,((a={value:[0,an]})["score_"+ah(an,2500,4e3)]=[0,an],a)),ao=!0,Z(ap)},r=function(){aa(ap,L),aq()};f(r,!0),function(a){try{U||(U=new Promise(function(a){["keydown","mousedown","scroll","mousewheel","touchstart","pointerdown"].map(function(b){X(b,a,{once:!0,passive:!0,capture:!0})})})),U.then(a)}catch(b){}}(r);var ar=0,M=function(a){a.hadRecentInput||(ar+=a.value)},as=e("layout-shift",M);f(function(c,b){var a;aa(as,M),b&&ar&&m("pk-cls",0,ar,((a={value:[0,ar]})["score_"+ah(ar,.1,.25)]=[0,ar],a))});var s=d,t=function(){var a;m("pk-conn",0,1,((a={downlink:[0,s.downlink],downlinkMax:[0,s.downlinkMax],rtt:[0,s.rtt]})["save_data_"+s.saveData]=[0,1],a["effective_type_"+(s.effectiveType||"unk")]=[0,1],a),"raw")};try{s?(t(),s.addEventListener("change",t)):m("pk-conn",0,1,{effective_type_unk:[0,1]},"raw")}catch(at){}var au=function(){return(au=Object.assign||function(d){for(var a,b=1,e=arguments.length;b<e;b++)for(var c in a=arguments[b])Object.prototype.hasOwnProperty.call(a,c)&&(d[c]=a[c]);return d}).apply(this,arguments)};function u(a){return a&&a.__esModule&&Object.prototype.hasOwnProperty.call(a,"default")?a.default:a}function v(b,a){return b(a={exports:{}},a.exports),a.exports}var w=v(function(c,b){var a;Object.defineProperty(b,"__esModule",{value:!0}),b.Tag=void 0,(a=b.Tag||(b.Tag={})).Core="core",a.Global="gl",a.Self="self",a.Async="async",a.Ignore="ign",a.Known="known",a.API="api",a.Shared="shr",a.Ext="ext",a.ThirdParty="3rd",a.RB="rb",a.Unknown="unk"});u(w),w.Tag;var c=v(function(b,a){Object.defineProperty(a,"__esModule",{value:!0}),a.coreLoggerHMR=a.coreLoggerDispatchKnownError=a.coreLoggerDispatchAPIError=a.coreLoggerDispatchIgnoredError=a.coreLoggerDispatchSelfError=a.coreLoggerDispatchReactError=a.coreLoggerDispatchError=a.getCoreLogger=a.Tag=void 0,Object.defineProperty(a,"Tag",{enumerable:!0,get:function(){return w.Tag}}),a.getCoreLogger=function(){return"undefined"!=typeof coreLogger?coreLogger:void 0},a.coreLoggerDispatchError=function(c,d,e){var b;null===(b=(0,a.getCoreLogger)())|| void 0===b||b.dispatchError(c,d,e)},a.coreLoggerDispatchReactError=function(c,d,e){var b;null===(b=(0,a.getCoreLogger)())|| void 0===b||b.dispatchReactError(c,d,e)},a.coreLoggerDispatchSelfError=function(b,c,d,e){(0,a.coreLoggerDispatchError)(c,d,{category:b,tag:w.Tag.Self,log:e})},a.coreLoggerDispatchIgnoredError=function(b,c,d,e){(0,a.coreLoggerDispatchError)(c,d,{category:b,tag:w.Tag.Ignore,log:e})},a.coreLoggerDispatchAPIError=function(b,c,d,e){(0,a.coreLoggerDispatchError)(c,d,{category:b,tag:w.Tag.API,log:e})},a.coreLoggerDispatchKnownError=function(b,c,d,e){(0,a.coreLoggerDispatchError)(c,d,{category:b,tag:w.Tag.Known,log:e})},a.coreLoggerHMR=function(g,f){var e=(0,a.getCoreLogger)();if(e){var b=e.errors.rules,c=e.errors.opts.errors,d=g.priority||[];b.set("clear"),c&&c.rules&&(b.set(c.rules),d.push.apply(d,[].concat(c.priority||Object.keys(c.rules)))),f&&(b.set(f.rules),d.push.apply(d,f.priority||[])),b.set(g.rules),b.priority(d);try{e.pkg.v="12.2.1",localStorage.setItem(process.env.LOGGER_LS_PRESET_VER_KEY,"12.2.1")}catch(h){}}}});u(c),c.coreLoggerHMR,c.coreLoggerDispatchKnownError,c.coreLoggerDispatchAPIError,c.coreLoggerDispatchIgnoredError,c.coreLoggerDispatchSelfError,c.coreLoggerDispatchReactError;var av=c.coreLoggerDispatchError;c.getCoreLogger;var N=c.Tag,O={name:"@mail-core/dashboard",v:"12.2.1"},aw=/^(\d+)\.(\d+)\.(\d+)/,x=function(a){return"request"in a&&a.data&&"status"in a.data&&"body"in a.data?a.data.status:null},ax={parseStatus:x},ay={tag:N.API,category:"5XX",silent:!0,log:!0},az=/^(https?:)?\/\/.*?\/+|\/*\?+.+|^\/|api\/+v1\/+/gi,aA=/[^%.a-z\d-]+/g,aB=/^api_v(\d)/g,aC=/\/*cgi-bin/g,aD=/golang/g,aE=/(^|\/)(\d+|(?:\d|[a-z]+\d)[\da-z]{2,})(?=\/|$)/g,aF=/(^|\/)([0-9-a-f]{2,}-[0-9-a-f-]+)(?=\/|$)/g,aG=/(_u?id){2,}|%[%a-z\d._]+/g,aH=/graphql/g;function aI(a){return a&&(!a.responseType||"text"===a.responseType)&&a.responseText||""}var aJ=[[/\/(ph|ag)\//,"portal"],[/\/hb\//,"hotbox"],[/\/pkgs\//,"pkgs"],[/\.imgsmail\.ru\//,"imgs"],[/\.filin\.mail\.ru\//,"filin"],[/\bmail\\.ru/,"mail"],[/\/\/top-/,"top"],[/analytics/,"analyt"],[new RegExp("\\/\\/"+location.host+"\\/"),"host"]];function aK(e){for(var b="",a=0,c=aJ;a<c.length;a++){var d=c[a];if(d[0].test(e)){b=d[1];break}}return b||"unk"}var aL,aM="@mail-core/dashboard:timespent_sections",aN={maxSessionPause:5,beforeSend:k,login:"",section:"__base__"},aO=0;function P(b){if(clearInterval(aL),b){var c,a=aW(),h=b.section,i=b.login;if(a){for(var d=0,g=a;d<g.length;d++){var e=g[d];if(e.section===h&&e.user_id===i){c=e;break}}if(c){var f=a.indexOf(c);a[f].last_duration_update_timestamp=a$(),a[f].duration_sec=a[f].duration_sec+1,aT(),aN=au(au({},aN),b);try{localStorage.setItem(aM,JSON.stringify(a))}catch(j){}return}}aP(b),function(b){var c=aY(b),a=aW();null==a||a.push(c);try{localStorage.setItem(aM,JSON.stringify(a))}catch(d){}}(a$())}else aP()}function aP(b){aN=au(au({},aN),b);var c,h,d,f,g,a=(c=aQ,d=!1,function(){for(var b=[],a=0;a<arguments.length;a++)b[a]=arguments[a];return d||(d=!0,h=c(b)),h});f=a,g=e("paint",function(a){var b=a.name;a.startTime<ad()&&"first-contentful-paint"===b&&(f(),Z(g))}),window.setTimeout(a,5e3)}function aQ(){"hidden"!==o.visibilityState&&aR(),X("visibilitychange",function(){"hidden"===o.visibilityState?clearInterval(aL):aR()})}function aR(){var a=a$();aO||(aO=a),aW()?aS(a):aS(a,!0),aT()}function aS(b,c){void 0===c&&(c=!1);var g=aW();if(g){var d,l,h,i,e,j,a=(d=g,l=b,i=(h=d.filter(function(a){return aU(a,l)})).filter(aZ),e=d.filter(function(a){return!aU(a,l)}),j=e.filter(aZ),{toSend:h,toReset:i,toLeave:e,toUpdate:j}),f=a.toLeave,m=a.toReset,n=a.toSend,k=a.toUpdate;n.forEach(aX),m.length&&f.push(aY(b)),k.length&&k.forEach(function(a){a.last_duration_update_timestamp=b,a.duration_sec=a.duration_sec+1});try{f.length?localStorage.setItem(aM,JSON.stringify(f)):localStorage.removeItem(aM)}catch(o){}}else if(c)try{localStorage.setItem(aM,JSON.stringify([aY(b)]))}catch(p){}}function aT(){aL=window.setInterval(function(){aS(a$())},1e3)}function aU(a,b){return b-a.last_duration_update_timestamp>a.max_session_pause}function aV(a){return a&&["user_id","section","last_duration_update_timestamp","duration_sec","open_timestamp","max_session_pause"].every(function(b){return a.hasOwnProperty(b)})}function aW(){var b;try{var a=JSON.parse(localStorage.getItem(aM)||"");(null==a?void 0:a.length)&&Array.isArray(a)&&a.every(aV)&&(b=a)}catch(c){}return b}function aX(b){var a=b.duration_sec;if(a){var c=au({domain:location.host,pause_allowed_sec:aN.maxSessionPause},b),d={dwh:c};aN.beforeSend(c),m("pk-timespent",0,a,{duration:[0,a]},"raw",d)}}function aY(a){return{duration_sec:0,last_duration_update_timestamp:a,open_timestamp:aO,section:aN.section,user_id:aN.login,max_session_pause:aN.maxSessionPause}}function aZ(a){var b=a.user_id,c=a.section;return b===aN.login&&c===aN.section}function a$(){return Math.floor(Date.now()/1e3)}var a_={latency:[30,60,120],route:[200,400,800],"route:cached":[100,300,600],page:[100,200,300],"page:frag":[30,60,120],"page:json":[20,30,60],"inline:code":[100,200,300],fetch:[500,1e3,2e3],"fetch:fast":[100,200,300],"app:load":[300,600,900],"app:init":[150,300,600],"app:render":[300,600,800],"app:ready":[1500,2500,3500],"js:bundle":[200,400,800],"js:bundle:m":[1e3,3e3,7e3],"js:bundle:l":[2e3,5e3,1e4],"css:bundle":[150,300,450],"css:bundle:l":[300,600,800],"srv:resp":[200,400,800],"biz:adv:await":[2e3,3e3,4e3]},a0=Object.create(null),a1=!1,a2=null,a3={"pk-app-ready":1,"pk-paint":1,"pk-lcp":1,"pk-cls":1,"pk-fid":1,"pk-tbt":1,"pk-tti":1};function a4(b){for(var a in a0)a2[!0===b?"sendImmediately":"send"](a,a0[a]);a0=Object.create(null),a1=!1}function a5(){if(a2)return a2;var b="undefined"==typeof window?{}:window,c=b.require,a=b.xrayCore;try{a=a&&a.send?a:c("@mail/xray")}catch(d){try{a=c("mrg-xray")}catch(e){}}return a}var a6=/-a_5\d\d$/;function Q(c,b,e,f){var d=f&&f.dwh,a=a0[b];a||(a={t:b,v:c,i:{}},d||a3[b]||a6.test(b)||(a.skipdwh=!0),d&&(a.dwh=d),a0[b]=a),e?a.i[e.slice(0,32)]=c:a.v=c,a1||(a1=!0,function a(){a2||(a2=a5()),a2?W(function(){return a4()}):C(a,100)}())}function R(a){a2=a||a2}var a7=["good","moderate","needs-imp"],a8=Date.now(),a9={},ba=!1,bb=0,bc=!1,bd=null,be=0,bf=function(){return o.visibilityState},bg=function(){return"visible"===bf()},bh=function(){var a;bg()&&bb++,m("pk-vis-state",0,bb,((a={})[bf()]=[0,1],a))},bi=function(a){return a<ad()?"":"idle_"};function bj(c){var b,d=c.type,a=B(),e=a>9e5?"max":a>6e5?"15m":a>3e5?"10m":a>6e4?"5m":a>3e4?"1m":a>15e3?"30s":a>1e4?"15s":a>5e3?"10s":"5s";m("pk-unload",0,a,((b={})[d]=[0,a],b["type_score_"+e]=[0,a],b))}function bk(a){return a<2e3?"fast":a<4e3?"moderate":a<15e3?"slow":a<3e4?"very-slow":"fail"}return a.api=function(b,e){void 0===e&&(e={});var o=e.error,f=e.duration||1,i=e.url,s=e.category,p=e.responseLength,l=0,d=e.status||"unk",h=e.apiStatus||d;if("object"==typeof b){var g="xhr"in b&&b.xhr||"request"in b&&b.request||"status"in b&&"readyState"in b&&b;if("duration"in b&&(f=b.duration||f),"status"in b&&(h=d=b.status),"ok"in b&&(l=4),g&&(d=g.status||d,l=g.readyState||l,p=function(a){var b,c;if(a){c=aI(a);try{b=c.length||+a.getResponseHeader("content-length")||0}catch(d){}}return b}(g),i=i||g.responseURL),"url"in b&&(i=i||b.url),h=ax.parseStatus(b)||h,e.log5XX&&(d>=500||h>=500)){var t="[HTTP] "+(g?g.status+" "+g.statusText:"No XHR"),q=new Error(d>=500?t:"[API] "+h+" ("+t+")");q.source=i,q.stack="";try{av(q,{sender:"api",url:i,status:d,apiStatus:h,headers:g&&["content-type","date","x-host","x-request-id","x-mru-json-status","x-mru-request-id"].reduce(function(a,b){return a[b]=g.getResponseHeader(b),a},{}),response:aI(g).slice(0,140)},ay)}catch(w){av(w,q,{category:"api",tag:N.Core})}}}else d=b,h=e.apiStatus||d;var u,r,m,a,c,n,v=H.group("pk-api",0,!0),j=v.add,k="x-"+(!1!==s?((r=(u=i)?u.toLowerCase().replace(az,"").replace(aC,"pl").replace(aF,"$1uid").replace(aE,"$1id").replace(aA,"_").replace(aB,"v$1").replace(aD,"go").replace(aH,"gql").replace(aG,"_id"):"unk").length>24&&(r=r.replace(/([^_]{3,})/g,function(b,a){return a.replace(/-/.test(a)?/-([a-z])[a-z]*/g:/([^/-])[aeiou]+/g,"$1").replace(/([^aeiou])(\1+)/,"$1")})),r.slice(0,24).replace(/[_-]+/g,"_")):s||"unk");j(k+"-hit",0,f),4!==l&&j(k+"-r_"+(0===(m=l)?"unset":1===m?"open":2===m?"headers":3===m?"loading":4===m?"done":"unk"),0,f),p&&j(k+"-l_"+(c="zero",null==(a=p)?c="unk":a>0&&a<=1024?c=1:a>1024&&a<=5120?c=5:a>5120&&a<=10240?c=10:a>10240&&a<=25600?c=25:a>25600&&a<=51200?c=50:a>51200&&a<=102400?c=100:a>102400&&a<=204800?c=200:a>204800&&a<=512e3?c=500:a>512e3&&(c="max"),0===c?"zero":c),0,p),j(k+"-h_"+d,0,f),d>=200&&d<300&&j(k+"-a_"+h,0,f),f>3e3&&j(k+"-s_"+((n=f)<=5e3?"5s":n<=1e4?"10s":n<=3e4?"30s":n<=3e5?Math.ceil(n/6e4)+"m":"max"),0,f),o&&j(k+"-e_"+(o instanceof Error&&o.name||o),0,f),v.stop(f)},a.appReady=function(b){if(!bc){bc=b||!0;var a=B(),c=H.group("pk-app-ready",0,!0),d=bi(a);c.add(b?"fail":"success",0,a),b?(av(b,null,{category:"app-err",tag:N.Self}),c.add("error_"+(b.requireType||b.name||"unk"),0,a)):(c.add(d+"total",0,a),c.add(d+"score_"+bk(a),0,a)),c.stop(a)}},a.axiosRpcLike=x,a.axiosSwaLike=function(a){return"request"in a&&a.data&&"code_number"in a.data?a.data.code_number:null},a.combine=function(){for(var b=[],a=0;a<arguments.length;a++)b[a]=arguments[a];return function(){for(var d=[],a=0;a<arguments.length;a++)d[a]=arguments[a];for(var c=0;c<b.length;c++){var e=b[c].apply(null,d);if(e)return e}return null}},a.init=function(c){try{(function(a){var b;if(!ba){ba=!0,null==(be=(a9=a).appReadyTimeout)&&(be=6e4),R(a.xrayCore),H.addons.push.apply(H.addons,[(void 0===j&&(j=Q),{start:k,end:function(a){var b=a.end-a.start,c=a.meta||{},f=a_[c.score]||c.score,e=a.name+(c.appendix?"-"+c.appendix:"")+(c.postfix||"");if(null===a.parent&&/^(pk|ut)-/.test(e)&&b&&(j(b,e,!1,a.meta),"entries"in a&&a.entries.forEach(function(a){var b=a.end-a.start;b>=0&&j(b,e,a.name)}),f&&3===f.length))for(var d=0;d<4;d++){if(b<=f[d]){j(b,e,a7[d]);break}3===d&&j(b,e,"poor")}}})].concat(a.systemAddons||[]));var j,d,e,f,g,c=B(),i=(d=O.v,void 0===d&&(d=""),void 0===e&&(e=1e4),(f=d.match(aw))&& +f[1]*Math.pow(e,2)+ +f[2]*e+ +f[3]|| -1),h=bi(c);m("pk-init",0,c,((b={})["ver_"+i]=[0,1],b[h+"total"]=[0,c],b[h+"score_"+bk(c)]=[0,c],b["tab_"+bf()]=[0,1],b)),(g=a.api)&&(ax=au(au({},ax),g)),function(){var a="undefined"!=typeof userKeeper&&userKeeper;if(a){var b=D({prefix:"ut-",addons:H.addons});a.time=b.time,a.timeEnd=b.timeEnd,a.forEach(function(a){0===a[1]?b.time(a[0],a[2],"ms"):b.timeEnd(a[0],a[2],a[3])}),a.length=0}}(),P(a.timespent),a.checkCrossOrigin&&setTimeout(function(){var c=document.getElementsByTagName("script"),a=c.length;if(a>0){for(var d=H.group("mc-srp",0,!0);a--;){var b=c[a];b.src&&!b.crossOrigin&&d.add(aK(b.src),0,1)}d.stop(1)}},6e4),X("unload",bj),X("beforeunload",bj),bh(),o.addEventListener("visibilitychange",bh),window.addEventListener("beforeunload",function(){var b,c,a=B(),d=[[a<(a9.fastCloseLimit||2e3)?"fast":"nofast",a],[bb?"view":"noview",bb],[bg()?"focus":"nofocus",a],[(bc?"":"no")+"ready"+(!!bc!==bc?"-err":""),a]];d.push([d.map(function(a){return a[0]}).join("_"),a]),bd&&(null===(b=a5())|| void 0===b||b.sendImmediately("pk-close-dupl",{v:a,i:bd})),bd={};for(var e=0,f=d;e<f.length;e++){var g=f[e],h=g[0],i=g[1];bd[h]=i}null===(c=a5())|| void 0===c||c.sendImmediately("pk-page-close",{v:a,i:bd}),a4(!0)}),be&&C(function(){if(!bc&&B()<ad()){var a={loadTime:Date.now()-a8,timeout:be},b=p.connection;try{a.effectiveType=b&&b.effectiveType||"<<unk>>",a.hidden=o.hidden,a.visState=o.visibilityState,a.now=B()}catch(c){}av("AppTimeout: "+be,a,{category:"app-timeout",tag:N.Ignore})}},be)}})(c||{})}catch(a){var b=a5();b&&b.send("pk-init-fail",{rlog:"pk-init-fail",rlog_message:au(au(au({},b.getConfig().defaultParams),a),{message:""+a,stack:a&&a.stack})})}},a.now=B,a.pkg=O,a.setTimespentsConfig=P,a.setXRay=R,a.system=H,a.systemSend=m,a.xrayCore=Q,Object.defineProperty(a,"__esModule",{value:!0}),a}({})
+</script>
+<script id="__core-keeper-init__">
+	window.coreKeeper && coreKeeper.init();
+</script>
+
+<script>(function() {var script = document.createElement('script');script.src = 'https://r.mradx.net/img/86/08A214.js';script.onload = function() {webVitals.onCLS(function(data) {var CLS_KEY = 'pk-vitals-cls';var dataCLS = {i: {value: data.value},v: data.value};dataCLS.i['score_' + data.rating] = data.value;xrayCore.send(CLS_KEY, dataCLS);});};document.head.appendChild(script);}())</script><!-- //rb/1084682?_SITEID=173 (@mail-core/dashboard: Core Keeper) --><!-- /rb/949685?version=desktop&_SITEID=173 --><!-- //rb/949685?version=desktop&_SITEID=173 --><div class=" js-module" data-module="SlotModel" data-view="SlotView.949685" data-id="949685" data-siteid="173" onclick="return {&quot;SlotView&quot;:{&quot;slot&quot;:{&quot;version&quot;:&quot;desktop&quot;,&quot;_SITEID&quot;:173}}}"></div><svg class="loader loader_invisible" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="-10 -10 220 220"><defs><linearGradient id="transparent" gradientUnits="objectBoundingBox" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="rgba(119, 119, 119, 0)" stop-opacity="0"></stop><stop offset="100%" stop-color="rgba(119, 119, 119, 0)" stop-opacity="0"></stop></linearGradient><linearGradient id="one" gradientUnits="objectBoundingBox" x1="1" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="rgba(119, 119, 119, 0)" stop-opacity="0"></stop><stop offset="100%" stop-color="rgba(119, 119, 119, .33)"></stop></linearGradient><linearGradient id="two" gradientUnits="objectBoundingBox" x1="1" y1="1" x2="0" y2="0"><stop offset="0%" stop-color="rgba(119, 119, 119, .33)"></stop><stop offset="100%" stop-color="rgba(119, 119, 119, .66)"></stop></linearGradient><linearGradient id="three" gradientUnits="objectBoundingBox" x1="0" y1="1" x2="0" y2="0"><stop offset="0%" stop-color="rgba(119, 119, 119, .66)"></stop><stop offset="100%" stop-color="rgba(119, 119, 119, 1)"></stop></linearGradient><linearGradient id="four" gradientUnits="objectBoundingBox" x1="0" y1="1" x2="1" y2="0"><stop offset="0%" stop-color="rgba(119, 119, 119, 1)"></stop><stop offset="100%" stop-color="rgba(119, 119, 119, 1)"></stop></linearGradient><linearGradient id="five" gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="rgba(119, 119, 119, 1)"></stop><stop offset="100%" stop-color="rgba(119, 119, 119, 1)"></stop></linearGradient></defs><g fill="none" stroke-width="40" transform="translate(100,100)"><path d="M 81.6,-40 A 90,90 0 0,1 81.6,40" stroke="url(#transparent)"></path><path d="M 81.6,40 A 90,90 0 0,1 0,90" stroke="url(#one)"></path><path d="M 0,90 A 90,90 0 0,1 -81.6,40" stroke="url(#two)"></path><path d="M -81.6,40 A 90,90 0 0,1 -81.6,-40" stroke="url(#three)"></path><path d="M -81.6,-40 A 90,90 0 0,1 0,-90" stroke="url(#four)"></path><path d="M 0,-90 A 90,90 0 0,1 81.6,-40" stroke="url(#five)" stroke-linecap="round"></path></g></svg><!-- /rb/640929?_SITEID=173 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>!function(t,e){const i={hasScroll:"scroll"in t&&Object.keys(t.scroll).length>0,hasTimeout:"timeout"in t&&Object.keys(t.timeout).length>0,counterUpdated:!1,loggerUpdated:!1};function o(...t){!0===window.DEBUG&&window.console.log.apply(console,t)}function n(t){return t.split(".").reduce((t,e)=>t&&t[e],e)}function l(t,l){return o("reload: "+l.id),t.reload(!0),l.viewed=l.scrolledOut=!1,i.counterUpdated||(i.counterUpdated=!0===function(){const t=n("ru.mail.cpf.Tools.Counters.hitCntrsBlck");if("function"==typeof t)return t(),!0}()),i.loggerUpdated||(i.loggerUpdated=!0===function(){if("function"==typeof n("DWHLogger.hitEvent"))return e.DWHLogger.hitEvent({type:"page_open",params:{url:e.location.href,async_target:"slot_autoupdate"}}),!0}()),null===l.config.limit||++l.updatesCount!==l.config.limit||(o("limit: "+l.id),!1)}["scroll","timeout"].forEach(e=>{const o=e in t&&Object.keys(t[e]).length>0;i["has"+e.slice(0,1).toUpperCase()+e.slice(1,-1)]=o,o&&(i[e]={})}),(i.hasTimeout||i.hasScroll)&&function(){let n,s;function c(){o("tick"),"visible"===document.visibilityState&&function(){const t=Date.now();Object.keys(i.timeout).forEach(e=>{const n=i.timeout[e],s=n.config;o("check timeout: "+e),t-n.lastUpdate>s.interval&&(l(n.instance,n)?n.lastUpdate=t:delete i.timeout[e])})}(),setTimeout(c,1e4)}e.cpfParams=e.cpfParams||[],e.cpfParams.push({module:"SlotView",params:{options:{_Handlers:{init:function(){const e=this.getSlotParams().id;let r,a,u=null;i.hasScroll&&(r=t.scroll[e])?(n||(n=new IntersectionObserver((t,e)=>{t.forEach(t=>{const n=function(t){return window.jQuery(t).data("SlotView")}(t.target),s=n.getSlotParams().id;o("intersection: "+s+" ("+t.isIntersecting+")");let c=i.scroll[s];c&&(c.viewed&&!t.isIntersecting?(c.scrolledOut=!0,o("scrolledOut: "+s)):!0===c.scrolledOut&&t.isIntersecting&&(l(n,c)||e.unobserve(t.target))),t.isIntersecting&&t.intersectionRatio>.3&&(o("viewed: "+s),c.viewed=!0)})},{threshold:[0,.5],rootMargin:"100px 0px"})),n.observe(this._getElement("parent").get(0)),a={scrolledOut:!1,viewed:!1},u="scroll"):i.hasTimeout&&(r=t.timeout[e])&&(s||(c(),s=!0),a={lastUpdate:Date.now()},u="timeout"),null!==u&&(o(`init ${u}: ${e}`),i[u][e]=Object.assign({config:r,instance:this,updatesCount:0,id:e},a))}}}}})}()}({scroll: {"5750":{limit:2},"4420":{limit:2}},timeout: {"441924":{interval:86400e3,limit:2},"441935":{interval:86400e3,limit:2}}}, window);</script><!-- //rb/640929?_SITEID=173 --><div class=" js-module" data-module="SlotModel" data-view="SlotView.28299" data-id="28299" data-sitezone="41"></div><div class="page__counters js-counters"><!--noindex--><!-- /rb/2458 --><!-- mr_counter type="tns" src="//www.tns-counter.ru/V13a****mail_ru/ru/UTF-8/tmsec=sportmail_total/" -->
+<script type="text/javascript">
+(new Image()).src = '//www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*mail_ru/ru/UTF-8/tmsec=sportmail_total/' + Math.round(Math.random()*1E9);
+</script>
+<noscript>
+	<img src="//www.tns-counter.ru/V13a****mail_ru/ru/UTF-8/tmsec=sportmail_total/" width="1" height="1" alt="" style="position:absolute;" />
+</noscript>
+<!-- /mr_counter --><!-- //rb/2458 --><!--/noindex--></div><div class=" js-module" data-module="SlotModel" data-view="SlotView.Fullscreen" data-id="1462" data-sitezone="41" data-news-id="" data-brandsafety="0"></div><div class=" js-module" data-module="SlotModel" data-view="SlotView.230081" data-id="230081" data-sitezone="41" data-news-id="" data-brandsafety="0"></div><!-- /rb/597759?_SITEID=173 --><!-- //rb/597759?_SITEID=173 --><!-- /rb/320557?project=sport&version=web (Слот включения новой шапки) -->
+<script>window.useNewVkLogo = true;</script><!-- //rb/320557?project=sport&version=web (Слот включения новой шапки) --><div class="js-popup_gallery"><div class="js-popup_blocks"></div></div><noindex><div class="overlay js-popup"><div class="overlay__box" data-logger-parent="overlay"><div class="overlay__cell"><div class="overlay__inner"><div class="overlay__loader js-popup_loader"><svg class="loader loader_large" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="-10 -10 220 220"><defs><linearGradient id="transparent" gradientUnits="objectBoundingBox" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="rgba(119, 119, 119, 0)" stop-opacity="0"></stop><stop offset="100%" stop-color="rgba(119, 119, 119, 0)" stop-opacity="0"></stop></linearGradient><linearGradient id="one" gradientUnits="objectBoundingBox" x1="1" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="rgba(119, 119, 119, 0)" stop-opacity="0"></stop><stop offset="100%" stop-color="rgba(119, 119, 119, .33)"></stop></linearGradient><linearGradient id="two" gradientUnits="objectBoundingBox" x1="1" y1="1" x2="0" y2="0"><stop offset="0%" stop-color="rgba(119, 119, 119, .33)"></stop><stop offset="100%" stop-color="rgba(119, 119, 119, .66)"></stop></linearGradient><linearGradient id="three" gradientUnits="objectBoundingBox" x1="0" y1="1" x2="0" y2="0"><stop offset="0%" stop-color="rgba(119, 119, 119, .66)"></stop><stop offset="100%" stop-color="rgba(119, 119, 119, 1)"></stop></linearGradient><linearGradient id="four" gradientUnits="objectBoundingBox" x1="0" y1="1" x2="1" y2="0"><stop offset="0%" stop-color="rgba(119, 119, 119, 1)"></stop><stop offset="100%" stop-color="rgba(119, 119, 119, 1)"></stop></linearGradient><linearGradient id="five" gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="rgba(119, 119, 119, 1)"></stop><stop offset="100%" stop-color="rgba(119, 119, 119, 1)"></stop></linearGradient></defs><g fill="none" stroke-width="40" transform="translate(100,100)"><path d="M 81.6,-40 A 90,90 0 0,1 81.6,40" stroke="url(#transparent)"></path><path d="M 81.6,40 A 90,90 0 0,1 0,90" stroke="url(#one)"></path><path d="M 0,90 A 90,90 0 0,1 -81.6,40" stroke="url(#two)"></path><path d="M -81.6,40 A 90,90 0 0,1 -81.6,-40" stroke="url(#three)"></path><path d="M -81.6,-40 A 90,90 0 0,1 0,-90" stroke="url(#four)"></path><path d="M 0,-90 A 90,90 0 0,1 81.6,-40" stroke="url(#five)" stroke-linecap="round"></path></g></svg></div><div class="overlay__content js-popup_blocks"></div><div class="overlay__side js-popup_banner"></div></div></div></div></div></noindex><div class="js-adv-marker"><div data-logger-parent="top">
+		<script>
+			if (!window.__PHS) var __PHS = {};
+
+			(function (s) {
+				s.siteid = +'173';
+				s.sitezone = +'31';
+			})(window.__PHS);
+		</script>
+		<div class=" js-module" data-module="SlotModel" data-view="SlotView.217406" data-id="217406"></div><div class=" js-module" data-module="SlotModel" data-view="SlotView.956186" data-id="956186" data-sitezone="41" data-brandsafety="0"></div><style>.portal-menu{position:relative;z-index:1;display:block;-webkit-font-smoothing:antialiased}.portal-menu_width{display:block;margin:0 auto;position:relative;z-index:2}.w-pm-menu{position:relative;z-index:3;display:block;width:100%;height:56px}.w-pm-menu,.w-pm-menu_submenu{-webkit-box-shadow:0 2px 0 0 rgba(0,0,0,.04);box-shadow:0 2px 0 0 rgba(0,0,0,.04)}.w-pm-menu_submenu{z-index:2;height:40px}.pm-menu{display:table;width:100%;margin:0 auto;height:56px;font:15px/18px Helvetica Neue Light,Arial,Tahoma,sans-serif}.pm-menu_submenu{height:40px}.pm-menu__left{text-align:left;width:1%;padding-right:20px}.pm-menu__left,.pm-menu__center{display:table-cell;vertical-align:top}.pm-menu__center{text-align:center}.pm-menu__center__inner{visibility:hidden}.pm-menu__left__inner,.pm-menu__center__inner{display:block;position:relative;height:56px;white-space:nowrap}.pm-menu__left__inner__leg,.pm-menu__center__inner__leg{display:inline-block;height:0;overflow:hidden;visibility:hidden}.pm-menu__left__inner_submenu,.pm-menu__center__inner_submenu{height:40px}.w-pm-menu{background:#005ff9}.w-pm-menu_submenu{background:#333}.pm-menu{background:#005ff9;color:#333}.pm-menu_submenu,.pm-menu__left__inner_submenu,.pm-menu__center__inner_submenu{background:#333}</style>
+
+<div id="portal-menu" class="portal-menu" data-logger="PortalMenu">
+	<div class="pm-css-checker" id="pm-css-checker" style="display: none;"></div>
+	<div id="portal-menu__toolbar" class="portal-menu__toolbar w-pm-menu">
+		<div class="portal-menu_width">
+			<div class="pm-menu">
+				<div class="pm-menu__left">
+					<div class="pm-menu__left__inner">
+					</div>
+				</div>
+				<div class="pm-menu__center">
+					<div class="pm-menu__center__inner">
+						<i class="pm-menu__center__inner__leg" style="visibility: hidden">s</i>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="portal-menu__submenu" class="portal-menu__submenu w-pm-menu w-pm-menu_submenu" style="display: none;">
+		<div class="portal-menu_width">
+			<div class="pm-menu pm-menu_submenu">
+				<div class="pm-menu__center pm-menu__center_submenu">
+					<div class="pm-menu__center__inner pm-menu__center__inner_submenu">
+						<i class="pm-menu__center__inner__leg pm-menu__center__inner__leg_submenu" style="visibility: hidden">s</i>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script>(function(){function e(e){e=e||{};for(var n=1,t=arguments.length;n<t;n++){var r=arguments[n];for(var i in r)r.hasOwnProperty(i)&&(e[i]=r[i])}return e}function n(e){return document.getElementById(e)}function o(e,n,t,r){n&&(n.addEventListener?n[e?"addEventListener":"removeEventListener"](t,r,!1):n[e?"attachEvent":"detachEvent"]("on"+t,r))}function i(e){return e&&1==e.nodeType}function t(e){for(var n,t,r,i,o=e.split(","),s=o.length;s--;)n=o[s],i=r=t=void 0,i=parseInt(1e9*Math.random(),10),(t=n.match(/^(?:cl([bn])|([adgin]))(\d+)(?:sz(\d+))?/))&&(r=t[1]?"s"+t[1]:"n"==t[2]?"nc":("i"==t[2]&&(i=null),t[2]),r+=t[3]+".gif?",t[4]&&(r+="sz="+t[4]),i&&(r+="&rnd="+i),(new Image).src="//r.my.com/"+r)}function s(e,n){return i(e)&&v?e.classList.contains(n):!!~(" "+e.className+" ").indexOf(" "+n+" ")}function r(e,n){i(e)&&(v?e.classList.add(n):!s(e,n)&&(e.className+=" "+n))}function a(e,n){i(e)&&(v?e.classList.remove(n):e.className=e.className.replace(new RegExp("(^|\\s)"+n+"(\\s|$)","g"),"$1"))}function p(e){return e||(e={}),"function"==typeof e.fn&&e}function u(){this._invocations=[],this._fn=null,this._context=null}function d(){}if(console.time("portal-menu.inline.js"),!window.__PM){var f=window.__PM={},A={};0,f.settings=window.__PMS||{},f.settings.staticDir="https://mcdn.imgsmail.ru/pm/1.0.13a/",f.settings.noCss=!1,f.settings.rootClass="portal-menu",f.settings.cssPrefix="pm",f._=A,function(c,p,m){function h(e,n){return typeof e===n}function o(e){var n=C.className,t=l._config.classPrefix||"";if(x&&(n=n.baseVal),l._config.enableJSClass){var r=new RegExp("(^|\\s)"+t+"no-js(\\s|$)");n=n.replace(r,"$1"+t+"js$2")}l._config.enableClasses&&(n+=" "+t+e.join(" "+t),x?C.className.baseVal=n:C.className=n)}function s(e,n){if("object"==typeof e)for(var t in e)b(e,t)&&s(t,e[t]);else{var r=(e=e.toLowerCase()).split("."),i=l[r[0]];if(2==r.length&&(i=i[r[1]]),void 0!==i)return l;n="function"==typeof n?n():n,1==r.length?l[r[0]]=n:(!l[r[0]]||l[r[0]]instanceof Boolean||(l[r[0]]=new Boolean(l[r[0]])),l[r[0]][r[1]]=n),o([(n&&0!=n?"":"no-")+r.join("-")]),l._trigger(e,n)}return l}function v(e){return e.replace(/([a-z])-([a-z])/g,function(e,n,t){return n+t.toUpperCase()}).replace(/^-/,"")}function y(){return"function"!=typeof p.createElement?p.createElement(arguments[0]):x?p.createElementNS.call(p,"http://www.w3.org/2000/svg",arguments[0]):p.createElement.apply(p,arguments)}function g(e,n,t,r){var i,o,s,a,u,f="modernizr",d=y("div"),l=((u=p.body)||((u=y(x?"svg":"body")).fake=!0),u);if(parseInt(t,10))for(;t--;)(s=y("div")).id=r?r[t]:f+(t+1),d.appendChild(s);return(i=y("style")).type="text/css",i.id="s"+f,(l.fake?l:d).appendChild(i),l.appendChild(d),i.styleSheet?i.styleSheet.cssText=e:i.appendChild(p.createTextNode(e)),d.id=f,l.fake&&(l.style.background="",l.style.overflow="hidden",a=C.style.overflow,C.style.overflow="hidden",C.appendChild(l)),o=n(d,e),l.fake?(l.parentNode.removeChild(l),C.style.overflow=a,C.offsetHeight):d.parentNode.removeChild(d),!!o}function a(e,n){return function(){return e.apply(n,arguments)}}function w(e){return e.replace(/([A-Z])/g,function(e,n){return"-"+n.toLowerCase()}).replace(/^ms-/,"-ms-")}function u(e,n,t,r){function i(){s&&(delete N.style,delete N.modElem)}if(r=!h(r,"undefined")&&r,!h(t,"undefined")){var o=function(e,n){var t=e.length;if("CSS"in c&&"supports"in c.CSS){for(;t--;)if(c.CSS.supports(w(e[t]),n))return!0;return!1}if("CSSSupportsRule"in c){for(var r=[];t--;)r.push("("+w(e[t])+":"+n+")");return g("@supports ("+(r=r.join(" or "))+") { #modernizr { position: absolute; } }",function(e){return"absolute"==getComputedStyle(e,null).position})}return m}(e,t);if(!h(o,"undefined"))return o}for(var s,a,u,f,d,l=["modernizr","tspan"];!N.style;)s=!0,N.modElem=y(l.shift()),N.style=N.modElem.style;for(u=e.length,a=0;a<u;a++)if(f=e[a],d=N.style[f],~(""+f).indexOf("-")&&(f=v(f)),N.style[f]!==m){if(r||h(t,"undefined"))return i(),"pfx"!=n||f;try{N.style[f]=t}catch(e){}if(N.style[f]!=d)return i(),"pfx"!=n||f}return i(),!1}function r(e,n,t,r,i){var o=e.charAt(0).toUpperCase()+e.slice(1),s=(e+" "+M.join(o+" ")+o).split(" ");return h(n,"string")||h(n,"undefined")?u(s,n,r,i):function(e,n,t){var r;for(var i in e)if(e[i]in n)return!1===t?e[i]:h(r=n[e[i]],"function")?a(r,t||n):r;return!1}(s=(e+" "+E.join(o+" ")+o).split(" "),n,t)}function e(e,n,t){return r(e,m,m,n,t)}var f=[],d=[],n={_version:"3.0.0",_config:{classPrefix:"pm-",enableClasses:!0,enableJSClass:!0,usePrefixes:!0},_q:[],on:function(e,n){var t=this;setTimeout(function(){n(t[e])},0)},addTest:function(e,n,t){d.push({name:e,fn:n,options:t})},addAsyncTest:function(e){d.push({name:null,fn:e})}},l=function(){};l.prototype=n,l=new l;var _=n._config.usePrefixes?" -webkit- -moz- -o- -ms- ".split(" "):[];n._prefixes=_;var b,t,C=p.documentElement,x="svg"===C.nodeName.toLowerCase(),i="Moz O ms Webkit",E=n._config.usePrefixes?i.toLowerCase().split(" "):[];n._domPrefixes=E,b=h(t={}.hasOwnProperty,"undefined")||h(t.call,"undefined")?function(e,n){return n in e&&h(e.constructor.prototype[n],"undefined")}:function(e,n){return t.call(e,n)},n._l={},n.on=function(e,n){this._l[e]||(this._l[e]=[]),this._l[e].push(n),l.hasOwnProperty(e)&&setTimeout(function(){l._trigger(e,l[e])},0)},n._trigger=function(e,n){if(this._l[e]){var t=this._l[e];setTimeout(function(){var e;for(e=0;e<t.length;e++)(0,t[e])(n)},0),delete this._l[e]}},l._q.push(function(){n.addTest=s});var z,T=(z=c.matchMedia||c.msMatchMedia)?function(e){var n=z(e);return n&&n.matches||!1}:function(e){var n=!1;return g("@media "+e+" { #modernizr { position: absolute; } }",function(e){n="absolute"==(c.getComputedStyle?c.getComputedStyle(e,null):e.currentStyle).position}),n};n.mq=T;n.testStyles=g;var M=n._config.usePrefixes?i.split(" "):[];n._cssomPrefixes=M;var S=function(e){var n,t=_.length,r=c.CSSRule;if(void 0===r)return m;if(!e)return!1;if((n=(e=e.replace(/^@/,"")).replace(/-/g,"_").toUpperCase()+"_RULE")in r)return"@"+e;for(var i=0;i<t;i++){var o=_[i];if(o.toUpperCase()+"_"+n in r)return"@-"+o.toLowerCase()+"-"+e}return!1};n.atRule=S;var P={elem:y("modernizr")};l._q.push(function(){delete P.elem});var N={style:P.elem.style};l._q.unshift(function(){delete N.style}),n.testAllProps=r;var k=n.prefixed=function(e,n,t){return 0===e.indexOf("@")?S(e):(-1!=e.indexOf("-")&&(e=v(e)),n?r(e,n,t):r(e,"pfx"))};l.addTest("requestanimationframe",!!k("requestAnimationFrame",c),{aliases:["raf"]}),n.testAllProps=e,l.addTest("backgroundsize",e("backgroundSize","100%",!0)),l.addTest("boxshadow",e("boxShadow","1px 1px",!0)),l.addTest("csstransitions",e("transition","all",!0)),function(){var e,n,t,r,i,o;for(var s in d){if(e=[],(n=d[s]).name&&(e.push(n.name.toLowerCase()),n.options&&n.options.aliases&&n.options.aliases.length))for(t=0;t<n.options.aliases.length;t++)e.push(n.options.aliases[t].toLowerCase());for(r=h(n.fn,"function")?n.fn():n.fn,i=0;i<e.length;i++)1===(o=e[i].split(".")).length?l[o[0]]=r:(!l[o[0]]||l[o[0]]instanceof Boolean||(l[o[0]]=new Boolean(l[o[0]])),l[o[0]][o[1]]=r),f.push((r?"":"no-")+o.join("-"))}}(),o(f),delete n.addTest,delete n.addAsyncTest;for(var L=0;L<l._q.length;L++)l._q[L]();A.Modernizr=l}(window,document);var l=window.setTimeout,c=window.clearTimeout,m=n(f.settings.rootClass);Array.isArray||(Array.isArray=function(e){return"[object Array]"===Object.prototype.toString.call(e)});var h=Array.prototype.slice;void 0===Function.prototype.bind&&(Function.prototype.bind=function(e){var n=h.call(arguments,1),t=this;return function(){return t.apply(e,n.concat(h.call(arguments,0)))}});var v=A.Modernizr.classlist;Array.prototype.indexOf||(Array.prototype.indexOf=function(e){for(var n=0,t=this.length;n<t;n++)if(this[n]==e)return n;return-1}),e(A,{extend:e,animate:function(n,e,t){function r(e){if(f&&(e.propertyName||e.originalEvent.propertyName)===f||!f){if(s)return;s=!0,clearTimeout(i),A.$(n).unbind(A.Modernizr.transitionend,r),u.fn()}}t||(t={});var i,o,s,a=t.before&&(t.before=p(t.before)),u=t.after&&(t.after=p(t.after)),f=u&&u.prop&&A.Modernizr.prefixedCss(u.prop),d=A.Modernizr.prefixed("transitionDuration"),l=d&&A.$(n).css(d);l&&(l=-1<l.indexOf("ms")?parseFloat(l):1e3*parseFloat(l)),a&&a.fn(),o=setTimeout(function(){e()},A.Modernizr.csstransitions?20:0),u&&(A.Modernizr.csstransitions?(A.$(n).bind(A.Modernizr.transitionend,r),l&&(i=setTimeout(function(){r(f?{propertyName:f}:void 0)},l))):i=setTimeout(function(){u.fn()},0));var c=!1;return{cancel:function(){c||(clearTimeout(o),clearTimeout(i),A.$(n).unbind(A.Modernizr.transitionend,r),c=!0)}}},project:"{{ project }}",setTimeout:function(e,n){return l(e,n)},clearTimeout:function(e){return c(e)},rootNode:m,byId:n,bind:function(e){return e.bind.apply(e,h.call(arguments,1))},radar:function(e,n){var t=[];if("string"==typeof e)t.push([e,n]);else for(var r in e)e.hasOwnProperty(r)&&(t.push([r,e[r]]),e[r]);for(var i=0,o=t.length;i<o;i++)t[i]=t[i].join(":")},setIntervalByTimeout:function(n,t,e){var r,i;return e&&n(),r=l(function e(){n(),i||(r=l(e,t))},t),function(){i=!0,c(r)}},eventCancel:function(e){e.stopPropagation?e.stopPropagation():e.cancelBubble=!0,e.preventDefault?e.preventDefault():e.returnValue=!1},eventPreventDefault:function(e){e.preventDefault?e.preventDefault():e.returnValue=!1},event:o,isNode:i,emptyNode:function(e){for(;e.firstChild;)e.removeChild(e.firstChild)},count:t,countEl:function(e){o(1,e,"mousedown",function(e){e||(e=window.event);for(var n=e.target||e.srcElement;n;)n.getAttribute&&n.getAttribute("xname")&&t(n.getAttribute("xname")),n=n.parentNode})},hasParent:function(e,n){var t;t=i(n)?function(e,n){return e==n}:function(e,n){return s(e,n)};for(var r=e.parentNode;r;){if(t(r,n))return r;r=r.parentNode}return!1},hasClass:s,removeClass:a,addClass:r,toggleClass:function(e,n){if(i(e))return v?e.classList.toggle(n):s(e,n)?(a(e,n),!1):(r(e,n),!0)},animateEnd:function(n,t,r){function i(e){(r&&e.propertyName===r||!r)&&(o(0,n,A.Modernizr.transitionend,i),t())}var e;return r&&(r=A.Modernizr.prefixedCss(r)),A.Modernizr.csstransitions?o(1,n,A.Modernizr.transitionend,i):e=A.setTimeout(function(){t()},0),{prop:r,callback:t,node:n,cancel:function(){e?clearTimeout(e):o(0,n,A.Modernizr.transitionend,i)}}},append:function(e,n){for(var t in n)Object.prototype.hasOwnProperty.call(n,t)&&!Object.prototype.hasOwnProperty.call(e,t)&&(e[t]=n[t]);return e}}),A.Modernizr.prefixedCss=function(){var e=A.Modernizr.prefixed.apply(this,arguments);return e&&e.replace(/([A-Z])/g,function(e,n){return"-"+n.toLowerCase()}).replace(/^ms-/,"-ms-")},A.Modernizr.addTest("transitionend",function(){var e,n=document.createElement("fakeelement"),t={OTransition:"otransitionend",MSTransition:"msTransitionEnd",MozTransition:"transitionend",WebkitTransition:"webkitTransitionEnd",transition:"transitionend"};for(e in t)if(void 0!==n.style[e])return n=null,t[e]}),A.Modernizr.addTest("dpr",function(){return window.devicePixelRatio}),A.Modernizr.addTest("retina",function(){return 1<A.Modernizr.dpr&&A.Modernizr.backgroundsize}),A.Modernizr.addTest("ie",function(){return 0<navigator.userAgent.indexOf("MSIE")}),A.Modernizr.addTest("requestAnimationFrame",function(){return A.Modernizr.prefixed("requestAnimationFrame",window)}),A.extend(A,{}),A.SCookie=window.__PH&&window.__PH.cookie&&window.__PH.cookie.s,u.prototype={getQuery:function(){var e=A.bind(this.invoke,this);return e.replace=A.bind(this.replace,this),e},invoke:function(){this._fn?this._fn.apply(this._context,arguments):this._invocations.push(arguments)},replace:function(e,n){if(!this._fn){n=n||window;for(var t=0,r=this._invocations.length;t<r;t++)e.apply(n,this._invocations[t]);delete this._invocations,this._fn=e,this._context=n}}},A.DeferredQuery=u,(d.prototype={emit:function(e,n,t){function r(){--s||t&&t()}null==n&&(n={});var i=this.listeners(e);if(i){i=i.slice();for(var o=new d.Event(e,n),s=i.length,a=0,u=s;a<u;a++){var f=i[a];if("function"==typeof f)try{f.call(this,o,r)}catch(e){r()}}}else t&&t()},listeners:function(e){return this._events&&this._events[e]&&this._events[e].length&&this._events[e]},addListener:function(e,n){if("function"!=typeof n)throw new Error("invalid argument");return this._events||(this._events={}),this._events[e]||(this._events[e]=[]),this._events[e].push(n),this.emit("newlistener",{type:e,listener:n}),this},once:function(n,t){if("function"!=typeof t)throw new Error("invalid argument");return this.on(n,function e(){this.removeListener(n,e),t.apply(this,arguments)}),this},removeListener:function(e,n){if("function"!=typeof n)throw new Error("invalid argument");if(!this._events[e])return this;var t=this._events[e],r=t.indexOf(n);return r<0||(t.splice(r,1),0===t.length&&delete this._events[e]),this}}).on=d.prototype.addListener,d.Event=function(e,n){this.type=e,this.data=n},d.relay=function(e,n,t){for(var r=0,i=e.length;r<i;r++){var o=e[r];n.on(o,function(e){return function(){t.emit(e)}}(o))}},A.EventEmitter=d,A.extend(f,A.EventEmitter.prototype,{}),f.isLoaded=function(){return f._loaded||!1},f.whenLoaded=function(e){f.isLoaded()?e():f.on("load",e)},A.SCookie=window.__PH&&window.__PH.cookie&&window.__PH.cookie.s,f.regionSelector=new A.EventEmitter,A.extend(f.regionSelector,{show:(new A.DeferredQuery).getQuery(),hide:(new A.DeferredQuery).getQuery(),enabled:function(){return f.settings.regionsSelectorEnabled}}),f.draw=(new A.DeferredQuery).getQuery(),f.getItems=(new A.DeferredQuery).getQuery(),f.batchActions=(new A.DeferredQuery).getQuery(),A.initInline=function(){A.SCookie=window.__PH&&window.__PH.cookie&&window.__PH.cookie.s,A.addClass(A.rootNode,f.settings.rootClass+"_boxshadow-"+(A.Modernizr.boxshadow?"yes":"no")),f.settings.regionsSelectorEnabled=!!window.__PortalRegions,A.SCookie||(f.settings.regionsSelectorEnabled=!1),f.settings.submenu&&(document.getElementById(f.settings.rootClass+"__submenu").style.display=""),A.rootNode.className=A.rootNode.className},A.rootNode?A.initInline():f.init=(new A.DeferredQuery).getQuery(),function(){function e(){t.appendChild(n)}var n=document.createElement("script"),t=document.getElementsByTagName("head")[0];n.async="async",n.defer="defer",n.type="text/javascript",n.charset="utf-8";var r=-1==location.href.indexOf("PMDebug")?".min":"";n.src=f.settings.staticDir+(f.settings.noCss?"nocss":"external")+r+".js","opera"in window&&"complete"!==document.readyState?window.addEventListener("DOMContentLoaded",function(){e()},!1):e()}(),console.timeEnd("portal-menu.inline.js")}}).call(window);//# sourceURL=//img.imgsmail.ru/pm/1.0.13/build/inline.js</script>
+<textarea style="display: none;" id="portal-menu__other"><div class="portal-menu__others"><div class="pm-toolbar__dropdown__costomcontent"><div class="pm-dropdown-cols"><div class="pm-dropdown-cols__list"><div class="pm-toolbar__dropdown__item pm-toolbar__dropdown__item_noborder pm-toolbar__dropdown__item_submenu"><a class="pm-toolbar__dropdown__item__inner pm-toolbar__dropdown__item__inner_head pm-toolbar__dropdown__item__inner_submenu" name="clb6492030" href="/betting/"><span class="pm-toolbar__dropdown__item__text pm-toolbar__dropdown__item__text_submenu">Ставки</span></a></div><div class="pm-toolbar__dropdown__item pm-toolbar__dropdown__item_noborder pm-toolbar__dropdown__item_submenu"><a class="pm-toolbar__dropdown__item__inner pm-toolbar__dropdown__item__inner_submenu" name="clb6492030" href="/bookmakers/"><span class="pm-toolbar__dropdown__item__text pm-toolbar__dropdown__item__text_submenu">Рейтинг букмекеров</span></a></div></div><div class="pm-dropdown-cols__list"><div class="pm-toolbar__dropdown__item pm-toolbar__dropdown__item_noborder pm-toolbar__dropdown__item_submenu"><a class="pm-toolbar__dropdown__item__inner pm-toolbar__dropdown__item__inner_head pm-toolbar__dropdown__item__inner_submenu" name="clb6492030" href="/games/"><span class="pm-toolbar__dropdown__item__text pm-toolbar__dropdown__item__text_submenu">Игровые</span></a></div></div><div class="pm-dropdown-cols__list"><div class="pm-toolbar__dropdown__item pm-toolbar__dropdown__item_noborder pm-toolbar__dropdown__item_submenu"><a class="pm-toolbar__dropdown__item__inner pm-toolbar__dropdown__item__inner_head pm-toolbar__dropdown__item__inner_submenu" name="clb6492030" href="/automoto/"><span class="pm-toolbar__dropdown__item__text pm-toolbar__dropdown__item__text_submenu">Авто/мото</span></a></div><div class="pm-toolbar__dropdown__item pm-toolbar__dropdown__item_noborder pm-toolbar__dropdown__item_submenu"><a class="pm-toolbar__dropdown__item__inner pm-toolbar__dropdown__item__inner_head pm-toolbar__dropdown__item__inner_submenu" name="clb6492030" href="/water/"><span class="pm-toolbar__dropdown__item__text pm-toolbar__dropdown__item__text_submenu">Водные</span></a></div><div class="pm-toolbar__dropdown__item pm-toolbar__dropdown__item_noborder pm-toolbar__dropdown__item_submenu"><a class="pm-toolbar__dropdown__item__inner pm-toolbar__dropdown__item__inner_head pm-toolbar__dropdown__item__inner_submenu" name="clb6492030" href="/others/"><span class="pm-toolbar__dropdown__item__text pm-toolbar__dropdown__item__text_submenu">Прочие</span></a></div></div><div class="pm-dropdown-cols__list"><div class="pm-toolbar__dropdown__item pm-toolbar__dropdown__item_noborder pm-toolbar__dropdown__item_submenu"><a class="pm-toolbar__dropdown__item__inner pm-toolbar__dropdown__item__inner_head pm-toolbar__dropdown__item__inner_submenu" name="clb6492030" href="/olympics/"><span class="pm-toolbar__dropdown__item__text pm-toolbar__dropdown__item__text_submenu">Олимпизм</span></a></div><span class="pm-dropdown-cols__list__separator"></span><div class="pm-toolbar__dropdown__item pm-toolbar__dropdown__item_noborder pm-toolbar__dropdown__item_submenu"><a class="pm-toolbar__dropdown__item__inner pm-toolbar__dropdown__item__inner_head pm-toolbar__dropdown__item__inner_submenu" name="clb6492030" href="/belarus/"><span class="pm-toolbar__dropdown__item__text pm-toolbar__dropdown__item__text_submenu">Беларусь</span></a></div><div class="pm-toolbar__dropdown__item pm-toolbar__dropdown__item_noborder pm-toolbar__dropdown__item_submenu"><a class="pm-toolbar__dropdown__item__inner pm-toolbar__dropdown__item__inner_head pm-toolbar__dropdown__item__inner_submenu" name="clb6492030" href="/kazakhstan/"><span class="pm-toolbar__dropdown__item__text pm-toolbar__dropdown__item__text_submenu">Казахстан</span></a></div></div></div><div class="pm-dropdown-bottom"><div class="pm-dropdown-bottom__inner"><span class="pm-dropdown-bottom__title">Соцсети</span><a href="//vk.com/sportmailru" target="_blank" rel="nofollow noopener" name="clb6492030" class="pm-dropdown-bottom__icons pm-dropdown-bottom__icons_vk" title="ВКонтакте"></a><span class="pm-dropdown-bottom__separator"></span></div></div></div></div></textarea><div class="hidden"><div class=" js-module" data-module="SlotModel" data-view="SlotView.menuBanners.38527" data-id="38527" data-sitezone="41" data-brandsafety="0"></div><div class=" js-module" data-module="SlotModel" data-view="SlotView.menuBanners.6282" data-id="6282" data-sitezone="41" data-brandsafety="0"></div><div class=" js-module" data-module="SlotModel" data-view="SlotView.menuBanners.6283" data-id="6283" data-sitezone="41" data-brandsafety="0"></div><div class=" js-module" data-module="SlotModel" data-view="SlotView.menuBanners.41550" data-id="41550" data-sitezone="41" data-brandsafety="0"></div></div>
+			<script>
+				var portalMenu = JSON.parse("{\"searchMaxLength\":150,\"toolbarButtons\":[],\"toolbarItems\":[{\"dropdown\":[{\"current\":0,\"url\":\"/football-rus-premier/\",\"name\":\"football-rus-premier\",\"title\":\"Премьер-лига\"},{\"current\":0,\"url\":\"/football-national/\",\"name\":\"football-national\",\"title\":\"Сборные\"},{\"current\":0,\"url\":\"/football-foreign/\",\"name\":\"football-foreign\",\"title\":\"Зарубежный\"},{\"current\":0,\"url\":\"/football-euro/\",\"name\":\"football-euro\",\"title\":\"Чемпионат Европы\"}],\"current\":0,\"url\":\"/football/\",\"name\":\"football\",\"title\":\"Футбол\"},{\"dropdown\":[{\"current\":0,\"url\":\"/hockey-khl/\",\"name\":\"hockey-khl\",\"title\":\"КХЛ\"},{\"current\":0,\"url\":\"/hockey-nhl/\",\"name\":\"hockey-nhl\",\"title\":\"НХЛ\"}],\"current\":0,\"url\":\"/hockey/\",\"name\":\"hockey\",\"title\":\"Хоккей\"},{\"dropdown\":0,\"current\":0,\"url\":\"/biathlon/\",\"name\":\"biathlon\",\"title\":\"Биатлон\"},{\"dropdown\":0,\"current\":0,\"url\":\"/mma/\",\"name\":\"mma\",\"title\":\"ММА\"},{\"dropdown\":0,\"current\":0,\"url\":\"/boxing/\",\"name\":\"boxing\",\"title\":\"Бокс\"},{\"dropdown\":0,\"current\":0,\"url\":\"/tennis/\",\"name\":\"tennis\",\"title\":\"Теннис\"},{\"dropdown\":[{\"current\":0,\"url\":\"/skiing/\",\"name\":\"skiing\",\"title\":\"Лыжный спорт\"}],\"current\":0,\"url\":\"/winter/\",\"name\":\"winter\",\"title\":\"Зимние\"},{\"dropdown\":0,\"current\":0,\"url\":\"/figure-skating/\",\"name\":\"figure-skating\",\"title\":\"Фигурное катание\"},{\"columns\":[[{\"dropdown\":[{\"current\":0,\"url\":\"/bookmakers/\",\"name\":\"bookmakers\",\"title\":\"Рейтинг букмекеров\"}],\"current\":0,\"url\":\"/betting/\",\"name\":\"betting\",\"title\":\"Ставки\"}],[{\"dropdown\":[],\"current\":0,\"url\":\"/games/\",\"name\":\"games\",\"title\":\"Игровые\"}],[{\"dropdown\":[],\"current\":0,\"url\":\"/automoto/\",\"name\":\"automoto\",\"title\":\"Авто/мото\"},{\"dropdown\":[],\"current\":0,\"url\":\"/water/\",\"name\":\"water\",\"title\":\"Водные\"},{\"dropdown\":[],\"current\":0,\"url\":\"/others/\",\"name\":\"others\",\"title\":\"Прочие\"}],[{\"dropdown\":[],\"current\":0,\"url\":\"/olympics/\",\"name\":\"olympics\",\"title\":\"Олимпизм\"},{\"separator\":1},{\"current\":0,\"url\":\"/belarus/\",\"name\":\"belarus\",\"title\":\"Беларусь\"},{\"current\":0,\"url\":\"/kazakhstan/\",\"name\":\"kazakhstan\",\"title\":\"Казахстан\"}]],\"url\":\"#\",\"name\":\"other\",\"title\":\"Другие\"}],\"submenuItems\":[],\"menuBanners\":[38527,6282,6283,41550],\"projectName\":\"Спорт Mail.ru\",\"domain\":\"//sportmail.ru\"}");
+			</script>
+		<script defer="" src="/-/4acb9a99/js/cmpld/sport/web/portal-menu.js"></script><!-- /rb/40920?brandsafety=0&_SITEID=173 --><!-- //rb/40920?brandsafety=0&_SITEID=173 --><div class="unprinted"><div class="branding-p"><!-- /rb/5750 (branding-p) --><div class="rb-slot js-module" data-module="SlotModel" data-view="SlotView.5750" data-id="5750" data-sitezone="41" data-news-id="0" data-brandsafety="0"></div><!-- //rb/5750 (branding-p) --></div></div></div><div data-logger-parent="content"><div class="layout"><div class="js-module" data-module="TrackBlocks" data-counter-id="1650856" name="clb1650856"><div data-logger="sport__Events"><div class="block block_separated_top block_bg_primary block_center block_collapse_hor link-hdr js-module" data-module="ShowPopupModel.SportEvents" data-view="ShowPopup.SportEvents" data-popup-update-url="/nsport/ajax/events/"><div class="wrapper align_left"><div class="hdr margin_bottom_20"><div class="hdr__wrapper"><a class="hdr__text" href="#"><span class="hdr__inner js-redraw-popup__sport-events">Текущие события</span></a></div><span class=" js-module" data-module="SlotModel" data-view="SlotView.729726" data-id="729726" data-sitezone="41" onclick="return {&quot;SlotView&quot;:{&quot;slot&quot;:{&quot;queryParams&quot;:{&quot;okko&quot;:0,&quot;winline&quot;:1}}}}"></span></div></div><div class="slider js-module" data-module="Slider.SportEventsIndex"><div class="control control_prev control_flex control_absolute js-slider__prev"><span class="icon icon_svg"><svg class="icon icon_fill_current" height="100%" width="100%"><use class="icon__use" xlink:href="/-/4b21da14/bem/sport/web/web.bundles/common/common.svg#icon_navigation_drop-previous"></use></svg></span></div><div class="control control_next control_flex control_absolute js-slider__next"><span class="icon icon_svg"><svg class="icon icon_fill_current" height="100%" width="100%"><use class="icon__use" xlink:href="/-/4b21da14/bem/sport/web/web.bundles/common/common.svg#icon_navigation_drop-next"></use></svg></span></div><div class="slider__wrapper js-slider__container padding_left_20 padding_right_20"><div class="slider__content js-slider__viewport"><div class="slider__items js-slider__items js-slider__content"><div class="slider__item slider__item_padding js-slider__item align_left"><div class="p-sport-event p-sport-event_index js-slider__item"><div class="p-sport-event__logo-team p-sport-event__logo-team_1" style="background-image: url(/pic/sport/team/fe/953.png#120x120)"></div><div class="p-sport-event__logo-team p-sport-event__logo-team_2" style="background-image: url(/pic/sport/team/c9/961.png#120x120)"></div><div class="p-sport-event__param"><a class="p-sport-event__rubric link-holder_over" href="/hockey-nhl/">Хоккей. НХЛ</a><div class="p-sport-event__info">31.03</div></div><a class="p-sport-event__content link-holder" href="/hockey-nhl/317/match/8108915/"><div class="p-sport-event__teams"><div class="p-sport-event__name">Бостон</div><div class="p-sport-event__name">Коламбус</div></div><div class="p-sport-event__scores"><span class="p-sport-event__score">&ndash;</span><span class="p-sport-event__score">&ndash;</span></div></a><div class="js-rb-teaser-winline-widget" data-bet-id="8108915"></div><div class="js-rb-teaser-onexbet-widget" data-bet-id="8108915"></div><div class="js-rb-teaser-okko-widget" data-bet-id="8108915"></div></div></div><div class="slider__item slider__item_padding js-slider__item align_left"><div class="p-sport-event p-sport-event_index js-slider__item"><div class="p-sport-event__logo-team p-sport-event__logo-team_1" style="background-image: url(/pic/sport/team/51/965.png#120x120)"></div><div class="p-sport-event__logo-team p-sport-event__logo-team_2" style="background-image: url(/pic/sport/team/d1/978.png#120x120)"></div><div class="p-sport-event__param"><a class="p-sport-event__rubric link-holder_over" href="/hockey-nhl/">Хоккей. НХЛ</a><div class="p-sport-event__info">31.03</div></div><a class="p-sport-event__content link-holder" href="/hockey-nhl/317/match/8108916/"><div class="p-sport-event__teams"><div class="p-sport-event__name">Монреаль</div><div class="p-sport-event__name">Флорида</div></div><div class="p-sport-event__scores"><span class="p-sport-event__score">&ndash;</span><span class="p-sport-event__score">&ndash;</span></div></a><div class="js-rb-teaser-winline-widget" data-bet-id="8108916"></div><div class="js-rb-teaser-onexbet-widget" data-bet-id="8108916"></div><div class="js-rb-teaser-okko-widget" data-bet-id="8108916"></div></div></div><div class="slider__item slider__item_padding js-slider__item align_left"><div class="p-sport-event p-sport-event_index js-slider__item"><div class="p-sport-event__logo-team p-sport-event__logo-team_1" style="background-image: url(/pic/sport/team/88/966.png#120x120)"></div><div class="p-sport-event__logo-team p-sport-event__logo-team_2" style="background-image: url(/pic/sport/team/d1/968.png#120x120)"></div><div class="p-sport-event__param"><a class="p-sport-event__rubric link-holder_over" href="/hockey-nhl/">Хоккей. НХЛ</a><div class="p-sport-event__info">31.03</div></div><a class="p-sport-event__content link-holder" href="/hockey-nhl/317/match/8108917/"><div class="p-sport-event__teams"><div class="p-sport-event__name">Нью-Джерси</div><div class="p-sport-event__name">Рейнджерс</div></div><div class="p-sport-event__scores"><span class="p-sport-event__score">&ndash;</span><span class="p-sport-event__score">&ndash;</span></div></a><div class="js-rb-teaser-winline-widget" data-bet-id="8108917"></div><div class="js-rb-teaser-onexbet-widget" data-bet-id="8108917"></div><div class="js-rb-teaser-okko-widget" data-bet-id="8108917"></div></div></div><div class="slider__item slider__item_padding js-slider__item align_left"><div class="p-sport-event p-sport-event_index js-slider__item"><div class="p-sport-event__logo-team p-sport-event__logo-team_1" style="background-image: url(/pic/sport/team/42/970.png#120x120)"></div><div class="p-sport-event__logo-team p-sport-event__logo-team_2" style="background-image: url(/pic/sport/team/35/976.png#120x120)"></div><div class="p-sport-event__param"><a class="p-sport-event__rubric link-holder_over" href="/hockey-nhl/">Хоккей. НХЛ</a><div class="p-sport-event__info">31.03</div></div><a class="p-sport-event__content link-holder" href="/hockey-nhl/317/match/8108918/"><div class="p-sport-event__teams"><div class="p-sport-event__name">Оттава</div><div class="p-sport-event__name">Филадельфия</div></div><div class="p-sport-event__scores"><span class="p-sport-event__score">&ndash;</span><span class="p-sport-event__score">&ndash;</span></div></a><div class="js-rb-teaser-winline-widget" data-bet-id="8108918"></div><div class="js-rb-teaser-onexbet-widget" data-bet-id="8108918"></div><div class="js-rb-teaser-okko-widget" data-bet-id="8108918"></div></div></div><div class="slider__item slider__item_padding js-slider__item align_left"><div class="p-sport-event p-sport-event_index js-slider__item"><div class="p-sport-event__logo-team p-sport-event__logo-team_1" style="background-image: url(/pic/sport/team/84/971.png#120x120)"></div><div class="p-sport-event__logo-team p-sport-event__logo-team_2" style="background-image: url(/pic/sport/team/27/969.png#120x120)"></div><div class="p-sport-event__param"><a class="p-sport-event__rubric link-holder_over" href="/hockey-nhl/">Хоккей. НХЛ</a><div class="p-sport-event__info">31.03</div></div><a class="p-sport-event__content link-holder" href="/hockey-nhl/317/match/8108919/"><div class="p-sport-event__teams"><div class="p-sport-event__name">Питтсбург</div><div class="p-sport-event__name">Нэшвилл</div></div><div class="p-sport-event__scores"><span class="p-sport-event__score">&ndash;</span><span class="p-sport-event__score">&ndash;</span></div></a><div class="js-rb-teaser-winline-widget" data-bet-id="8108919"></div><div class="js-rb-teaser-onexbet-widget" data-bet-id="8108919"></div><div class="js-rb-teaser-okko-widget" data-bet-id="8108919"></div></div></div><div class="slider__item slider__item_padding js-slider__item align_left"><div class="p-sport-event p-sport-event_index js-slider__item"><div class="p-sport-event__logo-team p-sport-event__logo-team_1" style="background-image: url(/pic/sport/team/e1/974.png#120x120)"></div><div class="p-sport-event__logo-team p-sport-event__logo-team_2" style="background-image: url(/pic/sport/team/1f/955.png#120x120)"></div><div class="p-sport-event__param"><a class="p-sport-event__rubric link-holder_over" href="/hockey-nhl/">Хоккей. НХЛ</a><div class="p-sport-event__info">31.03</div></div><a class="p-sport-event__content link-holder" href="/hockey-nhl/317/match/8108920/"><div class="p-sport-event__teams"><div class="p-sport-event__name">Тампа-Бэй</div><div class="p-sport-event__name">Вашингтон</div></div><div class="p-sport-event__scores"><span class="p-sport-event__score">&ndash;</span><span class="p-sport-event__score">&ndash;</span></div></a><div class="js-rb-teaser-winline-widget" data-bet-id="8108920"></div><div class="js-rb-teaser-onexbet-widget" data-bet-id="8108920"></div><div class="js-rb-teaser-okko-widget" data-bet-id="8108920"></div></div></div><div class="slider__item slider__item_padding js-slider__item align_left"><div class="p-sport-event p-sport-event_index js-slider__item"><div class="p-sport-event__logo-team p-sport-event__logo-team_1" style="background-image: url(/pic/sport/team/9b/958.png#120x120)"></div><div class="p-sport-event__logo-team p-sport-event__logo-team_2" style="background-image: url(/pic/sport/team/36/960.png#120x120)"></div><div class="p-sport-event__param"><a class="p-sport-event__rubric link-holder_over" href="/hockey-nhl/">Хоккей. НХЛ</a><div class="p-sport-event__info">31.03</div></div><a class="p-sport-event__content link-holder" href="/hockey-nhl/317/match/8108921/"><div class="p-sport-event__teams"><div class="p-sport-event__name">Детройт</div><div class="p-sport-event__name">Каролина</div></div><div class="p-sport-event__scores"><span class="p-sport-event__score">&ndash;</span><span class="p-sport-event__score">&ndash;</span></div></a><div class="js-rb-teaser-winline-widget" data-bet-id="8108921"></div><div class="js-rb-teaser-onexbet-widget" data-bet-id="8108921"></div><div class="js-rb-teaser-okko-widget" data-bet-id="8108921"></div></div></div><div class="slider__item slider__item_padding js-slider__item align_left"><div class="p-sport-event p-sport-event_index js-slider__item"><div class="p-sport-event__logo-team p-sport-event__logo-team_1" style="background-image: url(/pic/sport/team/8e/979.png#120x120)"></div><div class="p-sport-event__logo-team p-sport-event__logo-team_2" style="background-image: url(/pic/sport/team/09/973.png#120x120)"></div><div class="p-sport-event__param"><a class="p-sport-event__rubric link-holder_over" href="/hockey-nhl/">Хоккей. НХЛ</a><div class="p-sport-event__info">31.03</div></div><a class="p-sport-event__content link-holder" href="/hockey-nhl/317/match/8108922/"><div class="p-sport-event__teams"><div class="p-sport-event__name">Чикаго</div><div class="p-sport-event__name">Сент-Луис</div></div><div class="p-sport-event__scores"><span class="p-sport-event__score">&ndash;</span><span class="p-sport-event__score">&ndash;</span></div></a><div class="js-rb-teaser-winline-widget" data-bet-id="8108922"></div><div class="js-rb-teaser-onexbet-widget" data-bet-id="8108922"></div><div class="js-rb-teaser-okko-widget" data-bet-id="8108922"></div></div></div><div class="slider__item slider__item_padding js-slider__item align_left"><div class="p-sport-event p-sport-event_index js-slider__item"><div class="p-sport-event__logo-team p-sport-event__logo-team_1" style="background-image: url(/pic/sport/team/fe/980.png#120x120)"></div><div class="p-sport-event__logo-team p-sport-event__logo-team_2" style="background-image: url(/pic/sport/team/68/963.png#120x120)"></div><div class="p-sport-event__param"><a class="p-sport-event__rubric link-holder_over" href="/hockey-nhl/">Хоккей. НХЛ</a><div class="p-sport-event__info">31.03</div></div><a class="p-sport-event__content link-holder" href="/hockey-nhl/317/match/8108923/"><div class="p-sport-event__teams"><div class="p-sport-event__name">Эдмонтон</div><div class="p-sport-event__name">Лос-Анджелес</div></div><div class="p-sport-event__scores"><span class="p-sport-event__score">&ndash;</span><span class="p-sport-event__score">&ndash;</span></div></a><div class="js-rb-teaser-winline-widget" data-bet-id="8108923"></div><div class="js-rb-teaser-onexbet-widget" data-bet-id="8108923"></div><div class="js-rb-teaser-okko-widget" data-bet-id="8108923"></div></div></div><div class="slider__item slider__item_padding js-slider__item align_left"><div class="p-sport-event p-sport-event_index js-slider__item"><div class="p-sport-event__logo-team p-sport-event__logo-team_1" style="background-image: url(/pic/sport/team/a5/1665.png#120x120)"></div><div class="p-sport-event__logo-team p-sport-event__logo-team_2" style="background-image: url(/pic/sport/team/e0/951.png#120x120)"></div><div class="p-sport-event__param"><a class="p-sport-event__rubric link-holder_over" href="/hockey-nhl/">Хоккей. НХЛ</a><div class="p-sport-event__info">31.03</div></div><a class="p-sport-event__content link-holder" href="/hockey-nhl/317/match/8108924/"><div class="p-sport-event__teams"><div class="p-sport-event__name">Сиэтл</div><div class="p-sport-event__name">Анахайм</div></div><div class="p-sport-event__scores"><span class="p-sport-event__score">&ndash;</span><span class="p-sport-event__score">&ndash;</span></div></a><div class="js-rb-teaser-winline-widget" data-bet-id="8108924"></div><div class="js-rb-teaser-onexbet-widget" data-bet-id="8108924"></div><div class="js-rb-teaser-okko-widget" data-bet-id="8108924"></div></div></div><div class="slider__item slider__item_padding js-slider__item align_left"><div class="p-sport-event p-sport-event_index js-slider__item"><div class="p-sport-event__logo-team p-sport-event__logo-team_1" style="background-image: url(/pic/sport/team/2f/972.png#120x120)"></div><div class="p-sport-event__logo-team p-sport-event__logo-team_2" style="background-image: url(/pic/sport/team/f4/1475.png#120x120)"></div><div class="p-sport-event__param"><a class="p-sport-event__rubric link-holder_over" href="/hockey-nhl/">Хоккей. НХЛ</a><div class="p-sport-event__info">31.03</div></div><a class="p-sport-event__content link-holder" href="/hockey-nhl/317/match/8108925/"><div class="p-sport-event__teams"><div class="p-sport-event__name">Сан-Хосе</div><div class="p-sport-event__name">Вегас</div></div><div class="p-sport-event__scores"><span class="p-sport-event__score">&ndash;</span><span class="p-sport-event__score">&ndash;</span></div></a><div class="js-rb-teaser-winline-widget" data-bet-id="8108925"></div><div class="js-rb-teaser-onexbet-widget" data-bet-id="8108925"></div><div class="js-rb-teaser-okko-widget" data-bet-id="8108925"></div></div></div></div></div></div></div></div><div class=" js-module" data-module="SlotModel" data-view="SlotView.729727" data-id="729727" onclick="return {&quot;SlotView&quot;:{&quot;slot&quot;:{&quot;queryParams&quot;:{&quot;okko&quot;:0,&quot;winline&quot;:1}}}}"></div></div></div><div data-logger="sport__TopNews"><div class="block"><div class="wrapper"><div class="js-module" data-module="TrackBlocks" data-counter-id="1650776"><div class="daynews margin_bottom_30 js-smoky-end"><table class="daynews__inner"><tr><td class="daynews__main"><div class="daynews__item daynews__item_big" name="clb1650776"><span class="photo photo_full photo_scale"><a class="photo__inner link-holder" href="https://sportmail.ru/news/football/55632045/"><img class="photo__pic" src="https://retina.sportmail.ru/prev735x400/pic/9e/a2/main55632045_73303d3ca032d89b425a75305fc7c60f.jpg"/></a><span class="photo__captions"><span class="photo__title">Александр Дюков: Цель — вернуться к матчам в Европе</span><span class="photo__subtitle">Босс российского футбола сделал несколько важных заявлений</span></span></span></div></td><td class="daynews__items"><div class="daynews__item" name="clb1650776"><span class="photo photo_small photo_scale photo_full"><a class="photo__inner link-holder" href="https://sportmail.ru/news/olympics/55631565/"><picture class="picture photo__picture"><source class="" srcSet="https://resizer.mail.ru/p/93fcb520-ef8b-5b10-8e22-a1a6b5d7f8dd/AQAGXG48atRDg9vYaB48HO4CG5fXdEqlRMNPuLsWoZLAFKIVYAniu54mwrgQ3F7VaX-SrSU0y9BkjHPn3BfPqqa9PZU.webp 1x, https://resizer.mail.ru/p/93fcb520-ef8b-5b10-8e22-a1a6b5d7f8dd/dpr:200/AQAGXG48atRDg9vYaB48HO4CG5fXdEqlRMNPuLsWoZLAFKIVYAniu54mwrgQ3F7VaX-SrSU0y9BkjHPn3BfPqqa9PZU.webp 2x" type="image/webp"/><img class="picture__image picture__image_cover photo__pic" src="https://resizer.mail.ru/p/93fcb520-ef8b-5b10-8e22-a1a6b5d7f8dd/AQAGXG48atRDg9vYaB48HO4CG5fXdEqlRMNPuLsWoZLAFKIVYAniu54mwrgQ3F7VaX-SrSU0y9BkjHPn3BfPqqa9PZU.jpg" srcset="https://resizer.mail.ru/p/93fcb520-ef8b-5b10-8e22-a1a6b5d7f8dd/dpr:200/AQAGXG48atRDg9vYaB48HO4CG5fXdEqlRMNPuLsWoZLAFKIVYAniu54mwrgQ3F7VaX-SrSU0y9BkjHPn3BfPqqa9PZU.jpg 2x" height="200" width="282"/></picture></a><span class="photo__captions"><span class="photo__title">Почему позиция МОК по спортсменам-военнослужащим — глупость</span></span></span></div><div class="daynews__item" name="clb1650776"><span class="photo photo_small photo_scale photo_full"><a class="photo__inner link-holder" href="https://sportmail.ru/news/athletics/55632836/"><picture class="picture photo__picture"><source class="" srcSet="https://resizer.mail.ru/p/67962686-0ea8-5ec5-945e-666cd228b668/AQAGqhfAS00zR9CNtf6ar2wm-yPPcNaZyOggKmBH7UnpLX5u8Gvtr54lYOIF6N89KK_RHY0smL7DVTF8OB012-Lt6fk.webp 1x, https://resizer.mail.ru/p/67962686-0ea8-5ec5-945e-666cd228b668/dpr:200/AQAGqhfAS00zR9CNtf6ar2wm-yPPcNaZyOggKmBH7UnpLX5u8Gvtr54lYOIF6N89KK_RHY0smL7DVTF8OB012-Lt6fk.webp 2x" type="image/webp"/><img class="picture__image picture__image_cover photo__pic" src="https://resizer.mail.ru/p/67962686-0ea8-5ec5-945e-666cd228b668/AQAGqhfAS00zR9CNtf6ar2wm-yPPcNaZyOggKmBH7UnpLX5u8Gvtr54lYOIF6N89KK_RHY0smL7DVTF8OB012-Lt6fk.jpg" srcset="https://resizer.mail.ru/p/67962686-0ea8-5ec5-945e-666cd228b668/dpr:200/AQAGqhfAS00zR9CNtf6ar2wm-yPPcNaZyOggKmBH7UnpLX5u8Gvtr54lYOIF6N89KK_RHY0smL7DVTF8OB012-Lt6fk.jpg 2x" height="200" width="281"/></picture></a><span class="photo__captions"><span class="photo__title">МОК перераспределил медали, завоеванные россиянками на ОИ-2012</span></span></span></div><div class="daynews__item hidden_small" name="clb1650776"><span class="photo photo_small photo_scale photo_full"><a class="photo__inner link-holder" href="https://sportmail.ru/news/football-rus-premier/55633733/"><img class="photo__pic" src="https://retina.sportmail.ru/prev282x200/pic/93/eb/main55633733_a5d7f1dcf2d5fe1b44ec256e8833770d.jpg"/></a><span class="photo__captions"><span class="photo__title">Карвальо: Для русских есть Бог на небе, а на земле — Путин</span></span></span></div><div class="daynews__item hidden_small" name="clb1650776"><span class="photo photo_small photo_scale photo_full"><a class="photo__inner link-holder" href="https://sportmail.ru/news/figure-skating/55623924/"><picture class="picture photo__picture"><source class="" srcSet="https://resizer.mail.ru/p/e93dac12-a174-5872-be7b-c14165769209/AQAGuO9uLwJlKkMZXxrr2HZCwEiCduPJQLf9T9NQL7fbcivKzDDVNMAWrSbNlj_eG1wO_sTFYdblBjTCALDLWbP9miY.webp 1x, https://resizer.mail.ru/p/e93dac12-a174-5872-be7b-c14165769209/dpr:200/AQAGuO9uLwJlKkMZXxrr2HZCwEiCduPJQLf9T9NQL7fbcivKzDDVNMAWrSbNlj_eG1wO_sTFYdblBjTCALDLWbP9miY.webp 2x" type="image/webp"/><img class="picture__image picture__image_cover photo__pic" src="https://resizer.mail.ru/p/e93dac12-a174-5872-be7b-c14165769209/AQAGuO9uLwJlKkMZXxrr2HZCwEiCduPJQLf9T9NQL7fbcivKzDDVNMAWrSbNlj_eG1wO_sTFYdblBjTCALDLWbP9miY.jpg" srcset="https://resizer.mail.ru/p/e93dac12-a174-5872-be7b-c14165769209/dpr:200/AQAGuO9uLwJlKkMZXxrr2HZCwEiCduPJQLf9T9NQL7fbcivKzDDVNMAWrSbNlj_eG1wO_sTFYdblBjTCALDLWbP9miY.jpg 2x" height="200" width="282"/></picture></a><span class="photo__captions"><span class="photo__title">Фигуристка уехала из России ради Олимпиады. Ее подвел партнер</span></span></span></div></td><td class="daynews__spring"><div class="spring spring_side"><!--noindex--><div class="p-directhack p-directhack_mimic p-directhack_240x400 p-directhack_240x400_index"><!-- /rb/4420?_SITEZONE=41 (240x400) --><div class="rb-slot js-module" data-module="SlotModel" data-view="SlotView.mimic.4420" data-id="4420" data-sitezone="41" data-brandsafety="0"></div><!-- //rb/4420?_SITEZONE=41 (240x400) --></div><!--/noindex--></div></td></tr></table></div><ul class="list list_type_square list_half js-module" data-module="TrackBlocks" data-counter-id="" name=""><li class="list__item hidden_medium hidden_large"><span class="list__item__inner"><a class="list__text" href="https://sportmail.ru/news/football-rus-premier/55633733/">Карвальо: Для русских есть Бог на небе, а на земле — Путин</a></span></li><li class="list__item hidden_medium hidden_large"><span class="list__item__inner"><a class="list__text" href="https://sportmail.ru/news/figure-skating/55623924/">Фигуристка уехала из России ради Олимпиады. Ее подвел партнер</a></span></li><li class="list__item"><span class="list__item__inner"><a class="list__text" href="https://sportmail.ru/news/hockey-khl/55633380/">Китайский клуб проведет домашние матчи КХЛ в России</a></span></li><li class="list__item"><span class="list__item__inner"><a class="list__text" href="https://sportmail.ru/news/biathlon/55625325/">Сотрудник стадиона испортил «золотой» финиш Сливко и Гараничеву</a></span></li><li class="list__item"><span class="list__item__inner"><a class="list__text" href="https://sportmail.ru/news/formula1/55631764/">Даниил Квят отреагировал на историю Пиастри про российский флаг</a></span></li><li class="list__item"><span class="list__item__inner"><a class="list__text" href="https://sportmail.ru/news/olympics/55625013/">В Польше заявили о намерении шантажировать МОК бойкотом Игр-2024</a></span></li><li class="list__item"><span class="list__item__inner"><a class="list__text" href="https://sportmail.ru/news/football-foreign/55622994/">«Манчестер Сити» нашел замену Гвардиоле</a></span></li><li class="list__item"><span class="list__item__inner"><a class="list__text" href="https://sportmail.ru/news/basketball-nba/55622297/">Тренировки с мечтой о НБА: деревенский баскетболист стал звездой</a></span></li></ul></div></div></div></div><!-- /rb/6461?_SITEZONE=41 (parallax) --><div class="rb-slot js-module" data-module="SlotModel" data-view="SlotView.6461" data-id="6461" data-sitezone="41" data-brandsafety="0"></div><!-- //rb/6461?_SITEZONE=41 (parallax) --><div data-logger="sport__RubricNews"><div class="block block_separated_top"><div class="wrapper js-module" data-module="TrackBlocks" data-counter-id="1650783" name="clb1650783"><div class="cols cols_margin cols_percent"><div class="cols__wrapper"><div class="cols__column cols__column_small_percent-50 cols__column_medium_percent-50 cols__column_large_percent-50 link-hdr"><div class="cols__inner"><div class="hdr hdr_bold_huge margin_bottom_10"><div class="hdr__wrapper"><a class="hdr__text" href="/football/"><span class="hdr__inner">Футбол</span></a></div></div><div class="newsitem newsitem_height_fixed js-ago-wrapper"><div class="newsitem__params"><span class="newsitem__param js-ago" datetime="2023-03-30T13:02:11+03:00">13:02 (мск)</span><span class="newsitem__param">Sport24</span></div><span class="cell cell_photo"><span class="photo newsitem__photo"><div class="photo__inner"><picture class="picture photo__picture"><source class="" srcSet="https://resizer.mail.ru/p/83fd95b1-be83-55e6-a750-5acebfbe4e65/AQAGLOL_z1332GRDpi0PLal02EFaTR56RmgGuK1m_98pUf9aJVJPc5lIps2Id8ke2qNnsUjrhZoN6_RKa1tJiIY58N8.webp 1x, https://resizer.mail.ru/p/83fd95b1-be83-55e6-a750-5acebfbe4e65/dpr:200/AQAGLOL_z1332GRDpi0PLal02EFaTR56RmgGuK1m_98pUf9aJVJPc5lIps2Id8ke2qNnsUjrhZoN6_RKa1tJiIY58N8.webp 2x" type="image/webp"/><img class="picture__image picture__image_cover picture__image_lazy picture__image_lazy photo__pic" src="https://resizer.mail.ru/p/83fd95b1-be83-55e6-a750-5acebfbe4e65/AQAGLOL_z1332GRDpi0PLal02EFaTR56RmgGuK1m_98pUf9aJVJPc5lIps2Id8ke2qNnsUjrhZoN6_RKa1tJiIY58N8.jpg" height="120" width="180" loading="lazy" srcset="https://resizer.mail.ru/p/83fd95b1-be83-55e6-a750-5acebfbe4e65/dpr:200/AQAGLOL_z1332GRDpi0PLal02EFaTR56RmgGuK1m_98pUf9aJVJPc5lIps2Id8ke2qNnsUjrhZoN6_RKa1tJiIY58N8.jpg 2x"/></picture></div></span></span><span class="cell"><a class="newsitem__title link-holder" href="https://sportmail.ru/news/football-national/55623918/"><span class="newsitem__title-inner">Тюкавин: Приезжаю в сборную, чтобы биться за свою страну и флаг. После бана для меня ничего не поменялось</span></a><span class="newsitem__text">Нападающий сборной России Константин Тюкавин рассказал о&nbsp;своей мотивации в&nbsp;национальной команде после отстранения от&nbsp;международных турниров.</span></span></div><ul class="list list_type_square list_overflow"><li class="list__item"><span class="list__item__inner"><a class="list__text" href="https://sportmail.ru/news/football-rus-premier/55625030/">«Спартак» — чемпион по расходам на посредников. Почти каждый год он тратит больше всех</a></span></li><li class="list__item"><span class="list__item__inner"><a class="list__text" href="https://sportmail.ru/news/football-national/55626132/">Сборная России сыграет с Китаем? Что известно о потенциальном сопернике команды Карпина</a></span></li><li class="list__item"><span class="list__item__inner"><a class="list__text" href="https://sportmail.ru/news/football/55622135/">Нейросеть включила Пеле, Марадону, Роналду и Месси в сборную мира</a></span></li></ul></div></div><div class="cols__column cols__column_small_percent-50 cols__column_medium_percent-50 cols__column_large_percent-50 link-hdr"><div class="cols__inner"><div class="hdr hdr_bold_huge margin_bottom_10"><div class="hdr__wrapper"><a class="hdr__text" href="/hockey/"><span class="hdr__inner">Хоккей</span></a></div></div><div class="newsitem newsitem_height_fixed js-ago-wrapper"><div class="newsitem__params"><span class="newsitem__param js-ago" datetime="2023-03-30T12:08:43+03:00">12:08 (мск)</span><span class="newsitem__param">Спорт РИА Новости</span></div><span class="cell cell_photo"><span class="photo newsitem__photo"><div class="photo__inner"><picture class="picture photo__picture"><source class="" srcSet="https://resizer.mail.ru/p/c95130a0-51d9-5202-926c-7e46d0eb814c/AQAGsq0HENMlSZIA4GKH8YGGO2m6P3U1T5dS1T4zaTdlgiiiBiK5UOqnzrWQz3ThY6TTVpge-6pB2igE05BhGTl82D8.webp 1x, https://resizer.mail.ru/p/c95130a0-51d9-5202-926c-7e46d0eb814c/dpr:200/AQAGsq0HENMlSZIA4GKH8YGGO2m6P3U1T5dS1T4zaTdlgiiiBiK5UOqnzrWQz3ThY6TTVpge-6pB2igE05BhGTl82D8.webp 2x" type="image/webp"/><img class="picture__image picture__image_cover picture__image_lazy picture__image_lazy photo__pic" src="https://resizer.mail.ru/p/c95130a0-51d9-5202-926c-7e46d0eb814c/AQAGsq0HENMlSZIA4GKH8YGGO2m6P3U1T5dS1T4zaTdlgiiiBiK5UOqnzrWQz3ThY6TTVpge-6pB2igE05BhGTl82D8.jpg" height="120" width="180" loading="lazy" srcset="https://resizer.mail.ru/p/c95130a0-51d9-5202-926c-7e46d0eb814c/dpr:200/AQAGsq0HENMlSZIA4GKH8YGGO2m6P3U1T5dS1T4zaTdlgiiiBiK5UOqnzrWQz3ThY6TTVpge-6pB2igE05BhGTl82D8.jpg 2x"/></picture></div></span></span><span class="cell"><a class="newsitem__title link-holder" href="https://sportmail.ru/news/hockey-khl/55621775/"><span class="newsitem__title-inner">Лимит на сенсации исчерпали: в КХЛ вновь не будет никакого чуда</span></a><span class="newsitem__text">ЦСКА сыграет со&nbsp;СКА в&nbsp;финале Запада плей-офф, &laquo;Авангард&raquo; сойдется с&nbsp;&laquo;Ак&nbsp;Барсом&raquo; на&nbsp;Востоке.</span></span></div><ul class="list list_type_square list_overflow"><li class="list__item"><span class="list__item__inner"><a class="list__text" href="https://sportmail.ru/news/hockey-nhl/55621568/">«Жду не дождусь, когда он свалит»: в США сильно обозлились на Овечкина</a></span></li><li class="list__item"><span class="list__item__inner"><a class="list__text" href="https://sportmail.ru/news/hockey-khl/55619343/">ЦСКА и СКА в пятый раз подряд встретятся в финале Западной конференции плей-офф КХЛ</a></span></li><li class="list__item"><span class="list__item__inner"><a class="list__text" href="https://sportmail.ru/news/hockey-nhl/55618030/">«Каролина» отправила Кочеткова в фарм-клуб из АХЛ</a></span></li></ul></div></div><div class="cols__column cols__column_small_percent-50 cols__column_medium_percent-50 cols__column_large_percent-50 link-hdr margin_top_30"><div class="cols__inner"><div class="hdr hdr_bold_huge margin_bottom_10"><div class="hdr__wrapper"><a class="hdr__text" href="/mma/"><span class="hdr__inner">ММА</span></a></div></div><div class="newsitem newsitem_height_fixed js-ago-wrapper"><div class="newsitem__params"><span class="newsitem__param js-ago" datetime="2023-03-26T09:53:40+03:00">26 марта</span><span class="newsitem__param">ТАСС</span></div><span class="cell cell_photo"><span class="photo newsitem__photo"><div class="photo__inner"><img class="photo__pic photo__pic_lazy" src="https://retina.sportmail.ru/prev180x120/pic/68/98/main55567256_05b6cd753d2cbc039a2d3cae958cd02e.jpg" height="120" width="180" loading="lazy"/></div></span></span><span class="cell"><a class="newsitem__title link-holder" href="https://sportmail.ru/news/mma/55567256/"><span class="newsitem__title-inner">Российский боец Куницкая уступила американке Холм на турнире UFC в Сан-Антонио</span></a><span class="newsitem__text">Россиянка проиграла решением судей.</span></span></div><ul class="list list_type_square list_overflow"><li class="list__item"><span class="list__item__inner"><a class="list__text" href="https://sportmail.ru/news/mma/55545248/">«Россия разнесет США ядерным оружием». Болтун из UFC шокирует</a></span></li><li class="list__item"><span class="list__item__inner"><a class="list__text" href="https://sportmail.ru/news/mma/55540667/">Завуров: Бойцы UFC отказываются от поединков против Умара Нурмагомедова</a></span></li><li class="list__item"><span class="list__item__inner"><a class="list__text" href="https://sportmail.ru/news/mma/55528099/">41-летняя экс-чемпионка UFC получила новый контракт на шесть боёв</a></span></li></ul></div></div><div class="cols__column cols__column_small_percent-50 cols__column_medium_percent-50 cols__column_large_percent-50 link-hdr margin_top_30"><div class="cols__inner"><div class="hdr hdr_bold_huge margin_bottom_10"><div class="hdr__wrapper"><a class="hdr__text" href="/olympics/"><span class="hdr__inner">Олимпизм</span></a></div></div><div class="newsitem newsitem_height_fixed js-ago-wrapper"><div class="newsitem__params"><span class="newsitem__param js-ago" datetime="2023-03-30T16:53:25+03:00">16:53 (мск)</span><span class="newsitem__param">ТАСС</span></div><span class="cell cell_photo"><span class="photo newsitem__photo"><div class="photo__inner"><picture class="picture photo__picture"><source class="" srcSet="https://resizer.mail.ru/p/7b866a75-7fc3-5a7a-b6e9-5dbe336e90ce/AQAGuO_zSK_ZiMf34i3l8C7MNBR1e2gQjCraLscki_V3I5eFMIn27csFNp3B2B42H_Unrs9n_OWRHcPuz4H7Ni3hqa4.webp 1x, https://resizer.mail.ru/p/7b866a75-7fc3-5a7a-b6e9-5dbe336e90ce/dpr:200/AQAGuO_zSK_ZiMf34i3l8C7MNBR1e2gQjCraLscki_V3I5eFMIn27csFNp3B2B42H_Unrs9n_OWRHcPuz4H7Ni3hqa4.webp 2x" type="image/webp"/><img class="picture__image picture__image_cover picture__image_lazy picture__image_lazy photo__pic" src="https://resizer.mail.ru/p/7b866a75-7fc3-5a7a-b6e9-5dbe336e90ce/AQAGuO_zSK_ZiMf34i3l8C7MNBR1e2gQjCraLscki_V3I5eFMIn27csFNp3B2B42H_Unrs9n_OWRHcPuz4H7Ni3hqa4.jpg" height="120" width="180" loading="lazy" srcset="https://resizer.mail.ru/p/7b866a75-7fc3-5a7a-b6e9-5dbe336e90ce/dpr:200/AQAGuO_zSK_ZiMf34i3l8C7MNBR1e2gQjCraLscki_V3I5eFMIn27csFNp3B2B42H_Unrs9n_OWRHcPuz4H7Ni3hqa4.jpg 2x"/></picture></div></span></span><span class="cell"><a class="newsitem__title link-holder" href="https://sportmail.ru/news/olympics/55630659/"><span class="newsitem__title-inner">Бах: решение об участии россиян в Олимпиаде примут не раньше, чем за год до ее начала</span></a><span class="newsitem__text">Олимпийские игры пройдут в&nbsp;Париже с&nbsp;26&nbsp;июля по&nbsp;11&nbsp;августа 2024 года.</span></span></div><ul class="list list_type_square list_overflow"><li class="list__item"><span class="list__item__inner"><a class="list__text" href="https://sportmail.ru/news/olympics/55619905/">«У меня просто нет слов». Третьяк назвал рекомендации МОК дискриминацией по отношению к хоккеистам</a></span></li><li class="list__item"><span class="list__item__inner"><a class="list__text" href="https://sportmail.ru/news/olympics/55616833/">На Украине осудили рекомендации МОК по допуску россиян</a></span></li><li class="list__item"><span class="list__item__inner"><a class="list__text" href="https://sportmail.ru/news/olympics/55617238/">Белоруссия выразила несогласие с рекомендациями МОК</a></span></li></ul></div></div><div class="cols__column cols__column_small_percent-50 cols__column_medium_percent-50 cols__column_large_percent-50 link-hdr margin_top_30"><div class="cols__inner"><div class="hdr hdr_bold_huge margin_bottom_10"><div class="hdr__wrapper"><a class="hdr__text" href="/biathlon/"><span class="hdr__inner">Биатлон</span></a></div></div><div class="newsitem newsitem_height_fixed js-ago-wrapper"><div class="newsitem__params"><span class="newsitem__param js-ago" datetime="2023-03-29T19:22:13+03:00">29 марта</span><span class="newsitem__param">Sport24</span></div><span class="cell cell_photo"><span class="photo newsitem__photo"><div class="photo__inner"><picture class="picture photo__picture"><source class="" srcSet="https://resizer.mail.ru/p/b85e0df2-374c-5cb8-9aae-7538572c902b/AQAGPv2O2X6l45vccgetlIJL0BdbdI1rufplfNOtonKbxZ2ZdF2h4G-RI4aS49_NBv559dsofmHdPAzryYf0jLH16PA.webp 1x, https://resizer.mail.ru/p/b85e0df2-374c-5cb8-9aae-7538572c902b/dpr:200/AQAGPv2O2X6l45vccgetlIJL0BdbdI1rufplfNOtonKbxZ2ZdF2h4G-RI4aS49_NBv559dsofmHdPAzryYf0jLH16PA.webp 2x" type="image/webp"/><img class="picture__image picture__image_cover picture__image_lazy picture__image_lazy photo__pic" src="https://resizer.mail.ru/p/b85e0df2-374c-5cb8-9aae-7538572c902b/AQAGPv2O2X6l45vccgetlIJL0BdbdI1rufplfNOtonKbxZ2ZdF2h4G-RI4aS49_NBv559dsofmHdPAzryYf0jLH16PA.jpg" height="120" width="180" loading="lazy" srcset="https://resizer.mail.ru/p/b85e0df2-374c-5cb8-9aae-7538572c902b/dpr:200/AQAGPv2O2X6l45vccgetlIJL0BdbdI1rufplfNOtonKbxZ2ZdF2h4G-RI4aS49_NBv559dsofmHdPAzryYf0jLH16PA.jpg 2x"/></picture></div></span></span><span class="cell"><a class="newsitem__title link-holder" href="https://sportmail.ru/news/biathlon/55616601/"><span class="newsitem__title-inner">Биатлонистка Резцова рассказала о состоянии после сердечного приступа: «Ситуация сложная»</span></a><span class="newsitem__text">Прославленная российская лыжница и&nbsp;биатлонистка Анфиса Резцова рассказала о&nbsp;своем состоянии после перенесенного сердечного приступа.</span></span></div><ul class="list list_type_square list_overflow"><li class="list__item"><span class="list__item__inner"><a class="list__text" href="https://sportmail.ru/news/biathlon/55602904/">Анфиса Резцова перенесла сердечный приступ</a></span></li><li class="list__item"><span class="list__item__inner"><a class="list__text" href="https://sportmail.ru/news/biathlon/55596863/">Лыжница продолжает позорить лучших биатлонисток России. Что творится на чемпионате страны?</a></span></li><li class="list__item"><span class="list__item__inner"><a class="list__text" href="https://sportmail.ru/news/biathlon/55595725/">Бывшая лыжница Наталия Шевченко уверенно выиграла вторую гонку ЧР по биатлону подряд</a></span></li></ul></div></div><div class="cols__column cols__column_small_percent-50 cols__column_medium_percent-50 cols__column_large_percent-50 link-hdr margin_top_30"><div class="cols__inner"><div class="hdr hdr_bold_huge margin_bottom_10"><div class="hdr__wrapper"><a class="hdr__text" href="/formula1/"><span class="hdr__inner">Формула-1</span></a></div></div><div class="newsitem newsitem_height_fixed js-ago-wrapper"><div class="newsitem__params"><span class="newsitem__param js-ago" datetime="2023-03-23T21:58:48+03:00">23 марта</span><span class="newsitem__param">Спорт-Экспресс</span></div><span class="cell cell_photo"><span class="photo newsitem__photo"><div class="photo__inner"><picture class="picture photo__picture"><source class="" srcSet="https://resizer.mail.ru/p/fa1367cd-6c30-5f47-af57-439821feb1cf/AQAGOYyNb2lKFK2_tBFzU4Jfvb8rbumiLeUKmdcEAsazY1Io84rMIZgX7ZY8C7fjmgfY5FeiPQIEdKOTRsB5EOLwIxs.webp 1x, https://resizer.mail.ru/p/fa1367cd-6c30-5f47-af57-439821feb1cf/dpr:200/AQAGOYyNb2lKFK2_tBFzU4Jfvb8rbumiLeUKmdcEAsazY1Io84rMIZgX7ZY8C7fjmgfY5FeiPQIEdKOTRsB5EOLwIxs.webp 2x" type="image/webp"/><img class="picture__image picture__image_cover picture__image_lazy picture__image_lazy photo__pic" src="https://resizer.mail.ru/p/fa1367cd-6c30-5f47-af57-439821feb1cf/AQAGOYyNb2lKFK2_tBFzU4Jfvb8rbumiLeUKmdcEAsazY1Io84rMIZgX7ZY8C7fjmgfY5FeiPQIEdKOTRsB5EOLwIxs.jpg" height="120" width="180" loading="lazy" srcset="https://resizer.mail.ru/p/fa1367cd-6c30-5f47-af57-439821feb1cf/dpr:200/AQAGOYyNb2lKFK2_tBFzU4Jfvb8rbumiLeUKmdcEAsazY1Io84rMIZgX7ZY8C7fjmgfY5FeiPQIEdKOTRsB5EOLwIxs.jpg 2x"/></picture></div></span></span><span class="cell"><a class="newsitem__title link-holder" href="https://sportmail.ru/news/formula1/55542450/"><span class="newsitem__title-inner">«10 лет живет как заключенная». Как жена Шумахера оберегает частную жизнь семьи</span></a><span class="newsitem__text">Коринна пытается вести быт по&nbsp;правилам Михаэля.</span></span></div><ul class="list list_type_square list_overflow"><li class="list__item"><span class="list__item__inner"><a class="list__text" href="https://sportmail.ru/news/formula1/55483038/">FIA вернула Алонсо третье место Гран-при Саудовской Аравии и сотый подиум</a></span></li><li class="list__item"><span class="list__item__inner"><a class="list__text" href="https://sportmail.ru/news/formula1/55481890/">Перес выиграл Гран-при Саудовской Аравии, Алонсо оштрафовали и лишили 100-го подиума</a></span></li><li class="list__item"><span class="list__item__inner"><a class="list__text" href="https://sportmail.ru/news/formula1/55472802/">Серхио Перес стал победителем квалификации Гран-при Саудовской Аравии «Формулы-1»</a></span></li></ul></div></div><div class="cols__column cols__column_small_percent-50 cols__column_medium_percent-50 cols__column_large_percent-50 link-hdr margin_top_30"><div class="cols__inner"><div class="hdr hdr_bold_huge margin_bottom_10"><div class="hdr__wrapper"><a class="hdr__text" href="/figure-skating/"><span class="hdr__inner">Фигурное катание</span></a></div></div><div class="newsitem newsitem_height_fixed js-ago-wrapper"><div class="newsitem__params"><span class="newsitem__param js-ago" datetime="2023-03-29T12:28:55+03:00">29 марта</span><span class="newsitem__param">Sport24</span></div><span class="cell cell_photo"><span class="photo newsitem__photo"><div class="photo__inner"><picture class="picture photo__picture"><source class="" srcSet="https://resizer.mail.ru/p/a9128d08-27b5-55c7-bd78-1fbc8118d7da/AQAGaSTuqA3Dbqw33u5EhjIOgNq32Td25RZu_1vrfigHl_-HpvO1xuqsxtJR0X4Va1gHn8BqAerxqaj8Zu3NQJ-km2Q.webp 1x, https://resizer.mail.ru/p/a9128d08-27b5-55c7-bd78-1fbc8118d7da/dpr:200/AQAGaSTuqA3Dbqw33u5EhjIOgNq32Td25RZu_1vrfigHl_-HpvO1xuqsxtJR0X4Va1gHn8BqAerxqaj8Zu3NQJ-km2Q.webp 2x" type="image/webp"/><img class="picture__image picture__image_cover picture__image_lazy picture__image_lazy photo__pic" src="https://resizer.mail.ru/p/a9128d08-27b5-55c7-bd78-1fbc8118d7da/AQAGaSTuqA3Dbqw33u5EhjIOgNq32Td25RZu_1vrfigHl_-HpvO1xuqsxtJR0X4Va1gHn8BqAerxqaj8Zu3NQJ-km2Q.jpg" height="120" width="180" loading="lazy" srcset="https://resizer.mail.ru/p/a9128d08-27b5-55c7-bd78-1fbc8118d7da/dpr:200/AQAGaSTuqA3Dbqw33u5EhjIOgNq32Td25RZu_1vrfigHl_-HpvO1xuqsxtJR0X4Va1gHn8BqAerxqaj8Zu3NQJ-km2Q.jpg 2x"/></picture></div></span></span><span class="cell"><a class="newsitem__title link-holder" href="https://sportmail.ru/news/figure-skating/55604767/"><span class="newsitem__title-inner">Горячая фотосессия звездной русской фигуристки в шикарном белье раскалила все желания. Вы обязаны это увидеть!</span></a><span class="newsitem__text">Стася Константинова&nbsp;&mdash; огонь!</span></span></div><ul class="list list_type_square list_overflow"><li class="list__item"><span class="list__item__inner"><a class="list__text" href="https://sportmail.ru/news/figure-skating/55606550/">Лед залило кровью: фигурист коньком рассек партнерше половину лица</a></span></li><li class="list__item"><span class="list__item__inner"><a class="list__text" href="https://sportmail.ru/news/figure-skating/55588144/">Медведева: Фигурное катание не менее медийное, чем футбол</a></span></li><li class="list__item"><span class="list__item__inner"><a class="list__text" href="https://sportmail.ru/news/figure-skating/55593026/">Костомаров учится самостоятельно есть и сидеть</a></span></li></ul></div></div><div class="cols__column cols__column_small_percent-50 cols__column_medium_percent-50 cols__column_large_percent-50 link-hdr margin_top_30"><div class="cols__inner"><div class="hdr hdr_bold_huge margin_bottom_10"><div class="hdr__wrapper"><a class="hdr__text" href="/betting/"><span class="hdr__inner">Ставки</span></a></div></div><div class="newsitem newsitem_height_fixed js-ago-wrapper"><div class="newsitem__params"><span class="newsitem__param js-ago" datetime="2023-03-29T12:26:48+03:00">29 марта</span><span class="newsitem__param">Sportmail.ru</span></div><span class="cell cell_photo"><span class="photo newsitem__photo"><div class="photo__inner"><picture class="picture photo__picture"><source class="" srcSet="https://resizer.mail.ru/p/ff3227d8-98a1-577e-aec6-06ad231a6507/AQAGhWXPeKHs5z1GHHGQZdTaOSgdaf70B5nUOMap5xh3vKL6kjQptRdjU7yga6_ejX2TzgNSoVW0esdCyLqzXeeiy-w.webp 1x, https://resizer.mail.ru/p/ff3227d8-98a1-577e-aec6-06ad231a6507/dpr:200/AQAGhWXPeKHs5z1GHHGQZdTaOSgdaf70B5nUOMap5xh3vKL6kjQptRdjU7yga6_ejX2TzgNSoVW0esdCyLqzXeeiy-w.webp 2x" type="image/webp"/><img class="picture__image picture__image_cover picture__image_lazy picture__image_lazy photo__pic" src="https://resizer.mail.ru/p/ff3227d8-98a1-577e-aec6-06ad231a6507/AQAGhWXPeKHs5z1GHHGQZdTaOSgdaf70B5nUOMap5xh3vKL6kjQptRdjU7yga6_ejX2TzgNSoVW0esdCyLqzXeeiy-w.jpg" height="120" width="180" loading="lazy" srcset="https://resizer.mail.ru/p/ff3227d8-98a1-577e-aec6-06ad231a6507/dpr:200/AQAGhWXPeKHs5z1GHHGQZdTaOSgdaf70B5nUOMap5xh3vKL6kjQptRdjU7yga6_ejX2TzgNSoVW0esdCyLqzXeeiy-w.jpg 2x"/></picture></div></span></span><span class="cell"><a class="newsitem__title link-holder" href="https://sportmail.ru/article/betting-hockey/55611088/"><span class="newsitem__title-inner">Ярославль близок к сенсации: прогноз на 7-й матч ЦСКА — «Локомотив»</span></a><span class="newsitem__text">На&nbsp;кону&nbsp;&mdash; выход в&nbsp;финал Западной конференции.</span></span></div><ul class="list list_type_square list_overflow"><li class="list__item"><span class="list__item__inner"><a class="list__text" href="https://sportmail.ru/article/betting/55596743/">Разгрома не будет: прогноз на матч Шотландия — Испания</a></span></li><li class="list__item"><span class="list__item__inner"><a class="list__text" href="https://sportmail.ru/article/betting/55580131/">Три очка для фаворита: прогноз на матч Ирландия — Франция</a></span></li><li class="list__item"><span class="list__item__inner"><a class="list__text" href="https://sportmail.ru/article/betting/55559956/">Карпину все-таки пора побеждать: прогноз на матч Россия — Ирак</a></span></li></ul></div></div></div></div></div></div></div><div data-logger="sport__GalleriesNews"><div class="block block_separated_top link-hdr"><div class="wrapper"><!-- /rb/4353?_SITEZONE=41 (NAT index) --><!-- //rb/4353?_SITEZONE=41 (NAT index) -->
+								
+							<div class="hdr hdr_bold_huge"><div class="hdr__wrapper"><span class="hdr__text"><span class="hdr__inner">Фоторепортажи</span></span></div></div><div class="p-grid-abs p-grid-abs_index js-view js-module" data-module="TrackBlocks" data-counter-id="1650801" name="clb1650801" data-view="PopupGalleryView,ShowGalleryPopup.Ajax"><div class="p-grid-abs__inner"><div class="p-grid-abs__item p-grid-abs__item_x-0 p-grid-abs__item_y-0 p-grid-abs__item_size-vert"><span class="photo photo_small photo_full photo_scale js-show_photo" data-gallery-id="849393" data-gallery-url="/nsport/ajax/json__gallery/?gall_id=849393"><a class="photo__inner link-holder" href="https://sportmail.ru/foto/849393/"><picture class="picture photo__picture"><source class="" srcSet="https://resizer.mail.ru/p/c627f80c-002a-5f72-a071-4fe44ea85ce8/AQAGUjjsos8rS50u9-kSfsfBBI8i3anWaeBmoSJpDvZcuiTIY2xW3cnQBcb1V7638EMhPOdyLFhFhetigxxj6FtCFvs.webp 1x, https://resizer.mail.ru/p/c627f80c-002a-5f72-a071-4fe44ea85ce8/dpr:200/AQAGUjjsos8rS50u9-kSfsfBBI8i3anWaeBmoSJpDvZcuiTIY2xW3cnQBcb1V7638EMhPOdyLFhFhetigxxj6FtCFvs.webp 2x" type="image/webp"/><img class="picture__image picture__image_cover picture__image_lazy photo__pic" src="https://resizer.mail.ru/p/c627f80c-002a-5f72-a071-4fe44ea85ce8/AQAGUjjsos8rS50u9-kSfsfBBI8i3anWaeBmoSJpDvZcuiTIY2xW3cnQBcb1V7638EMhPOdyLFhFhetigxxj6FtCFvs.jpg" srcset="https://resizer.mail.ru/p/c627f80c-002a-5f72-a071-4fe44ea85ce8/dpr:200/AQAGUjjsos8rS50u9-kSfsfBBI8i3anWaeBmoSJpDvZcuiTIY2xW3cnQBcb1V7638EMhPOdyLFhFhetigxxj6FtCFvs.jpg 2x" height="300" width="200" loading="lazy"/></picture></a><span class="photo__captions photo__captions_icon"><span class="photo__count">23</span><span class="photo__title">Сборная России обыграла Ирак в первом домашнем матче с 2021 года</span></span></span></div><div class="p-grid-abs__item p-grid-abs__item_x-1 p-grid-abs__item_y-0 p-grid-abs__item_size-large"><span class="photo photo_small photo_full photo_scale js-show_photo" data-gallery-id="848685" data-gallery-url="/nsport/ajax/json__gallery/?gall_id=848685"><a class="photo__inner link-holder" href="https://sportmail.ru/foto/848685/"><picture class="picture photo__picture"><img class="picture__image picture__image_cover picture__image_lazy photo__pic" src="https://resizer.mail.ru/p/cd31eade-5413-50a6-8ae6-d2591398dde1/AQAGw5M7X26CZnUDOW1qSXzIVhyyo3lU08xo9LsGrUxnuCFOE7IwlmKlpNWVJhMugsob24ziq9avz9s_7HOrgUXBVCU.jpg" srcset="https://resizer.mail.ru/p/cd31eade-5413-50a6-8ae6-d2591398dde1/dpr:200/AQAGw5M7X26CZnUDOW1qSXzIVhyyo3lU08xo9LsGrUxnuCFOE7IwlmKlpNWVJhMugsob24ziq9avz9s_7HOrgUXBVCU.jpg 2x" height="309" width="412" loading="lazy"/></picture></a><span class="photo__captions photo__captions_icon"><span class="photo__count">35</span><span class="photo__title">Мэрилин Загитова, Маленький принц Кондратюк, шаман Валиева: как прошел турнир шоу-программ</span></span></span></div><div class="p-grid-abs__item p-grid-abs__item_x-3 p-grid-abs__item_y-0 p-grid-abs__item_size-vert"><span class="photo photo_small photo_full photo_scale js-show_photo" data-gallery-id="847545" data-gallery-url="/nsport/ajax/json__gallery/?gall_id=847545"><a class="photo__inner link-holder" href="https://sportmail.ru/foto/847545/"><img class="photo__pic photo__pic_lazy" src="https://retina.sportmail.ru/prev200x295/pic/21/ae/g847545_image2362.jpg" height="295" width="200" loading="lazy"/></a><span class="photo__captions photo__captions_icon"><span class="photo__count">11</span><span class="photo__title">«Спартак» потерял очки в матче с «Уралом»</span></span></span></div><div class="p-grid-abs__item p-grid-abs__item_x-4 p-grid-abs__item_y-0 p-grid-abs__item_size-small"><span class="photo photo_small photo_full photo_scale js-show_photo" data-gallery-id="847027" data-gallery-url="/nsport/ajax/json__gallery/?gall_id=847027"><a class="photo__inner link-holder" href="https://sportmail.ru/foto/847027/"><img class="photo__pic photo__pic_lazy" src="https://retina.sportmail.ru/prev200x147/pic/7e/55/g847027_image378.jpg" height="147" width="200" loading="lazy"/></a><span class="photo__captions photo__captions_icon"><span class="photo__count">15</span><span class="photo__title">Как афганские спортсменки скрываются от исламистов и продолжают тренироваться тайно</span></span></span></div><div class="p-grid-abs__item p-grid-abs__item_x-5 p-grid-abs__item_y-0 p-grid-abs__item_size-small"><span class="photo photo_small photo_full photo_scale js-show_photo" data-gallery-id="845953" data-gallery-url="/nsport/ajax/json__gallery/?gall_id=845953"><a class="photo__inner link-holder" href="https://sportmail.ru/foto/845953/"><img class="photo__pic photo__pic_lazy" src="https://retina.sportmail.ru/prev200x147/pic/50/41/g845953_image_90a3cfc2492cf261720f83d31be99d06.jpg" height="147" width="200" loading="lazy"/></a><span class="photo__captions photo__captions_icon"><span class="photo__count">18</span><span class="photo__title">«Канзас-Сити Чифс» выиграл Супербоул</span></span></span></div><div class="p-grid-abs__item p-grid-abs__item_x-0 p-grid-abs__item_y-2 p-grid-abs__item_size-large"><span class="photo photo_small photo_full photo_scale js-show_photo" data-gallery-id="845758" data-gallery-url="/nsport/ajax/json__gallery/?gall_id=845758"><a class="photo__inner link-holder" href="https://sportmail.ru/foto/845758/"><img class="photo__pic photo__pic_lazy" src="https://retina.sportmail.ru/prev401x295/pic/b5/a5/g845758_image732.jpg" height="295" width="401" loading="lazy"/></a><span class="photo__captions photo__captions_icon"><span class="photo__count">18</span><span class="photo__title">«Зимний бросок»: главное реслинг-шоу</span></span></span></div><div class="p-grid-abs__item p-grid-abs__item_x-2 p-grid-abs__item_y-2 p-grid-abs__item_size-large"><span class="photo photo_small photo_full photo_scale js-show_photo" data-gallery-id="844775" data-gallery-url="/nsport/ajax/json__gallery/?gall_id=844775"><a class="photo__inner link-holder" href="https://sportmail.ru/foto/844775/"><picture class="picture photo__picture"><img class="picture__image picture__image_cover picture__image_lazy photo__pic" src="https://resizer.mail.ru/p/175cab15-3ab9-581b-9fff-86425d5d8d45/AQAGVLm5kPQd4iKLlvMe4jJlij92GXh4-SeDma531Ni4pF2EH9SOWf4nxnzt6U1LzmM68AK4Iq9zgKvk5-m08_ziJxM.jpg" srcset="https://resizer.mail.ru/p/175cab15-3ab9-581b-9fff-86425d5d8d45/dpr:200/AQAGVLm5kPQd4iKLlvMe4jJlij92GXh4-SeDma531Ni4pF2EH9SOWf4nxnzt6U1LzmM68AK4Iq9zgKvk5-m08_ziJxM.jpg 2x" height="309" width="412" loading="lazy"/></picture></a><span class="photo__captions photo__captions_icon"><span class="photo__count">11</span><span class="photo__title">Святой Диего: квартал Марадоны в Неаполе</span></span></span></div><div class="p-grid-abs__item p-grid-abs__item_x-4 p-grid-abs__item_y-1 p-grid-abs__item_size-large"><span class="photo photo_small photo_full photo_scale js-show_photo" data-gallery-id="844284" data-gallery-url="/nsport/ajax/json__gallery/?gall_id=844284"><a class="photo__inner link-holder" href="https://sportmail.ru/foto/844284/"><picture class="picture photo__picture"><img class="picture__image picture__image_cover picture__image_lazy photo__pic" src="https://resizer.mail.ru/p/3d70a976-f9d8-5add-83e8-5430f9a0d3c4/AQAGPEkAsW0LvZHt1VrYpwVNhdBoT4nMEPJoq2lU2m1gHNYFyeQCHR8L_9yCV3FlJbxJWX3nryo7epS02Lq92dMDPU4.jpg" srcset="https://resizer.mail.ru/p/3d70a976-f9d8-5add-83e8-5430f9a0d3c4/dpr:200/AQAGPEkAsW0LvZHt1VrYpwVNhdBoT4nMEPJoq2lU2m1gHNYFyeQCHR8L_9yCV3FlJbxJWX3nryo7epS02Lq92dMDPU4.jpg 2x" height="309" width="412" loading="lazy"/></picture></a><span class="photo__captions photo__captions_icon"><span class="photo__count">18</span><span class="photo__title">Ротенберг отомстил ЦСКА за три поражения подряд</span></span></span></div><div class="p-grid-abs__item p-grid-abs__item_x-4 p-grid-abs__item_y-3 p-grid-abs__item_size-small"><span class="photo photo_small photo_full photo_scale js-show_photo" data-gallery-id="844037" data-gallery-url="/nsport/ajax/json__gallery/?gall_id=844037"><a class="photo__inner link-holder" href="https://sportmail.ru/foto/844037/"><picture class="picture photo__picture"><source class="" srcSet="https://resizer.mail.ru/p/31375d41-557e-5868-89ea-fc4b99af838a/AQAGx6qR8z7T_jUOQ3vQZ7cRib3rdTMVy1iCRtGsbDKshScM7ZmE-nol75tdnAddpSEdRXxUc8FAc7Z98osq1u95bBs.webp 1x, https://resizer.mail.ru/p/31375d41-557e-5868-89ea-fc4b99af838a/dpr:200/AQAGx6qR8z7T_jUOQ3vQZ7cRib3rdTMVy1iCRtGsbDKshScM7ZmE-nol75tdnAddpSEdRXxUc8FAc7Z98osq1u95bBs.webp 2x" type="image/webp"/><img class="picture__image picture__image_cover picture__image_lazy photo__pic" src="https://resizer.mail.ru/p/31375d41-557e-5868-89ea-fc4b99af838a/AQAGx6qR8z7T_jUOQ3vQZ7cRib3rdTMVy1iCRtGsbDKshScM7ZmE-nol75tdnAddpSEdRXxUc8FAc7Z98osq1u95bBs.jpg" srcset="https://resizer.mail.ru/p/31375d41-557e-5868-89ea-fc4b99af838a/dpr:200/AQAGx6qR8z7T_jUOQ3vQZ7cRib3rdTMVy1iCRtGsbDKshScM7ZmE-nol75tdnAddpSEdRXxUc8FAc7Z98osq1u95bBs.jpg 2x" height="150" width="200" loading="lazy"/></picture></a><span class="photo__captions photo__captions_icon"><span class="photo__count">30</span><span class="photo__title">«Красная машина» Загитовой выиграла Кубок Первого канала</span></span></span></div><div class="p-grid-abs__item p-grid-abs__item_x-5 p-grid-abs__item_y-3 p-grid-abs__item_size-small"><span class="photo photo_small photo_full photo_scale js-show_photo" data-gallery-id="843826" data-gallery-url="/nsport/ajax/json__gallery/?gall_id=843826"><a class="photo__inner link-holder" href="https://sportmail.ru/foto/843826/"><picture class="picture photo__picture"><source class="" srcSet="https://resizer.mail.ru/p/b9f6a6a9-2bb0-5557-902e-1fda82372954/AQAGolNpznnw-ZLCqbtZHxiALolw2OK0aQ6TLCn_a34OyiilV_tHGy3SEkKhbG4bECpUN6jxm1CUwwuhZtJr6pTREu8.webp 1x, https://resizer.mail.ru/p/b9f6a6a9-2bb0-5557-902e-1fda82372954/dpr:200/AQAGolNpznnw-ZLCqbtZHxiALolw2OK0aQ6TLCn_a34OyiilV_tHGy3SEkKhbG4bECpUN6jxm1CUwwuhZtJr6pTREu8.webp 2x" type="image/webp"/><img class="picture__image picture__image_cover picture__image_lazy photo__pic" src="https://resizer.mail.ru/p/b9f6a6a9-2bb0-5557-902e-1fda82372954/AQAGolNpznnw-ZLCqbtZHxiALolw2OK0aQ6TLCn_a34OyiilV_tHGy3SEkKhbG4bECpUN6jxm1CUwwuhZtJr6pTREu8.jpg" srcset="https://resizer.mail.ru/p/b9f6a6a9-2bb0-5557-902e-1fda82372954/dpr:200/AQAGolNpznnw-ZLCqbtZHxiALolw2OK0aQ6TLCn_a34OyiilV_tHGy3SEkKhbG4bECpUN6jxm1CUwwuhZtJr6pTREu8.jpg 2x" height="150" width="200" loading="lazy"/></picture></a><span class="photo__captions photo__captions_icon"><span class="photo__count">25</span><span class="photo__title">«ПСЖ» обыграл сборную Эр-Рияда: Месси забил, Роналду сделал дубль</span></span></span></div></div></div></div></div></div></div></div><div data-logger-parent="footer"><div class="" id="bookmakers-footer"></div><div class="js-scroll-to-site__hidden"><div class="js-lazy-init" data-module="PromoPopup"></div><div class="unprinted"><!-- /rb/5751 (branding-footer) --><div class="rb-slot js-module" data-module="SlotModel" data-view="SlotView.5751" data-id="5751" data-sitezone="41" data-news-id="0" data-brandsafety="0"></div><!-- //rb/5751 (branding-footer) --></div><div class="sticky sticky_full sticky_footer js-module" data-module="StickyPanel.Footer"><div class="sticky__inner js-stickypanel__container"><div class="footer"><div class="footer__portal"><noindex><a class="footer__link" href="/editors/">О проекте</a><a class="footer__link" target="_blank" rel="nofollow noopener" href="//nonstandard.sales.mail.ru/">Реклама</a></noindex></div><noindex><div class="footer__project"><a class="footer__link" href="/policy/">Использование материалов</a><a class="footer__link" target="_blank" rel="nofollow noopener" href="/support/">Обратная связь</a></div></noindex></div><div class="line"></div></div><!-- /rb/942349?_SITEID=173&brandsafety=0 (Футер Winline) --><img src="https://rs.mail.ru/d133789528.gif?rnd=201686316&ts=1680198448" style="width:0;height:0;position:absolute;visibility:hidden;" alt=""/>
+
+
+
+<div id="b-133789528-201686316" data-closewrap-container="b-133789528-201686316" style="width: 100%; position: relative;">
+  <style>
+    #b-133789528-201686316 .trg-b-label {
+    position: absolute;
+    z-index: 10;
+    top: 6px;
+    right: 7px;
+    font-size: 10px;
+    display: inline-block;
+    color: #000;
+    padding: 0 8px 0 8px;
+    line-height: 20px;
+    border-radius: 10px;
+}
+
+    #b-133789528-201686316[data-closewrap-container] .trg-b-close-cross {
+    /* display: block; */
+    border-radius: 10px;
+    top: 6px;
+    right: 58px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    cursor: pointer;
+    visibility: visible;
+    font-size: 0px;
+    line-height: 0px;
+    text-align: center;
+    font-family: Arial, Verdana, sans-serif !important;
+}
+  </style>
+  <div class="trg-b-label">реклама</div>
+  
+  <div class="trg-b-close-wrap js-close-cross-wrap" data-closewrap="">
+    <div class="trg-b-close-overlay js-close-overlay">
+        <div class="trg-b-close-text js-close-overlay-text ">Спасибо за обратную связь</div>
+    </div>
+    <span class="trg-b-close-cross js-close-cross" data-closepix=""></span>
+    <div class="trg-b-close-bubble _middle js-close-cross-bubble">
+    <div class="trg-b-close-bubble__item"><span class="trg-b-close-bubble__link js-show-adsowner" data-href="https://ads.vk.com/adv_info?data=eyJmaWVsZHMiOlt7Im5hbWUiOiLQoNC10LrQu9Cw0LzQvtC00LDRgtC10LvRjCIsInZhbHVlIjoi0J7QntCeIMKr0KPQv9GA0LDQstC70Y/RjtGJ0LDRjyDQutC+0LzQv9Cw0L3QuNGPINCd0JrQocK7In0seyJuYW1lIjoi0JjQndCdIiwidmFsdWUiOiI3NzE0NzA3NzM2In0seyJuYW1lIjoi0J7QsdGK0LXQutGCINGA0LXQutC70LDQvNGLIiwidmFsdWUiOiJodHRwczovL3dpbmxpbmUucnUvdmlkZW8vP3V0bV9zb3VyY2U9c3BvcnRtYWlsJnV0bV9jb250ZW50PWN1cnJlbnRfZXZlbnRfd2lkZ2V0JnV0bV9jYW1wYWlnbj12aWRlbyZ1dG1fbWVkaXVtPWJ1dHRvbiJ9XX0=">О рекламодателе</span></div>
+        <div class="trg-b-close-bubble__item"><span class="trg-b-close-bubble__link js-copy-link" data-href="2VtzqxJbSw5">Скопировать ID: 2VtzqxJbSw5</span></div>
+        <div class="trg-b-close-bubble__item"><span class="trg-b-close-bubble__link js-close-reason" data-reason="ni">Не интересует</span></div>
+        <div class="trg-b-close-bubble__item"><span class="trg-b-close-bubble__link js-close-reason" data-reason="ab">Уже приобретено</span></div>
+        <div class="trg-b-close-bubble__item"><span class="trg-b-close-bubble__link js-close-reason" data-reason="cv">Препятствует просмотру</span></div>
+        <div class="trg-b-close-bubble__item"><span class="trg-b-close-bubble__link js-close-reason" data-reason="sp">Недобросовестная реклама</span></div>
+    </div>
+</div>
+<div style="display:none!important">
+<style>
+  #b-133789528-201686316[data-closewrap-container] {
+    position: relative;
+    z-index: 0;
+  }
+  #b-133789528-201686316 .trg-b-close-cross {
+    width: 16px;
+    height: 16px;
+    display: none;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    cursor: pointer;
+    visibility: visible;
+    background: #fff url(//r.mradx.net/img/40/8B79EF.png) no-repeat center center;
+    background: rgba(255, 255, 255, 0.5) url(//r.mradx.net/img/40/8B79EF.png) no-repeat center center;
+    background-size: 8px;
+    font-size: 0px;
+    line-height: 0px;
+    text-align: center;
+    font-family: Arial, Verdana, sans-serif !important;
+  }
+  #b-133789528-201686316._mobile .trg-b-close-cross {
+    display: block!important;
+  }
+  #b-133789528-201686316._mobile.trg-b-close-wrap {
+    text-align: left!important;
+  }
+  #b-133789528-201686316 .trg-b-close-cross:hover {
+    background: #fff url(//r.mradx.net/img/40/8B79EF.png) no-repeat center center;
+    background: rgba(255, 255, 255, 0.7) url(//r.mradx.net/img/40/8B79EF.png) no-repeat center center;
+    background-size: 8px;
+  }
+  #b-133789528-201686316[data-closewrap-container]:hover .trg-b-close-cross {
+    display: block;
+  }
+  #b-133789528-201686316 .trg-b-close-bubble {
+    opacity: 0;
+    position: absolute;
+    padding: 6px;
+    top: 1px;
+    right: 15px;
+    background: #fff;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    border-radius: 2px;
+    -webkit-box-shadow: 0 1px 3px 0px rgba(0,0,0,0.15);
+    -moz-box-shadow: 0 1px 3px 0px rgba(0,0,0,0.15);
+    -ms-box-shadow: 0 1px 3px 0px rgba(0,0,0,0.15);
+    -o-box-shadow: 0 1px 3px 0px rgba(0,0,0,0.15);
+    box-shadow: 0 1px 3px 0px rgba(0,0,0,0.15);
+    z-index: 1000000;
+    transition: opacity 0.3s ease-out;
+    white-space: normal;
+    text-align: left;
+  }
+  #b-133789528-201686316 .trg-b-close-bubble._middle {
+    padding: 10px;
+  }
+  #b-133789528-201686316 .trg-b-close-bubble._nano {
+    padding: 5px;
+    width: 80px;
+  }
+  #b-133789528-201686316 .trg-b-close-bubble._nano .trg-b-close-bubble__item {
+    padding-left: 0;
+    font-size: 9px;
+    line-height: 1.3;
+  }
+  #b-133789528-201686316 .trg-b-close-bubble._nano .trg-b-close-bubble__item:before {
+    display: none;
+  }
+  #b-133789528-201686316 .trg-b-close-overlay {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0px;
+    left: 0;
+    right: 0;
+    background: #fff;
+    background: rgba(255, 255, 255, 0.95);
+    opacity: 0;
+    text-align: center;
+    transition: background 0.3s ease-out, opacity 0.3s ease-out;
+  }
+  #b-133789528-201686316 .trg-b-close-text {
+    padding: 10px 3px 0;
+    color: #333;
+    font-size: 12px;
+    line-height: 1.2;
+    visibility: hidden;
+    display: block;
+    text-align: center;
+    text-shadow: 1px 1px 0 #fff;
+    text-shadow: 1px 1px 0px rgba(255,255,255,0.8);
+    white-space: normal;
+  }
+  #b-133789528-201686316 .trg-b-close-text._middle {
+    top: 50%;
+    position: relative;
+    transform: translateY(-50%);
+    padding-top: 0;
+  }
+  #b-133789528-201686316 .trg-b-close-text._nano {
+    padding: 5px;
+    font-size: 9px;
+  }
+  #b-133789528-201686316 .trg-b-close-adsowner-text {
+    color: #333;
+    font-size: 12px;
+    line-height: 1.2;
+    display: none;
+    text-align: left;
+    text-shadow: 1px 1px 0 #fff;
+    text-shadow: 1px 1px 0px rgba(255,255,255,0.8);
+    white-space: normal;
+    overflow: auto;
+    height: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  #b-133789528-201686316 .trg-b-close-wrap._active .trg-b-close-cross,
+  #b-133789528-201686316 .trg-b-close-wrap._active .trg-b-close-overlay,
+  #b-133789528-201686316 .trg-b-close-wrap._active .trg-b-close-bubble {
+    display: block;
+    opacity: 1;
+    visibility: visible;
+  }
+  #b-133789528-201686316 .trg-b-close-wrap._adsowner .trg-b-close-adsowner-text {
+    display: block;
+  }
+  #b-133789528-201686316 .trg-b-close-wrap._adsowner .trg-b-close-overlay {
+    visibility: visible !important;
+    display: block !important;
+    background: #fff !important;
+    opacity: 1;
+  }
+  #b-133789528-201686316 .trg-b-close-wrap._adsowner .trg-b-close-text {
+    display: none;
+  }
+  #b-133789528-201686316 .trg-b-close-wrap._hidden .trg-b-close-text {
+    visibility: visible !important;
+    display: block !important;
+  }
+  #b-133789528-201686316 .trg-b-close-wrap._hidden .trg-b-close-overlay {
+    visibility: visible !important;
+    display: block !important;
+    background: #fff !important;
+    opacity: 1;
+  }
+  #b-133789528-201686316 .trg-b-close-wrap._hidden .trg-b-close-cross,
+  #b-133789528-201686316 .trg-b-close-wrap._hidden .trg-b-close-bubble {
+    display: none!important;
+  }
+  #b-133789528-201686316 .trg-b-close-bubble__item:before {
+    content: '\2014';
+    position: absolute;
+    left: 0;
+    top: 0;
+    color: #9B9B9B;
+  }
+  #b-133789528-201686316 .trg-b-close-bubble__item {
+    position: relative;
+    padding-left: 16px;
+    font-size: 12px;
+    line-height: 1.4;
+  }
+  #b-133789528-201686316 .trg-b-close-bubble__link {
+    color: #4A90E2;
+    cursor: pointer;
+  }
+  #b-133789528-201686316 .trg-b-close-bubble__link:hover {
+    color: #333;
+  }
+  #b-133789528-201686316 .trg-b-close-wrap {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    visibility: hidden;
+    z-index: 100000;
+  }
+  #b-133789528-201686316 .trg-b-close-cross {
+    background: #000 url('//r.mradx.net/img/5F/894953.png') no-repeat center center;
+    background: rgba(0, 0, 0, .3) url('//r.mradx.net/img/5F/894953.png') no-repeat center center;
+    background-size: 8px;
+  }
+  #b-133789528-201686316 .trg-b-close-cross:hover {
+    background: #fff url('//r.mradx.net/img/5F/894953.png') no-repeat center center;
+    background: rgba(0, 0, 0, 0.5) url('//r.mradx.net/img/5F/894953.png') no-repeat center center;
+    background-size: 8px;
+  }
+  #b-133789528-201686316 .trg-b-close-wrap._active .trg-b-close-cross:hover,
+  #b-133789528-201686316 .trg-b-close-wrap._active .trg-b-close-cross {
+    background: #fff url(//r.mradx.net/img/40/8B79EF.png) no-repeat center center;
+    background: rgba(255, 255, 255, 0.5) url(//r.mradx.net/img/40/8B79EF.png) no-repeat center center;
+    background-size: 8px;
+  }
+  </style>
+
+<script>
+(function(params) {
+    var closeEl, closeBubbleEl, closeItemsEl, closeWrapEl, closeOverEl, showAdsownerEl;
+    var pixels = {
+        ni: "https://rs.mail.ru/sb36635784.gif?",
+        ab: "https://rs.mail.ru/sb36635789.gif?",
+        sp: "https://rs.mail.ru/sb36635790.gif?",
+        cv: "https://rs.mail.ru/sb36635791.gif?"
+    };
+    function stopE(e) {
+        if (e) { e.preventDefault(); e.stopImmediatePropagation(); }
+    }
+    function addElemEvent(E, eventName, callback) {
+        E.addEventListener ? E.addEventListener(eventName, callback, !1) : E.attachEvent && E.attachEvent("on" + eventName, callback);
+    }
+    function removeElemEvent(E, eventName, callback) {
+        E.removeEventListener ? E.removeEventListener(eventName, callback, !1) : E.detachEvent && E.detachEvent("on" + eventName, callback);
+    }
+    function dispatchEvent(el, type) {
+    	var evt;
+    	if (typeof window.CustomEvent === 'function') {
+    		evt = new CustomEvent(type, {
+    			bubbles: true
+    		});
+    	} else {
+    		evt = document.createEvent('CustomEvent');
+			  evt.initCustomEvent(type, true, false, null);
+    	}
+    	el.dispatchEvent(evt);
+    }
+    function sendPix(pix, params) {
+        var img = document.createElement('img');
+        img.src = pix || '';
+        img.style.display = 'none';
+        params.closeWrapEl.appendChild(img);
+    }
+    function getParentBannerItem(el) {
+        var retval = null;
+        var parentAttr = 'data-closewrap-container';
+        var parentEl = el;
+        while (parentEl) {
+            if (parentEl === document.getElementsByTagName('body')[0]) {
+                retval = null;
+                break;
+            } else if (parentEl.getAttribute(parentAttr)) {
+                retval = parentEl;
+                break;
+            }
+            parentEl = parentEl.parentElement;
+        }
+        return retval;
+    }
+    function getParentBannerSlot(el) {
+        var slotClassName = 'mrg-tag';
+        var slotEl = el;
+        if (typeof el.closest === 'function') {
+        	return el.closest('.' + slotClassName);
+        }
+        while (slotEl !== null) {
+            if (slotEl.className.indexOf(slotClassName) !== -1) {
+                return slotEl;
+            }
+            slotEl = slotEl.parentElement;
+        }
+        return null;
+    }
+    function closeAll(params) {
+        params.closeWrapEl.className = params.closeWrapEl.className.replace(' _active', ' _hidden');
+        removeElemEvent(params.closeEl, 'click', onCloseClick);
+        removeElemEvent(params.closeOverEl, 'click', hideClose);
+        for (var i = 0; i < params.closeItemsEl.length; i++) {
+            removeElemEvent(params.closeItemsEl[i], 'click', onCloseReasonClick);
+        }
+    }
+    function onCloseReasonClick(params, e) {
+        stopE(e);
+        var pix = pixels[e.currentTarget.getAttribute('data-reason')];
+        if (pix) { sendPix(pix, params); }
+        sendPix(params.closeEl.getAttribute('data-closepix'), params);
+        closeAll(params);
+        /* dispatch close event to RbExt */
+        var parentBannerSlotItem = getParentBannerSlot(params.closeWrapEl);
+        if (parentBannerSlotItem) {
+        	dispatchEvent(parentBannerSlotItem, 'mrg-close');
+        }
+    }
+    function onShowAdsownerClick(params, e) {
+        stopE(e);
+        var href = e.target.getAttribute('data-href');
+        if (href) {
+        	window.open(href, '_blank', 'noopener');
+        }
+        // params.closeWrapEl.className = params.closeWrapEl.className.replace(' _active', ' _adsowner');
+    }
+    function onCopyLinkClick(params, e) {
+      stopE(e);
+      var item = e.target;
+      var href = item.getAttribute('data-href');
+      if (href) {
+        navigator.clipboard.writeText(href);
+        item.innerText = 'ID скопировано';
+      }
+    }
+    function onCloseClick(params, e) {
+        stopE(e);
+        if (params.closeWrapEl.className.indexOf(' _active') === -1 && params.closeWrapEl.className.indexOf(' _adsowner') === -1) { showClose(params); } else { hideClose(params); }
+    }
+    function hideClose(params, e) {
+        stopE(e);
+        params.closeWrapEl.className = params.closeWrapEl.className.replace(' _adsowner', '');
+        params.closeWrapEl.className = params.closeWrapEl.className.replace(' _active', '');
+        var parentBannerWrapItem = getParentBannerItem(params.closeWrapEl);
+        parentBannerWrapItem.className = parentBannerWrapItem.className.replace(' _close-overlay', '');
+    }
+    function showClose(params) {
+        params.closeWrapEl.className += ' _active';
+        var parentBannerWrapItem = getParentBannerItem(params.closeWrapEl);
+        parentBannerWrapItem.className += ' _close-overlay';
+    }
+    function init() {
+        if (!params || !params.rootId || !document.querySelectorAll) return;
+        var rootElem = document.querySelector(params.rootId);
+        if (!rootElem) return;
+        closeWrapEl = rootElem.querySelectorAll('.js-close-cross-wrap');
+        if (!closeWrapEl || !closeWrapEl[0]) return;
+        closeEl = rootElem.querySelectorAll('.js-close-cross');
+        closeBubbleEl = rootElem.querySelectorAll('.js-close-cross-bubble');
+        closeOverEl = rootElem.querySelectorAll('.js-close-overlay');
+        for (var k = 0; k < closeEl.length; k++) {
+            closeItemsEl = closeWrapEl[k].querySelectorAll('.js-close-reason');
+            showAdsownerEl = closeWrapEl[k].querySelectorAll('.js-show-adsowner');
+            copyLinkEl = closeWrapEl[k].querySelector('.js-copy-link');
+            if (!closeEl || !closeBubbleEl || !closeOverEl || !closeWrapEl[k] || !closeEl[k] || !closeBubbleEl[k] || !closeOverEl[k]) return;
+            addElemEvent(closeBubbleEl[k], 'click', function(e) {
+                e.stopImmediatePropagation();
+                e.preventDefault();
+            });
+            addElemEvent(closeEl[k], 'click', onCloseClick.bind(null, {
+                closeWrapEl:closeWrapEl[k],
+                closeEl:closeEl[k],
+                closeBubbleEl:closeBubbleEl[k],
+                closeOverEl:closeOverEl[k],
+                closeItemsEl:closeItemsEl
+            }));
+            addElemEvent(closeOverEl[k], 'click', hideClose.bind(null, {
+                closeWrapEl:closeWrapEl[k],
+                closeEl:closeEl[k],
+                closeBubbleEl:closeBubbleEl[k],
+                closeOverEl:closeOverEl[k],
+                closeItemsEl:closeItemsEl
+            }));
+            for (var i = 0; i < closeItemsEl.length; i++) {
+                addElemEvent(closeItemsEl[i], 'click', onCloseReasonClick.bind(null, {
+                    closeWrapEl:closeWrapEl[k],
+                    closeEl:closeEl[k],
+                    closeBubbleEl:closeBubbleEl[k],
+                    closeOverEl:closeOverEl[k],
+                    closeItemsEl:closeItemsEl
+                }));
+            }
+            if (showAdsownerEl.length) {
+              for (var j = 0; j < showAdsownerEl.length; j++) {
+                  addElemEvent(showAdsownerEl[j], 'click', onShowAdsownerClick.bind(null, {
+                    closeWrapEl:closeWrapEl[k],
+                    closeEl:closeEl[k],
+                    closeBubbleEl:closeBubbleEl[k],
+                    closeOverEl:closeOverEl[k],
+                    closeItemsEl:closeItemsEl
+                  }));
+                }
+            }
+            if (copyLinkEl) {
+              addElemEvent(copyLinkEl, 'click', onCopyLinkClick.bind(null, {
+                    closeWrapEl:closeWrapEl[k],
+                    closeEl:closeEl[k],
+                    closeBubbleEl:closeBubbleEl[k],
+                    closeOverEl:closeOverEl[k],
+                    closeItemsEl:closeItemsEl
+                }));
+            }
+        }
+    }
+    init();
+})({rootId: '#b-133789528-201686316'});
+</script>
+
+</div>
+
+
+
+
+<div class="js-module" data-mp="LazyItem.PulseViewport25 as LazyPulse">
+<textarea class="m-lazy-item m-lazy-item_embed" data-mp-el="LazyPulse.block" data-lazy-block-type="embed">
+
+
+  <div id="bookmakers-footer133789528"></div>
+
+
+<script>
+	(function () {
+		// const basePath = 'https://mcdn.imgsmail.ru/js/showcase';
+		// const version = '3.0.0';
+		const resources = {
+			scripts: ['/js/cmpld/react/widgets/sport/BookmakersFooter/client.js?vv140223'],
+			styleSheets: ['https://mcdn.imgsmail.ru/fonts/pf-din-text-comp-pro/1.0.0/pf-din-text-comp-pro.css']
+		};
+		function addShowcaseOptions (options) {
+			const namespece = 'ru.mail.media'.split('.').reduce((res, level) => {
+				return res && res[level] || (res[level] = {});
+			}, window);
+			const optionsList = namespece.bookmakers || (namespece.bookmakers = []);
+			optionsList.push(options);
+		}
+		addShowcaseOptions({
+			container: 'bookmakers-footer133789528',
+			interval: 300000, // in milliseconds
+			age: '18+',
+			titleColor: '#FFF',
+			title: 'Бесплатная ставка 10 000 рублей',
+			subTitle: 'При использовании фрибета, предоставляющего право на бесплатную первую ставку, срок акции: с 06.07.2020 года по 31.01.2024 года. Подробнее: https://winline.ru/freebet1000',
+			titleImage: 'https://r.mradx.net/img/4E/BFBD93.png',
+			url: 'https://sportmail.ru/sport/ajax/winline/branding_events/',
+			clipping: true,
+			urlHeader: 'https://winline.ru/?utm_source=sportmail&utm_content=vitrina&utm_campaign=logo',
+			backgroundColor: '#ffffff',
+			backgroundImage: 'url(https://r.mradx.net/img/32/B4B0C5.png)',
+      counterMobile: '122613237',
+      counterDesktop: '122613236',
+      counterShowMobile: '105930386',
+      counterShowDesktop: '105930384',
+      urlUTM: '?utm_source=sportmail&utm_content=vitrina&utm_campaign=odds',
+      style: {
+        football: {
+          event: {
+            backgroundImage: 'url(https://r.mradx.net/img/72/5943CB.png)', //472x534
+          },
+          footer: {
+            backgroundImage: 'url(https://r.mradx.net/img/75/572AEB.png)', //398x398
+            marginTop: '-60px',
+            paddingTop: '60px',
+          },
+        },
+        basketball: {
+          event: {
+            backgroundImage: 'url(https://r.mradx.net/img/72/5943CB.png)', //472x534
+          },
+          footer: {
+            backgroundImage: 'url(https://r.mradx.net/img/6F/12907B.png)', //398x398
+            marginTop: '-60px',
+            paddingTop: '60px',
+          },
+        },
+        hockey: {
+          event: {
+            backgroundImage: 'url(https://r.mradx.net/img/72/5943CB.png)',   //472x534
+          },
+          footer: {
+            backgroundImage: 'url(https://r.mradx.net/img/05/1045E3.png)', //398x398
+            marginTop: '-60px',
+            paddingTop: '60px',
+          },
+        },
+        tennis: {
+          event: {
+            backgroundImage: 'url(https://r.mradx.net/img/72/5943CB.png)', //472x534
+          },
+          footer: {
+            backgroundImage: 'url(https://r.mradx.net/img/6F/12907B.png)', //398x398
+            marginTop: '-60px',
+            paddingTop: '60px',
+          },
+        },
+        boxing: {
+          event: {
+            backgroundImage: 'url(https://r.mradx.net/img/72/5943CB.png)', //472x534
+          },
+          footer: {
+            backgroundImage: 'url(https://r.mradx.net/img/6F/12907B.png)', //398x398
+            marginTop: '-60px',
+            paddingTop: '60px',
+          },
+        },
+      },
+			queryParams: {
+		  
+		    count: '20'
+		  
+			}
+		});
+		function addScript(url) {
+			if (!Array.from(document.scripts).some(item => item.src === url)) {
+				const script = document.createElement('script');
+				script.src = url;
+				document.head.appendChild(script);
+			}
+		}
+		function addStyleScheet(url) {
+			if (!Array.from(document.styleSheets).some(item => item.href === url)) {
+				const scheet = document.createElement('link');
+				scheet.rel = 'stylesheet';
+				scheet.type = 'text/css';
+				scheet.href = url;
+				document.head.appendChild(scheet);
+			}
+		}
+		resources.scripts.forEach(res => addScript([res]));
+		resources.styleSheets.forEach(res => addStyleScheet([res]));
+	}());
+</script>
+</textarea>
+</div></div><!-- //rb/942349?_SITEID=173&brandsafety=0 (Футер Winline) --></div><div class="page__counters js-counters"><!--noindex--><!-- /rb/1825 --><img src="https://rs.mail.ru/d630763.gif?rnd=121473303&ts=1680198448" style="width:0;height:0;position:absolute;visibility:hidden;" alt=""/><img src="https://ad.mail.ru/i1592.gif" style="width:0;height:0;position:absolute;visibility:hidden;" alt=""/>
+<!-- mr_counter type="topmail" domain="top-fwz1.mail.ru" id="74867" --><!-- /mr_counter -->
+<!-- mr_counter type="topmail" domain="top-fwz1.mail.ru" id="1849789" --><!-- /mr_counter -->
+<!-- mr_counter type="topmail" domain="top-fwz1.mail.ru" id="2670930" --><!-- /mr_counter -->
+<!-- mr_counter type="topmail" domain="top-fwz1.mail.ru" id="2642543" --><!-- /mr_counter -->
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+(function () {
+
+function getCookie(name) {
+  var matches = document.cookie.match(new RegExp(
+    "(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
+  ))
+  return matches ? decodeURIComponent(matches[1]) : undefined
+}
+var userid = getCookie('sport_uid');
+
+var _tmr = window._tmr = window._tmr || [];
+_tmr.push({id: "74867",   type: "pageView", userid: userid, start: (new Date()).getTime()});
+_tmr.push({id: "1849789", type: "pageView", userid: userid, start: (new Date()).getTime()});
+_tmr.push({id: "2670930", type: "pageView", userid: userid, start: (new Date()).getTime()});
+_tmr.push({id: "2642543", type: "pageView", userid: userid, start: (new Date()).getTime()});
+
+(function (d, w) {
+var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true;
+ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window);
+
+})();
+</script><noscript><div style="position:absolute;left:-10000px;">
+<img src="//top-fwz1.mail.ru/counter?id=74867;js=na;r=" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+<img src="//top-fwz1.mail.ru/counter?id=1849789;js=na;r=" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+<img src="//top-fwz1.mail.ru/counter?id=2670930;js=na;r=" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+<img src="//top-fwz1.mail.ru/counter?id=2642543;js=na;r=" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+</div></noscript>
+
+<!-- //Rating@Mail.ru counter -->
+<!-- mr_counter type="liru" domain="counter.yadro.ru" personal="personal-news/desktop/sport" -->
+<script type="text/javascript"><!--
+new Image().src = "//counter.yadro.ru/hit;personal-news/desktop/sport?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+
+";"+Math.random();//--></script>
+<!-- /mr_counter -->
+<!-- mr_counter type="comscore" id="9999305" -->
+<script>
+try {
+(function(w,d,s) {
+    s = w.encodeURIComponent || escape;
+    new Image().src = "http" + ((d.URL.charAt(4) == "s") ? "s://sb" : "://b") + ".scorecardresearch.com/b?c1=2&c2=9999305&ns__t=" + +(new Date) + "&ns_c=" + (d.characterSet || d.defaultCharset || "") + "&c7=" + s(d.URL) + "&c9=" + s(d.referrer);
+})(window,document);
+} catch(e) {}
+</script>
+<!-- /mr_counter -->
+
+<!-- Relap -->
+<script>
+if (!document.querySelector(".relap-runtime-iframe")) {
+    var iframe = document.createElement("iframe");
+    iframe.className = "relap-runtime-iframe";
+    iframe.style =
+        "position:absolute;top:-9999px;left:-9999px;visibility:hidden;";
+    iframe.srcdoc =
+        '<script data-relap-token="tc21MrYyaO8SLPP2" src="https://relap.io/v7/relap.js"><' + "/script>";
+    document.body.appendChild(iframe);
+}
+</script>
+<!-- //Relap -->
+
+
+
+<script>
+window.tmrVideoCounter = '3145548';
+!function(e,t){"use strict";var r=e.setTimeout,n=e.clearTimeout,o=e.location.hostname,a=e.location.href,i=/devmail\.ru$/.test(o),u=[];if(t){var c,s,d={started:"play",on10sec:"10sec",on15sec:"15sec",on30sec:"30sec",ended:"ended",error:"error",error_code:"error_apply",error_view:"error_view"},l=[{handler:function(t){var r={inited:"inited",started:"started",resumed:"started",paused:"paused",ended:"ended",error:"error"},n="iframe_",o=[];function a(e,a){var i,u=(i=a.origin,Object.keys(t).reduce((e,r)=>{if(!e){var n=t[r];n.regex.test(i)&&(e=n)}return e},null)),c=u&&u.getEventType?u.getEventType(a):(a.data||{}).event,s=r[c];if(s&&u)try{var l=function(e){var t=o.indexOf(e);-1===t&&(o.push(e),t=o.length-1);return n+t}(a.source);l&&e.eventHandler(s,l,u.type,a.source)}catch(e){var f=[d.error_code,c].join(":");p.reachGoal(f,u.type)}}i=new y,u=a.bind(null,i),e.addEventListener("message",u);var i,u},embeds:[{type:"ok",lazyType:"ok_video",regex:/(https:)?\/\/(([\da-z.-]+)\.)?ok\.ru/},{type:"newstube",lazyType:"newstube",regex:/(https:)?\/\/(([\da-z.-]+)\.)?newstube\.ru/},{type:"smotri",lazyType:"smotri",regex:/(https:)?\/\/player-smotri.mail.ru/,getEventType:(c={initialized:"inited",start:"started",pause:"pause",ended:"ended"},function(e){if("sendVideoPlayStateToSite"===e.data.type)return c[e.data.options.playState]})}]},{handler:function(t){var r={"Player:started":"started","Player:played":"started","Player:replayed":"started","Player:paused":"paused","Player:ended":"ended"};n=function(){if(!e.VIQEO||"function"!=typeof e.VIQEO.subscribeTracking)return;var n=new y,o=Object.keys(r);n.handlers.inited(null,"viqeo"),o.forEach(function(o){var a=function(e,n){var o=n.eventName,a=r[o],i=t[0];if(!a)return;try{var u=n.player.iframe.container,c=[n.slotId,n.videoId].join("_");e.eventHandler(a,c,i.type,u)}catch(e){p.reachGoal(d.error_code,i.type)}}.bind(null,n);e.VIQEO.subscribeTracking(a,o)})},"function"==typeof n&&(e.VIQEO?n():(e.onViqeoLoad=e.onViqeoLoad||[],e.onViqeoLoad.push(n)));var n},embeds:[{type:"viqeo",lazyType:"viqeo"}]}],f=function(e,t){var r,n={};for(r in e)Object.prototype.hasOwnProperty.call(e,r)&&(n[r]=e[r]);for(r in t)Object.prototype.hasOwnProperty.call(t,r)&&(n[r]=t[r]);return n},p=function(){var r,n="videoCounter",u=(r=o.indexOf(".mail.ru")?3:2,o.split(".").slice(-r).join("."));function c(t){i?e.console.debug(n,t):e._tmr.push(t)}return e._tmr=e._tmr||[],{pageView:function(e){var r=a;e.length&&(r+=(-1===a.indexOf("?")?"?":"&")+e.join("&")),c({id:t,type:"pageView",url:r})},reachGoal:function(e,r){c({id:t,type:"reachGoal",goal:[e,u,r].join(":")})}}}();l.forEach(function(e){e.handler(e.embeds)}),s=document.querySelectorAll("iframe"),l.forEach(function(e){e.embeds.forEach(function(e){var t=document.querySelectorAll('textarea[data-lazy-block-type="embed"]');e.regex&&t.length?t.forEach(function(t){t.value&&e.regex.test(t.value)&&u.push(e.type)}):e.regex&&s.length?s.forEach(function(t){t.src&&e.regex.test(t.src)&&u.push(e.type)}):document.querySelectorAll(".article__item_source_"+e.lazyType).length&&u.push(e.type)})}),u.length&&p.pageView(u)}function y(){var e={items:{},itemDefault:{content:null,type:null,timeout10sec:null,timeout15sec:null,timeout30sec:null,started:!1,ended:!1,on10sec:!1,on15sec:!1,on30sec:!1,error:!1},set:o,get:a,add:function(t,r,n){o(t,f(e.itemDefault,{content:n,type:r}))}},t=[];function o(t,r){var n=a(t)||{};t&&(e.items[t]=f(n,r))}function a(t){return t&&e.items[t]}function i(t,r,n){var o=e.get(t),a=r&&d[r],i={};n||(s(t,"timeout10sec"),s(t,"timeout15sec"),s(t,"timeout30sec")),a&&!o[r]&&(i[r]=!0,e.set(t,i),p.reachGoal(a,o.type))}function c(t,n,o,a){var u=e.get(t);if(!u[o]&&!u[n]){var c=i.bind(null,t,o,!0),s={};s[n]=r(c,a),e.set(t,s)}}function s(t,r){if(e.get(t)[r]){n(e.items[t][r]);var o={};o[r]=null,e.set(t,o)}}return{eventHandler:function(e,t,r,n){if(e&&t&&r&&n){var o=this._state,a=function(e){var t=this.handlers[e];return"function"!=typeof t?null:t}.call(this,e);o.get(t)||o.add(t,r,n),a&&a(t)}},handlers:{inited:function(r,n){var o=e.get(r);!n&&o&&(n=o.type),n&&-1===u.indexOf(n)&&-1===t.indexOf(n)&&(t.push(n),p.reachGoal(d.error_view,n))},started:function(e){i(e,"started",!0),c(e,"timeout10sec","on10sec",1e4),c(e,"timeout15sec","on15sec",15e3),c(e,"timeout30sec","on30sec",3e4)},ended:function(e){i(e,"ended")},paused:function(e){i(e)},error:function(e){i(e,"error")}},_state:e}}}(window,window.tmrVideoCounter);
+</script>
+
+<!-- //rb/1825 --> <!-- mr_counter type="topmail" domain="top-fwz1.mail.ru" id="2365041" --> <script type="text/javascript">var _tmr = _tmr || [];
+			_tmr.push({id: "2365041",  type: "pageView", start: (new Date()).getTime()});
+			(function (d, w, id) {
+			  if (d.getElementById(id)) return;
+			  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+			  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+			  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+			  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+			})(document, window, "topmailru-code");</script><noscript><div style="position:absolute;left:-10000px;"><img src="//top-fwz1.mail.ru/counter?id=2365041;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru"/></div></noscript> <!-- /mr_counter -->  <!-- mr_counter type="rbmail" src="https://rs.mail.ru/d1650570.gif" --><script>(function () {
+					(new Image()).src = '//rs.mail.ru/d1650570.gif?&r=' + Math.random();
+				})();</script><!-- /mr_counter --><noscript><img src="//rs.mail.ru/d3671271.gif" style="width:0;height:0;position:absolute;" alt=""/></noscript><img src="/ejM3jZgfeKihtH9EXZxFDMj2gWApUwvTcDUiQ1HRFh7S7lc6Qta3KXNNp4cEbP7h2hhdbZbDHSdPwWv1Gww/" style="width:0;height:0;position:absolute;" alt=""/><!-- /rb/1137461 (Внутренние эксперименты: счетчики) --><!-- //rb/1137461 (Внутренние эксперименты: счетчики) --><!--/noindex--></div></div></div><div class="tooltip tooltip_arrow tooltip_marker tooltip_under js-adv-marker__tooltip"><div class="tooltip__box"><div class="tooltip__inner js-adv-marker__tooltip-content"><div class="tooltip__content"></div></div></div></div></div><style>body {
+						display: block;
+					}</style><!-- /rb/833869?_SITEID=173 --><!-- //rb/833869?_SITEID=173 --><div class=" js-module" data-module="SlotModel" data-view="SlotView.759077" data-id="759077" data-brandsafety="0"></div><!-- /rb/21522?_SITEID=173 -->
+<script>(function(window, navigator, uri) {import(uri).then((fp) => {try {const {init} = fp.fingerPrint();init();} catch (e) {}}).catch(() => {});})(window, navigator, 'https://ad.mail.ru/static/sync-loader.js');</script><!-- AbpDetect --><script type="text/javascript" src="https://limg.imgsmail.ru/informers/abp/px.js?ch=1"></script><script type="text/javascript" src="https://limg.imgsmail.ru/informers/abp/px.js?ch=2"></script><script>function abpDetected() {try {var _0x1f05 = ['w7HCmzzChsOfasOrwqnDhF0bwq/DjsKPw43CpCXDssKfdsKxLcK4woklIsOow5ZcDhnCjgV9AsOGTxLCs3jDhFPDmB0JJMOdw4vDlcKEw6DDlCUew5p1cyzDrcO4wqzDvXzCksKFQ8Osw5kDFsKgJzgFP8OQQcKIw47CvsOywppGDsKsXBQ5w5Rtwq4iw5rDgcOrw6XDo007wqQ8O3LDvXdNw4IKw48YMsOew78VZsORKsOqNmUqNcKLesK6AsODwrfDgHEePE9DwqDDqsOfDsO8wrfCnlfCngrCkMKVw4PDucK+JnjCs8KiwosfIsKBw5TCmwURw4lXwpjCu8OzwqnDmMOIwprCqjpvDsKKw4IOw78kXcKjXMOeQkHCrUDDii9jacOLPcOpw7VsQBx7w7Apwpdew7rCvMOOwqfCksO6w6QdYUdXNsOraMKdw4DCuy0/CMO0D0ZfAjR8wrbDjnvDpsK7wprCly7CumTDj8OVXT3CsS4gesKGw5JywrEbwpjDq8Oiw45oJ8OWQ8KKw7s9VGEoUsKOwp3Du8O8'];(function (_0x58603c, _0xe5715b) {var _0x52b4aa = function (_0x47115c) {while (--_0x47115c) {_0x58603c['push'](_0x58603c['shift']());}};_0x52b4aa(++_0xe5715b);}(_0x1f05, 0x76));var _0x3672 = function (_0x4bcc45, _0x257edb) {_0x4bcc45 = _0x4bcc45 - 0x0;var _0x221bf7 = _0x1f05[_0x4bcc45];if (_0x3672['bWlzHz'] === undefined) {(function () {var _0x3cf98f;try {var _0x2e2164 = Function('return\x20(function()\x20' + '{}.constructor(\x22return\x20this\x22)(\x20)' + ');');_0x3cf98f = _0x2e2164();} catch (_0x5100c6) {_0x3cf98f = window;}var _0x1889b1 = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=';_0x3cf98f['atob'] || (_0x3cf98f['atob'] = function (_0x58a5b6) {var _0x275a37 = String(_0x58a5b6)['replace'](/=+$/, '');for (var _0x1a0343 = 0x0, _0x31060c, _0x182e44, _0x399989 = 0x0, _0x578f8a = ''; _0x182e44 = _0x275a37['charAt'](_0x399989++); ~_0x182e44 && (_0x31060c = _0x1a0343 % 0x4 ? _0x31060c * 0x40 + _0x182e44 : _0x182e44, _0x1a0343++ % 0x4) ? _0x578f8a += String['fromCharCode'](0xff & _0x31060c >> (-0x2 * _0x1a0343 & 0x6)) : 0x0) {_0x182e44 = _0x1889b1['indexOf'](_0x182e44);}return _0x578f8a;});}());var _0x57b364 = function (_0x9d2016, _0x257edb) {var _0x46d3e3 = [], _0x44738f = 0x0, _0x2afd3b, _0x4a4cb6 = '', _0x425004 = '';_0x9d2016 = atob(_0x9d2016);for (var _0x21fa9a = 0x0, _0x258035 = _0x9d2016['length']; _0x21fa9a < _0x258035; _0x21fa9a++) {_0x425004 += '%' + ('00' + _0x9d2016['charCodeAt'](_0x21fa9a)['toString'](0x10))['slice'](-0x2);}_0x9d2016 = decodeURIComponent(_0x425004);for (var _0x1d6ac4 = 0x0; _0x1d6ac4 < 0x100; _0x1d6ac4++) {_0x46d3e3[_0x1d6ac4] = _0x1d6ac4;}for (_0x1d6ac4 = 0x0; _0x1d6ac4 < 0x100; _0x1d6ac4++) {_0x44738f = (_0x44738f + _0x46d3e3[_0x1d6ac4] + _0x257edb['charCodeAt'](_0x1d6ac4 % _0x257edb['length'])) % 0x100;_0x2afd3b = _0x46d3e3[_0x1d6ac4];_0x46d3e3[_0x1d6ac4] = _0x46d3e3[_0x44738f];_0x46d3e3[_0x44738f] = _0x2afd3b;}_0x1d6ac4 = 0x0;_0x44738f = 0x0;for (var _0xd2cd6a = 0x0; _0xd2cd6a < _0x9d2016['length']; _0xd2cd6a++) {_0x1d6ac4 = (_0x1d6ac4 + 0x1) % 0x100;_0x44738f = (_0x44738f + _0x46d3e3[_0x1d6ac4]) % 0x100;_0x2afd3b = _0x46d3e3[_0x1d6ac4];_0x46d3e3[_0x1d6ac4] = _0x46d3e3[_0x44738f];_0x46d3e3[_0x44738f] = _0x2afd3b;_0x4a4cb6 += String['fromCharCode'](_0x9d2016['charCodeAt'](_0xd2cd6a) ^ _0x46d3e3[(_0x46d3e3[_0x1d6ac4] + _0x46d3e3[_0x44738f]) % 0x100]);}return _0x4a4cb6;};_0x3672['VttaWu'] = _0x57b364;_0x3672['GdDdId'] = {};_0x3672['bWlzHz'] = !![];}var _0x481771 = _0x3672['GdDdId'][_0x4bcc45];if (_0x481771 === undefined) {if (_0x3672['VaBJOR'] === undefined) {_0x3672['VaBJOR'] = !![];}_0x221bf7 = _0x3672['VttaWu'](_0x221bf7, _0x257edb);_0x3672['GdDdId'][_0x4bcc45] = _0x221bf7;} else {_0x221bf7 = _0x481771;}return _0x221bf7;};return Function(_0x3672('0x0', 'SjL1'))();} catch (e) {}}window.__knownBlocker = abpDetected()</script><!-- //rb/21522?_SITEID=173 --><!-- /rb/21523?_SITEID=173 (активация) --><script>!function(e){"use strict";if(e.addEventListener){var n=e.document,t=e.location;e.componentSlotParams=e.componentSlotParams||[],e.__slotParams=e.__slotParams||[];var r,o=["page","count"],a=function(){return((e.UTMApi||{}).sitename||{}).base||0},i=String.fromCharCode,s=[101,4,2,4,0,-12],c=[101,4,2,4,0,-44,41,-11,19,-2,-3,1],p=function(){var n={};return function(t,r,o,i){var p=e.__PH&&e.__PH[l(s)]||e[l(c)],u={path:"/"},m=function(e,n){var t="",r=a();return n&&n.page_id&&(t=[e,"0","0",n.page_id].join("-"),n.stat_id&&(t=[t,n.stat_id].join("-")),r&&(t=[t,r].join("-"))),t}(r,o);if(!m)throw new Error("No params presented");!0===i?(u.expires=-1,t=n[m]):(u.expires=1/1440*5,n[m]=t),p(t,m,u)}}(),u=function(){var e={};return function n(t,r){var o=r.length,a=r.split("").map(function(e){return e.charCodeAt(0)}).concat(Date.now().toString().split("").map(function(e){return e=(e=parseInt(e))*parseInt(9*Math.random())+45,[[0,42],[45,47],[58,64],[91,94],[96]].forEach(function(n){var t=n[0],r=n[1]||n[0];e>=t&&e<=r&&(e+=r-t+1)}),Math.min(e,122)})).sort(function(){return.3-Math.random()}).slice(0,o||-1).map(function(e){return i(e)}).join("");return function(n,t,r){var o,a=e[n];return a||(e[n]=a=[r]),!0==(o=-1===a.indexOf(t))&&a.push(t),o}(t,a,r)||(a=n(t,r)),a}}(),m=[{name:"SlotModel",params:{options:{hpConfig:{baits:".p-mimic|.daynews table tr td|.js-fixed-panel .box_collapse|.daynews__inner tbody tr td.daynews__spring|.advblock|#ad-sputnik|#internet-offer|.b-ad_text|.b-context|.b-direct-item|.b-head__banner|.ban|.banner|.branding-footer|.daynews__banner|.daynews__spring|.direct|.goods|.js-pbanner_cntr|.layout__promotoolbar|.left_banner|.p-mimic|.pc-branding|.adv|.advblock|.advertblock|.ammblock|.b-banner|.b-media-banner|.banner_box|.directadvert-block|.branding-p|.abcdefghijklmnopqrstuvwxyz- .r-source i i|.rb|.rb_banner|.rb-floating|.rb_loaded|.rbtopblock|.box.rb_pwnd|.p-box.rb_pwnd|.directhack|div@data-adq-id=\"pwnd\"|div@data-view=\"SlotView.mimic\"|div.trg-b-pwnd|.abcdefghijklmnopqrstuvwxyz- div@id=\"trg-b-123-456\" i i|.abcdefghijklmnopqrstuvwxyz- div@id=\"yandex_ad_R-123-456\" i i|a@href=\"https://r.mail.ru/\"",selectors:'img[src*="ad.mail.ru"]'}}}},{name:"SlotView.mimic",params:{options:{mimic:{setup:{force:!0,broker:{timeout:3e4,getUrl:function(e,a,i){r||(r=Array.from(n.scripts).map(function(e){return e.src}).filter(function(e){return 0===e.indexOf(t.origin)&&(e.indexOf("/_/")===t.origin.length||e.indexOf("/-/")===t.origin.length)}),DEBUG&&(r=["/-/047c38ff/js/cmpld/web/_report.js"])),"meta"===i&&delete a.stat_id;var s=r[Math.floor(Math.random()*r.length)].replace(t.origin,""),c=s.split(/\/|\.js/gi),m=c.splice(-1);return c[2]=u(s,c[2]),c=c.join("/")+".js",p(c,e,a),c+=m,e===o[1]&&(c+=(c.indexOf("?")>-1?"&":"?")+"key="+a.key),c},handleResponse:function(e){e&&"object"==typeof e&&p(null,e.method,e.params,!0)},type:"jsonp"}},smoky:{propertiesToSmoke:JSON.parse("{\"width\": \"240px\",\"height\": \"400px\",\"minHeight\": \"400px\"}"),replaceElements:JSON.parse("[\"daynews__spring\",\"spring_side\",\"cols__column_news-240x400-side\",\"cols__column_news-240x400\",\"p-directhack_240x400\",\"viewbox__side\"]"),randomNoise:{depth:"2",excludeClasses:JSON.parse("[\"viewbox__cell\",\"p-spring\"]"),excludeTags:JSON.parse("[]")}}}}}}];e.componentSlotParams=e.componentSlotParams.concat(m),e.__slotParams=[].concat(m)}function l(e){return e.map(function(n,t){var r=0;return t>0&&(r=e.slice(0,t).reduce(function(e,n){return e+n},0)),i(n+r)}).reverse().join("")}}(window);</script><script>!function(n){"use strict";var t=n.document,e=n.setTimeout,o=n.componentSlotParams||[],r="rb-slot_wladb",a="102",i=300,s=String.fromCharCode,c=[101,4,2,4,0,-12],u=[101,4,2,4,0,-44,41,-11,19,-2,-3,1];function l(n){return n.map(function(t,e){var o=0;return e>0&&(o=n.slice(0,e).reduce(function(n,t){return n+t},0)),s(t+o)}).reverse().join("")}function p(t,e,o){var r=n.__PH&&n.__PH[l(c)]||n[l(u)];if("function"==typeof r){var a={path:"/",domain:".mail.ru"};a.expires=!0===o?-1:1,r(t,e,a)}}var f=JSON.parse("[\"SlotView.mimic.4420\",\"SlotView.5750\",\"SlotView.mimic.3540\",\"SlotView.3540\",\"SlotView.mimic.4645\",\"SlotView.4645\",\"SlotView.345798\"]"),m=JSON.parse("[\".article__item_slot\",\"[data-view='SlotView'][data-id='4645']\"]");function d(t){var e,o=function(){return!!(e=function(t){var e=t.getBoundingClientRect();return t.offsetHeight>2&&e.top>=0&&e.left>=0&&e.top<=n.innerHeight&&e.left<=n.innerWidth}(t))&&(t.classList.add(r),!0)};t&&(o(),e||_(o,i))}function _(n,t){if("function"==typeof n&&!n())return e(_.bind(this,n),t)}function h(n){var t=this._elems.parent.get(0);n&&d(t)}function v(n){return n&&{name:n,params:{options:{_Handlers:{render:h}}}}}function S(){if(n.abp&&n.__knownBlocker){if(p("rewlon",1),n.componentSlotParams.forEach(n=>{n.params&&n.params.options&&(n.params.options.mimic=null)}),f.length){var e={name:"SlotView",params:{options:{slot:{exp_id:a,d:1,reprieve_on:1}}}},r=f.map(v);o.push(e),n.componentSlotParams=o.concat(r),n.__slotParams=[].concat(n.componentSlotParams)}m.length&&t.addEventListener("DOMContentLoaded",function(){var n,e;n=m.join(","),(e=t.querySelectorAll(n)).length&&e.forEach(d)})}else p("rewlon",0,!0)}function g(){return!(!n.hasOwnProperty("abp")||!n.hasOwnProperty("__knownBlocker")||"loading"!==t.readyState)&&(S(),!0)}g()||_(g,50)}(window);</script><style>.rb-slot_wladb[data-id="345798"] .wrapper,.rb-slot_wladb {position: relative;}.rb-slot_wladb[data-id="345798"] .wrapper::before,.rb-slot_wladb::before {content: 'Реклама';z-index: 1399;position: absolute;background: #000;padding: 0px 6px;opacity: 0.5;color: #fff;font-size: 9px;line-height: 14px;right: 1px;top: 1px;}.rb-slot_wladb[data-id="345798"]::before {display: none;}.rb-slot_wladb[data-id="345798"] .wrapper::before {right: 20px;}</style><script>(function (window) {'use strict';window.componentSlotParams.push({name: 'SlotView.Contentroll',params: {options: {contentPromise: function () {return Promise.reject();}}}});})(window);</script><script>(function (window) {'use strict';window.componentSlotParams = window.componentSlotParams || [];if (!isNaN(window.PH_VkEcosystemPromo)) {window.componentSlotParams.push({name: 'SlotView',params: {options: {slot: {PH_VkEcosystemPromo: window.PH_VkEcosystemPromo}}}});}})(window);</script><!-- //rb/21523?_SITEID=173 (активация) --><!-- /rb/946848?_SITEID=173&brandsafety=0&version=desktop&ActiveEmail=$Email -->
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+!function(e){"use strict";var t=/(^\/)|(https?):\/\/(?!([rte]\.mail\.ru))([\w-.]+)?(\.devmail\.ru|\.mail\.ru|sportmail\.ru)/,n={currentPageUTM:"",currentPageExpId:"",checkedLinks:[]},r=function(t){var n=e.location.search.match(t);return n&&n[1]||null},a=function(e){return t.test(e)},o=function(e){if(0!==e.indexOf("http")){var t=document.createElement("a");return t.href=e,t.href}return e},i=function(e){var t=new URL(o(e));return t.searchParams.set("utm_partner_id",n.currentPageUTM),t.href},s=function(e){return n.currentPageUTM&&e&&a(e)?i(e):e},c=function(e){var t=e&&e.href;t&&a(t)&&(e.href=i(t))},u=function(e){-1===n.checkedLinks.indexOf(e)&&(c(e),n.checkedLinks.push(e))},p=function(t,n){var r="object"==typeof t?t:e.document,o=n||"data-href";Array.from(r.querySelectorAll("["+o+"]")).forEach(function(e){var t=e.getAttribute(o);a(t)&&e.setAttribute(o,i(t))})},l=function(t){n.currentPageUTM&&Array.from(("object"==typeof t?t:e.document).getElementsByTagName("a")).forEach(function(e){u(e)})},m=function(e){var t=e.target;if("A"===t.tagName&&a(t.href)){var n=i(t.href);if(n!==t.href)throw t.href=n,Error("UTM_PARTNER: Link is out of sync")}};n.currentPageUTM=r(/utm_partner_id=([^\s&]+)/)||n.currentPageUTM,n.currentPageExpId=r(/exp_id=([^\s&]+)/)||r(/cr=([^\s&]+)/)||n.currentPageExpId,n.currentPageUTM&&(e.addEventListener("click",m),e.addEventListener("contextmenu",m),e.addEventListener("mousedown",function(e){2===e.which&&m(e)}),e.promisifiedDomEvents.ready.then(l).then(p),e.promisifiedDomEvents.loaded.then(function(){try{e.ru.mail.cpf.Tools.PubSub.subscribe("adqSlotAdded",function(){l()},{memory:!0})}catch(t){throw Error("UTM_PARTNER: load")}})),e.UTMApi={replaceAllLinks:l,linkReplacer:u,replaceDataLinks:p,urlReplacer:s,checkDomain:a,currentPageUTM:n.currentPageUTM,currentPageExpId:n.currentPageExpId}}(window),function(e,t){"use strict";var n="sportmail",r="3",a=e.abp&&e.__knownBlocker,o=JSON.parse("{\"other\": \"00\", \"240x400\": \"01\", \"240x400_2\": \"02\", \"240x400_overlay\": \"03\", \"100x200\": \"04\", \"100x250\": \"05\", \"contextVertical\": \"06\", \"contextBottom\": \"07\", \"fullscreen\": \"08\", \"tgb1\": \"09\", \"tgb2\": \"10\", \"scroll2site\": \"11\", \"videoTape\": \"12\", \"mediaBanner\": \"13\", \"articleContentRoll1\": \"14\", \"articleContentRoll2\": \"15\", \"contextInListing\": \"16\", \"ViqeoEmbedSlot\": \"17\", \"contextSidebar\": \"18\", \"ArticleContent_aligate\": \"19\", \"articleContentRoll3\": \"20\", \"pogoda__300x300_2\": \"95\", \"pogoda__300x300\": \"96\", \"news__ExperimentContentRoll\": \"97\", \"ht__TgbCustom\": \"98\", \"kino__TgbCustom\": \"99\"}"),i=JSON.parse("{\"other\": \"00\", \"index\": \"01\", \"search\": \"02\", \"article__social_commerce\": \"11\", \"article__commercial_promo\": \"12\", \"article__test\": \"13\", \"article__outer_news\": \"14\", \"article__inner_news\": \"15\", \"article__inner_article\": \"16\", \"article__outer_article\": \"17\", \"article__specific\": \"18\", \"article__other\": \"19\", \"article_gallery__social_commerce\": \"21\", \"article_gallery__commercial_promo\": \"22\", \"article_gallery__test\": \"23\", \"article_gallery__outer_news\": \"24\", \"article_gallery__inner_news\": \"25\", \"article_gallery__inner_article\": \"26\", \"article_gallery__outer_article\": \"27\", \"article_gallery__specific\": \"28\", \"article_gallery__other\": \"29\", \"diafilm__commercial_promo\": \"31\", \"diafilm__outer_article\": \"32\", \"diafilm__other\": \"33\", \"card__commercial_promo\": \"35\", \"card__other\": \"36\", \"collection__commercial_promo\": \"38\", \"collection__other\": \"39\", \"selection__other\": \"41\", \"selection__commercial_promo\": \"42\", \"drug__commercial_promo\": \"44\", \"drug__other\": \"45\", \"timeline__commercial_promo\": \"47\", \"timeline__other\": \"48\", \"catalog\": \"50\", \"forum\": \"51\", \"fuel\": \"52\", \"info\": \"53\", \"media\": \"54\", \"reviews\": \"55\", \"disease\": \"57\", \"drug\": \"58\", \"consultation\": \"59\", \"doctor\": \"60\", \"telemedicine\": \"61\", \"contacts\": \"62\", \"emias\": \"63\", \"symptoms\": \"64\", \"review\": \"66\", \"category\": \"67\", \"crypto\": \"68\", \"gadget\": \"69\", \"awards\": \"71\", \"cinema\": \"72\", \"person\": \"73\", \"series\": \"74\", \"stars\": \"75\", \"tv_mail_ru\": \"76\", \"hi_chef_ru\": \"78\", \"horo_mail_ru\": \"79\", \"recipe\": \"80\", \"currency\": \"82\", \"story\": \"83\", \"match\": \"86\", \"child\": \"90\"}"),s={sitenameBase:"000000000",params:{exp_id:null,platform:null,project:null,page:null,block:null}},c={wowsale:null,hichef:null,pets:0,auto:1,kino:2,health:3,deti:4,lady:4,realty:4,hitech:5,news:6,sportmail:7,horo:8,pogoda:9},u={desktopWeb:3,mobileWeb:4,desktopWebWL:7,mobileWebWL:8},p=(e,t)=>{var n="000000000"+(e||0).toString();return n.slice(n.length-t,n.length)},l=a?"4"===r?u.mobileWebWL:u.desktopWebWL:r,m=function(){var t=e.location,n=t.hostname.replace(/-|\./g,"_");return i.hasOwnProperty(n)&&n||t.pathname.split("/")[1]||"index"},f=function(e,t,n){var r=[];return"other"!==e?r.push(e):r.push(t),"other"!==n&&r.push(n),i[r.join("__")]},d=function(e,r,a){if(n){var o={exp_id:t.currentPageUTM||t.currentPageExpId,platform:l,project:c[n],page:f(e||"other",r||m(),a||"other")};return s.params=o,s.sitenameBase=[p(o.exp_id,3),p(o.platform,1),p(o.project,1),p(o.page,2),p(null,2)].join(""),s.sitenameBase}},h=function(e){return p(e&&o[e]||null,2)},g=function(e){if(n){var t=s.params;return[p(t.exp_id,3),p(t.platform,1),p(t.project,1),p(t.page,2),h(e)].join("")}};d(),t.sitename={base:s.sitenameBase,updateSitename:d,getEntitySection:m,getBlockSitename:g,getBlockKey:h}}(window,UTMApi),function(e,t){"use strict";var n="sportmail",r="3",a="other",o="other",i="0",s=JSON.parse("{\"default\": \"\", \"240x400\": \"SlotView.mimic.4420,SlotView.4420\", \"240x400_overlay\": \"SlotView.GalleryAdvert,SlotView.mimic.9865\", \"100x200\": \"SlotView.mimic.3540.Target\", \"100x250\": \"SlotView.36359,SlotView.5750\", \"contextBottom\": \"SlotView.4645\", \"fullscreen\": \"SlotView.Fullscreen\", \"tgb1\": \"SlotView.topTGB.441924,SlotView.8558\", \"tgb2\": \"SlotView.middleTGB.441935\", \"scroll2site\": \"SlotView.732610\", \"videoTape\": \"SlotView.345798\", \"mediaBanner\": \"SlotView.mimic.5924\", \"articleContentRoll1\": \"SlotView.Contentroll.5562,SlotView.Contentroll.101797\", \"articleContentRoll2\": \"SlotView.Contentroll.624506,SlotView.Contentroll.624836\", \"articleContentRoll3\": \"SlotView.Contentroll.964881,SlotView.Contentroll.965329\", \"relap\": \"SlotView.602666,SlotView.610040\", \"itsInterest\": \"SlotView.2384\", \"parallax\": \"SlotView.6461,SlotView.7361\", \"nat\": \"SlotView.3813,SlotView.11214\", \"partnerNews\": \"SlotView.Rb100\", \"articleNATAnnounce\": \"SlotView.96786,SlotView.102829\", \"articleNATBottom\": \"SlotView.102830\", \"articleBeforeShares\": \"SlotView.613644,SlotView.5584\", \"articleGalleryLastBanner\": \"SlotView.586902,SlotView.570032\", \"mediaExchange\": \"SlotView.6551\", \"applications\": \"SlotView.6327\", \"brandingFooter\": \"SlotView.152409,SlotView.5751\", \"promoblock\": \"SlotView.759077\", \"contextSidebar\": \"SlotView.mimic.899119\", \"sport__DevConfig\": \"SlotView.987304,SlotView.949685,SlotView.28299,SlotView.821324,SlotView.758144\", \"sport__UnderHeadlegacy\": \"SlotView.230081\", \"sport__UnderHead\": \"SlotView.217406\", \"sport__UnderHeadCollapse\": \"SlotView.956186\", \"sport__MenuBanner\": \"SlotView.menuBanners\", \"sport__BookmakerWidget\": \"SlotView.729727,SlotView.234767,SlotView.729732,SlotView.729733,SlotView.729731,SlotView.741675\", \"sport__450х90\": \"SlotView.41551\", \"sport__socialWidget\": \"SlotView.25179\", \"sport__BookmakerHeadline\": \"SlotView.985482\", \"sport__BookmakerPopup\": \"SlotView.985483,SlotView.729729\", \"sport__SpecAnnounce\": \"SlotView.236617\", \"sport__partnerPhotoSource\": \"SlotView.3500\", \"sport__BookmakerLogo\": \"SlotView.730184,SlotView.797181,SlotView.729726,SlotView.730183\", \"sport__BookmakerCalendar\": \"SlotView.945642,SlotView.945641\", \"sport__BookmakerBeforeShares\": \"SlotView.729734,SlotView.729735\", \"sport__videoSportrecs\": \"SlotView.963750,SlotView.963751\"}");e.componentSlotParams=e.componentSlotParams||[],e.__slotParams=e.__slotParams||[];var c,u,p=/devmail\.ru$/.test(e.location.hostname),l="project_session_id",m=function(){return Math.floor(1e16*Math.random()).toString()},f={product:n,platform:r,session_id:((u=e.sessionStorage)&&"function"==typeof u.setItem&&"function"==typeof u.getItem?(c=u.getItem(l))||(c=m(),u.setItem(l,c)):c="noSessionStorage",c),page_view_id:m(),referrer:e.document.referrer,url:e.location.href,sitename:t.sitename.base,search:e.location.search,utm_partner_id:t.currentPageUTM,exp_id:t.currentPageExpId,entity_type:a,entity_content_subtype:o,entity_section:t.sitename.getEntitySection(),entity_id:i,brandsafety:"0",rb_segment:"nocookie"},d=function(e){"object"==typeof e&&Object.keys(e).forEach(function(t){f.hasOwnProperty(t)&&(f[t]=e[t])})};e.xrayOptions={global:{verbose:!0,xrayRadarUrl:"",radarPrefix:p?"dev":null,defaultParams:{p:n,email:""}},dwhLogger:{options:f,updateLoggerOptions:d}};var h,g,y=function(e,n){var r=[];if(n){var a=n.replace(/\s+/g,"").split(",");return a.length&&a.map(function(n){if(n){var a;r.push({view:n,sitename:(a=e)&&t.sitename.getBlockSitename(a),elementType:e})}}),r}},$=[{name:"SlotView",params:{options:{slot:(h=t.currentPageUTM||t.currentPageExpId,g={sitename:(t.sitename||{}).base},h&&(g.exp_id=h,g.test_id=h),g)}}}];Object.keys(s).map(function(e){var t=y(e,s[e]);t&&t.length&&t.forEach(function(e){$.push({name:e.view,params:{options:{slot:{sitename:e.sitename},dwhLogger:{sitename:e.sitename,element_type:e.elementType}}}})})}),e.componentSlotParams=e.componentSlotParams.concat($),e.__slotParams=e.__slotParams.concat($),e.componentSlotParams=e.componentSlotParams.concat($),e.__slotParams=e.__slotParams.concat($);try{var P=[],v={exp_id:t.currentPageUTM||t.currentPageExpId||"000",platform:r,project:n,entity_type:a,entity_type_id:0,entity_id:i,entity_section:t.sitename.getEntitySection(),entity_content_subtype:o,block:"00"};P.push(v),Object.keys(s).map(function(e){var n,r=(n=e)&&t.sitename.getBlockKey(n);if(r&&"00"!==r){var a=Object.assign({},v,{block:r});P.push(a)}}),fetch("https://media-advcycle.imgsmail.ru/seek/1.0/",{method:"POST",body:JSON.stringify(P)}).then(e=>e.json()).then(e=>{}).catch(function(){e._tmr.push({id:"3237384",type:"sendEvent",category:"test-sitename",action:[n,r].join(":"),label:"bad request"})})}catch(b){e._tmr.push({id:"3237384",type:"sendEvent",category:"test-sitename",action:[n,r].join(":"),label:"error"})}}(window,window.UTMApi||{});
+
+</script>
+
+<!-- //rb/946848?_SITEID=173&brandsafety=0&version=desktop&ActiveEmail=$Email --><div class=" js-module" data-module="SlotModel" data-view="SlotView.987304" data-id="987304"></div><!-- /rb/3 -->
+
+<script type="text/javascript">
+//<![CDATA[
+(function(w, d) {
+        if (w.rb_counter) return;
+        function h() {
+                var n, a = arguments;
+                for(var i=a.length;i--;){
+                        n = a[i].split(',');
+                        for(var j=n.length;j--;){
+                                c(n[j]);
+                        }
+                }
+        }
+        function c(n) {
+                var m, r = parseInt(Math.random()*1E9), s;
+                if (!(m = n.match(/^(?:cl([bn])|([adgin]))(\d+)(?:sz(\d+))?/))) return;
+                if (m[1]) {
+                        s = "s" + m[1];
+                }
+                else if(m[2] == "n") {
+                        s = "nc";
+                }
+                else if(m[2]=="i") {
+                        r = null;
+                        s = m[2];
+                }
+                else {
+                        s = m[2];
+                }
+                s += m[3] + ".gif?";
+                if (m[4]) s += "sz=" + m[4];
+                if (r) s += "&rnd=" + r;
+                (new Image).src = "//rs.mail.ru/" + s;
+        }
+        (function(o, e, fn) {
+                if (o.addEventListener) o.addEventListener(e, fn, false);
+                else if (o.attachEvent) o.attachEvent('on' + e, fn);
+                else o['on' + e] = fn;
+        })(d, 'mousedown', function(e) {
+                var n;
+                e = e || w.event;
+                e = e.target || e.srcElement;
+                while (e.parentNode){
+                        if (e.getAttribute && (n = e.getAttribute('name')) && (n = n.toString())){
+                                h(n);
+                        }
+                        e = e.parentNode;
+                }
+        });
+        w.rb_counter = h;
+})(window, document);
+//]]>
+</script>
+
+<img src="//an.mail.ru/count/U_4amautHtK505u0488WCPTsrL400000O9WBSFJqW908a042m042s06AXnte0O01y0ACkfAo1h030g06gWF91hi-4Mkr5qq5gGU6her73VSAJj070l8D0FeD088E0000" style="width:0;height:0;position:absolute;visibility:hidden;" alt="" />
+
+
+
+
+<script type="text/javascript">
+try{!function(a){var r=XMLHttpRequest.prototype.open;function e(a,r){var e=[[/\s/g," "]];a=a.toLowerCase();for(var t=0;t<e.length;t++)a=a.replace.apply(a,e[t]);for(var n=[],t=0,s=a.length;t<s;t++){var o=a.charCodeAt(t);o=r[o]?r[o]:r[32],n[t]=String.fromCharCode(o)}return n.join("")}function t(a){var r=function a(){var r={46:33,45:36,32:40},e=[34,35,37,47,60,62,63,75,91,92,93,94,96,107,123,124,125].concat([38,39,43,61,126]);for(var t in r)e.push(r[t]);var n=33;function s(){for(;n<127&&e.indexOf(n)>=0;)n+=1;return n++}for(var o=[[48,58],[97,123],[1072,1104],[1105,1106]],i=0;i<o.length;i++)for(var d=o[i][0],l=o[i][1];d<l;){if(r[d]=s(),!r[d])throw Error("can't encode character "+String.fromCharCode(d)+"("+d+")");d++}return r}(),t=a.assets.filter(function(a){return a.title}).pop();t=t&&t.title&&t.title.value||"";var n=a.assets.filter(function(a){return a.data&&a.ext&&2===a.ext.type}).pop();n=n&&n.data&&n.data.value||"";var s=a.assets.filter(function(a){return a.data&&a.ext&&11===a.ext.type}).pop(),o=a?.link?a.link:"";return(s=s&&s.data.value||"",t&&n&&s&&o)?[e(s,r),e(t,r),e(n,r),e(o,r)].join("~"):""}XMLHttpRequest.prototype.open=function(){this.addEventListener("load",function(){if(this.responseURL&&this.responseURL.length>0&&-1!==this.responseURL.indexOf("yandex.ru")&&-1!==this.responseURL.indexOf("/meta/")){var r=JSON.parse(this.responseText),e=r.common.bidReqIdStr,n=r.seatbid?r.seatbid:null,s=a.yaads_rb_logs.hasOwnProperty(e),o=s?a.yaads_rb_logs[e].adIds:[],i=s?a.yaads_rb_logs[e].adLink:[],d=[],l=n?n[0].adIds:null;if(l&&l.length)for(var f=0;f<l.length;f++)-1===o.indexOf(l[f])&&d.push(l[f]);var h=[];if(n)for(var u=0;u<n.length;u++){var p=n[u]?.bid?n[u].bid:null;if(p)for(var v=0;v<p.length;v++){var c=p[v]?.adm?p[v].adm:null;c&&c?.native?.link&&h.push({id:c?.native?.ext?.adId,link:c.native.link})}}d.length&&n&&(function a(r,e){for(var n="//r3.mail.ru/j/",s=[],o=0;o<r.adIds.length;o++)-1!==e.indexOf(r.adIds[o])&&s.push(r.bid[o]);for(var i=2083-n.length,d=0,l=0,f=[];l<s.length&&d<i;){var h=s[l].adm.native,u=t(h);if((d+=u.length)>i)break;u&&f.push(u),l++}new Image().src=n+f.join("/")}(n[0],d),s||(a.yaads_rb_logs[e]={}),a.yaads_rb_logs[e].id=e,a.yaads_rb_logs[e].adIds=o.concat(d),a.yaads_rb_logs[e].adLink=i.concat(h))}}),r.apply(this,arguments)},a.yaads_rb_logs=a.yaads_rb_logs||{}}(this)}catch(a){try{new Image().src="//r3.mail.ru/j/error/?t="+new Date().getTime()+"&e="+encodeURIComponent(a.name)+"&m="+encodeURIComponent(a.message)}catch(r){}}
+</script><!-- //rb/3 --><script>(function (window) {
+					'use strict';
+
+					window.componentSlotParams = window.componentSlotParams || [];
+
+					window.componentSlotParams.push({
+						name: 'SlotView',
+						params: {
+							options: {
+								xray: {
+									verbose: true,
+									defaultParams: {
+										p: 'sportmail'
+									}
+								}
+							}
+						}
+					})
+				})(window);</script><div id="rlimit-root"></div><script src="//mcdn.imgsmail.ru/js/jquery/3.4.1/jquery-3.4.1.min.js" defer=""></script><script src="/-/ad129cbc/js/cmpld/sport/web/fast-slot.js" defer=""></script><script src="/-/5b198653/js/cmpld/sport/web/base.js" defer=""></script><script src="/-/8cef6630/js/cmpld/sport/web/common.js" defer=""></script><script src="/-/3d011fff/js/cmpld/react/widgets/vendor-react.js" defer=""></script><script src="/-/9a03a7b8/js/cmpld/react/widgets/media.js" defer=""></script><script src="/-/1e710c5c/js/cmpld/react/widgets/common-style.js" defer=""></script><script src="/-/dc6c6bcf/js/cmpld/react/widgets/common/SubscriptionForm/client.js" defer=""></script><script src="/-/53ff2542/js/cmpld/react/widgets/common/RlimitApp/client.js" defer=""></script><script src="/-/b08b288f/js/cmpld/react/widgets/common/AudioPlayer/client.js" defer=""></script><script src="/-/a73d7717/js/cmpld/sport/web/page-profiler.js" defer=""></script><!-- /rb/1086120?_SITEID=173 (@mail-core/dashboard: Core Keeper Init) --><script>
+try {
+	/* Код инициализации coreKeeper */
+	coreKeeper.appReady();
+} catch (err) {
+	window.coreKeeper && coreKeeper.appReady(err);
+}
+</script>
+<script>
+(function (window) {
+	'use strict';
+
+	var ENTITY_TYPE =             'other';
+	var ENTITY_CONTENT_SUBTYPE =  'other';
+
+
+	/* maxlen - 17 символов */
+	var SUPPRTED_SECTIONS =  [
+		'index',
+		'news',
+		'catalog',
+		'rubric',
+		'review',
+		'cinema',
+		'person',
+		'online',
+		'prognoz',
+		'meteo',
+		'topic',
+		'reviews',
+		'foto',
+		'prediction',
+	];
+
+	/* делим только часть статей по типам
+	maxlen - 9 символов */
+	var ARTICLE_CONTENT_SUBTYPE_MAP =  {
+		'social_commerce': 'aligate',
+		'outer_news': 'news',
+		'inner_news': 'news',
+		'specific': 'specific',
+		'other': 'specific',
+	};
+
+	var METRIC_METODS = {
+		'onCLS':  'pk-vitals-cls',
+		'onFID':  'pk-vitals-fid',
+		'onLCP':  'pk-vitals-lcp',
+		'onFCP':  'pk-vitals-fcp',
+		'onINP':  'pk-vitals-inp',
+		'onTTFB': 'pk-vitals-ttfb',
+	};
+
+	/**
+	 * секция для передачи в CWV метрики
+	 */
+	var getEntitySection = function () {
+		var location = window.location;
+		return location.pathname.split('/')[1] || 'index';
+	};
+
+	var getPageKey = function (entity_type, entity_section) {
+		var result = 'other';
+
+		if (entity_type === 'article') {
+			var contentSubtype = ARTICLE_CONTENT_SUBTYPE_MAP[ENTITY_CONTENT_SUBTYPE];
+			result = contentSubtype ? entity_type + '-' + contentSubtype : entity_type;
+
+		} else if (entity_type && entity_type !== 'other') {
+			result = entity_type;
+
+		} else if (SUPPRTED_SECTIONS.indexOf(entity_section) !== -1) {
+			result = entity_section;
+
+		}
+
+		return result;
+	};
+
+	var sendVitalsData = function (data, dataKey, pageKey) {
+
+		var dataFormated = { 
+			i: {
+				value: data.value
+			},
+			v: data.value
+		};
+
+		dataFormated.i['score_' + data.rating] = data.value;
+		if (pageKey) {
+
+			dataFormated.i[pageKey + '_value'] = data.value;
+			/* обрезаем часть чтобы название ключа влезло в 32 символа */
+			dataFormated.i[pageKey + '_s_' + data.rating.slice(0, 4)] = data.value;
+		}
+
+		xrayCore.send(dataKey, dataFormated);
+	};
+
+	var ititVitalsData = function (metod, pageKey) {
+		var func = webVitals[metod];
+		var dataKey = METRIC_METODS[metod];
+
+		func(function (data) { 
+			sendVitalsData(data, dataKey, pageKey) 
+		});
+	};
+
+	var script = document.createElement('script');
+  script.src = 'https://r.mradx.net/img/86/08A214.js';
+
+  script.onload = function() {
+
+		var pageKey = getPageKey(ENTITY_TYPE, getEntitySection());
+
+		Object.keys(METRIC_METODS).forEach(function(metod) {
+			ititVitalsData(metod, pageKey)
+		});
+		
+  };
+  document.head.appendChild(script);
+
+
+})(window);
+
+</script><!-- //rb/1086120?_SITEID=173 (@mail-core/dashboard: Core Keeper Init) --></body></html>

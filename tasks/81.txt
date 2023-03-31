@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Прат, Лодевик ван — Википедия</title>
+<script>document.documentElement.className="client-js";(function(){var cookie=document.cookie.match(/(?:^|; )ruwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"609fb1dd-3b74-4f3d-afa3-63605f5ce1c7","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Прат,_Лодевик_ван","wgTitle":"Прат, Лодевик ван","wgCurRevisionId":121284484,"wgRevisionId":121284484,"wgArticleId":7865162,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":
+"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Статьи о государственных деятелях без иллюстраций на Викискладе","Родившиеся 25 октября","Родившиеся в 1488 году","Персоналии по алфавиту","Родившиеся в Брюгге","Умершие 7 октября","Умершие в 1555 году","Кавалеры ордена Золотого руна","Государственные деятели Нидерландов","Военачальники Нидерландов","Участники Итальянских войн","Дом Дампьер"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Прат,_Лодевик_ван","wgRelevantArticleId":7865162,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{
+"levels":1}}},"wgStableRevisionId":121284484,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q936744","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":
+"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.scribunto.logs","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.flaggedRevs.advanced","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","oojs-ui.styles.icons-media","oojs-ui-core.icons","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo",
+"ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.41.0-wmf.1"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Blason_Louis_de_Flandre_%28%2B1555%29_seigneur_de_Praet.svg/1200px-Blason_Louis_de_Flandre_%28%2B1555%29_seigneur_de_Praet.svg.png"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="1320"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Blason_Louis_de_Flandre_%28%2B1555%29_seigneur_de_Praet.svg/800px-Blason_Louis_de_Flandre_%28%2B1555%29_seigneur_de_Praet.svg.png"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="880"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Blason_Louis_de_Flandre_%28%2B1555%29_seigneur_de_Praet.svg/640px-Blason_Louis_de_Flandre_%28%2B1555%29_seigneur_de_Praet.svg.png"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="704"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Прат, Лодевик ван — Википедия"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD"/>
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Прат_Лодевик_ван rootpage-Прат_Лодевик_ван skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Прат, Лодевик ван</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ru" dir="ltr"><div class="mw-parser-output"><style data-mw-deduplicate="TemplateStyles:r117420410/mw-parser-output/.infobox[data-name=&#39;Государственный деятель&#39;]">body.skin-modern .mw-parser-output .infobox[data-name="Государственный деятель"] .infobox-above,body.skin-modern .mw-parser-output .infobox[data-name="Государственный деятель"] .infobox-header,body.skin-modern .mw-parser-output .infobox[data-name="Государственный деятель"] .infobox-below,body.skin-monobook .mw-parser-output .infobox[data-name="Государственный деятель"] .infobox-above,body.skin-monobook .mw-parser-output .infobox[data-name="Государственный деятель"] .infobox-header,body.skin-monobook .mw-parser-output .infobox[data-name="Государственный деятель"] .infobox-below,body.skin-timeless .mw-parser-output .infobox[data-name="Государственный деятель"] .infobox-above,body.skin-timeless .mw-parser-output .infobox[data-name="Государственный деятель"] .infobox-header,body.skin-timeless .mw-parser-output .infobox[data-name="Государственный деятель"] .infobox-below,body.skin-vector .mw-parser-output .infobox[data-name="Государственный деятель"] .infobox-above,body.skin-vector .mw-parser-output .infobox[data-name="Государственный деятель"] .infobox-header,body.skin-vector .mw-parser-output .infobox[data-name="Государственный деятель"] .infobox-below{background:#eaecf0}</style>
+<table class="infobox infobox-0aa6e2face8ff3ac" style="" data-name="Государственный деятель"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="">Лодевик Фландрский</th></tr><tr><td colspan="2" class="" style="text-align:center;"><span data-wikidata-property-id="P1559" class="no-wikidata"><a href="/wiki/%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Нидерландский язык">нидерл.</a>&#160;<span lang="nl" style="font-style:italic;">Lodewijk van Vlaanderen</span></span></td></tr><tr><td colspan="2" class="infobox-image" style=""> <span data-wikidata-property-id="P94" class="no-wikidata"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Blason_Louis_de_Flandre_(%2B1555)_seigneur_de_Praet.svg" class="image"><img alt="Blason Louis de Flandre (+1555) seigneur de Praet.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Blason_Louis_de_Flandre_%28%2B1555%29_seigneur_de_Praet.svg/120px-Blason_Louis_de_Flandre_%28%2B1555%29_seigneur_de_Praet.svg.png" decoding="async" width="120" height="132" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Blason_Louis_de_Flandre_%28%2B1555%29_seigneur_de_Praet.svg/180px-Blason_Louis_de_Flandre_%28%2B1555%29_seigneur_de_Praet.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Blason_Louis_de_Flandre_%28%2B1555%29_seigneur_de_Praet.svg/240px-Blason_Louis_de_Flandre_%28%2B1555%29_seigneur_de_Praet.svg.png 2x" data-file-width="600" data-file-height="660" /></a></span> </td></tr>
+<tr>
+<td colspan="2" class="nomobile plainlist" style="text-align:center;">
+<div data-wikidata-property-id="P39" class="no-wikidata">
+</div></td></tr><tr>
+<th scope="colgroup" colspan="2" class="infobox-header">
+<style data-mw-deduplicate="TemplateStyles:r117420440">.mw-parser-output .ts-Государственный_деятель-Должность-header{display:flex;align-items:center}.mw-parser-output .ts-Государственный_деятель-Должность-header .image-left{width:22px;margin-right:0.5em;flex:none}.mw-parser-output .ts-Государственный_деятель-Должность-header .label{flex:auto;text-align:center}.mw-parser-output .ts-Государственный_деятель-Должность-header .image-right{width:22px;margin-left:0.5em;flex:none}</style>
+<div class="ts-Государственный_деятель-Должность-header">
+<div class="label"> Статхаудер <a href="/wiki/%D0%93%D0%BE%D0%BB%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F_(%D0%B3%D1%80%D0%B0%D1%84%D1%81%D1%82%D0%B2%D0%BE)" title="Голландия (графство)">Голландии</a>, <a href="/wiki/%D0%97%D0%B5%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F_(%D0%B3%D1%80%D0%B0%D1%84%D1%81%D1%82%D0%B2%D0%BE)" title="Зеландия (графство)">Зеландии</a> и <a href="/wiki/%D0%A3%D1%82%D1%80%D0%B5%D1%85%D1%82_(%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F)" title="Утрехт (провинция)">Утрехта</a> </div>
+</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><span class="nowrap">1544</span>&#160;— <span class="nowrap">1546</span></td>
+</tr>
+
+
+
+
+
+
+
+
+<tr>
+<th scope="row">Предшественник</th>
+<td class="plainlist">
+<a href="/wiki/%D0%A0%D0%B5%D0%BD%D0%B5_%D0%B4%D0%B5_%D0%A8%D0%B0%D0%BB%D0%BE%D0%BD" class="mw-redirect" title="Рене де Шалон">Рене де Шалон</a></td>
+</tr>
+<tr>
+<th scope="row">Преемник</th>
+<td class="plainlist">
+<a href="/wiki/%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%B8%D0%BB%D0%B8%D0%B0%D0%BD_II_%D0%91%D1%83%D1%80%D0%B3%D1%83%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B9" title="Максимилиан II Бургундский">Максимилиан II Бургундский</a></td>
+</tr>
+
+<tr>
+<td colspan="2" class="nomobile plainlist" style="text-align:center;">
+<hr /></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Рождение</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P569"><a href="/wiki/25_%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="25 октября">25 октября</a> <a href="/wiki/1488_%D0%B3%D0%BE%D0%B4" title="1488 год">1488</a></span><span style="display:none">(<span class="bday">1488-10-25</span>)</span><br /><span data-wikidata-property-id="P19" class="no-wikidata"><a href="/wiki/%D0%91%D1%80%D1%8E%D0%B3%D0%B3%D0%B5" title="Брюгге">Брюгге</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Смерть</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P570"><a href="/wiki/7_%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="7 октября">7 октября</a> <a href="/wiki/1555_%D0%B3%D0%BE%D0%B4" title="1555 год">1555</a></span><span style="display:none">(<span class="dday">1555-10-07</span>)</span> <span class="nowrap">(66 лет)</span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Род</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P53" class="no-wikidata"><a href="/wiki/%D0%94%D0%B0%D0%BC%D0%BF%D1%8C%D0%B5%D1%80%D1%8B" class="mw-redirect" title="Дампьеры">Дампьеры</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Отец</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P22" class="no-wikidata">Лодевик III Фландрский</span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Мать</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P25" class="no-wikidata">Изабелла Бургундская</span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Образование</th>
+<td class="plainlist">
+<ul><li><span data-wikidata-claim-id="Q936744$20485cdf-e55b-4121-bf48-a0e8f70d2110" class="wikidata-claim" data-wikidata-property-id="P69"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A1%D1%82%D0%B0%D1%80%D1%8B%D0%B9_%D0%9B%D1%91%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Старый Лёвенский университет">Старый Лёвенский университет</a></span></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Награды</th>
+<td class="plainlist">
+<div data-wikidata-property-id="P166" class="no-wikidata">
+<table style="background:transparent">
+<tbody><tr>
+<td><a href="/wiki/%D0%9E%D1%80%D0%B4%D0%B5%D0%BD_%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B3%D0%BE_%D1%80%D1%83%D0%BD%D0%B0" title="Орден Золотого руна"><img alt="Red ribbon bar - general use.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Red_ribbon_bar_-_general_use.svg/60px-Red_ribbon_bar_-_general_use.svg.png" decoding="async" width="60" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Red_ribbon_bar_-_general_use.svg/90px-Red_ribbon_bar_-_general_use.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Red_ribbon_bar_-_general_use.svg/120px-Red_ribbon_bar_-_general_use.svg.png 2x" data-file-width="218" data-file-height="60" /></a>
+</td></tr></tbody></table></div></td>
+</tr>
+</tbody></table>
+<p><b>Лодевик IV Фландрский</b> (<a href="/wiki/%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Нидерландский язык">нидерл.</a>&#160;<span lang="nl" style="font-style:italic;">Lodewijk van Vlaanderen</span>, <a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Французский язык">фр.</a>&#160;<span lang="fr" style="font-style:italic;">Louis de Flandres</span>; 25 октября 1488, <a href="/wiki/%D0%91%D1%80%D1%8E%D0%B3%D0%B3%D0%B5" title="Брюгге">Брюгге</a> — 7 октября 1555), сеньор ван Прат (<i>heer van Praet</i>, <i>seigneur de Praet</i>)&#160;— государственный деятель, военачальник и дипломат <a href="/wiki/%D0%A1%D0%B2%D1%8F%D1%89%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F" title="Священная Римская империя">Священной Римской империи</a> и <a href="/wiki/%D0%93%D0%B0%D0%B1%D1%81%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B5_%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B" title="Габсбургские Нидерланды">Габсбургских Нидерландов</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Происхождение"><span class="tocnumber">1</span> <span class="toctext">Происхождение</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Начало_карьеры"><span class="tocnumber">2</span> <span class="toctext">Начало карьеры</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Посольства_в_Англию_и_во_Францию"><span class="tocnumber">3</span> <span class="toctext">Посольства в Англию и во Францию</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Миссия_в_Нидерландах"><span class="tocnumber">4</span> <span class="toctext">Миссия в Нидерландах</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Миссия_в_Италии"><span class="tocnumber">5</span> <span class="toctext">Миссия в Италии</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Возвращение_в_Нидерланды"><span class="tocnumber">6</span> <span class="toctext">Возвращение в Нидерланды</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Губернаторство"><span class="tocnumber">7</span> <span class="toctext">Губернаторство</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Последние_годы"><span class="tocnumber">8</span> <span class="toctext">Последние годы</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Мнения_и_оценки"><span class="tocnumber">9</span> <span class="toctext">Мнения и оценки</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Семья"><span class="tocnumber">10</span> <span class="toctext">Семья</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Литература"><span class="tocnumber">11</span> <span class="toctext">Литература</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Ссылки"><span class="tocnumber">12</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+
+<h2><span id=".D0.9F.D1.80.D0.BE.D0.B8.D1.81.D1.85.D0.BE.D0.B6.D0.B4.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Происхождение">Происхождение</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Редактировать раздел «Происхождение»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;action=edit&amp;section=1" title="Редактировать раздел «Происхождение»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Сын Лодевика III Фландрского, сеньора ван Прата, и Изабеллы Бургундской. По отцовской линии внебрачный потомок графа <a href="/wiki/%D0%9B%D1%8E%D0%B4%D0%BE%D0%B2%D0%B8%D0%BA_%D0%B4%D0%B5_%D0%9C%D0%B0%D0%BB%D1%8C" class="mw-redirect" title="Людовик де Маль">Луи де Маля</a> в пятом колене, по материнской так же внебрачный потомок <a href="/wiki/%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF_III_%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B9" title="Филипп III Добрый">Филиппа III Доброго</a> в четвертом колене. Владетель Вустина, Элвердинга, Фламертинга, Спиета и Мерша.
+</p>
+<h2><span id=".D0.9D.D0.B0.D1.87.D0.B0.D0.BB.D0.BE_.D0.BA.D0.B0.D1.80.D1.8C.D0.B5.D1.80.D1.8B"></span><span class="mw-headline" id="Начало_карьеры">Начало карьеры</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Редактировать раздел «Начало карьеры»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;action=edit&amp;section=2" title="Редактировать раздел «Начало карьеры»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>В 1507 году принял участие в кампании против гелдернского претендента <a href="/wiki/%D0%9A%D0%B0%D1%80%D0%BB_(%D0%B3%D0%B5%D1%80%D1%86%D0%BE%D0%B3_%D0%93%D0%B5%D0%BB%D0%B4%D0%B5%D1%80%D0%BD%D0%B0)" title="Карл (герцог Гелдерна)">Карла ван Эгмонта</a>, который вместе с <a href="/wiki/%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82_II_%D0%B4%D0%B5_%D0%9B%D0%B0%D0%BC%D0%B0%D1%80%D0%BA" title="Роберт II де Ламарк">Робертом де Ламарком</a> разграбил <a href="/wiki/%D0%AD%D1%81%D0%B1%D0%B5" class="mw-redirect" title="Эсбе">Эсбе</a> и угрожал остальной стране. <a href="/wiki/%D0%9C%D0%B0%D1%80%D0%B3%D0%B0%D1%80%D0%B8%D1%82%D0%B0_%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_(1480%E2%80%941530)" title="Маргарита Австрийская (1480—1530)">Маргарита Савойская</a> обратилась к дворянам всех провинций, и сеньор ван Прат был в числе тех, кто отправился в штаб-квартиру в <a href="/wiki/%D0%9B%D1%83%D0%B2%D0%B5%D0%BD" class="mw-redirect" title="Лувен">Лувен</a>. Он заслужил доверие регентши, а затем и <a href="/wiki/%D0%9A%D0%B0%D1%80%D0%BB_V_%D0%93%D0%B0%D0%B1%D1%81%D0%B1%D1%83%D1%80%D0%B3" class="mw-redirect" title="Карл V Габсбург">Карла Габсбурга</a>, который при создании в 1517 году своего Тайного совета включил в него ван Прата с окладом в 200 ливров в год.
+</p><p>К тому времени,, по просьбе Карла, ему была доверена важная должность великого бальи <a href="/wiki/%D0%93%D0%B5%D0%BD%D1%82" title="Гент">Гента</a> (20.04.1515—15.01.1522). Затем он был великим бальи Брюгге и <a href="/w/index.php?title=%D0%9B%D0%B5-%D0%A4%D1%80%D0%B0%D0%BD%D0%BA-%D0%B4%D0%B5-%D0%91%D1%80%D1%8E%D0%B3%D0%B3%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Ле-Франк-де-Брюгге (страница отсутствует)">Ле-Франка</a> (6.11.1523—6.05.1549). Одновременно он был капитаном крепости <a href="/wiki/%D0%A1%D0%BB%D1%91%D0%B9%D1%81" title="Слёйс">Слёйс</a>, важной позиции, назначение на которую император сохранял за собой.
+</p>
+<h2><span id=".D0.9F.D0.BE.D1.81.D0.BE.D0.BB.D1.8C.D1.81.D1.82.D0.B2.D0.B0_.D0.B2_.D0.90.D0.BD.D0.B3.D0.BB.D0.B8.D1.8E_.D0.B8_.D0.B2.D0.BE_.D0.A4.D1.80.D0.B0.D0.BD.D1.86.D0.B8.D1.8E"></span><span class="mw-headline" id="Посольства_в_Англию_и_во_Францию">Посольства в Англию и во Францию</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Редактировать раздел «Посольства в Англию и во Францию»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;action=edit&amp;section=3" title="Редактировать раздел «Посольства в Англию и во Францию»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Зарекомендовавший себя, как ловкий и способный к ведению переговоров человек, он в 1522 году был направлен в Англию в качестве посла Священной Римской империи. Избрание папой <a href="/wiki/%D0%90%D0%B4%D1%80%D0%B8%D0%B0%D0%BD_VI" title="Адриан VI">Адриана VI</a> позволило ван Прату противостоять интригам <a href="/wiki/%D0%A3%D0%BE%D0%BB%D1%81%D0%B8,_%D0%A2%D0%BE%D0%BC%D0%B0%D1%81" title="Уолси, Томас">кардинала Уолси</a>, побуждавшего <a href="/wiki/%D0%93%D0%B5%D0%BD%D1%80%D0%B8%D1%85_VIII" title="Генрих VIII">Генриха VIII</a> к разрыву отношений с империей, а в 1523 году он добился заключения нового договора о дружбе и военном союзе против Франции. Следующее папское избрание разрушило честолюбивые надежды Уолси, занявшего в результате открыто враждебную императору позицию. Карл V рекомендовал своему послу отомстить кардиналу при первой же возможности.
+</p><p>После <a href="/wiki/%D0%91%D0%B8%D1%82%D0%B2%D0%B0_%D0%BF%D1%80%D0%B8_%D0%9F%D0%B0%D0%B2%D0%B8%D0%B8" title="Битва при Павии">битвы при Павии</a> союз с Англией был поколеблен, влияние Уолси, подкрепляемое золотом французских агентов, росло, и в 1525 году император отозвал ван Прата ко двору в Испанию, рискуя полным разрывом с англичанами.
+</p><p>Получив новые инструкции, Лодевик ван Прат прибыл в <a href="/wiki/%D0%9B%D0%B8%D0%BE%D0%BD" title="Лион">Лион</a>, где был с почетом принят королевой <a href="/wiki/%D0%9B%D1%83%D0%B8%D0%B7%D0%B0_%D0%A1%D0%B0%D0%B2%D0%BE%D0%B9%D1%81%D0%BA%D0%B0%D1%8F" title="Луиза Савойская">Луизой Савойской</a>, согласившейся вернуть Карлу V <a href="/wiki/%D0%91%D1%83%D1%80%D0%B3%D1%83%D0%BD%D0%B4%D0%B8%D1%8F_(%D0%B3%D0%B5%D1%80%D1%86%D0%BE%D0%B3%D1%81%D1%82%D0%B2%D0%BE)" class="mw-redirect" title="Бургундия (герцогство)">герцогство Бургундию</a>, если Штаты не создадут препятствий. Тем временем был заключен мир между Англией и Францией, и Уолси направил к королеве двух своих эмиссаров, преследуя, по мнению ван Прата, одну из двух целей: либо под предлогом войны надеясь получить от французов деньги, либо способствовать поддержанию вражды между <a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%81%D0%BA_I" title="Франциск I">Франциском I</a> и Карлом V, что обезопасило бы Англию от угрозы со стороны этих двух монархов.
+</p><p>Выйдя на свободу, Франциск под различными предлогами откладывал ратификацию <a href="/wiki/%D0%9C%D0%B0%D0%B4%D1%80%D0%B8%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80_(1526)" title="Мадридский договор (1526)">Мадридского договора</a>. Прат, сопровождавший короля в <a href="/wiki/%D0%91%D0%B0%D0%B9%D0%BE%D0%BD%D0%BD%D0%B0" title="Байонна">Байонну</a>, <a href="/wiki/%D0%9C%D0%BE%D0%BD-%D0%B4%D0%B5-%D0%9C%D0%B0%D1%80%D1%81%D0%B0%D0%BD" title="Мон-де-Марсан">Мон-де-Марсан</a>, <a href="/wiki/%D0%91%D0%BE%D1%80%D0%B4%D0%BE" title="Бордо">Бордо</a> и <a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%8C%D1%8F%D0%BA_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)" title="Коньяк (город)">Коньяк</a>, сообщал императору, что не может добиться от Франциска прямого ответа. <a href="/wiki/%D0%A8%D0%B0%D1%80%D0%BB%D1%8C_%D0%B4%D0%B5_%D0%9B%D0%B0%D0%BD%D0%BD%D1%83%D0%B0" title="Шарль де Ланнуа">Шарль де Ланнуа</a>, которому король дал слово рыцаря, так же ничего не достиг.
+</p>
+<h2><span id=".D0.9C.D0.B8.D1.81.D1.81.D0.B8.D1.8F_.D0.B2_.D0.9D.D0.B8.D0.B4.D0.B5.D1.80.D0.BB.D0.B0.D0.BD.D0.B4.D0.B0.D1.85"></span><span class="mw-headline" id="Миссия_в_Нидерландах">Миссия в Нидерландах</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Редактировать раздел «Миссия в Нидерландах»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;action=edit&amp;section=4" title="Редактировать раздел «Миссия в Нидерландах»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Поскольку назревала <a href="/wiki/%D0%92%D0%BE%D0%B9%D0%BD%D0%B0_%D0%9A%D0%BE%D0%BD%D1%8C%D1%8F%D0%BA%D1%81%D0%BA%D0%BE%D0%B9_%D0%BB%D0%B8%D0%B3%D0%B8" title="Война Коньякской лиги">новая война</a>, Карл V отправил Лодевика с инспекцией в Нидерланды, где тот должен был оценить общую ситуацию, военные ресурсы, а также справиться с беспорядками, о которых поступали сообщения.
+</p><p>Ван Прат посоветовал Маргарите Австрийской привести в порядок юстицию, и меры в этом отношении были приняты, но на предложение созвать <a href="/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D1%88%D1%82%D0%B0%D1%82%D1%8B_(%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B)" title="Генеральные штаты (Нидерланды)">Генеральные штаты</a> и просить у них помощи против турок, правительница и ее советники заявили, что сословия Нидерландов могут выделять помощь только для обороны своей страны.
+</p><p>Оставалась еще одна деликатная миссия: попытаться покончить с распрями и соперничеством вельмож при Брюссельском дворе, затруднявшими работу администрации. Ван Прат настаивал на содействии Маргариты, но та сочла требования императора чрезмерными и отправила в Испанию своего дворцового распорядителя Пьера де Розембо с протестом против вмешательства в свою компетенцию и напоминанием об оказанных Карлу услугах.
+</p>
+<h2><span id=".D0.9C.D0.B8.D1.81.D1.81.D0.B8.D1.8F_.D0.B2_.D0.98.D1.82.D0.B0.D0.BB.D0.B8.D0.B8"></span><span class="mw-headline" id="Миссия_в_Италии">Миссия в Италии</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Редактировать раздел «Миссия в Италии»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;action=edit&amp;section=5" title="Редактировать раздел «Миссия в Италии»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>По окончании <a href="/wiki/%D0%92%D0%BE%D0%B9%D0%BD%D0%B0_%D0%9A%D0%BE%D0%BD%D1%8C%D1%8F%D0%BA%D1%81%D0%BA%D0%BE%D0%B9_%D0%BB%D0%B8%D0%B3%D0%B8" title="Война Коньякской лиги">войны Коньякской лиги</a>, в которой Карл V <a href="/wiki/%D0%9E%D1%81%D0%B0%D0%B4%D0%B0_%D0%A0%D0%B8%D0%BC%D0%B0_(1527)" class="mw-redirect" title="Осада Рима (1527)">одержал победу</a> над папой <a href="/wiki/%D0%9A%D0%BB%D0%B8%D0%BC%D0%B5%D0%BD%D1%82_VII" title="Климент VII">Климентом VII</a>, император направил в Рим Мигеля Мая, члена регентского совета <a href="/wiki/%D0%90%D1%80%D0%B0%D0%B3%D0%BE%D0%BD" title="Арагон">Арагона</a>, и принца <a href="/wiki/%D0%A4%D0%B8%D0%BB%D0%B8%D0%B1%D0%B5%D1%80_%D0%B4%D0%B5_%D0%A8%D0%B0%D0%BB%D0%BE%D0%BD_(%D0%BF%D1%80%D0%B8%D0%BD%D1%86_%D0%9E%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)" title="Филибер де Шалон (принц Оранский)">Филибера Оранского</a> с целью заключения союза с понтификом. Климент поначалу согласился, но затем заявил, что хочет сохранить нейтралитет. Колебаниям пришел конец, когда папа узнал, что император намерен прибыть в Италию. Климент послал в Испанию своего легата <i>a latere</i> <a href="/w/index.php?title=%D0%A1%D0%B0%D0%BB%D1%8C%D0%B2%D0%B8%D0%B0%D1%82%D0%B8,_%D0%94%D0%B6%D0%B0%D0%BA%D0%BE%D0%BF%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Сальвиати, Джакопо (страница отсутствует)">Джакопо Сальвиати</a>, которого уполномочил подтвердить мир, подписанный в <a href="/wiki/%D0%92%D0%B8%D1%82%D0%B5%D1%80%D0%B1%D0%BE" title="Витербо">Витербо</a> 21 июня 1528. Император назначил своими полномочными представителями великого канцлера <a href="/wiki/%D0%93%D0%B0%D1%82%D1%82%D0%B8%D0%BD%D0%B0%D1%80%D0%B0,_%D0%9C%D0%B5%D1%80%D0%BA%D1%83%D1%80%D0%B8%D0%BD%D0%BE" title="Гаттинара, Меркурино">Меркурино ди Гаттинару</a>, сеньора ван Прата и <a href="/w/index.php?title=%D0%9F%D0%B5%D1%80%D1%80%D0%B5%D0%BD%D0%BE_%D0%B4%D0%B5_%D0%93%D1%80%D0%B0%D0%BD%D0%B2%D0%B5%D0%BB%D1%8C,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Перрено де Гранвель, Никола (страница отсутствует)">Никола Перрено де Гранвеля</a>. Новый трактат был заключен 29 июня 1529, и Карл V в тот же день ратифицировал его в кафедральном соборе <a href="/wiki/%D0%91%D0%B0%D1%80%D1%81%D0%B5%D0%BB%D0%BE%D0%BD%D0%B0" title="Барселона">Барселоны</a>. Затем, дабы поддержать вечно нерешительного и колеблющегося папу, и ответить на внимание понтифика, пославшего к нему своего специального легата, император поручил Лодевику ван Прату чрезвычайную миссию при дворе святого отца.
+</p><p>Отбыв из Барселоны, Прат высадился в <a href="/wiki/%D0%A7%D0%B8%D0%B2%D0%B8%D1%82%D0%B0%D0%B2%D0%B5%D0%BA%D0%BA%D1%8C%D1%8F" title="Чивитавеккья">Чивитавеккье</a>, где был торжественно встречен папским капитаном. Климент VII послал в <a href="/wiki/%D0%9E%D1%81%D1%82%D0%B8%D1%8F" class="mw-disambig" title="Остия">Остию</a> камергера с собственноручно написанным письмом. Камергер осведомился у посла, желает ли тот въехать в Рим со всей пышностью или «без церемоний», добавив, что двадцать всадников папской гвардии готовы составить ему эскорт. Прат ответил, что прибудет в Рим в своем почтовом экипаже, так как «дружба между Его Святейшеством и императором заключается в реальных делах, а не в церемониях».
+</p><p>В миле от Остии Лодевика встретили Мигель Май, ординарный посол императора, а также посол <a href="/wiki/%D0%A4%D0%B5%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D0%BD%D0%B4_I_(%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80_%D0%A1%D0%B2%D1%8F%D1%89%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8)" title="Фердинанд I (император Священной Римской империи)">короля Фердинанда</a> с пышной свитой. Папа выслал ему навстречу Джакопо Сальвиати и своего секретаря Санга. По прибытии в Рим его посетили <a href="/wiki/%D0%90%D0%BB%D0%B5%D1%81%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE_%D0%9C%D0%B5%D0%B4%D0%B8%D1%87%D0%B8" title="Алессандро Медичи">герцог Алессандро</a>, кардинал Медичи, а затем еще несколько кардиналов. На следующий день Прат вручил верительные грамоты. Он намеревался облобызать папскую туфлю, но понтифик не дал этого сделать, и рассыпался в выражениях симпатии и дружбы к посланнику. В последующей беседе обсудили брак герцога Алессандро и внебрачной дочери императора <a href="/wiki/%D0%9C%D0%B0%D1%80%D0%B3%D0%B0%D1%80%D0%B8%D1%82%D0%B0_%D0%9F%D0%B0%D1%80%D0%BC%D1%81%D0%BA%D0%B0%D1%8F" title="Маргарита Пармская">Маргариты</a>.
+</p><p>Прат отдал визиты кардиналам и имел частые встречи с папой, на которых излагал точку зрения Карла. Отдельно он просил папу использовать всю власть, чтобы помешать Генриху VIII «делать возмутительные вещи» и вновь воспламенить христианское чувство в виду нового крестового похода. 
+</p><p>Находясь в Риме, Лодевик Фландрский выполнил еще одну миссию, порученную императором: разведать намерения венецианцев. Для этого он провел несколько встреч с кардиналом Корнаро, врагом дожа, желавшим мира с империей. Карл V незадолго до этого высадился в Италии и посол объяснил венецианцу, что владения республики могут первыми испытать его натиск. Корнаро ответил, что венецианцы желают мира и готовы вернуть земли, захваченные у <a href="/wiki/%D0%9D%D0%B5%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D1%82%D0%B2%D0%BE" title="Неаполитанское королевство">Неаполитанского королевства</a>, города <a href="/wiki/%D0%A7%D0%B5%D1%80%D0%B2%D0%B8%D1%8F" title="Червия">Червию</a>, <a href="/wiki/%D0%A0%D0%B0%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0" title="Равенна">Равенну</a> и прочее, но страх перед могуществом императора мешает им разорвать союз с Францией. Кардинал договорился даже до того, что Венеция немедленно может подписать мир, если будет уверена, что герцогство Миланское не окажется ни в руках Карла V, ни в руках Фердинанда.
+</p><p>Отослав отчет о переговорах Карлу, ван Прат добавил от себя, что будет трудно отделить венецианцев от французов, хотя они должны были понимать, что всякий раз, когда Франциску это будет выгодно, он их предаст. Во всяком случае, посол не прекращал переговоров. Вскоре после этого император заключил мир с республикой.
+</p>
+<h2><span id=".D0.92.D0.BE.D0.B7.D0.B2.D1.80.D0.B0.D1.89.D0.B5.D0.BD.D0.B8.D0.B5_.D0.B2_.D0.9D.D0.B8.D0.B4.D0.B5.D1.80.D0.BB.D0.B0.D0.BD.D0.B4.D1.8B"></span><span class="mw-headline" id="Возвращение_в_Нидерланды">Возвращение в Нидерланды</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Редактировать раздел «Возвращение в Нидерланды»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;action=edit&amp;section=6" title="Редактировать раздел «Возвращение в Нидерланды»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Миссия в Италии была окончена, и ван Прат вернулся в Нидерланды, где его ожидал новый знак доверия со стороны Карла V. Великий канцлер Гаттинара умер в 1530 году, и Карл решил разделить его полномочия между несколькими советниками. Граф <a href="/wiki/%D0%93%D0%B5%D0%BD%D1%80%D0%B8%D1%85_III_(%D0%B3%D1%80%D0%B0%D1%84_%D0%9D%D0%B0%D1%81%D1%81%D0%B0%D1%83-%D0%91%D1%80%D0%B5%D0%B4%D1%8B)" title="Генрих III (граф Нассау-Бреды)">Генрих фон Нассау</a>, великий камергер, Лодевик ван Прат, штатный камергер, Франсиско де лос Ковос, командор <a href="/wiki/%D0%9B%D0%B5%D0%BE%D0%BD_(%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D1%82%D0%B2%D0%BE)" class="mw-redirect" title="Леон (королевство)">Леона</a>, и Никола Перрено де Гранвель стали четырьмя министрами, которых он использовал как руководителей высшей администрации. В это же время был реорганизован совет финансов, и ван Прат, с жалованием в 1200 ливров в год, стал, вместе с <a href="/wiki/%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF_II_%D0%B4%D0%B5_%D0%9A%D1%80%D0%BE%D0%B9" title="Филипп II де Крой">маркизом ван Арсхотом</a> и графом <a href="/wiki/%D0%A8%D0%B0%D1%80%D0%BB%D1%8C_II_%D0%B4%D0%B5_%D0%9B%D0%B0%D0%BB%D0%B5%D0%BD" title="Шарль II де Лален">Шарлем II де Лаленом</a>, одним из трех глав этой коллегии (1531).
+</p><p>Пожалованный в рыцари, он сопровождал Карла V в <a href="/wiki/%D0%A2%D1%83%D0%BD%D0%B8%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0" title="Тунисская война">Тунисской экспедиции</a>, где сумел отличиться, а затем, вместе с <a href="/wiki/%D0%90%D0%B4%D1%80%D0%B8%D0%B5%D0%BD_%D0%B4%D0%B5_%D0%9A%D1%80%D0%BE%D0%B9" class="mw-redirect" title="Адриен де Крой">сеньором дю Рё</a> был послан с отчетом Генеральным штатам о результатах кампании.
+</p><p>Во время <a href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%BE%D0%B5_%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D0%B5_(1540%E2%80%941541)&amp;action=edit&amp;redlink=1" class="new" title="Гентское восстание (1540—1541) (страница отсутствует)">Гентского восстания</a> <a href="/wiki/%D0%9C%D0%B0%D1%80%D0%B8%D1%8F_%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F" title="Мария Австрийская">Мария Венгерская</a> направила ван Прата в <a href="/wiki/%D0%9C%D0%B0%D0%B4%D1%80%D0%B8%D0%B4" title="Мадрид">Мадрид</a>, дабы представить императору тяжесть ситуации. Он пересек Францию с Карлом V и вместе с ним прибыл в Гент. После усмирения восставших, Лодевик сопровождал императора в Германию, ездил по его поручению к курфюрстам Майнца и Бранденбурга, и участвовал в совещаниях, созванных Карлом для решения немецких проблем (1541).
+</p><p><a href="/wiki/%D0%98%D1%82%D0%B0%D0%BB%D1%8C%D1%8F%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0_(1542%E2%80%941546)" title="Итальянская война (1542—1546)">Война в Нидерландах</a> возобновилась. Франциск I и герцог <a href="/wiki/%D0%92%D0%B8%D0%BB%D1%8C%D0%B3%D0%B5%D0%BB%D1%8C%D0%BC_(%D0%B3%D0%B5%D1%80%D1%86%D0%BE%D0%B3_%D0%AE%D0%BB%D0%B8%D1%85-%D0%9A%D0%BB%D0%B5%D0%B2%D0%B5-%D0%91%D0%B5%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9)" title="Вильгельм (герцог Юлих-Клеве-Бергский)">Вильгельм Клевский</a> атаковали бельгийские провинции. Мария Венгерская собрала военный совет под своим председательством, и приняла предложения, внесенные сеньором ван Пратом. Вместе с <a href="/wiki/%D0%A0%D0%B5%D0%BD%D0%B5_%D0%B4%D0%B5_%D0%A8%D0%B0%D0%BB%D0%BE%D0%BD" class="mw-redirect" title="Рене де Шалон">Рене де Шалоном</a>, принцем Оранским, Лодевик ван Прат руководил военными операциями в <a href="/wiki/%D0%AE%D0%BB%D0%B8%D1%85-%D0%91%D0%B5%D1%80%D0%B3" title="Юлих-Берг">Юлихе</a> и <a href="/wiki/%D0%93%D0%B5%D0%BB%D0%B4%D0%B5%D1%80%D0%BD" title="Гелдерн">Гелдерне</a>. Ситтард, Юлих, Гейнсберг, Сустерен, Дюрен были ими захвачены (1542). Взятие Гейнсберга в особенности было результатом умелого руководства Лодевика.
+</p><p><a href="/wiki/%D0%92%D0%B8%D0%B3%D0%BB%D0%B8%D1%83%D1%81" title="Виглиус">Виглиус</a> писал своему другу Герарду де Вельтвику, что слава кампании принадлежит сеньору ван Прату, ловкость которого обеспечила спасение этих провинций, которые были бы опустошены неприятелем, если бы результат военных действий был иным. По условиям мирного договора в <a href="/wiki/%D0%92%D0%B5%D0%BD%D0%BB%D0%BE" title="Венло">Венло</a> император и герцог Юлихский договорились заключить при первом удобном случае трактат о дружбе и взаимопомощи. Уполномоченные обеих сторон встретились в Брюсселе 2 января 1544; Лодевик Фландрский был главой императорской делегации, куда также входили Никола Перрено, <a href="/w/index.php?title=%D0%A1%D1%85%D0%BE%D1%80%D0%B5,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Схоре, Лодевик ван (страница отсутствует)">Лодевик ван Схоре</a> и Виглиус.
+</p>
+<h2><span id=".D0.93.D1.83.D0.B1.D0.B5.D1.80.D0.BD.D0.B0.D1.82.D0.BE.D1.80.D1.81.D1.82.D0.B2.D0.BE"></span><span class="mw-headline" id="Губернаторство">Губернаторство</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Редактировать раздел «Губернаторство»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;action=edit&amp;section=7" title="Редактировать раздел «Губернаторство»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Вскоре после этого губернаторство <a href="/wiki/%D0%93%D0%BE%D0%BB%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F_(%D0%B3%D1%80%D0%B0%D1%84%D1%81%D1%82%D0%B2%D0%BE)" title="Голландия (графство)">Голландии</a>, <a href="/wiki/%D0%97%D0%B5%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F_(%D0%B3%D1%80%D0%B0%D1%84%D1%81%D1%82%D0%B2%D0%BE)" title="Зеландия (графство)">Зеландии</a> и <a href="/wiki/%D0%A3%D1%82%D1%80%D0%B5%D1%85%D1%82_(%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F)" title="Утрехт (провинция)">Утрехта</a> стало вакантным из-за смерти Рене де Шалона, павшего под Сен-Дизье. Карл V назначил на эти должности Лодевика Фландрского, бывшего исполнителем завещания покойного, и хорошо знавшего страну. Он был утвержден патентами от 4 октября 1544, дополненными инструкцией от 7 числа того же месяца. 12-го он принял участие в заседании совета в <a href="/wiki/%D0%93%D0%B0%D0%B0%D0%B3%D0%B0" title="Гаага">Гааге</a>, где получил поздравление от президента Ассенделфта.
+</p><p>В следующем году он был поставлен императором во главе одиннадцати новых <a href="/wiki/%D0%9E%D1%80%D0%B4%D0%BE%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%B5_%D1%80%D0%BE%D1%82%D1%8B" title="Ордонансовые роты">ордонансовых отрядов</a>, созданных 26 ноября 1545.
+</p><p>Губернаторство в Голландии сопровождалось постоянными конфликтами с адмиралом моря <a href="/wiki/%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%B8%D0%BB%D0%B8%D0%B0%D0%BD_II_%D0%91%D1%83%D1%80%D0%B3%D1%83%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B9" title="Максимилиан II Бургундский">Максимилианом Бургундским</a>, сеньором ван Бевереном, позднее первым маркизом де Ла-Вер, не желавшим поступаться своими полномочиями. Несмотря на поддержку Штатов, Лодевик решил отказаться от должности, создававшей ему врагов. Ссылаясь одновременно на свой возраст и многочисленные незаконченные дела, он просил у императора отставки, одновременно рекомендуя объединить в одних руках должность губернатора и адмирала, дабы в дальнейшем избежать конфликта властей. Карл V одобрил эту комбинацию, и Максимилиан Бургундский был в начале 1546 года назначен губернатором.
+</p>
+<h2><span id=".D0.9F.D0.BE.D1.81.D0.BB.D0.B5.D0.B4.D0.BD.D0.B8.D0.B5_.D0.B3.D0.BE.D0.B4.D1.8B"></span><span class="mw-headline" id="Последние_годы">Последние годы</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Редактировать раздел «Последние годы»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;action=edit&amp;section=8" title="Редактировать раздел «Последние годы»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>В 1550 году Мария Венгерская отправилась на встречу с императором, и временное управление Нидерландами было поручено четырем сеньорам, среди которых был и Лодевик Фландрский.
+</p><p>Раздражение, которое император испытывал от позиции Франции, навело его на мысль отослать <a href="/wiki/%D0%93%D0%B5%D0%BD%D1%80%D0%B8%D1%85_II_(%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D1%8C_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8)" title="Генрих II (король Франции)">Генриху II</a> орденскую цепь <a href="/wiki/%D0%9E%D1%80%D0%B4%D0%B5%D0%BD_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%B0" title="Орден Святого Михаила">Святого Михаила</a>, и заодно вернуть англичанам цепь <a href="/wiki/%D0%9E%D1%80%D0%B4%D0%B5%D0%BD_%D0%9F%D0%BE%D0%B4%D0%B2%D1%8F%D0%B7%D0%BA%D0%B8" title="Орден Подвязки">ордена Подвязки</a>. Правительница посоветовалась с ван Пратом и тот, так же, как и сеньор дю Рё, отсоветовал сюзерену прибегать к таким мерам, которые были способны еще больше осложнить и без того непростые отношения между странами.
+</p><p>Война, тем не менее, <a href="/wiki/%D0%98%D1%82%D0%B0%D0%BB%D1%8C%D1%8F%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0_(1551%E2%80%941559)" title="Итальянская война (1551—1559)">скоро возобновилась</a>, и Генрих II, договорившись с протестантскими князьями, вторгся в <a href="/wiki/%D0%9B%D1%8E%D0%BA%D1%81%D0%B5%D0%BC%D0%B1%D1%83%D1%80%D0%B3" title="Люксембург">Люксембург</a>. Мария Венгерская решила остановить вторжение, произведя диверсию на вражеской территории, и поручила главное командование Лодевику, но тот был «болен и неспособен подняться на лошадь», поэтому правительница назначила вместо него <a href="/wiki/%D0%91%D1%83%D1%81%D1%81%D1%8E,_%D0%96%D0%B0%D0%BD_V_%D0%B4%D0%B5_%D0%AD%D0%BD%D0%B5%D0%BD-%D0%9B%D1%8C%D0%B5%D1%82%D0%B0%D1%80" title="Буссю, Жан V де Энен-Льетар">графа де Буссю</a>, умоляя при этом ван Прата скорее выздоравливать и помочь новому генералу своими советами.
+</p><p>Должность губернатора и генерал-капитана <a href="/wiki/%D0%A4%D0%BB%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D1%8F_(%D0%B3%D1%80%D0%B0%D1%84%D1%81%D1%82%D0%B2%D0%BE)" class="mw-redirect" title="Фландрия (графство)">Фландрии</a> была последним высоким постом, который занял сеньор ван Прат. Незадолго до смерти он снова принял участие в важном событии правления Карла V. <a href="/wiki/%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF_II_(%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D1%8C_%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8)" title="Филипп II (король Испании)">Инфант Филипп</a> прибыл из Англии в Брюссель, чтобы принять власть над Нидерландами. Для представления нового суверена генеральной ассамблее Штатов и провинций император назначил двух министров, независимых от наместницы: <a href="/wiki/%D0%93%D1%80%D0%B0%D0%BD%D0%B2%D0%B5%D0%BB%D0%B0,_%D0%90%D0%BD%D1%82%D1%83%D0%B0%D0%BD_%D0%9F%D0%B5%D1%80%D1%80%D0%B5%D0%BD%D0%BE_%D0%B4%D0%B5" title="Гранвела, Антуан Перрено де">Антуана Перрено</a>, епископа Арраса, и Лодевика Фландрского, но последний не успел принять участие в церемонии отречения Карла V в пользу сына.
+</p><p>Лодевик ван Прат скончался 7 октября 1555 и был погребен в роскошной гробнице в <a href="/wiki/%D0%90%D0%BB%D1%82%D0%B5%D1%80" class="mw-disambig" title="Алтер">Алтере</a>. Он долгое время страдал от приступов <a href="/wiki/%D0%9F%D0%BE%D0%B4%D0%B0%D0%B3%D1%80%D0%B0" title="Подагра">подагры</a> и неоднократно просил императора об отставке, как о милости, но Карл, по словам <a href="/w/index.php?title=%D0%93%D0%B0%D1%88%D0%B0%D1%80,_%D0%9B%D1%83%D0%B8-%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D1%80&amp;action=edit&amp;redlink=1" class="new" title="Гашар, Луи-Проспер (страница отсутствует)">Луи-Проспера Гашара</a>, «никак не хотел отказываться от услуг столь ловкого и предприимчивого министра».
+</p>
+<h2><span id=".D0.9C.D0.BD.D0.B5.D0.BD.D0.B8.D1.8F_.D0.B8_.D0.BE.D1.86.D0.B5.D0.BD.D0.BA.D0.B8"></span><span class="mw-headline" id="Мнения_и_оценки">Мнения и оценки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Редактировать раздел «Мнения и оценки»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;action=edit&amp;section=9" title="Редактировать раздел «Мнения и оценки»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Сеньор ван Прат был образованным человеком, хорошо владел латынью, на которой вел переписку с учеными людьми. <a href="/w/index.php?title=%D0%A1%D0%B0%D0%BD%D0%B4%D0%B5%D1%80%D1%81,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Сандерс, Антон (страница отсутствует)">Сандерус</a> называл его «героем и Меценатом», Виглиус относился с особенным почтением и считал своим покровителем. Ван Прат познакомился с ним в <a href="/wiki/%D0%9F%D0%B0%D0%B2%D0%B8%D1%8F" title="Павия">Павии</a>, когда тот преподавал гражданское право, и убедил молодого доктора поступить на государственную службу.
+</p><p>Прат был избран в число рыцарей <a href="/wiki/%D0%9E%D1%80%D0%B4%D0%B5%D0%BD_%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B3%D0%BE_%D1%80%D1%83%D0%BD%D0%B0" title="Орден Золотого руна">ордена Золотого руна</a> на <a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%80%D1%8B%D1%86%D0%B0%D1%80%D0%B5%D0%B9_%D0%B3%D0%B0%D0%B1%D1%81%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BE%D1%80%D0%B4%D0%B5%D0%BD%D0%B0_%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B3%D0%BE_%D1%80%D1%83%D0%BD%D0%B0#Двадцатый_капитул_(Турне,_декабрь_1531)" title="Список рыцарей габсбургского ордена Золотого руна">капитуле в Турне</a> в 1531 году. В этом качестве он несколько раз отмечал орденский праздник Святого Андрея, когда находился с императором, пользовавшимся случаем при этом собрать совет в узком составе. В 1546 году участвовал в капитуле в <a href="/wiki/%D0%A3%D1%82%D1%80%D0%B5%D1%85%D1%82" title="Утрехт">Утрехте</a>, где по обычаю происходила оценка публичного и частного поведения рыцарей, и большинству было вынесено порицание, не исключая и ван Прата, которого обвинили «в высокомерии, амбициях, грубости, недостатке благочестия и предпочтении других жен своей».
+</p><p><a href="/w/index.php?title=%D0%91%D0%BE%D1%80%D1%85%D0%B3%D1%80%D0%B0%D0%B2%D0%B5,_%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C_%D0%B4%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Борхграве, Эмиль де (страница отсутствует)">Эмиль де Борхграве</a> противопоставляет этому обвинению цитаты из писем венецианских послов Контарини и Тьеполо, отмечавших высокую репутацию ван Прата среди дипломатов. Тьеполо, в частности, пишет, что он отказывался принимать от короля Франции пенсион и подарки, получение которых было в то время обычной практикой.
+</p>
+<h2><span id=".D0.A1.D0.B5.D0.BC.D1.8C.D1.8F"></span><span class="mw-headline" id="Семья">Семья</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Редактировать раздел «Семья»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;action=edit&amp;section=10" title="Редактировать раздел «Семья»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Жена (1516): <b>Йоссина ван Прат ван Муркеркен</b> (ум. 5.12.1546), дочь Карела ван Прата, сеньора ван Муркеркена, и Катерины ван Халевин, принесла в приданое сеньорию Прат
+</p><p>Сын:
+</p>
+<ul><li><b>Йохан II Фландрский</b> (ум. 10.12.1545), сеньор ван Прат. Жена (1540): Жаклин Бургундская (3.11.1523—1556), дочь <a href="/wiki/%D0%90%D0%B4%D0%BE%D0%BB%D1%8C%D1%84_%D0%91%D1%83%D1%80%D0%B3%D1%83%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B9" title="Адольф Бургундский">Адольфа Бургундского-Беверена</a> и Анны ван Глим. Вторым браком в 1550 году вышла за Яна ван Крюйнингена (ум. 1559)</li></ul>
+<h2><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span><span class="mw-headline" id="Литература">Литература</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Редактировать раздел «Литература»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;action=edit&amp;section=11" title="Редактировать раздел «Литература»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFBorchgrave1883"><i>Borchgrave, Emile de.</i>&#32;FLANDRES (Louis DE) // Biographie nationale de Belgique. T. VII.&#160;— Bruxelles: Bruylant-Christophe &amp; C<sup>ie</sup>, 1883.</span>, coll. 82—96</li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFPoullet1873"><i>Poullet E.</i>&#32;Les Gouverneurs de province dans les anciens Pays-Bas catholiques.&#160;— Bruxelles: F. Hayez, 1873.</span>, p. 169</li></ul>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Редактировать раздел «Ссылки»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;action=edit&amp;section=12" title="Редактировать раздел «Ссылки»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="citation"><span lang="fr"><a rel="nofollow" class="external text" href="http://www.antiquesatoz.com/sgfleece/knights2.htm">CHEVALIERS DE LA TOISON D’OR — MAISON DE HABSBOURG (HOUSE OF HABSBURG)</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на французском языке">(фр.)</span>.&#32;<small>Дата обращения: 24 апреля 2019.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060211060323/http://www.antiquesatoz.com/sgfleece/knights2.htm">Архивировано</a> 11 февраля 2006 года.</small></span></li></ul>
+<div role="navigation" class="navbox" aria-label="Навигационный шаблон" data-name="External links"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width:1px"><div style="padding: 0; width: 100%;"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a>&#160;&#160;<a href="https://www.wikidata.org/wiki/Q936744#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="14" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><style data-mw-deduplicate="TemplateStyles:r113287755">.mw-parser-output .ts-navbox-plaintitle{font-size:100%!important;margin:0 6em!important}</style></div><table class="nowraplinks authoritycontrol collapsible collapsed navbox-subgroup" style="border-spacing:0;text-align: left;"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><div id="В_библиографических_каталогах" class="ts-navbox-plaintitle" style="font-size:114%;margin:0 5em">В&#160;библиографических каталогах</div></th></tr><tr><td class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8" title="Национальная библиотека Испании">BNE</a>: <a rel="nofollow" class="external text" href="https://datos.bne.es/resource/XX5427045">XX5427045</a></li>
+<li><span title="Biografisch Portaal" style="border-bottom: 1px dotted; cursor: help;">BPN</span>: <a rel="nofollow" class="external text" href="http://www.biografischportaal.nl/persoon/29684901">29684901</a></li>
+<li><a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>: <a rel="nofollow" class="external text" href="https://d-nb.info/gnd/132279525">132279525</a></li>
+<li><a href="/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8" title="Университетская система документации">SUDOC</a>: <a rel="nofollow" class="external text" href="https://www.idref.fr/183349474">183349474</a></li>
+<li><a href="/wiki/VIAF" title="VIAF">VIAF</a>: <a rel="nofollow" class="external text" href="https://viaf.org/viaf/57769275/">57769275</a></li>
+<li><a href="/wiki/WorldCat" title="WorldCat">WorldCat VIAF</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/57769275">57769275</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1488
+Cached time: 20230329145822
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [show‐toc, no‐toc‐conversion]
+CPU time usage: 0.262 seconds
+Real time usage: 0.371 seconds
+Preprocessor visited node count: 2415/1000000
+Post‐expand include size: 32059/2097152 bytes
+Template argument size: 7160/2097152 bytes
+Highest expansion depth: 16/100
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2496/5000000 bytes
+Lua time usage: 0.156/10.000 seconds
+Lua memory usage: 5798941/52428800 bytes
+Number of Wikibase entities loaded: 3/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  323.303      1 -total
+ 68.89%  222.719      1 Шаблон:Государственный_деятель
+ 60.60%  195.922      1 Шаблон:Карточка
+ 23.15%   74.833     10 Шаблон:Wikidata
+ 19.73%   63.774      1 Шаблон:Библиоинформация
+  7.20%   23.290      2 Шаблон:Br_separated_entries
+  6.23%   20.130      1 Шаблон:Cite_web
+  6.04%   19.531      1 Шаблон:Карточка/оригинал_имени
+  4.51%   14.577      2 Шаблон:Книга
+  3.17%   10.251      1 Шаблон:Wikidata/p569
+-->
+
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:7865162-0!canonical and timestamp 20230329145822 and revision id 121284484. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Прат,_Лодевик_ван&amp;oldid=121284484">https://ru.wikipedia.org/w/index.php?title=Прат,_Лодевик_ван&amp;oldid=121284484</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_25_%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="Категория:Родившиеся 25 октября">Родившиеся 25 октября</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_1488_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Родившиеся в 1488 году">Родившиеся в 1488 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Персоналии по алфавиту">Персоналии по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_%D0%91%D1%80%D1%8E%D0%B3%D0%B3%D0%B5" title="Категория:Родившиеся в Брюгге">Родившиеся в Брюгге</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5_7_%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="Категория:Умершие 7 октября">Умершие 7 октября</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5_%D0%B2_1555_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Умершие в 1555 году">Умершие в 1555 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%B0%D0%B2%D0%B0%D0%BB%D0%B5%D1%80%D1%8B_%D0%BE%D1%80%D0%B4%D0%B5%D0%BD%D0%B0_%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B3%D0%BE_%D1%80%D1%83%D0%BD%D0%B0" title="Категория:Кавалеры ордена Золотого руна">Кавалеры ордена Золотого руна</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B4%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D0%B8_%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%BE%D0%B2" title="Категория:Государственные деятели Нидерландов">Государственные деятели Нидерландов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%BE%D0%B5%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8_%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%BE%D0%B2" title="Категория:Военачальники Нидерландов">Военачальники Нидерландов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8_%D0%98%D1%82%D0%B0%D0%BB%D1%8C%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D1%85_%D0%B2%D0%BE%D0%B9%D0%BD" title="Категория:Участники Итальянских войн">Участники Итальянских войн</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%94%D0%BE%D0%BC_%D0%94%D0%B0%D0%BC%D0%BF%D1%8C%D0%B5%D1%80" title="Категория:Дом Дампьер">Дом Дампьер</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытая категория: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BE_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D1%85_%D0%B4%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D1%8F%D1%85_%D0%B1%D0%B5%D0%B7_%D0%B8%D0%BB%D0%BB%D1%8E%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D0%B9_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4%D0%B5" title="Категория:Википедия:Статьи о государственных деятелях без иллюстраций на Викискладе">Википедия:Статьи о государственных деятелях без иллюстраций на Викискладе</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9F%D1%80%D0%B0%D1%82%2C+%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA+%D0%B2%D0%B0%D0%BD" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9F%D1%80%D0%B0%D1%82%2C+%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA+%D0%B2%D0%B0%D0%BD" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD" title="Просмотр основной страницы [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="new mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;action=edit&amp;redlink=1" rel="discussion" title="Обсуждение основной страницы (страница отсутствует) [t]" accesskey="t"><span>Обсуждение</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Изменить вариант языка"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;action=edit" title="Эту статью можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Служебная:Поиск">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="vector-menu mw-portlet mw-portlet-participation vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;oldid=121284484" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9F%D1%80%D0%B0%D1%82%2C_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;id=121284484&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q936744" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%9F%D1%80%D0%B0%D1%82%2C+%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA+%D0%B2%D0%B0%D0%BD" title="Создать книгу или коллекцию статей"><span>Создать книгу</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9F%D1%80%D0%B0%D1%82%2C_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Ludwig_von_Praet" title="Ludwig von Praet — немецкий" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Louis_of_Praet" title="Louis of Praet — английский" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Luis_de_Praet" title="Luis de Praet — испанский" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Louis_de_Praet" title="Louis de Praet — французский" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Lodewijk_van_Vlaanderen" title="Lodewijk van Vlaanderen — нидерландский" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q936744#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 8 апреля 2022 в 15:20.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw1405","wgBackendResponseTime":130,"wgPageParseReport":{"limitreport":{"cputime":"0.262","walltime":"0.371","ppvisitednodes":{"value":2415,"limit":1000000},"postexpandincludesize":{"value":32059,"limit":2097152},"templateargumentsize":{"value":7160,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2496,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  323.303      1 -total"," 68.89%  222.719      1 Шаблон:Государственный_деятель"," 60.60%  195.922      1 Шаблон:Карточка"," 23.15%   74.833     10 Шаблон:Wikidata"," 19.73%   63.774      1 Шаблон:Библиоинформация","  7.20%   23.290      2 Шаблон:Br_separated_entries","  6.23%   20.130      1 Шаблон:Cite_web","  6.04%   19.531      1 Шаблон:Карточка/оригинал_имени","  4.51%   14.577      2 Шаблон:Книга","  3.17%   10.251      1 Шаблон:Wikidata/p569"]},"scribunto":{"limitreport-timeusage":{"value":"0.156","limit":"10.000"},"limitreport-memusage":{"value":5798941,"limit":52428800},"limitreport-logs":"Loaded datatype wikibase-item of P21 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw1488","timestamp":"20230329145822","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u041f\u0440\u0430\u0442, \u041b\u043e\u0434\u0435\u0432\u0438\u043a \u0432\u0430\u043d","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD","sameAs":"http:\/\/www.wikidata.org\/entity\/Q936744","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q936744","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2019-04-24T12:15:29Z","dateModified":"2022-04-08T15:20:19Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/c7\/Blason_Louis_de_Flandre_%28%2B1555%29_seigneur_de_Praet.svg"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u041f\u0440\u0430\u0442, \u041b\u043e\u0434\u0435\u0432\u0438\u043a \u0432\u0430\u043d","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%9F%D1%80%D0%B0%D1%82,_%D0%9B%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B2%D0%B0%D0%BD","sameAs":"http:\/\/www.wikidata.org\/entity\/Q936744","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q936744","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2019-04-24T12:15:29Z","dateModified":"2022-04-08T15:20:19Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/c7\/Blason_Louis_de_Flandre_%28%2B1555%29_seigneur_de_Praet.svg"}</script>
+</body>
+</html>

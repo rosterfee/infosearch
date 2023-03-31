@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="ru-RU" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="ru-RU" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="ru-RU" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+<script src="https://yastatic.net/pcode/adfox/adfox-cookie-matching.js?owner_id=226279"></script>
+<link rel="icon" href="https://rus-tv.su/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="https://rus-tv.su/favicon.ico" type="image/x-icon" />
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,300italic,600,600italic,700,700italic,800|Open+Sans+Condensed:300,300italic,700&subset=cyrillic-ext,latin' rel='stylesheet' type='text/css'>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>RUS-TV.SU — Онлайн телевидение - Смотрите ТВ онлайн, бесплатно и без лишних заморочек. Интернет телевидение в хорошем качестве, широкий выбор каналов.</title>
+	<link rel="pingback" href="https://rus-tv.su/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="https://rus-tv.su/wp-content/themes/rustv/js/html5.js"></script>
+	<![endif]-->
+	
+<!--
+<link href='https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900,100italic,300italic,400italic,500italic,700italic,900italic|Roboto+Condensed:400,300,300italic,400italic,700,700italic|Roboto+Slab:400,100,300,700&subset=latin,cyrillic,cyrillic-ext' rel='stylesheet' type='text/css'>
+-->
+<link rel='stylesheet' id='twentythirteen-style-css'  href='https://rus-tv.su/wp-content/themes/rustv/style.css' type='text/css' media='all' />
+<link href='https://fonts.googleapis.com/css?family=Roboto:100,300,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+<script type="text/javascript" src="https://rus-tv.su/wp-content/themes/rustv/js/jquery-1-8-3.js"></script>
+<script type="text/javascript" src="https://rus-tv.su/wp-content/themes/rustv/js/jcarousellite_1.0.1.min.js"></script>
+
+
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "18771670" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=18771670&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+ 
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://rus-tv.su" />
+<link rel="next" href="https://rus-tv.su/page/2/" />
+<meta property="og:locale" content="ru_RU" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="RUS-TV.SU — Онлайн телевидение - Смотрите ТВ онлайн, бесплатно и без лишних заморочек. Интернет телевидение в хорошем качестве, широкий выбор каналов." />
+<meta property="og:url" content="https://rus-tv.su" />
+<meta property="og:site_name" content="RUS-TV.SU — Онлайн телевидение" />
+<script type="application/ld+json">{ "@context": "http://schema.org", "@type": "WebSite", "url": "https://rus-tv.su/", "potentialAction": { "@type": "SearchAction", "target": "https://rus-tv.su/?s={search_term}", "query-input": "required name=search_term" } }</script>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="RUS-TV.SU — Онлайн телевидение &raquo; Лента" href="https://rus-tv.su/feed/" />
+<link rel="alternate" type="application/rss+xml" title="RUS-TV.SU — Онлайн телевидение &raquo; Лента комментариев" href="https://rus-tv.su/comments/feed/" />
+<link rel='stylesheet' id='meteor-slides-css'  href='https://rus-tv.su/wp-content/plugins/meteor-slides/css/meteor-slides.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='twentythirteen-fonts-css'  href='//fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C700%2C300italic%2C400italic%2C700italic%7CBitter%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='https://rus-tv.su/wp-content/themes/rustv/fonts/genericons.css?ver=2.09' type='text/css' media='all' />
+<link rel='stylesheet' id='twentythirteen-style-css'  href='https://rus-tv.su/wp-content/themes/rustv/style.css?ver=2013-07-18' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentythirteen-ie-css'  href='https://rus-tv.su/wp-content/themes/rustv/css/ie.css?ver=2013-07-18' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='https://rus-tv.su/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='https://rus-tv.su/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='https://rus-tv.su/wp-content/plugins/meteor-slides/js/jquery.cycle.all.js?ver=4.0.38'></script>
+<script type='text/javascript' src='https://rus-tv.su/wp-content/plugins/meteor-slides/js/jquery.metadata.v2.js?ver=4.0.38'></script>
+<script type='text/javascript' src='https://rus-tv.su/wp-content/plugins/meteor-slides/js/jquery.touchwipe.1.1.1.js?ver=4.0.38'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var meteorslidessettings = {"meteorslideshowspeed":"1000","meteorslideshowduration":"3000","meteorslideshowheight":"520","meteorslideshowwidth":"1200","meteorslideshowtransition":"fade"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://rus-tv.su/wp-content/plugins/meteor-slides/js/slideshow.js?ver=4.0.38'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://rus-tv.su/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://rus-tv.su/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.0.38" />
+<script>
+	var lightbox_transition = 'fade';
+	var lightbox_speed = 800;
+	var lightbox_fadeOut = 300;
+	var lightbox_title = false;
+	var lightbox_scalePhotos = true;
+	var lightbox_scrolling = false;
+	var lightbox_opacity = 0.201;
+	var lightbox_open = false;
+	var lightbox_returnFocus = true;
+	var lightbox_trapFocus = true;
+	var lightbox_fastIframe = true;
+	var lightbox_preloading = true;
+	var lightbox_overlayClose = true;
+	var lightbox_escKey = false;
+	var lightbox_arrowKey = false;
+	var lightbox_loop = true;
+	var lightbox_closeButton = false;
+	var lightbox_previous = "previous";
+	var lightbox_next = "next";
+	var lightbox_close = "close";
+	var lightbox_html = false;
+	var lightbox_photo = false;
+	var lightbox_width = '';
+	var lightbox_height = '';
+	var lightbox_innerWidth = 'false';
+	var lightbox_innerHeight = 'false';
+	var lightbox_initialWidth = '300';
+	var lightbox_initialHeight = '100';
+	
+        var maxwidth=jQuery(window).width();
+        if(maxwidth>768){maxwidth=768;}
+        var lightbox_maxWidth = maxwidth;
+        var lightbox_maxHeight = 500;
+	
+        var lightbox_slideshow = false;
+	var lightbox_slideshowSpeed = 2500;
+	var lightbox_slideshowAuto = true;
+	var lightbox_slideshowStart = "start slideshow";
+	var lightbox_slideshowStop = "stop slideshow";
+	var lightbox_fixed = true;
+	
+	
+			var lightbox_top = false;
+		var lightbox_bottom = false;
+		var lightbox_left = false;
+		var lightbox_right = false;
+		
+	var lightbox_reposition = false;
+	var lightbox_retinaImage = true;
+	var lightbox_retinaUrl = false;
+	var lightbox_retinaSuffix = "@2x.$1";
+</script>
+<style type="text/css" media="screen"></style><!--[if IE 7]><link rel='stylesheet' id='css-ie-fix' href='https://rus-tv.su/wp-content/plugins/special-recent-posts/css/css-ie-fix.css' type='text/css' media='all' /> <![endif]-->
+<!-- (C)2000-2015 Gemius SA - gemiusTraffic / ver 11.1 / Glavnaja stranitsa sajta --> 
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gemius_identifier = new String('nFtAfYfMx4S8uEbJzldgD2aGjzMZYtruP0Kvp6uQr5n.x7');
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://tivizor.ru/scripts/gemius.js"></script> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+<script src="https://rus-tv.su/wp-content/themes/rustv/js/social-likes.min.js"></script>
+
+<!-- Yandex.Metrika counter --> <script type="text/javascript" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; var z = null;m[i].l=1*new Date(); for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }} k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(44527150, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/44527150" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-S1GX0VC0P4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-S1GX0VC0P4');
+</script>
+<!-- Google tag (gtag.js) -->
+
+</head>
+
+<body class="home blog single-author">
+
+	<div id="page" class="hfeed site">
+		<header id="masthead" class="site-header" role="banner">
+			<div class="header-block">
+				<a class="home-link" href="https://rus-tv.su/" title="RUS-TV.SU — Онлайн телевидение" rel="home">
+					<div class="logo"><img src="https://rus-tv.su/wp-content/themes/rustv/images/logo4.png"></div>
+
+				</a>
+				<div class="nav-menu">
+					<ul>
+						
+						<li><a href="https://rus-tv.su/all-channels/">Телеканалы</a></li>
+						<li><a href="https://rus-tv.su/category/news/">Новости</a></li>
+						<li><a href="https://rus-tv.su/category/cosmo/">COSMO</a></li>
+						<li><a href="https://rus-tv.su/contacts/">Контакты</a></li>							
+					</ul>
+				</div>
+			</div>
+
+		</header><!-- #masthead -->
+
+		<div id="main" class="site-main">
+
+	<div id="primary" class="content-home">
+		<div id="content" class="site-content" role="main">		
+
+				<!--<div class="content-block">
+					<center><h1>Онлайн ТВ – лучшие каналы 24 часа в сутки!</h1></center>
+					<div class="text-glav">Смотрите любимые <a class="yakor" href="#films">фильмы</a>, <a class="yakor" href="#mults">мультики</a> и передачи</div>
+				</div>-->
+				<div class="entry-content2">													
+					<div class="block-layer">
+						<div class="thumbnail">						
+							<div class="text"><div class="zagolovok">Телеканал: MusicBox</div></div>
+							<div><div class="soc-block">
+<link rel="stylesheet" href="https://rus-tv.su/wp-content/themes/rustv/social-likes_classic.css">
+      <div class="sidebar-block-soc">              
+            <div class="social-likes" style="padding:5px; float:right; background:#0d171b; margin-top:15px;border-radius:5px;margin-right:20px;">
+              <div class="facebook" title="Поделиться ссылкой на Фейсбуке">Facebook</div>
+              <div class="vkontakte" title="Поделиться ссылкой во Вконтакте">Вконтакте</div>
+              <div class="odnoklassniki" title="Поделиться ссылкой в Одноклассниках">Одноклассники</div>
+              <div class="plusone" title="Поделиться ссылкой в Гугл-плюсе">Google+</div>
+            </div>
+       </div> 
+
+</div></div>
+						</div>
+						<div style="clear:both;"></div>
+						<div class="player">
+							
+							<iframe width="980" height="500" frameborder="0" allowfullscreen="" src="//rus-tv.su/player/html5/channel-musicbox.php"></iframe>													
+						</div>						
+						<div class="slaider">
+							    <div class="head-slider"><span class="vibor"></span>Выберите канал</div>
+    <div class="viewport">
+        <div class="ch-block block-1">
+            <a class="chanel" href="/shanson-tv/">
+                <div class="slider-img-block"><img src="https://rus-tv.su/wp-content/themes/rustv/images/shanson-logo.jpg"></div>
+                <span class="text">Шансон ТВ</span>
+            </a>
+        </div>
+        <div class="ch-block block-1">
+            <a class="chanel" href="/9-volna/">
+                <div class="slider-img-block"><img src="https://rus-tv.su/wp-content/themes/rustv/images/9volna-logo.jpg"></div>
+                <span class="text">9 волна</span>
+            </a>
+        </div>
+
+        <div class="ch-block block-1">
+            <a class="chanel" href="/muzyikalnyiy-soyuz/">
+                <div class="slider-img-block"><img src="https://rus-tv.su/wp-content/themes/rustv/images/muzsoyuz-logo.jpg"></div>
+                <span class="text">Муз. Союз</span>
+            </a>
+        </div>
+        <div class="ch-block block-1">
+            <a class="chanel" href="/humor-tv/">
+                <div class="slider-img-block"><img src="https://rus-tv.su/wp-content/themes/rustv/images/humor-tv-logo.jpg"></div>
+                <span class="text">Юмор ТВ</span>
+            </a>
+        </div>
+
+        <!--<div class="ch-block block-1">
+            <a class="chanel" href="/ru-tv/">
+                <div class="slider-img-block"><img src="https://rus-tv.su/wp-content/themes/rustv/images/rutv-logo.jpg"></div>
+                <span class="text">RU TV</span>
+            </a>
+        </div>-->
+
+        <div class="ch-block block-1">
+            <a class="chanel" href="/musicbox/">
+                <div class="slider-img-block"><img src="https://rus-tv.su/wp-content/themes/rustv/images/musicbox-logo.jpg"></div>
+                <span class="text">MusicBox</span>
+            </a>
+        </div>
+
+        <!--<div class="ch-block block-1">
+            <a class="chanel" href="/lifenews/">
+                <div class="slider-img-block"><img src="https://rus-tv.su/wp-content/themes/rustv/images/life-news-logo.jpg"></div>
+                <span class="text">Life News</span>
+            </a>
+        </div>-->
+        <div class="ch-block block-1">
+            <a class="chanel" href="/tele-dom">
+                <div class="slider-img-block"><img src="https://rus-tv.su/wp-content/themes/rustv/images/teledom-logo.jpg"></div>
+                <span class="text">ТелеДом</span>
+            </a>
+        </div>
+
+        <div class="ch-block block-1">
+            <a class="chanel" href="/russianmusicbox/">
+                <div class="slider-img-block"><img src="https://rus-tv.su/wp-content/themes/rustv/images/russianmusicbox-logo.jpg"></div>
+                <span class="text">Rus MusicBox</span>
+            </a>
+        </div> 
+        <div class="ch-block block-1">
+            <a class="chanel" href="/rzhd-tv/">
+                <div class="slider-img-block"><img src="https://rus-tv.su/wp-content/themes/rustv/images/rzd-logo.jpg"></div>
+                <span class="text">РЖД ТВ</span>
+                
+            </a>
+        </div>
+    </div>
+
+						</div>						
+						<div style="clear:both;"></div>
+					</div>
+					<div style="clear:both;"></div>
+					<div class="soc-google">
+      <div class="sidebar-block" style="margin-top:20px;float:left;">            
+             <div style="width:100%; margin:0 auto;">
+                <center>
+                <!-- banner_300x250 -->
+                <!--<script src= "https://cdn.alfasense.net/lib/alfadart.lib.min.js"></script>
+                <script src= "https://cdn.alfasense.net/js/ad_1008.js"></script>
+                <div id="alfadart_2026" style="float:left; margin-left:200px;"></div> -->
+                <div><script src="https://pub-eu.p.otm-r.com/static/rb.js?s=9935&w=300&h=250"></script></div>
+                </center>
+               <!-- 
+              <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>              
+              <ins class="adsbygoogle"
+                   style="display:block"
+                   data-ad-client="ca-pub-1408921960916748"
+                   data-ad-slot="4978102710"
+                   data-ad-format="auto"></ins>
+              <script>
+              (adsbygoogle = window.adsbygoogle || []).push({});
+              </script>-->
+            </div>     
+       </div>
+</div>					<div style="clear:both;"></div>
+					<div style="width:100%;height:100%;background:#fff; margin:30px 0; float:left;">
+<div class="sidebar-block novosti">
+	<div class="block-text">
+		<div class="title">Новости ТВ</div>					
+	</div>	
+	<div class="block-news">
+			<div class="spisok-news">			<a href="https://rus-tv.su/pervyiy-kanal-vozrozhdaet-peredachu-vokrug-smeha/">
+			<img width="600" height="270" src="https://rus-tv.su/wp-content/uploads/2017/04/upload-_LEE3409-pic905v-895x505-15849.jpg" class="attachment-post-thumbnail wp-post-image" alt="upload-_LEE3409-pic905v-895x505-15849" />				
+				<div class="name-news">Первый канал возрождает передачу «Вокруг смеха»</div>
+                        <!--<div class="descr-news"><p>На Первый канал после 26 лет отсутствия возвращается юмористическая передача «Вокруг смеха», вести которую будет Ефим Шифрин.</p>
+</div>-->
+			</a>
+			
+            </div><div class="spisok-news">			<a href="https://rus-tv.su/leonardo-di-kaprio-priedet-v-ulyanovsk-i-syigraet-lenina-v-kino/">
+			<img width="395" height="222" src="https://rus-tv.su/wp-content/uploads/2017/04/321321.jpg" class="attachment-post-thumbnail wp-post-image" alt="321321" />				
+				<div class="name-news">Леонардо Ди Каприо приедет в Ульяновск и сыграет Ленина в кино</div>
+                        <!--<div class="descr-news"><p>Актер Леонардо Ди Каприо приедет в Ульяновск и сыграет Ленина в кино. Об этом пишут ульяновские СМИ.</p>
+</div>-->
+			</a>
+			
+            </div><div class="spisok-news">			<a href="https://rus-tv.su/v-seti-poyavilsya-promo-rolik-sedmogo-sezona-igryi-prestolov/">
+			<img width="604" height="270" src="https://rus-tv.su/wp-content/uploads/2017/04/doc6uamvcea5fpunulvnlr_800_480-604x270.jpg" class="attachment-post-thumbnail wp-post-image" alt="doc6uamvcea5fpunulvnlr_800_480" />				
+				<div class="name-news">В сети появился промо-ролик седьмого сезона &#171;Игры престолов&#187;</div>
+                        <!--<div class="descr-news"><p>На видео появляются трое из героев сериала: Джон Сноу, Серсея Ланнистер и Дейенерис Таргариен. Также в ролике мелькает персонаж, которого поклонники идентифицировали как Короля Ночи.</p>
+</div>-->
+			</a>
+			
+            </div><div class="spisok-news">			<a href="https://rus-tv.su/prizrak-v-dospehah-s-obvorozhitelnoy-skarlett-yohansson-vyihodit-v-rossiyskiy-prokat/">
+			<img width="540" height="270" src="https://rus-tv.su/wp-content/uploads/2017/04/prizrak-v-dospexax-540x270.png" class="attachment-post-thumbnail wp-post-image" alt="prizrak-v-dospexax" />				
+				<div class="name-news">«Призрак в доспехах» с обворожительной Скарлетт Йоханссон выходит в российский прокат</div>
+                        <!--<div class="descr-news"><p>События развиваются в недалеком будущем, где человечество после еще двух мировых войн вступило в эпоху трансгуманизма. Главная героиня Мира (Скарлетт Йоханссон) сильно пострадала в результате теракта.</p>
+</div>-->
+			</a>
+			
+            </div><div class="spisok-news">			<a href="https://rus-tv.su/mihail-efremov-stal-luchshim-akterom-2016-goda/">
+			<img width="600" height="270" src="https://rus-tv.su/wp-content/uploads/2017/04/1491029424_hq720.jpg" class="attachment-post-thumbnail wp-post-image" alt="1491029424_hq720" />				
+				<div class="name-news">Михаил Ефремов стал лучшим актером 2016 года</div>
+                        <!--<div class="descr-news"><p>Михаил Ефремов стал лучшим актером года. Такое решение вынесла Ассоциация продюсеров кино и телевидения, назначив Михаила лучшим актером года за роль в сериале «Пьяная фирма», в котором он сыграл главную роль.</p>
+</div>-->
+			</a>
+			
+            </div><div class="spisok-news">			<a href="https://rus-tv.su/v-novom-klipe-lucky-stranger-sergey-lazarev-stal-reketirom/">
+			<img width="600" height="270" src="https://rus-tv.su/wp-content/uploads/2017/04/1491032684_wx1080.jpg" class="attachment-post-thumbnail wp-post-image" alt="1491032684_wx1080" />				
+				<div class="name-news">В новом клипе «Lucky Stranger» Сергей Лазарев стал «рэкетиром»</div>
+                        <!--<div class="descr-news"><p>1 апреля артистом Сергеем Лазаревым отмечается своё 34-летие. В канун этой даты им был радикально изменён имидж.</p>
+</div>-->
+			</a>
+			
+            </div>	<center><div class="all-news"><a href="/category/news/">ВСЕ НОВОСТИ</a></div></center>
+	</div>
+
+</div>
+</div>
+<!--if ( has_post_thumbnail() ) { the_post_thumbnail('thumbnail'); }--> 
+
+
+
+
+
+				</div>
+				
+							
+		</div><!-- #content -->
+	</div><!-- #primary -->
+</div>
+
+<div style="clear:both;"></div>
+
+
+		</div><!-- #main -->
+
+		<footer id="colophon" class="site-footer" role="contentinfo" style="height:170px;">
+			<div class="footer-block">
+							
+					<div class="menu-footer">
+						<ul>							
+							<li><a href="/all-channels/">Телепередачи</a></li>
+							<li><a href="/category/news/">Новости ТВ</a></li>							
+							<!--<li style="background:none; padding-right:0;"><a href="/contacts/">Контакты</a></li>-->
+						</ul>
+					</div>
+				<!--<div class="contact" style="float: left;  margin: 42px 0 0 170px;">
+					<span style="height: 20px;  display: block;">По вопросам рекламы обращаться на почту:</span> 
+					<span style="height: 20px;  display: block;"><a style="color:#fff;text-decoration: underline; " href="mailto:adv.sites@mail.ru">adv.sites@mail.ru</a></span>
+					<span style="height: 20px;  display: block;">ООО «ИНТЕЛЛЕКТ ТЕХНОЛОДЖИ»</span>
+					<span style="height: 20px;  display: block;">ИНН 6166110136</span>
+					<span style="height: 20px;  display: block;">ОГРН 1186196024783</span>
+					<span style="height: 20px;  display: block;">Юр. Адрес: 344029, Ростовская область, г. Ростов-на-Дону, пр. Сельмаш, д.14, ком. 17</span>
+				</div>-->				
+				<div class="text">
+					<p style="font-size:14px;">&#169; RUS-TV.SU - 2016</p>	
+
+				</div>
+			</div>
+			
+		</footer><!-- #colophon -->
+
+
+	<link rel='stylesheet' id='style-name-css'  href='https://rus-tv.su/wp-content/plugins/lightbox/css/frontend/colorbox-2.css?ver=4.0.38' type='text/css' media='all' />
+<script type='text/javascript' src='https://rus-tv.su/wp-content/themes/rustv/js/functions.js?ver=2014-03-18'></script>
+<script type='text/javascript' src='https://rus-tv.su/wp-content/plugins/lightbox/js/frontend/custom.js?ver=4.0.38'></script>
+<script type='text/javascript' src='https://rus-tv.su/wp-content/plugins/lightbox/js/frontend/jquery.colorbox.js?ver=4.0.38'></script>
+
+</body>
+</html>

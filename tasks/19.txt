@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+<body>
+<div id="info">
+sid: 208
+<br>
+uid: 
+<br>
+request_id: uknN80w4D4Y1
+<br>
+ip: 178.205.233.104
+<br>
+datetime: 2023-03-30 17:46:56 +0000
+</div>
+</body>
+</html>
+

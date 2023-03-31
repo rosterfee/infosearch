@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<title>Journals.ru</title>
+<meta name="robots" content="noindex,nofollow">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="content-type" content="text/html; charset=windows-1251">
+<meta name="description" content="Îíëàéíîâûå äíåâíèêè è êëóáû">
+<meta name="keywords" content="äíåâíèê, äíåâíèêè, áëîã, áëîãè, æóðíàë, æóðíàëû, journal, journals, blog, blogs, çíàêîìñòâà, ôîòîãðàôèè, îáùåíèå, îíëàéíîâûé äíåâíèê, îíëàéíîâûå äíåâíèêè, ëè÷íûå äíåâíèêè, ëè÷íûé äíåâíèê, ïåðñîíàëüíûé äíåâíèê, ïåðñîíàëüíûå äíåâíèêè">
+<link rel="stylesheet" type="text/css" href="//journals.ru/css.20220102/journals.css">
+<link rel="stylesheet" type="text/css" href="//journals.ru/css.20220102/pagination.css">
+<link rel="icon" type="image/png" href="//journals.ru/favicon-96x96.png?v=2" sizes="96x96" />
+<link rel="icon" type="image/png" href="//journals.ru/favicon-32x32.png?v=2" sizes="32x32" />
+<link rel="icon" type="image/png" href="//journals.ru/favicon-16x16.png?v=2" sizes="16x16" />
+<link rel="apple-touch-icon" href="//journals.ru/favicon-120x120.png?v=2" />
+<link rel="apple-touch-icon-precomposed" href="//journals.ru/favicon-120x120.png?v=2" /><style>
+body {
+	background-color: #FFFFFF;
+}
+
+.page-header {
+	border: 0px solid #000000;
+	box-sizing: border-box;
+}
+
+.page-header > div,
+.page-header a,
+.page-header a:visited,
+.page-header a:active,
+.page-header a:hover {
+	font-family:  Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 12px;
+	background-color: #839589;
+	color: #D9E3D8;
+	border: none;
+}
+
+.page-top-menu {
+	font-family:  Verdana, Arial, Helvetica, sans-serif;
+	background-color: #D9E3D8;
+	box-sizing: border-box;
+}
+
+.page-top-menu,
+.page-top-menu a,
+.page-top-menu a:visited,
+.page-top-menu a:active {
+	color: #55645A;
+}
+
+.caption,
+.caption a,
+.caption a:visited,
+.caption a:active,
+.flex-table-header,
+.info-header,
+.info-header a,
+.info-header a:visited,
+.info-header a:active {
+	border: none;
+	background-color: #839589;
+	color: #D9E3D8;
+}
+
+.info-body {
+	background-color: #DEDFDF;
+	font-family:  Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	border: 1px solid #839589;
+}
+
+.info-body a,
+.info-body a:visited,
+.info-body a:active,
+.info-body a:hover {
+	color: #000000;
+	text-decoration: underline;
+}
+
+div.button,
+textarea,
+.select,
+.input {
+	color: #000000;
+	background-color: #EEEEEE;
+	border: solid 1px #839589;
+}
+
+textarea {
+	font-size: 12px;
+}
+
+.small {
+	font-size: 10px;
+}
+</style>
+
+<style>
+.pagination-light select,
+.pagination-light a,
+.pagination-light a:link,
+.pagination-light a:visited,
+.pagination-light a:active {
+	color: #000000 !important;
+	background: #DEDFDF !important;
+}
+
+.pagination-light select:not(:hover),
+.pagination-light a:not(:hover),
+.pagination-light a:link:not(:hover),
+.pagination-light a:visited:not(:hover),
+.pagination-light a:active:not(:hover),
+.pagination-light span {
+	border: 1px solid #000000 !important;
+}
+
+.pagination-light .current,
+.pagination-light .ellipse {
+	color: #D9E3D8 !important;
+}
+</style><style>
+.index-block-cnt {
+	background-color: #D9E3D8;
+	border: 1px solid #839589;
+}
+
+.index-caption {
+	background-color: #839589;
+}
+
+.index-caption,
+.index-caption a {
+	font-size: 10px;
+	color: #D9E3D8;
+}
+
+.index-block {
+	border: 1px solid #839589;
+	border-width: 1px 0 0 0;
+	background-color: #D9E3D8;
+}
+
+.index-block-title,
+.index-block,
+.index-new-comment div {
+	font-size: 11px;
+}
+
+.index-block-title,
+.index-block,
+.index-block a,
+.index-block a:visited,
+.index-block a:active {
+	color: #55645A;
+}
+
+.index-without-journals {
+	background: #FFFFFF;
+	padding: 0 10px;
+	margin-bottom: 10px;
+}
+
+.index-spy-footer {
+	background: #FFFFFF;
+	padding: 10px;
+	box-sizing: border-box;
+}
+
+.index-list {
+	border: 1px solid #839589;
+}
+
+.index-list-title,
+.index-list-header,
+.index-list-footer {
+	background-color: #839589;
+}
+
+.index-list-header,
+.index-list-row {
+	border-bottom: 1px solid #839589;
+}
+
+.index-list-header > div,
+.index-list-row > div {
+	border-right: 1px solid #839589;
+}
+
+.index-list-title,
+.index-list-title a,
+.index-list-header > div,
+.index-list-header a {
+	color: #D9E3D8;
+}
+
+@media only screen and (max-width: 750px) {
+	.index-content > .birthday-cnt .index-block {
+		border-width: 0 0 0 1px;
+	}
+
+	.index-search-cnt .index-block {
+		border-width: 0 0 0 1px;
+	}
+}
+
+.index-left ul li svg,
+.index-right ul li svg {
+	margin: 0 2px 0 0;
+	width: 7px;
+	height: 7px;
+}
+
+.index-right ul li svg {
+	margin: 0 8px 0 0;
+}
+
+.index-list-row {
+	background-color: #EEEEEE;
+}
+
+.index-list-row.even {
+	background-color: #DEDFDF;
+}
+
+.index-list-row,
+.index-list-row a {
+	color: #000000;
+}
+</style></head>
+
+<body>
+
+<div class="page-header">
+	<div><a href="//journals.ru/" title="Îíëàéíîâûå äíåâíèêè">Journals.ru</a></div>
+</div>
+
+<div class="page-top-menu"><div class="page-top-menu page-top-menu-left">
+<a href="/support.php" style="color: #000099"><b>ïîääåðæàòü ñàéò</b></a>
+&#8226; <a href="/">äíåâíèêè</a>
+&#8226; <a href="/journals.php?userid=17672"><b>support</b></a>
+&#8226; <a href="/misc.php?action=faq">FAQ</a>
+&#8226; <a href="/setting_index.php">êàáèíåò</a>
+&#8226; <a href="/journals.php?random=yes">íàóãàä</a>
+</div>
+<div class="page-top-menu page-top-menu-right">
+<a href="/register.php?action=signup">ðåãèñòðàöèÿ</a>
+</div>
+</div><div class="index-content">
+	<div class="index-left">
+		<div class="index-block-cnt">
+			<div class="index-caption index-login-cnt">
+				<div>
+					<b>Ââåäèòå ëîãèí è ïàðîëü:</b>
+				</div>
+				<div id="index-menu-link">&#8226;&#8226;&#8226;</div>
+			</div>
+			<div class="index-block">
+				<form action="/member.php" method="post">
+					<div class="input-cnt">
+						<input type="hidden" name="action" value="login">
+						<input type="text" class="input" size="10" name="username" placeholder="Ëîãèí" autocomplete="username">
+						<input type="password" class="input" size="10" name="password"  placeholder="Ïàðîëü" autocomplete="current-password">
+						<input type="submit" class="input" value="âîéòè">
+					</div>
+					<div class="input-cnt flex flex-align-center">
+						<input type="checkbox" name="usercookie" value="2" id="tcU"><label for="tcU">÷óæîé êîìïüþòåð</label>
+					</div>
+				</form>
+			</div>
+			<div class="index-block">
+				<a href="/register.php?action=signup">Ðåãèñòðàöèÿ</a> &#8226; <a href="/setting_password.php?action=lostpw">Âîññòàíîâèòü ïàðîëü</a><br>
+			</div>
+
+			<div class="index-block index-block-flex index-block-recent index-hide-mobile">
+				<div class="index-block-title">Âûáîðêè çà 3 äíÿ:</div>
+				<ul>
+					<li>
+						<svg><use xlink:href="#mark"></use></svg>
+						<a href="/tape.php"><b>çàïèñè</b></a> &#8226; <a href="/?record=1">ñïèñîê</a>
+					</li>
+					<li>
+						<svg><use xlink:href="#mark"></use></svg>
+						<a href="/?com=1" title="Äíåâíèêè ñ íîâûìè êîììåíòàðèÿìè çà ïîñëåäíèå äâà äíÿ">êîììåíòàðèè</a>
+					</li>
+					<li>
+						<svg><use xlink:href="#mark"></use></svg>
+						<a href="/?update=1" title=" Äíåâíèêè, îáíîâèâøèåñÿ çà ïîñëåäíèå äâà äíÿ">äíåâíèêè</a> &#8226; <a href="/?showclubs=1" title="">êëóáû</a>
+					</li>
+				</ul>
+			</div>
+
+			<div class="index-block index-block-flex index-hide-mobile">
+				<div class="index-block-title">Íîâûå äíåâíèêè çà:</div>
+				<ul class="index-ul-flex line">
+					<li>
+						<svg><use xlink:href="#mark"></use></svg>
+						<a href="/?create=1">ñóòêè</a>
+					</li>
+					<li>
+						<svg><use xlink:href="#mark"></use></svg>
+						<a href="/?create=2">íåäåëþ</a>
+					</li>
+					<li>
+						<svg><use xlink:href="#mark"></use></svg>
+						<a href="/?create=3">ìåñÿö</a>
+					</li>
+				</ul>
+			</div>
+
+			<div class="index-block index-block-flex index-hide-mobile">
+				<ul class="first-ul index-ul-flex">
+					<li>
+						<svg><use xlink:href="#mark"></use></svg>
+						<a href="/?showallclubs=1">Êëóáû</a>
+					</li>
+					<li>
+						<svg><use xlink:href="#mark"></use></svg>
+						<a href="/smile.php">Ñìàéëèêè</a>
+					</li>
+				</ul>
+				<ul class="index-ul-flex line">
+					<li>
+						<svg><use xlink:href="#mark"></use></svg>
+						<a href="/interes.php">Èíòåðåñû</a>
+					</li>
+					<li>
+						<svg><use xlink:href="#mark"></use></svg>
+						<a href="/antires.php">Àíòèðåñû</a>
+					</li>
+				</ul>
+				<ul class="index-ul-flex">
+					<li>
+						<svg><use xlink:href="#mark"></use></svg>
+						<a href="/residence.php?topcount=50">Ãåîãðàôèÿ</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="index-search-cnt index-block-cnt">
+			<div class="index-caption"><b>Ïîèñê ïî èìåíè àâòîðà</b></div>
+			<div class="index-block">
+				<form action="/">
+					<div class="input-cnt">
+						<input type="hidden" name="search_part" value="any">
+						<input type="text" name="username" size="24" value="" class="input" placeholder="êîãî èñêàòü?" autocomplete="username">
+						<input type="submit" value="èñêàòü" class="input">
+					</div>
+				</form>
+			</div>
+		</div>
+
+<div class="index-block-cnt birthday-cnt">
+	<div class="index-caption"><b>Ïîçäðàâëÿåì ñ äí¸ì ðîæäåíèÿ!</b></div>
+	<div class="index-block"><a href="/journals.php?userid=40934">The Magic Rabbit</a>, <a href="/journals.php?userid=34172">BrainsGoCrazy</a>, <a href="/journals.php?userid=40781">Nastja Leto</a>, <a href="/journals.php?userid=20912">yakovlev</a>, <a href="/journals.php?userid=22025">Wist</a>, <a href="/journals.php?userid=22525">Inko</a>, <a href="/journals.php?userid=24408">Äàðèýí</a>, <a href="/journals.php?userid=24586">Bender</a>, <a href="/journals.php?userid=27553">darkad</a>, <a href="/journals.php?userid=29255">Linux</a>, <a href="/journals.php?userid=26567">The Hanged Man</a>, <a href="/journals.php?userid=37739">çàþøêà</a>, <a href="/journals.php?userid=35209">Noubliez Jamais</a>, <a href="/journals.php?userid=30519">Tauros</a>, <a href="/journals.php?userid=32113">o-shi</a>, <a href="/journals.php?userid=45487">SugarCane</a>, <a href="/journals.php?userid=39622">Serge_Monro</a>, <a href="/journals.php?userid=39994">Éåííèôýð</a>, <a href="/journals.php?userid=42199">Aleshara</a>, <a href="/journals.php?userid=47184">SD-6</a>, <a href="/journals.php?userid=48392">svetka</a>, <a href="/journals.php?userid=49328">Fliaway</a></div>
+</div>	</div>
+
+	<div class="index-right"><div class="index-without-journals">
+<b>Journals.ru</b> - ýòî ñîîáùåñòâî àâòîðîâ <a href="/faq.php?faqid=5#63"><b>îíëàéíîâûõ äíåâíèêîâ</b></a>.<br><br>
+
+×òîáû çàâåñòè ñâîé îíëàéíîâûé äíåâíèê, âàì íóæíî:
+
+<ul>
+	<li><svg><use xlink:href="#mark"></use></svg><a href="/register.php?action=signup"><b>Çàðåãèñòðèðîâàòüñÿ</b></a> íà ýòîì ñàéòå (ðåãèñòðàöèÿ íóæíà òàêæå äëÿ ïîëó÷åíèÿ ïðàâà îñòàâëÿòü êîììåíòàðèè â íåêîòîðûõ äíåâíèêàõ).</li>
+	<li><svg><use xlink:href="#mark"></use></svg>Ñîçäàòü äíåâíèê.</li>
+</ul>
+
+Ïîäðîáíåå î ïðîöåññå ñîçäàíèÿ äíåâíèêà ÷èòàéòå <a href="/faq.php?page=5#65">çäåñü</a>.<br>
+Ïîäðîáíàÿ èíôîðìàöèÿ î ñàéòå Journals.ru:
+<ul>
+	<li><svg><use xlink:href="#mark"></use></svg><a href="/faq.php?page=5#63">×òî òàêîå îíëàéíîâûé äíåâíèê?</a></li>
+	<li><svg><use xlink:href="#mark"></use></svg><a href="/faq.php?page=5#64">Çà÷åì íóæåí îíëàéíîâûé äíåâíèê?</a></li>
+	<li><svg><use xlink:href="#mark"></use></svg><a href="/faq.php?page=5#65">Êàê ñîçäàòü ñâîé îíëàéíîâûé äíåâíèê?</a></li>
+	<li><svg><use xlink:href="#mark"></use></svg><a href="/faq.php?page=5#66">×òî ìîæíî è ÷åãî íåëüçÿ äåëàòü â îíëàéíîâîì äíåâíèêå?</a></li>
+	<li><svg><use xlink:href="#mark"></use></svg><a href="/faq.php?page=5#67">Ìîäåðèðóþòñÿ ëè îíëàéíîâûå äíåâíèêè íà Journals.ru?</a></li>
+</ul>
+
+Âñ¸, ÷òî êàñàåòñÿ òåêóùèõ âîïðîñîâ æèçíè ñàéòà, îáñóæäàåòñÿ <a href="/users/support/"><b>çäåñü</b></a>.<br><br>
+
+Âñå ñâîè âîïðîñû, êàñàþùèåñÿ Journals.ru, âû ìîæåòå çàäàòü ïî e-mail <a href="mailto:support@journals.ru"><b>support@journals.ru</b></a>
+</div>
+</div>
+<div class="index-block-cnt birthday-cnt">
+	<div class="index-caption"><b>Ïîçäðàâëÿåì ñ äí¸ì ðîæäåíèÿ!</b></div>
+	<div class="index-block"><a href="/journals.php?userid=40934">The Magic Rabbit</a>, <a href="/journals.php?userid=34172">BrainsGoCrazy</a>, <a href="/journals.php?userid=40781">Nastja Leto</a>, <a href="/journals.php?userid=20912">yakovlev</a>, <a href="/journals.php?userid=22025">Wist</a>, <a href="/journals.php?userid=22525">Inko</a>, <a href="/journals.php?userid=24408">Äàðèýí</a>, <a href="/journals.php?userid=24586">Bender</a>, <a href="/journals.php?userid=27553">darkad</a>, <a href="/journals.php?userid=29255">Linux</a>, <a href="/journals.php?userid=26567">The Hanged Man</a>, <a href="/journals.php?userid=37739">çàþøêà</a>, <a href="/journals.php?userid=35209">Noubliez Jamais</a>, <a href="/journals.php?userid=30519">Tauros</a>, <a href="/journals.php?userid=32113">o-shi</a>, <a href="/journals.php?userid=45487">SugarCane</a>, <a href="/journals.php?userid=39622">Serge_Monro</a>, <a href="/journals.php?userid=39994">Éåííèôýð</a>, <a href="/journals.php?userid=42199">Aleshara</a>, <a href="/journals.php?userid=47184">SD-6</a>, <a href="/journals.php?userid=48392">svetka</a>, <a href="/journals.php?userid=49328">Fliaway</a></div>
+</div></div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.0/jquery.min.js" integrity="sha384-sRaSBh4/biaPOg3bm/6H8MNYnWcEcqKm7LaCyGF6xf47EYpW7ITYRwMLOX3gQ7T6" crossorigin="anonymous"></script>
+<script>
+if (!window.jQuery) {
+	document.write('<script src="//journals.ru/js.20220111/jquery-1.10.0.min.js"><\/script>');
+}
+</script><script src="//journals.ru/js.20220111/journals.js"></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3BNS6XQHQF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3BNS6XQHQF');
+</script>
+<div style="display: none;">
+<svg xmlns="http://www.w3.org/2000/svg"><symbol id="mark" preserveAspectRatio="xMidYMid meet" viewBox="199 198.99999999999997 144 144.00000000000003" width="7" height="7" fill="#55645A"><path d="M240 240L260 240L260 300L240 300L240 240Z"></path><path d="M240 280L300 280L300 300L240 300L240 280Z"></path><path d="M200 200L340 200L340 220L200 220L200 200Z"></path><path d="M200 200L220 200L220 340L200 340L200 200Z"></path><path d="M320 201L340 201L340 340L320 340L320 201Z"></path><path d="M200 320L340 320L340 340L200 340L200 320Z"></path></symbol></svg>
+</div>
+
+</body>
+</html>

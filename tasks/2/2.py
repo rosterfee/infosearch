@@ -2,13 +2,11 @@ from collections import defaultdict
 from bs4 import BeautifulSoup
 import spacy
 import re
-import nltk
 from nltk.corpus import stopwords
 
 
 nlp = spacy.load('ru_core_news_sm')
 
-nltk.download('stopwords')
 stopwords = stopwords.words('russian')
 tokens = set()
 lemmas = defaultdict(set)
@@ -33,7 +31,7 @@ with open('tokens.txt', 'w+', encoding='utf-8') as tokens_file:
 
     with open('lemmas.txt', 'w+', encoding='utf-8') as lemmas_file:
         for lemma, tokens in lemmas.items():
-            line = str(lemma) + ': ' + ' '.join(map(str, tokens))
+            line = str(lemma) + ' ' + ' '.join(map(str, tokens))
             lemmas_file.write(line + '\n')
 
 tokens_file.close()

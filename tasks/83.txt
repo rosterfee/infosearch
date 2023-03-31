@@ -1,0 +1,1581 @@
+
+
+
+<!DOCTYPE html>
+<html lang="ru" xmlns="http://www.w3.org/1999/xhtml" class="react-layout">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+
+    <style>
+        body {
+            overflow-x: hidden;
+        }
+    </style>
+
+<script>
+    // Код для отслеживания ошибок на страницах
+    'use strict';
+    (function () {
+        var pushedErrors = {};
+        var originalHandler = window.onerror;
+    
+        window.onerror = function (message, url, line, col) {
+            var eventKey = url + '-' + line + ':' + col;
+    
+            if (!pushedErrors[eventKey]) {
+                pushedErrors[eventKey] = true;
+    
+                var xhr = new XMLHttpRequest();
+                xhr.open("POST", '/js-log.ashx', true);
+                xhr.setRequestHeader('Content-Type', 'application/json');
+                xhr.send(JSON.stringify({
+                    events: [{
+                        message: message,
+                        level: "error",
+                        fileName: url ? url.split('/').pop(-1) : 'root',
+                        line: line,
+                        position: col,
+                        user: localStorage.getItem('_contextId') || null
+                    }]
+                }));
+            }
+    
+            if (typeof originalHandler === 'function') {
+                originalHandler.apply(null, arguments);
+            }
+        };
+    })();
+</script>
+
+        <meta http-equiv="content-language" content="ru-RU" />
+    
+    <title>билайн Казань — официальный сайт оператора: тарифы на мобильную связь и интернет, услуги, акции, выбор и заказ SIM-карт и eSIM.</title>
+    <script>window.sentryEnabled = true</script>
+    
+    
+    <meta name="description" content="Официальный сайт оператора сотовой связи билайн. Подробное описание и условия подключения тарифов и услуг, доступная стоимость мобильной связи и интернета. Покупайте SIM-карту или eSIM, подключайте подходящий тариф на выгодных условиях и оцените все возможности сети с билайн Казань." />
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "url": "https://kazan.beeline.ru/customers/products/",
+        "logo": "https://kazan.beeline.ru/content/img/logo-smart-banner.png"
+    }
+    </script>
+
+
+        <link rel="canonical" href="https://kazan.beeline.ru/customers/products/" />
+
+    <link href="/react/build/components.fdfdfb9.css" rel="stylesheet"/>
+
+
+
+    
+
+        <meta id="viewportMeta" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+
+    
+    
+    <link href="/react/build/MainPage2021.fdfdfb9.css" rel="stylesheet"/>
+
+
+
+
+
+    <meta name="theme - color" content="#ffffff"><link rel="icon" href="/favicon.svg"><link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <script nomodule src="/scripts/polyfill.min.js"></script>
+
+
+
+
+
+    
+    
+
+
+
+    
+    
+<meta name="google-site-verification" content="ShTNGZbC0pBmEZ4bli3_SuIV1WTq782mrjBL1S9Um-Q" />
+
+    <script type="text/javascript">//Регистрируем строковые ресурсы, необходимые для валидации
+        var Resources = Resources || {}; Resources.ValidationMessages = {OnlyNumbersAndLetters: 'Допустимы только латинские символы и цифры',WrongUserNameFormat: 'Неверный формат имени',UnknownMessageStatus: 'Неизвестный статус сообщения',EmptyContactTime: 'Предпочитаемое время звонка не выбрано',ExceedSendAttemptsLimit: 'Превышено количество попыток отправки сообщения',WrongFirstName: 'Неверное имя',Partner_Form_Contact_Required: 'Не указано имя',Partner_Form_Phone_Required: 'Не указан телефон',WrongCTNFormat: 'Неверный номер телефона',FieldTitleMiddleName: 'Отчество',WrongUserQuestionLength: 'Длина вопроса не должна превышать %MAX% символов',EmptyBuilding: 'Дом не заполнен',WrongDate: 'Неверно заполнена дата',WrongData: 'Некорректные данные',WrongGuid: 'Неверный формат Guid',WrongName: 'Неверное имя',WrongCity: 'Неверно заполнен город',FieldTitleStreet: 'Улица',EmptyBillNumber: 'Номер счета не заполнен',EmptyCity: 'Город не заполнен',EmptyGuid: 'Не введен Guid',EmptyFlat: 'Не указана квартира',EmptyDate: 'Не указана дата',EmptyName: 'Не указано имя',EmptyPatronymicName: 'Не указано отчество',EmptyPassportIssuedBy: 'Не заполнено поле кем выдан паспорт',EmptyRequestNumber: 'Пустой № записи',ExistMNPPageRequest: 'Ваша заявка на оформление услуги \"Переход в \билайн\" со своим номером\" не принята. Запрос на переход этого номера уже отправлялся.',EmptyShippingMethod: 'Не указан способ доставки',WrongFieldLength: 'Слишком длинное значение поля',ServiceNotAvailable: 'Сервис временно не доступен. Попробуйте позднее',NeedArgeeUsePromisedPayment: 'Необходимо согласиться с условиями и ограничениями услуги',Partner_Form_Comment_Required: 'Не заполнен комментарий',WrongDOB: 'Не верный формат дня рождения',FieldTitleAdditionalCTN: 'Контактный телефон',ChangeNumberEmptyWord: 'Введите слово',WrongMacAddress: 'Неверный формат Mac-адреса',EmptySerialNumber: 'Не введен серийный номер',EmptyShippingStreet: 'Не заполнена улица доставки',ValidationWrongValues: 'Некорректно заполнены',FieldTitlePhoneCode: 'Код телефона',FieldTitleRequestNumber: '№ записи',FieldNickname: 'Никнейм',MustArgreeUsePassword: 'Необходимо согласиться использовать пароль',FieldTitleEmail: 'Email',FieldTitleLogin: 'Логин',FieldTitleHours: 'Часы',WrongUserQuestionFormat: 'Неверный формат вопроса',WrongBeelineNumber: 'Необходимо ввести номер абонента билайна',FieldTitlePhone: 'Телефон',EmptyLastName: 'Не указана фамилия',WrongHours: 'Неверно заданы часы',WrongToken: 'Неверный токен, запросы не могут быть выполнены',FieldTitleShortCTN: 'Короткий номер',RoamingSetYourTariff: 'Укажите Ваш тариф',FieldGuid: 'Guid',EmptyAddress: 'Не заполнен адрес',FieldTitleCity: 'Город',FieldTitleDate: 'Дата',FieldTitleName: 'Имя',FieldMacAddress: 'Mac-адрес',EmptyContactDay: 'Предпочитаемый день звонка не выбран',WrongPaymentSum: 'Сумма должна быть от %MIN% до %MAX%',WrongSerialNumber: 'Неверный формат серийного номера',WrongPassportSeries: 'Неверно заполнена серия паспорта',FieldTitleContactPhone: 'Контактный телефон',FieldRequired: 'Укажите значение',WrongApartment: 'Неверно заполнена квартира',WrongCaptchaLength: 'Символы должны содержать %N% цифр',SelectNewsCategories: 'Укажите хотя бы одну из категорий новостей',FieldTitleUserQuestion: 'Ваш вопрос',EmptySwindleUserQuestion: 'Время получения сообщения и его текст не может быть пустое',OtherCaptchaError: 'В работе капчи сбой',Partner_Form_RegionListText_Required: 'Не заполнены регионы развития',EndDateMustBeGreaterThanStart: 'Дата отключения не может быть раньше даты подключения',Partner_Form_Company_Required: 'Не указано название компании',WrongAddress: 'Неверно заполнен адрес',FieldSimRegion: 'Регион сим-карты',CantDetermineOperator: 'Принадлежность оператору не удалось определить и его нельзя портировать',UnknownError: 'Неизвестная ошибка',ChangeNumberWrongNumberGroupFormat: 'Неверный формат',EmptyTextWithError: 'Укажите текст с ошибкой',UnableSendMessage: 'Невозможно отправить сообщение',WrongMiddleName: 'Неверное отчество',FieldSerialNumber: 'Серийный номер',FieldTitleAddress: 'Адрес',NumberOfSMSCodeCheckExceeded: 'Вы превысили количество попыток ввода кода подтверждения',WrongAdditionalCTNFormat: 'Неверный формат дополнительного телефона',FieldTitleBuilding: 'Дом',ErrorUploadFile: 'Ошибка загрузки файла {0}. {1}',UnablePortateDifferentRegionsCTNs: 'Вы не можете одновременно портировать номера из разных регионов',Partner_Form_Phone_Format: 'Неверный формат номера телефона',WrongMinutes: 'Неверно заданы минуты',EmptyFeedbackFilterTheme: 'Необходимо выбрать тему обращения',WrongShortCTNFormat: 'Неверный формат короткого номера',WrongBuilding: 'Неверно заполнен дом',PressCenterSelectThemes: 'Выберите хотя бы одну тему для подписки',EmptyRegistrationHouse: 'Не заполнен дом прописки',WrongPassportIssuedDate: 'Не верный формат даты выдачи паспорта',EmptyPassportIssuedDate: 'Не указана дата выдачи паспорта',NicknameIsInUse: 'Никнейм уже занят',WrongOperatorCTN: 'Номер не принадлежит сети билайна',FieldStartPeriod: 'Дата подключения',FieldEndPeriod: 'Дата отключения',UsePassword: 'Использовать пароль',FieldTitleBillNumber: 'Номер счета',FieldTitleToRegion: 'Я звоню в',FieldTitleUserComment: 'Комментарий',UnableSendMNPRequest: 'Ваша заявка на оформление услуги \"Переход в \билайн\" со своим номером\" не принята.',WrongConfirmationCode: 'Вы ввели неверный или устаревший код подтверждения',EmptyConfirmationCode: 'Код подтверждения не должен быть пустой',Partner_Form_Contact_Length: 'Максимальная длина поля 150 символов',EmptyPassportSeries: 'Не заполнена серия паспорта',EmptyShippingIndex: 'Не указан почтовый индекс',EmptyShippingHouse: 'Не заполнен дом доставки',ExceedIPSenderDayLimit: 'Вы отправили слишком много сообщений сегодня',WrongBillNumber: 'Неверный номер счета',EmptyMiddleName: 'Не указано отчество',ExceedIPSenderFrequencyLimit: 'Вы запрашиваете сообщения слишком часто',EmptyContactPhone: 'Не указан контактный телефон',EmptyRegistrationCity: 'Не заполнен город прописки',EmptyRegistrationFlat: 'Не заполнена квартира прописки',FieldTitleMinutes: 'Минуты',EmptyFeedbackSwindleProblem: 'Необходимо выбрать проблему',Partner_Form_EMail_Format: 'Неверный формат email',NumberOfSMSCodeSendExceeded: 'Вы превысили количество попыток отправки SMS с кодом в течение часа',FieldTitleSum: 'Сумма',SelectDeliveryType: 'Выберите тип подписки',RoamingSetFromRegion: 'К сожалению введенное вами название не найдено',UnableSendToNumber: 'Отправление SMS абоненту через сайт невозможно',WrongCTNForCourierMNP: 'Номер нельзя получить курьером в выбранном регионе',FieldTitleConfirmationCode: 'Код подтверждения',EmptyCaptcha: 'Символы не заполнены',EmptyUserName: 'Не введено имя',EmptyToken: 'Пустой токен, запросы не могут быть вполнены',UnavailableService: 'Сервис не доступен. Повторите запрос позднее.',EmptyEmail: 'Не указан email',EmptyHouse: 'Не указан дом',EmptyHours: 'Часы не заполнены',EmptyLogin: 'Не указан логин',ChangeNumberWrongWordFormat: 'Неверный формат слова',EmptyStreet: 'Улица не заполнена',EmptyPassportNumber: 'Не заполнен номер паспорта',Partner_Form_EMail_Required: 'Не указан email',RoamingSetToRegion: 'К сожалению введенное вами название не найдено',FieldTitleCaptcha: 'Символы',FieldTitleMessage: 'Сообщение',FieldTitleYourTariff: 'Мой тариф',EmptyAdditionalCTN: 'Не заполнен контактный телефон',ExceedGlobalSenderDayLimit: 'Превышен лимит отправки сообщений',TooLongText: 'Слишком длинный текст',WrongContactPhone: 'Неверный контактный телефон',EmptyFirstName: 'Не указано имя',EmptyPaymentSum: 'Сумма не заполнена',WrongNicknameFormat: 'Неверный формат никнейма. Пожалуйста, используйте цифры, латинские буквы и знак подчеркивания. Никнейм должен быть не короче 3-х символов и не длиннее 50-ти символов.',WrongSmsLength: 'Превышен лимит символов',EmptyMinutes: 'Минуты не заполнены',FieldTitleUserName: 'Как вас зовут',CantConnectWithThisNumber: 'С таким номером подключить тариф невозможно. Попробуйте другой номер',WrongFeedbackSwindleProblem: 'Неверный идентификатор проблемы',FieldTitleContactCampaignDay: 'День обратного звонка',FieldTitleFromRegion: 'Я звоню из',FieldTitleSwindleUserQuestion: 'Время получения сообщения и его текст',EmptyUserQuestion: 'Ваш вопрос не может быть пустым',Partner_Form_OfferText_Length: 'Максимальная длина поля 1024 символа',RequestNotFound: 'Заявка не найдена. Проверьте правильность ФИО и номера заявки.',EmptyShippingFlat: 'Не заполнена квартира доставки',EmptyShippingCity: 'Не заполнен город доставки',Partner_Form_Region_Length: 'Максимальная длина поля 150 символов',FieldTitleContactCampaignTime: 'Время обратного звонка',Partner_Form_RegionListText_Length: 'Максимальная длина поля 1024 символа',EmptyPassportDivisionNumber: 'Не заполнен код подразделения',WrongParams: 'Неверные параметры',SelectEmailFormat: 'Укажите формат email',NumberOfFilesExceeded: 'Файлов должно быть не более %MAX%',WrongStreet: 'Неверно заполнена улица',EmptyApartment: 'Квартира не заполнена',ValidationWrongValue: 'Некорректно заполнено поле',UnableSendFeedback: 'При отправке запроса возникла ошибка',EmptyFeedbackFilterType: 'Необходимо выбрать тип обращения',EmptyShortCTN: 'Пустой короткий номер',Partner_Form_Region_Required: 'Не указан регион',FillUserComment: 'Укажите комментарий',FieldTitleFeedbackSwindleProblem: 'Проблема',StartDateMustBeGreaterThanToday: 'Дата не может быть раньше сегодня',WrongLoginFormat: 'Неверный формат логина',MustAgreeContract: 'Необходимо согласиться с условиями договора',EmptyMacAddress: 'Не введен МАС-адрес',WrongNotBeelineNumber: 'Данный номер уже принадлежит билайну и его нельзя портировать',WrongFormParams: 'Изменены параметры формы. Начните сначала.',EmptyCTN: 'Не указан телефон',EmptyDOB: 'Не указан день рождения',WrongShippingIndex: 'Не верный формат почтового индекса',EmptyRegistrationStreet: 'Не заполнена улица прописки',WrongCaptcha: 'Неверный код с изображения',Partner_Form_Comment_Length: 'Максимальная длина поля 1024 символа',EmptySmsBody: 'Не введен текст SMS',ConfirmationCodeTitle: 'Код подтверждения',WrongSwindleUserQuestionLength: 'Длина сообщения не должна превышать %MAX% символов',CantCountSymbolWeight: 'Can\u0027t count symbol weight',FieldTitleLastName: 'Фамилия',ChangeNumberEmptyNumberGroup: 'Не указана комбинация цифр',RoamingSetSimRegion: 'К сожалению введенное вами название не найдено',WrongCTNRegion: 'Регион телефона не совпадает с регионом сайта',WrongPatronymicName: 'Неверное отчество',WrongPassportNumber: 'Неверно заполнен номер паспорта',WrongLastName: 'Неверная фамилия',UserAgreement: 'Условия договора',UserMessageForErrorRequired: 'Укажите комментарий к ошибке',WrongSpamNumberFormat: 'Неверный формат номера или имени отправителя спам сообщения',ValidationEnterValue: 'Введите',WrongEmailFormat: 'Неверный формат email',Partner_Form_Company_Length: 'Максимальная длина поля 150 символов',FieldTitleApartment: 'Квартира',};</script>
+
+<script>
+  (function() {
+      function getCookie(name) {
+        var matches = document.cookie.match(new RegExp(
+        "(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
+        ));
+        return matches ? decodeURIComponent(matches[1]) : undefined;
+      }
+      function setCookie(name, value, options = {}) {
+        let date = new Date(Date.now() + 5184000000);
+        options = {
+        path: '/',
+        domain: '.beeline.ru',
+                expires: date
+        };
+
+        if (options.expires instanceof Date) {
+        options.expires = options.expires.toUTCString();
+        }
+
+        var updatedCookie = encodeURIComponent(name) + "=" + encodeURIComponent(value);
+
+        for (var optionKey in options) {
+        updatedCookie += "; " + optionKey;
+        var optionValue = options[optionKey];
+        if (optionValue !== true) {
+          updatedCookie += "=" + optionValue;
+        }
+        }
+
+        document.cookie = updatedCookie;
+      }
+      function setNewBasketCookie() {
+        var cookieName = 'abt_b2c_new_basket';
+        setCookie(cookieName, 'true');
+      }
+      setNewBasketCookie();
+    })();
+</script>
+<script>
+(function() {
+  function setAlgoliaCookie(name, value, options) {
+    options = options || {};
+
+    var expires = options.expires;
+
+    if (typeof expires == "number" && expires) {
+      var d = new Date();
+      d.setTime(d.getTime() + expires * 1000);
+      expires = options.expires = d;
+    }
+    if (expires && expires.toUTCString) {
+      options.expires = expires.toUTCString();
+    }
+
+    value = encodeURIComponent(value);
+
+    var updatedCookie = name + "=" + value;
+
+    for (let propName in options) {
+      updatedCookie += "; " + propName;
+      var propValue = options[propName];
+      if (propValue !== true) {
+        updatedCookie += "=" + propValue;
+      }
+     }
+
+    document.cookie = updatedCookie;
+  }
+  function getAlgoliaCookie(name) {
+    const matches = document.cookie.match(new RegExp("(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
+    ));
+    return matches ? decodeURIComponent(matches[1]) : undefined;
+  }
+
+    const algoliaUserTokenValue = getAlgoliaCookie('algoliaUserToken') || 'algoliaUserToken' + parseInt(Math.random() * 1000000000);
+    if (!getAlgoliaCookie('algoliaUserToken')) {
+      setAlgoliaCookie('algoliaUserToken', algoliaUserTokenValue, { path: '/', domain: '.beeline.ru', expires: 24 * 60 * 60 });
+    }
+})();
+</script>
+<meta name="yandex-verification" content="cf911acad20823ed" />
+<script type="text/javascript">
+window.ROLE_MODEL_ACTIVE = true;
+</script>
+<style type="text/css">.react-adaptive-wrapper {
+    overflow-x: initial !important;
+  }
+  html.react-layout {
+    overflow-y: inherit;
+  }
+  .popup-wrap.hidden {
+    display: none;
+  }</style>
+<style type="text/css">.userIsTabbing *:focus {
+    outline: 3px solid #f6ce6c !important;
+  }</style><script>
+(function() {
+  function handleFirstTab(e) {
+    if (e.keyCode === 9) {
+      document.body.classList.add('userIsTabbing');
+      window.removeEventListener('keydown', handleFirstTab);
+    }
+  }
+  window.addEventListener('keydown', handleFirstTab);
+})()
+</script>
+<meta name="theme-color" content="#282828" />
+<style type="text/css">.desktopOnlyElement #toggleButton-regions-desktop 
+{ max-width: 140px; margin-right: 0; } 
+
+.desktopOnlyElement ._3Vo2_G { align-items: normal; }</style>
+<style type="text/css">/**/
+  /*Лого брендов*/
+  .bnLogoTecnoBlack,
+  .bnLogoTecnoBlue {
+    position: relative;
+  }
+  .bnLogoTecnoBlack::before,
+  .bnLogoTecnoBlue::before {
+    content: '';
+    position: absolute;
+    display: block;
+    height: 80px;
+  }
+  /*Tecno*/
+  .bnLogoTecnoBlack::before {
+    background: url(//static.beeline.ru/upload/images/banners/brand-logo/tecno-black.svg) no-repeat;
+  }
+  .bnLogoTecnoBlue::before {
+    background: url(//static.beeline.ru/upload/images/banners/brand-logo/tecno-blue.svg) no-repeat;
+  }
+  
+  /*Белый текст*/
+  .textWhite {
+    color: #fff;
+  }
+  
+  /*Баннеры*/
+  span[class*="bnLead"],
+  span[class*="bnSub"] {
+    display: none;
+  }
+  
+  /* Включи VoWiFi и звони даже там, где сигнал слабый!*/
+  @media (max-width: 425px){
+    .main_banner-vowifi {
+      display: none;
+    }
+    .main_banner-vowifi-m {
+      max-width: 180px;
+      display: inherit;
+    }
+  }
+  @media (max-width: 480px){
+    .main_banner-vowifi-m {
+      max-width: 300px;
+      display: inherit;
+    }
+    .main_banner-vowifi {
+      display: none;
+    }
+  }
+  @media (min-width: 480px){
+    .main_banner-vowifi-m {
+      display: none;
+    }
+    .main_banner-vowifi {
+      display: inherit;
+    }
+  }
+  
+  /* Просто добавь домашний интернет и ТВ*/
+  @media (max-width: 767px){
+    span.bnLead2_9506 {
+      display: initial;
+    }
+  }
+  @media (max-width: 374px){
+    span.bnSub2_9506 {
+      display: initial;
+    }
+  }
+  @media (min-width: 375px){
+    span.bnSub_9506 {
+      display: initial;
+    }
+  }
+  @media (min-width: 768px){
+    span.bnLead_9506 {
+      display: initial;
+    }
+  }
+  
+  /*Кредитная карта билайн*/
+  @media (max-width: 1199px) {
+    span.bnLead_9492 {
+      display: none;
+    }
+    span.bnLead2_9492 {
+      display: initial;
+    }
+  }
+  @media (max-width: 519px) {
+    span.bnSub_9492 {
+      display: none;
+    }
+    span.bnSub2_9492 {
+      display: initial;
+    }
+  }
+  @media (min-width: 520px) {
+    span.bnSub2_9492 {
+      display: none;
+    }
+    span.bnSub_9492 {
+      display: initial;
+    }
+  }
+  @media (min-width: 1200px) {
+    span[class*="_9492"] {
+      display: none;
+    }
+    span.bnLead_9492,
+    span.bnSub_9492 {
+      display: initial;
+    }
+  }
+  
+  /*Наш самый тёплый мерч*/
+  @media (max-width: 374px) {
+    span.bnLead3_8980 {
+      display: initial;
+    }
+  }
+  @media (min-width: 375px) {
+    span[class*="_8980"] {
+      display: none;
+    }
+    span.bnLead2_8980,
+    span.bnSub3_8980 {
+      display: initial;
+    }
+  }
+  @media (min-width: 480px) {
+    span[class*="_8980"] {
+      display: none;
+    }
+    span.bnLead_8980,
+    span.bnSub2_8980 {
+      display: initial;
+    }
+  }
+  @media (min-width: 500px) {
+    span[class*="_8980"] {
+      display: none;
+    }
+    span.bnLead_8980,
+    span.bnSub_8980 {
+      display: initial;
+    }
+  }
+  @media (min-width: 540px) {
+    span[class*="_8980"] {
+      display: none;
+    }
+    span.bnLead_8980,
+    span.bnSub_8980 {
+      display: initial;
+    }
+  }
+  @media (min-width: 1200px) {
+    span[class*="_8980"] {
+      display: none;
+    }
+    span.bnLead3_8980,
+    span.bnSub2_8980 {
+      display: initial;
+    }
+  }
+  @media (min-width: 1280px) {
+    span[class*="_8980"] {
+      display: none;
+    }
+    span.bnLead2_8980,
+    span.bnSub_8980 {
+      display: initial;
+    }
+  }
+  
+  /*Киберпонедельник в билайне*/
+  @media (min-width: 375px) {
+    span.bnSub_8958 {
+      display: initial;
+    }
+  }
+  /*Оплачивай сервисы*/
+  @media (max-width: 359px) {
+    span.bnSub3_1779641{
+      display: initial;
+    }
+    span.bnSub_1779641,
+    span.bnSub2_1779641 {
+      display: none;
+    }
+  }
+  @media (min-width: 360px) {
+    span.bnSub2_1779641 {
+      display: initial;
+    }
+    span.bnSub_1779641,
+    span.bnSub3_1779641 {
+      display: none;
+    }
+  }
+  @media (min-width: 410px) {
+    span.bnSub_1779641 {
+      display: initial;
+    }
+    span.bnSub2_1779641,
+    span.bnSub3_1779641 {
+      display: none;
+    }
+  }
+  @media (min-width: 1200px) {
+    span.bnSub2_1779641 {
+      display: initial;
+    }
+    span.bnSub_1779641,
+    span.bnSub3_1779641 {
+      display: none;
+    }
+  }
+  @media (min-width: 1250px) {
+    span.bnSub_1779641 {
+      display: initial;
+    }
+    span.bnSub2_1779641,
+    span.bnSub3_1779641 {
+      display: none;
+    }
+  }
+  
+  /*Новый год в билайне!*/
+  @media (max-width: 405px) {
+    span.bnLead2_1779513 {
+      display: initial;
+    }
+  }
+  @media (min-width: 406px) {
+    span.bnLead_1779513 {
+      display: initial;
+    }
+  }
+  
+  @media (max-width: 449px) {
+    source[srcset*="8447_m.jpg"] + img {
+      object-position: right bottom !important;
+    }
+  }
+
+  
+  /*Премьера спектакля «Твоя история с билайном»*/
+  @media (max-width: 474px) {
+    span.bnLead_1779487 {
+      display: initial;
+    }
+    span.bnLead2_1779487,
+    span.bnLead3_1779487 {
+      display: none;
+    }
+  }
+  @media (min-width: 425px) {
+    span.bnSub_1779487 {
+      display: initial;
+    }
+  }
+  @media (min-width: 475px) {
+    span.bnLead3_1779487 {
+      display: initial;
+    }
+    span.bnLead_1779487,
+    span.bnLead2_1779487 {
+      display: none;
+    }
+  }
+  @media (min-width: 550px) {
+    span.bnLead_1779487 {
+      display: initial;
+    }
+    span.bnLead2_1779487,
+    span.bnLead3_1779487 {
+      display: none;
+    }
+  }
+  @media (min-width: 1200px) {
+    span.bnLead2_1779487 {
+      display: initial;
+    }
+    span.bnLead_1779487,
+    span.bnLead3_1779487 {
+      display: none;
+    }
+  }
+  @media (min-width: 1320px) {
+    span.bnLead_1779487 {
+      display: initial;
+    }
+    span.bnLead2_1779487,
+    span.bnLead3_1779487 {
+      display: none;
+    }
+  }
+  
+  /*Миллионы призов в новогодней игре*/
+  @media (min-width: 375px) {
+    span.bnSub2_1768807 {
+      display: initial;
+    }
+    span.bnSub1_1768807 {
+      display: none;
+    }
+  }
+  @media (min-width: 450px) {
+    span.bnSub1_1768807 {
+      display: initial;
+    }
+    span.bnSub2_1768807 {
+      display: none;
+    }
+  }
+  
+  /*Пой с нами!*/
+  @media (min-width: 375px) {
+    span.bnSub2_1768678 {
+      display: initial;
+    }
+    span.bnSub1_1768678 {
+      display: none;
+    }
+  }
+  @media (min-width: 500px) {
+    span.bnSub1_1768678 {
+      display: initial;
+    }
+    span.bnSub2_1768678 {
+      display: none;
+    }
+  }
+  @media (min-width: 768px) {
+    span.bnSub2_1768678 {
+      display: initial;
+    }
+    span.bnSub1_1768678 {
+      display: none;
+    }
+  }
+  @media (min-width: 800px) {
+    span.bnSub1_1768678 {
+      display: initial;
+    }
+    span.bnSub2_1768678 {
+      display: none;
+    }
+  }
+  @media (min-width: 1200px) {
+    span.bnSub2_1768678 {
+      display: initial;
+    }
+    span.bnSub1_1768678 {
+      display: none;
+    }
+  }
+  @media (min-width: 1310px) {
+    span.bnSub1_1768678 {
+      display: initial;
+    }
+    span.bnSub2_1768678 {
+      display: none;
+    }
+  }
+  
+  /*TECNO Pova 4 Pro*/
+  .bnSubMob1_1768241,
+  .bnSubMob2_1768241,
+  .bnSubMob3_1768241,
+  .bnSubMob4_1768241 {
+    display: none
+  }
+  @media only screen and (max-width: 767px) {
+    .bnLogoTecnoBlue::before {
+      display: none;
+    }
+  }
+  @media only screen and (min-width: 375px) {
+    .bnSubMob4_1768241 {
+      display: initial;
+    }
+    .bnSubMob1_1768241,
+    .bnSubMob2_1768241,
+    .bnSubMob3_1768241 {
+      display: none;
+    }
+  }
+  @media only screen and (min-width: 390px) {
+    .bnSubMob3_1768241 {
+      display: initial;
+    }
+    .bnSubMob1_1768241,
+    .bnSubMob2_1768241,
+    .bnSubMob4_1768241 {
+      display: none;
+    }
+  }
+  @media only screen and (min-width: 440px) {
+    .bnSubMob2_1768241 {
+      display: initial;
+    }
+    .bnSubMob1_1768241,
+    .bnSubMob3_1768241,
+    .bnSubMob4_1768241 {
+      display: none;
+    }
+  }
+  @media only screen and (min-width: 485px) {
+    .bnSubMob1_1768241 {
+      display: initial;
+    }
+    .bnSubMob2_1768241,
+    .bnSubMob3_1768241,
+    .bnSubMob4_1768241 {
+      display: none;
+    }
+  }
+  @media only screen and (min-width: 768px) {
+    .bnLogoTecnoBlue::before {
+      width: 61px;
+      top: -55px;
+    }
+  }
+  @media only screen and (min-width: 1200px) {
+    .bnLogoTecnoBlue::before {
+      width: 100px;
+      top: -79px;
+    }
+  }
+  
+  span[class$="_1757550"] {
+    color: #fff;
+  }
+  
+  .desktopOnly_17072022 {
+    display:none
+  }
+
+  @media only screen and (min-width: 420px) {
+    .desktopOnly_17072022 {
+      display: initial
+    }
+    .mobileOnly_17072022 {
+      display: none
+    }
+  }
+  
+  /*ОСЕНЬ С ВЫГОДОЙ BANNER*/
+  
+  @media only screen and (max-width: 520px) {
+    .BannerDesktopOnly_1731025 {
+      display: none;
+    }
+    .BannerMobileOnly_1731025 {
+      display: initial;
+    }
+  }
+  
+  @media only screen and (min-width: 520px) {
+    .BannerDesktopOnly_1731025 {
+      display: initial;
+    }
+    .BannerMobileOnly_1731025 {
+      display: none;
+    }
+  }
+  
+  /*ЛИГАЛ В СТОРИС «ВЫЕЗДНОЙ ВЫКУП»*/
+  
+  .ligalStories_1730678 {
+    display: inline-block;
+    font-size: .6em;
+    line-height: 1.2;
+  }
+  
+  /*ОСЕНЬ С ВЫГОДОЙ*/
+  
+  .desktopOnly_1731025 {
+    display:none
+  }
+
+  @media only screen and (min-width: 767px) {
+    .desktopOnly_1731025 {
+      display: initial
+    }
+    .mobileOnly_1731025 {
+      display: none
+    }
+  }
+  
+  /*КАЧЕСТВО СВЯЗИ 1*/
+  
+  @media only screen and (max-width: 420px) {
+    .BannerDesktopOnly_1730822 {
+      display: none;
+    }
+    .BannerTabletOnly_1730822 {
+      display: none;
+    }
+    .BannerMobileOnly_1730822 {
+      display: initial;
+    }
+  }
+  
+  @media only screen and (min-width: 420px) {
+    .BannerDesktopOnly_1730822 {
+      display: none;
+    }
+    .BannerTabletOnly_1730822 {
+      display: initial;
+    }
+    .BannerMobileOnly_1730822 {
+      display: none;
+    }
+  }
+  
+  @media only screen and (min-width: 475px) {
+    .BannerDesktopOnly_1730822 {
+      display: initial;
+    }
+    .BannerTabletOnly_1730822 {
+      display: none;
+    }
+    .BannerMobileOnly_1730822 {
+      display: none;
+    }
+  }
+  
+  /*КАЧЕСТВО СВЯЗИ 2*/
+  
+  @media only screen and (max-width: 375px) {
+    .BannerDesktopOnly_1730824 {
+      display: none;
+    }
+    .BannerTabletOnly_1730824 {
+      display: none;
+    }
+    .BannerMobileOnly_1730824 {
+      display: initial;
+    }
+  }
+  
+  @media only screen and (min-width: 375px) {
+    .BannerDesktopOnly_1730824 {
+      display: initial;
+    }
+    .BannerTabletOnly_1730824 {
+      display: none;
+    }
+    .BannerMobileOnly_1730824 {
+      display: none;
+    }
+  }
+  
+  @media only screen and (min-width: 530px) {
+    .BannerDesktopOnly_1730824 {
+      display: none;
+    }
+    .BannerTabletOnly_1730824 {
+      display: initial;
+    }
+    .BannerMobileOnly_1730824 {
+      display: none;
+    }
+  }
+  
+  @media only screen and (min-width: 768px) {
+    .BannerDesktopOnly_1730824 {
+      display: initial;
+    }
+    .BannerTabletOnly_1730824 {
+      display: none;
+    }
+    .BannerMobileOnly_1730824 {
+      display: none;
+    }
+  }
+  
+  @media only screen and (min-width: 870px) {
+    .BannerDesktopOnly_1730824 {
+      display: none;
+    }
+    .BannerTabletOnly_1730824 {
+      display: initial;
+    }
+    .BannerMobileOnly_1730824 {
+      display: none;
+    }
+  }
+  
+  @media only screen and (min-width: 1200px) {
+    .BannerDesktopOnly_1730824 {
+      display: initial;
+    }
+    .BannerTabletOnly_1730824 {
+      display: none;
+    }
+    .BannerMobileOnly_1730824 {
+      display: none;
+    }
+  }
+  
+  /*Расплачивайся и делай переводы*/
+  
+  .BannerHeaderDesktopOnly_1756724 {
+    display: none;
+  }
+  .BannerHeaderMobileOnly_1756724 {
+    display: initial;
+  }
+  
+  .BannerDesktopOnly_1756724 {
+    display: none;
+  }
+  .BannerMobileOnly_1756724 {
+    display: none;
+  }
+  
+  @media only screen and (min-width: 375px) {
+    .BannerHeaderDesktopOnly_1756724 {
+      display: initial;
+    }
+    .BannerHeaderMobileOnly_1756724 {
+      display: none;
+    }
+    .BannerDesktopOnly_1756724 {
+      display: none;
+    }
+    .BannerMobileOnly_1756724 {
+      display: initial;
+    }
+  }
+  
+  @media only screen and (min-width: 550px) {
+    .BannerDesktopOnly_1756724 {
+      display: initial;
+    }
+    .BannerMobileOnly_1756724 {
+      display: none;
+    }
+  }
+  
+  /*Попрощайся с пластиком*/
+  .BanHeadDesk_1757161 {
+    display: none;
+  }
+  
+  @media only screen and (min-width: 390px) {
+    .BanHeadDesk_1757161 {
+      display: initial;
+    }
+    .BanHeadMob_1757161 {
+      display: none;
+    }
+  }
+  
+  /*билайну 30 лет до 02.12*/
+  span[class$=_1768493] {
+    display: none;
+  }
+  @media only screen and (max-width: 375px) {
+    span[class$=_1768493] {
+      display: none;
+    }
+    span.bnSubMob_1768493 {
+      display: initial;
+    }
+  }
+  @media only screen and (min-width: 375px) {
+    span[class$=_1768493] {
+      display: none;
+    }
+    span.bnSubTab_1768493 {
+      display: initial;
+    }
+  }
+  @media only screen and (min-width: 470px) {
+    span[class$=_1768493] {
+      display: none;
+    }
+    span.bnSubDes_1768493 {
+      display: initial;
+    }
+  }
+  @media only screen and (min-width: 768px) {
+    span[class$=_1768493] {
+      display: none;
+    }
+    span.bnSubTab_1768493 {
+      display: initial;
+    }
+  }
+  @media only screen and (min-width: 800px) {
+    span[class$=_1768493] {
+      display: none;
+    }
+    span.bnSubDes_1768493 {
+      display: initial;
+    }
+  }
+  @media only screen and (min-width: 1200px) {
+    span[class$=_1768493] {
+      display: none;
+    }
+    span.bnSubTab_1768493 {
+      display: initial;
+    }
+  }
+  @media only screen and (min-width: 1300px) {
+    span[class$=_1768493] {
+      display: none;
+    }
+    span.bnSubDes_1768493 {
+      display: initial;
+    }
+  }
+  
+  /*билайну 30 лет*/
+  span[class$=_1730629] {
+    display: none;
+  }
+  @media only screen and (max-width: 375px) {
+    span[class$=_1730629] {
+      display: none;
+    }
+    span.bnSubMob_1730629 {
+      display: initial;
+    }
+  }
+  @media only screen and (min-width: 375px) {
+    span[class$=_1730629] {
+      display: none;
+    }
+    span.bnSubTab_1730629 {
+      display: initial;
+    }
+  }
+  @media only screen and (min-width: 435px) {
+    span[class$=_1730629] {
+      display: none;
+    }
+    span.bnSubDes_1730629 {
+      display: initial;
+    }
+  }
+  @media only screen and (min-width: 768px) {
+    span[class$=_1730629] {
+      display: none;
+    }
+    span.bnSubTab_1730629 {
+      display: initial;
+    }
+  }
+  @media only screen and (min-width: 800px) {
+    span[class$=_1730629] {
+      display: none;
+    }
+    span.bnSubDes_1730629 {
+      display: initial;
+    }
+  }
+  @media only screen and (min-width: 1200px) {
+    span[class$=_1730629] {
+      display: none;
+    }
+    span.bnSubTab_1730629 {
+      display: initial;
+    }
+  }
+  @media only screen and (min-width: 1300px) {
+    span[class$=_1730629] {
+      display: none;
+    }
+    span.bnSubDes_1730629 {
+      display: initial;
+    }
+  }
+  
+  /*Это День холостяков!*/
+  .banLeadLinerWhite {
+    position:relative;
+    z-index: 1;
+  }
+  .banLeadLinerWhite::after {
+    content: '';
+    position: absolute;
+    background: #fff;
+    width: calc(100% + 5px);
+    height: .5em;
+    right: -2px;
+    z-index: -1;
+    bottom: .22em;
+  }
+  
+  .bnSubDes_1757398 {
+    display: none;
+  }
+  @media only screen and (min-width: 425px) {
+    .bnSubDes_1757398 {
+      display: initial;
+    }
+    .bnSubMob_1757398 {
+      display: none;
+    }
+  }
+  
+  /*Скидка 30%*/
+  @media only screen and (max-width: 375px) {
+    .bnLeadMob3_1768068 {
+      display: initial;
+    }
+    .bnLeadDes_1768068,
+    .bnLeadMob_1768068,
+    .bnLeadMob2_1768068 {
+      display: none;
+    }
+  }
+  @media only screen and (min-width: 375px) {
+    .bnLeadMob2_1768068 {
+      display: initial;
+    }
+    .bnLeadDes_1768068,
+    .bnLeadMob_1768068,
+    .bnLeadMob3_1768068 {
+      display: none;
+    }
+  }
+  @media only screen and (min-width: 400px) {
+    .bnLeadMob_1768068 {
+      display: initial;
+    }
+    .bnLeadDes_1768068,
+    .bnLeadMob2_1768068,
+    .bnLeadMob3_1768068{
+      display: none;
+    }
+  }
+  @media only screen and (min-width: 520px) {
+    .bnLeadDes_1768068 {
+      display: initial;
+    }
+    .bnLeadMob_1768068,
+    .bnLeadMob2_1768068,
+    .bnLeadMob3_1768068 {
+      display: none;
+    }
+  }
+  
+  /*ПРАВКИ*/
+  /*Сетка баннеров брендов*/
+  @media only screen and (max-width: 767px) {
+    .H6SDek {
+      grid-gap: 16px;
+      grid-template-columns: 1fr;
+    }
+  }
+  
+  /*Размер шрифта в баннере для планшетов*/
+  @media only screen and (min-width: 768px) {
+    .hMkLCL > span {
+      font-size: 30px !important;
+      line-height: 1.2 !important;
+    }
+  }
+  @media only screen and (min-width: 1200px) {
+    .hMkLCL > span {
+      font-size: 40px !important;
+      line-height: 1.2 !important;
+    }
+  }
+  
+  /*Сторис Жёлто-чёрная пятница*/
+  div.rricvg img[src*='black-friday-beeline-7413'] {
+    object-position: center center !important;
+  }
+/**/</style>
+<style type="text/css">.footer__personal-data .Bb9Nrp {
+    display: contents;
+  }</style>
+<style type="text/css">.wrapper .g1ozDD {
+    height: 350px;
+  }</style>
+<script src="/bundles/lk/headjs?v=1"></script>
+<!-- Yandex.Metrika counter --><script type="text/javascript" >
+ (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+ m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+ (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+ym(26001372, "init", {
+ clickmap:true,
+ trackLinks:true,
+ accurateTrackBounce:true,
+ webvisor:true,
+ ecommerce:"dataLayer",
+ params: window.yaParams
+ });
+ym(28573041, "init", {
+ clickmap:true,
+ trackLinks:true,
+ accurateTrackBounce:true,
+ webvisor:true,
+ ecommerce:"dataLayer",
+ params: window.yaParams
+});
+</script><noscript><div><img src="https://mc.yandex.ru/watch/26001372" style="position:absolute; left:-9999px;" alt="" /></div></noscript><noscript><div><img src="https://mc.yandex.ru/watch/28573041" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->
+<!-- Dasha.mail script --><script src="https://beeline.gestalt.email/scripts/v2/tracker.js" async>
+</script><script> 
+    dashamail = window.dashamail || function () { dashamail.queue.push(arguments); }; 
+    dashamail.queue = dashamail.queue || []; 
+    dashamail('create'); 
+    window.DashaSDK = window.DashaSDK || []; 
+    window.DashaSDK.subdirectory = 'customers/products/'; 
+</script><script src="https://beeline.gestalt.email/dasha-push-sdk.js"></script><!-- End of Dasha.mail script -->
+
+
+    
+    
+    
+
+    
+
+        <meta name="apple-itunes-app" content="app-id=569251594">
+
+
+    
+
+
+    <meta property="og:title" content="билайн — официальный сайт оператора сотовой связи" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://kazan.beeline.ru/customers/products/" />
+    <meta property="og:image" content="https://static.beeline.ru/upload/contents/10734/beeline_logo_main_520_200.png" />
+        <meta property="og:description" content="Официальный сайт оператора сотовой связи билайн. Подробное описание и условия подключения тарифов и услуг, доступная стоимость мобильной связи и интернета. Покупайте SIM-карту или eSIM, подключайте подходящий тариф на выгодных условиях и оцените все возможности сети с билайн." />
+
+
+    
+
+
+<meta name='regioncode' content='kazan' />
+
+    <meta name="yandex-verification" content="4647e889d08b690d" />
+
+<meta name='REGION_CODE' content='kazan' />
+<meta name='REGION_TITLE' content='Казань' />
+<meta name='REGION_ID' content='98295' />
+<meta name='FEDERAL_DISTRICT' content='Приволжский' />
+<meta name='CULTURE_INFO' content='ru-RU' />
+
+
+    
+    
+<meta name='diagnostics' content='this page has been rendered without errors' />
+        
+
+
+
+
+    <script type='text/javascript'>
+                         (function() {
+                            if (document && window && window.location)
+                            {
+                                var paramsString = window.location.search.substring(1);
+                                var params = paramsString
+                                    .split('&')
+                                    .reduce(function(acc, param) {
+                                        var paramArray = param.split('=');
+                                        acc[paramArray[0]] = paramArray[1];
+                                        return acc;
+                                    }, { });
+
+                                var domain = window.location.hostname;
+                                domain = domain.substring(domain.indexOf('.'));
+                                if (params.admitad_uid) {
+                    var expDate = new Date();
+                    expDate.setDate(expDate.getDate() + 0);
+                    document.cookie = 'admitad_uid=' + params.admitad_uid + ';domain=' + domain + ';path=/';
+                }
+if (params.partnerID) {
+                    var expDate = new Date();
+                    expDate.setDate(expDate.getDate() + 10);
+                    document.cookie = 'shopPartnerCookie=' + params.partnerID + ';domain=' + domain + ';path=/' + ';expires=' + expDate.toUTCString();
+                }
+                            }
+                        })();
+                    </script>
+    <!-- Dynamic Yield Scripts --->
+
+        <link rel="dns-prefetch" href="//cdn01.stellarlabs.ai">
+        <link rel="dns-prefetch" href="//ev.stellarlabs.ai">
+        <link rel="preconnect" href="//cdn01.stellarlabs.ai">
+        <link rel="preconnect" href="//ev.stellarlabs.ai">
+        <script>
+            window.SL = window.SL || {};
+            SL.section = "6315e1b2b909ca21d3098c69";
+            SL.pageContext = { type: "HOMEPAGE", data: [] };
+        </script>
+        <script type="text/javascript" src="//cdn01.stellarlabs.ai/core/core.js"></script>
+    <!-- Flocktory Script --->
+        <script type="text/javascript" src="https://beeline.api.flocktory.com/v2/loader.js?site_id=1632" async="async"></script>
+</head>
+<body class="bd-react-body">
+    <!-- Flocktory Tag --->
+            <script>
+        dataLayer = [];
+    </script>
+    
+
+<script>
+  (function() {
+      function setCookie(name, value, options = {}) {
+options = {
+        path: '/',
+        domain: '.beeline.ru' ,
+          ...options
+ };
+      
+        if (options.expires instanceof Date) {
+          options.expires = options.expires.toUTCString();
+        }
+      
+        let updatedCookie = encodeURIComponent(name) + "=";
+      
+        for (let optionKey in options) {
+          updatedCookie += "; " + optionKey;
+          let optionValue = options[optionKey];
+          if (optionValue !== true) {
+            updatedCookie += "=" + optionValue;
+          }
+        }
+      
+        document.cookie = updatedCookie;
+      }
+      setCookie('abtest_new_basket', '', {'max-age': -1});
+    })();
+</script>
+
+
+
+
+         <script>
+if (navigator.cookieEnabled) {
+}
+</script>
+
+
+
+    <!-- AnyQuery Script -->
+        <script type="text/javascript">
+            var digiScript = document.createElement('script');
+            digiScript.src = '//cdn.diginetica.net/2203/client.js';
+            digiScript.defer = true;
+            digiScript.async = true;
+            document.body.appendChild(digiScript);
+        </script>
+
+        <script type="text/javascript">
+            !function () {
+                var t = document.createElement("script");
+                t.type = "text/javascript",
+                    t.async = !0,
+                    t.src = 'https://vk.com/js/api/openapi.js?169',
+                    t.onload = function () {
+                        VK.Retargeting.Init("VK-RTRG-1279932-blgvG"),
+                            VK.Retargeting.Hit(),
+                            VK.Goal("page_view")
+                    },
+                    document.head.appendChild(t)
+            }();
+        </script>
+        <noscript>
+            <img src="https://vk.com/rtrg?p=VK-RTRG-1279932-blgvG" style="position:fixed; left:-999px;" alt="" />
+        </noscript>
+
+        <!-- Rating Mail.ru counter -->
+        <script type="text/javascript">
+            var _tmr = window._tmr || (window._tmr = []);
+            _tmr.push({ id: "3117532", type: "pageView", start: (new Date()).getTime() });
+            (function (d, w, id) {
+                if (d.getElementById(id)) return;
+                var ts = d.createElement("script");
+                ts.type = "text/javascript";
+                ts.async = true;
+                ts.id = id;
+                ts.src = "https://top-fwz1.mail.ru/js/code.js";
+                var f = function () {
+                    var s = d.getElementsByTagName("script")[0];
+                    s.parentNode.insertBefore(ts, s);
+                };
+                if (w.opera == "[object Opera]") {
+                    d.addEventListener("DOMContentLoaded", f, false);
+                } else { f(); }
+            })(document, window, "topmailru-code");
+        </script>
+        <noscript>
+            <div>
+                <img src="https://top-fwz1.mail.ru/counter?id=3117532;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+            </div>
+        </noscript>
+        <!-- //Rating Mail.ru counter -->
+
+        <!--AdTech-->
+        <img src="https://6eb0a1b659b247618bbb55e254dec8a3.ops.beeline.ru" width="1" height="1" border="0" style="position:fixed;left:-99999px;" />
+        <!--/AdTech-->
+
+    
+    
+
+
+
+    <div class="react-adaptive-wrapper">
+        <div style='display: block;'>
+            
+<meta name="MARKET_REGION" content="KZN">
+<script> var Resources = Resources || {}; Resources.ValidationMessages = {WrongData: 'Некорретные данные',ValidationWrongValues: 'Некорректно заполнены',NumberOfFilesExceeded: 'Файлов должно быть не более %MAX%',ValidationWrongValue: 'Некорректно заполнено поле',ValidationEnterValue: 'Введите',}; </script>
+<div class="react-container">
+    <div id="react_0HMPGRRD5CC5H"><header class="fbh5Oj" role="navigation" data-component="site-header"><style>@media(max-width:1023px){.desktopOnlyElement{display: none;}}@media(min-width:1024px){.mobileOnlyElement{display: none;}}</style><div class=""><meta name="REGION_ID" content="98295"/><div class="desktopOnlyElement"><div class="lvlFdr"><div class="bSiCaa Uf2qSb" style="background-color:#ffcc00"><div class="VGwTRA"><a class="ZwB41E" href="/shop/catalog/actions/komplekt-vygodnee-smartfona/"><img src="//static.beeline.ru/upload/images/banners/ribbon/komplekt-vygodnee-smartfona-10171.png" class="MiPFmG" alt=""/><span class="Ru13oj atFhJU Cxg6Xu" data-component="Text">Xiaomi Redmi 9A за <s>5490 ₽</s> 4490 ₽</span></a><button class="uHZNeC" type="button" aria-label="Скрыть баннер"><svg fill="#191C22" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="m13.4 12 5.7-5.7L17.7 5 12 10.6 6.3 4.9 5 6.3l5.7 5.7-5.7 5.7L6.3 19l5.7-5.7 5.7 5.7 1.4-1.4-5.7-5.7Z"></path></svg></button></div></div><div class="BZvxkH"><div class="bzUYQe"><div class="x8DOMI"><div class="w5iK4z"><button id="toggleButton-regions-desktop" class="n3JR0n" type="button"><div class="iv75o9"><svg width="14" height="14" viewBox="0 0 14 14" fill="#000" xmlns="http://www.w3.org/2000/svg"><path d="M8.23242 13.1914C8.6543 13.1914 8.95312 12.8281 9.16992 12.2656L13.0078 2.24023C13.1133 1.9707 13.1719 1.73047 13.1719 1.53125C13.1719 1.15039 12.9375 0.916016 12.5566 0.916016C12.3574 0.916016 12.1172 0.974609 11.8477 1.08008L1.76953 4.94141C1.27734 5.12891 0.896484 5.42773 0.896484 5.85547C0.896484 6.39453 1.30664 6.57617 1.86914 6.74609L5.0332 7.70703C5.4082 7.82422 5.61914 7.8125 5.87109 7.57812L12.2988 1.57227C12.375 1.50195 12.4629 1.51367 12.5215 1.56641C12.5801 1.625 12.5859 1.71289 12.5156 1.78906L6.5332 8.24023C6.30469 8.48047 6.28711 8.67969 6.39844 9.07227L7.33008 12.166C7.50586 12.7578 7.6875 13.1914 8.23242 13.1914Z"></path></svg></div><span class="Ru13oj gN3q8Q Cxg6Xu yMFbp4" data-component="Text">Казань</span></button></div><div class="jiEUcL gAeQsx"><div class="yF1e0v"><p class="HODK4n">Вы в<!-- --> <!-- -->Казани<!-- -->?</p><div class="BlM8DW"><div class="XjBpup"><button class="OJcgFt fUMHhL pOrGIW" data-component="Button" type="button"><span class="uBdXoz">Да, верно</span></button></div><button class="OJcgFt MJrqEf pOrGIW" data-component="Button" type="button"><span class="uBdXoz">Нет, другой</span></button></div></div><div class="VtgBHZ"></div></div><div class="X22dej"><ul class="MIiC_s"></ul><div class="K_GiA2"><span class="bmaThC"><a href="/customers/products/" class="Z7_Hvf">Частным лицам</a><svg width="11" height="6" viewBox="0 0 11 6" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.69141 5.99219C5.89648 5.98633 6.08398 5.91016 6.23633 5.74609L10.6895 1.1875C10.8184 1.05859 10.8887 0.894531 10.8887 0.701172C10.8887 0.314453 10.584 0.00390625 10.1973 0.00390625C10.0098 0.00390625 9.82812 0.0800781 9.69336 0.214844L5.69727 4.32227L1.68945 0.214844C1.55469 0.0859375 1.37891 0.00390625 1.18555 0.00390625C0.798828 0.00390625 0.494141 0.314453 0.494141 0.701172C0.494141 0.894531 0.564453 1.05859 0.693359 1.1875L5.15234 5.74609C5.31055 5.91016 5.48633 5.99219 5.69141 5.99219Z"></path></svg></span><div class="NtkEgp"><ul class="SIpTUG"><li><a href="/business/main/?b2c=header_Бизнесу" class="JyCKG2">Бизнесу</a></li><li><a href="/business/partners/?b2c=header_Партнёрам" class="JyCKG2">Партнёрам</a></li><li><a href="/business/b2g/?b2c=header_Госсектору" class="JyCKG2">Госсектору</a></li><li><a href="/family/" class="JyCKG2">Семья в билайне</a></li><li><a href="/business/b2o/?b2c=header_Операторам" class="JyCKG2">Операторам</a></li></ul></div></div><ul class="MIiC_s"><li><a class="ipCT7P vhZovA NlDQsq RHceaY" data-component="Link" href="/business/partners/?b2c=header_ПоставщикамИпартнёрам"><span class="ItBbSA">Поставщикам и партнёрам</span></a></li></ul></div><div class="TdYGyv"><ul class="hT_GXk"><li><a class="ipCT7P vhZovA NlDQsq RHceaY" data-component="Link" href="/yasnyi-yazyk-verh/"><span class="ItBbSA">Простыми словами</span></a></li><li><a class="ipCT7P vhZovA NlDQsq RHceaY" data-component="Link" href="/customers/beeline-map/"><span class="ItBbSA">Офисы и покрытие</span></a></li><li><a class="ipCT7P vhZovA NlDQsq RHceaY" data-component="Link" href="/customers/pomosh/"><span class="ItBbSA">Помощь и поддержка</span></a></li></ul></div></div><div class="mexjSL"><div class="pNolmf"><div class="CGsRKC"><a class="ipCT7P vhZovA" data-component="Link" href="/customers/products/"><span class="ItBbSA"><img src="//static.beeline.ru/upload/images/b2c/bee-logo/single.png" alt="билайн"/></span></a></div><div class="Gd5V8W"><button class="OJcgFt fUMHhL pOrGIW THqHlI nTIynk" data-component="Button" type="button"><div class="QPwsgj"><svg width="24" height="24" viewBox="-3 -7 24 24" fill="#000" xmlns="http://www.w3.org/2000/svg"><path xmlns="http://www.w3.org/2000/svg" d="M0 0H18V2H0V0ZM0 4H18V6H0V4ZM0 8H18V10H0V8Z"></path></svg></div><span class="uBdXoz x01aqy">Каталог</span></button></div></div><div class="IrILge"><form id="searchForm" class="tJZnlm VDZdjG"><input id="search_open_modal" value="" autoComplete="off" placeholder="Поиск"/><div class="NjJDLp"></div></form></div><div class="K8JhFQ"><ul class="M3oAbU"><li class="k3fiYs"><button type="button" class="wCx4mw" aria-label="Чат с оператором"><svg fill="#191C22" height="20" viewBox="0 0 24 24" width="20" xmlns="http://www.w3.org/2000/svg"><path d="M14 3h-4a8 8 0 1 0 0 16v3.5c5-2 12-5 12-11.5a8 8 0 0 0-8-8Zm-2 14h-2a6 6 0 0 1 0-12h4a6 6 0 0 1 6 6c0 3.6-2.5 6-8 8.5V17Z"></path></svg>Чат</button></li><li class="k3fiYs"><a href="/basket/" class="PGQjzh"><svg fill="#191C22" height="20" viewBox="0 0 24 24" width="20" xmlns="http://www.w3.org/2000/svg"><path d="M5.1 6.88 2 3.83 3.35 2.5l3.1 3.05h14.6a.97.97 0 0 1 .76.38.93.93 0 0 1 .15.83l-2.3 7.54a.97.97 0 0 1-.92.67H7.03v1.88h10.52v1.88H6.06a.93.93 0 0 1-.96-.94V6.9Zm1.92.56v5.65h11.01l1.73-5.65H7.02ZM6.54 22.5c-.38 0-.75-.15-1.02-.41a1.4 1.4 0 0 1 0-2 1.45 1.45 0 0 1 2.03 0 1.4 1.4 0 0 1 0 2c-.27.26-.63.41-1.01.41Zm11.48 0c-.38 0-.74-.15-1.01-.41a1.4 1.4 0 0 1 0-2 1.45 1.45 0 0 1 2.03 0 1.4 1.4 0 0 1 0 2c-.27.26-.64.41-1.02.41Z"></path></svg>Корзина</a></li></ul><div class="lGRrUK"><div class="personal"><div><button class="OJcgFt khngBT pOrGIW" data-component="Button" type="button"><span class="uBdXoz">Войти</span></button></div></div></div></div></div></div></div><div class="SrVEhk ES5TlV"><div class="chZ7tA"><nav class="UttxY6"><div class="MkwHy6"></div><div class="tu2mYt"><div class="KqX_sf"></div><ul class="pYoowD"></ul></div></nav></div></div></div><div class="WqWnLK"></div><div class="BZvxkH"><div class="bzUYQe"><div class="dUOyKN"><ul class="HNytnC"><li><a class="XM_240" href="/example/">Мобильная связь</a></li><li><a class="XM_240" href="/example/">Интернет и ТВ</a></li><li><a class="XM_240" href="/example/">Пополнить счёт</a></li><li><a class="XM_240" href="/example/">Телефоны</a></li></ul></div></div></div></div><div class="ETtne2 iRNJot mobileOnlyElement"><div class="ovBHJO"><div class="bSiCaa Uf2qSb" style="background-color:#ffcc00"><div class="VGwTRA"><a class="ZwB41E" href="/shop/catalog/actions/komplekt-vygodnee-smartfona/"><img src="//static.beeline.ru/upload/images/banners/ribbon/komplekt-vygodnee-smartfona-10171.png" class="MiPFmG" alt=""/><span class="Ru13oj atFhJU Cxg6Xu" data-component="Text">Xiaomi Redmi 9A за <s>5490 ₽</s> 4490 ₽</span></a><button class="uHZNeC" type="button" aria-label="Скрыть баннер"><svg fill="#191C22" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="m13.4 12 5.7-5.7L17.7 5 12 10.6 6.3 4.9 5 6.3l5.7 5.7-5.7 5.7L6.3 19l5.7-5.7 5.7 5.7 1.4-1.4-5.7-5.7Z"></path></svg></button></div></div><div class="AcNHFE"><div class="FZ0UNG"><span class="VgALkA"><button aria-label="Открыть меню сайта" class="OJcgFt fDyGEa hgs7A9" data-component="Button" type="button"><div class="QPwsgj"><svg width="18" height="18" viewBox="0 0 16 10" fill="#000" xmlns="http://www.w3.org/2000/svg"><path xmlns="http://www.w3.org/2000/svg" d="M0 0H18V2H0V0ZM0 4H18V6H0V4ZM0 8H18V10H0V8Z"></path></svg></div></button></span><span class="VgALkA"><button aria-label="Открыть поиск" id="search_open_modal_btn" class="OJcgFt fDyGEa hgs7A9" data-component="Button" type="button"><div class="QPwsgj"><svg width="20" height="19" viewBox="0 0 20 19" fill="#434856" xmlns="http://www.w3.org/2000/svg"><path d="M8.25977 15.0195C9.89062 15.0195 11.3945 14.4922 12.625 13.6133L17.2539 18.2422C17.4688 18.457 17.752 18.5645 18.0547 18.5645C18.6895 18.5645 19.1387 18.0762 19.1387 17.4512C19.1387 17.1582 19.041 16.875 18.8262 16.6699L14.2266 12.0605C15.1934 10.791 15.7695 9.21875 15.7695 7.50977C15.7695 3.37891 12.3906 0 8.25977 0C4.13867 0 0.75 3.36914 0.75 7.50977C0.75 11.6406 4.12891 15.0195 8.25977 15.0195ZM8.25977 13.3984C5.03711 13.3984 2.37109 10.7324 2.37109 7.50977C2.37109 4.28711 5.03711 1.62109 8.25977 1.62109C11.4824 1.62109 14.1484 4.28711 14.1484 7.50977C14.1484 10.7324 11.4824 13.3984 8.25977 13.3984Z"></path></svg></div></button></span><span class="VgALkA"><a href="/customers/products/" class="wrapper__logo"><img src="//static.beeline.ru/upload/images/b2c/bee-logo/single.png" alt="билайн"/></a></span><span class="VgALkA"><div class="personal"><span class="account__button-mobile"><button aria-label="Войти" class="OJcgFt fDyGEa vP4tfZ" data-component="Button" type="button"><div class="QPwsgj"><svg width="24" height="24" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M3.9668 17.4998C3.9668 15.9001 4.60245 14.3659 5.73392 13.2347C6.86539 12.1036 8.39999 11.4681 10.0001 11.4681C11.6003 11.4681 13.1349 12.1036 14.2663 13.2347C15.3978 14.3659 16.0335 15.9001 16.0335 17.4998H14.5251C14.5251 16.3 14.0484 15.1494 13.1998 14.301C12.3512 13.4526 11.2002 12.976 10.0001 12.976C8.80002 12.976 7.64907 13.4526 6.80047 14.301C5.95187 15.1494 5.47513 16.3 5.47513 17.4998H3.9668ZM10.0001 10.7141C7.50007 10.7141 5.47513 8.68972 5.47513 6.19031C5.47513 3.69091 7.50007 1.6665 10.0001 1.6665C12.5002 1.6665 14.5251 3.69091 14.5251 6.19031C14.5251 8.68972 12.5002 10.7141 10.0001 10.7141ZM10.0001 9.20619C11.6668 9.20619 13.0168 7.85658 13.0168 6.19031C13.0168 4.52404 11.6668 3.17444 10.0001 3.17444C8.33342 3.17444 6.98346 4.52404 6.98346 6.19031C6.98346 7.85658 8.33342 9.20619 10.0001 9.20619Z" fill="#191C22"></path></svg></div></button></span></div></span><span class="VgALkA"><a href="/basket/" class="PGQjzh"><svg fill="#191C22" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M5.1 6.88 2 3.83 3.35 2.5l3.1 3.05h14.6a.97.97 0 0 1 .76.38.93.93 0 0 1 .15.83l-2.3 7.54a.97.97 0 0 1-.92.67H7.03v1.88h10.52v1.88H6.06a.93.93 0 0 1-.96-.94V6.9Zm1.92.56v5.65h11.01l1.73-5.65H7.02ZM6.54 22.5c-.38 0-.75-.15-1.02-.41a1.4 1.4 0 0 1 0-2 1.45 1.45 0 0 1 2.03 0 1.4 1.4 0 0 1 0 2c-.27.26-.63.41-1.01.41Zm11.48 0c-.38 0-.74-.15-1.01-.41a1.4 1.4 0 0 1 0-2 1.45 1.45 0 0 1 2.03 0 1.4 1.4 0 0 1 0 2c-.27.26-.64.41-1.02.41Z"></path></svg></a></span></div></div><div class="mLKv9i RaE3af"><div class="sW_bNw"><div class="vn8031"><div class="Zz7Q9Y"><div class="jiEUcL gAeQsx"><div class="yF1e0v"><p class="HODK4n">Вы в<!-- --> <!-- -->Казани<!-- -->?</p><div class="BlM8DW"><div class="XjBpup"><button class="OJcgFt fUMHhL pOrGIW" data-component="Button" type="button"><span class="uBdXoz">Да, верно</span></button></div><button class="OJcgFt MJrqEf pOrGIW" data-component="Button" type="button"><span class="uBdXoz">Нет, другой</span></button></div></div><div class="VtgBHZ"></div></div></div><button type="button" class="BTamiH"><svg width="14" height="14" viewBox="0 0 14 14" fill="#000" xmlns="http://www.w3.org/2000/svg"><path d="M8.23242 13.1914C8.6543 13.1914 8.95312 12.8281 9.16992 12.2656L13.0078 2.24023C13.1133 1.9707 13.1719 1.73047 13.1719 1.53125C13.1719 1.15039 12.9375 0.916016 12.5566 0.916016C12.3574 0.916016 12.1172 0.974609 11.8477 1.08008L1.76953 4.94141C1.27734 5.12891 0.896484 5.42773 0.896484 5.85547C0.896484 6.39453 1.30664 6.57617 1.86914 6.74609L5.0332 7.70703C5.4082 7.82422 5.61914 7.8125 5.87109 7.57812L12.2988 1.57227C12.375 1.50195 12.4629 1.51367 12.5215 1.56641C12.5801 1.625 12.5859 1.71289 12.5156 1.78906L6.5332 8.24023C6.30469 8.48047 6.28711 8.67969 6.39844 9.07227L7.33008 12.166C7.50586 12.7578 7.6875 13.1914 8.23242 13.1914Z"></path></svg><p class="_a_50p">Казань</p></button></div><nav class="WlT1xC"><div class="BGtVpc"></div></nav></div></div></div></div><div id="noteZone"></div></div><div class="lrqNMt"></div></header></div>
+<script>defReactS = window.defReactS || []; defReactS.push(function(){
+ReactDOM.hydrate(React.createElement(beeline.components.Header2021.default, {"data":{"banners":{"mobileApp":{"text":"<strong>билайн</strong><br>Войти в приложение","bgImage":"//static.beeline.ru/upload/images/banners/Phone_cashback.png","appUrl":"/dl","ttl":604800000,"domainControl":".beeline.ru"},"top":{"imageUrl":"//static.beeline.ru/upload/images/banners/ribbon/komplekt-vygodnee-smartfona-10171.png","text":"Xiaomi Redmi 9A за <s>5490 ₽</s> 4490 ₽","background":"#ffcc00","mobileImageUrl":"//static.beeline.ru/upload/images/banners/ribbon/komplekt-vygodnee-smartfona-10171.png","url":"/shop/catalog/actions/komplekt-vygodnee-smartfona/","id":"1","domainControl":".beeline.ru","ttl":7200}},"currentRegion":{"isFTTB":true,"id":98295,"code":"kazan","title":"Казань","titleTat":null,"titleEng":"Kazan","titlePreposition":"Казани","titlePrepositionTat":null,"titlePrepositionEng":"Kazan"},"topMenuLeft":[[],[{"title":"Частным лицам","href":"/customers/products/"},{"title":"Бизнесу","href":"/business/main/?b2c=header_Бизнесу"},{"title":"Партнёрам","href":"/business/partners/?b2c=header_Партнёрам"},{"title":"Госсектору","href":"/business/b2g/?b2c=header_Госсектору"},{"title":"Семья в билайне","href":"/family/"},{"title":"Операторам","href":"/business/b2o/?b2c=header_Операторам"}],[{"title":"Поставщикам и партнёрам","href":"/business/partners/?b2c=header_ПоставщикамИпартнёрам"}]],"topMenuRight":[{"title":"Простыми словами","href":"/yasnyi-yazyk-verh/"},{"title":"Офисы и покрытие","href":"/customers/beeline-map/"},{"title":"Помощь и поддержка","href":"/customers/pomosh/"}],"env":null,"menu":null,"chat":{"digitalHelperRegionCode":"kazan","digitarHelperScriptUrl":"https://consultant.beeline.ru/Scripts/OnlineConsultant.js","chatScritpUrl":"https://support-chat6.beeline.ru/js/onlinechat","chatRegionCode":"volga","digitarHelperServerUrl":"https://consultant.beeline.ru/","chatServerUrl":"https://support-chat6.beeline.ru/newweb","chatDomain":"https://support-chat6.beeline.ru","restrictTopics":"00D0F38D-0275-4C9F-847B-67C64B705D72,CFC484E3-8629-40E0-8634-85D8EADF9DEB,C99D99F1-F3CF-48FB-9F5A-90063A42DC68,700F07EE-887A-4BAD-B473-E94667502E74","pagesForOldFeedback":["/customers/products/mobile/convergence-profile/","/customers/beeline-on-map/","/customers/products/home/profile/","/customers/pomosh/","/customers/products/home/profile-new/"],"marketCode":"KZN"},"favorite":null,"compare":null,"auth":{"addUserUrl":"/customers/products/mobile/profile/#/settings/number-management?popup=SETTINGS:NUMBER_MANAGEMENT:ASSOCIATE_ACCOUNT","profileUrl":"/customers/products/mobile/profile/","profileLinkText":"Личный кабинет","user":null,"withMobileId":true,"yandexMetricaEnabled":true,"checkIsBeeline":true},"mainSiteUrl":"https://kazan.beeline.ru","reCaptchaPublicKey":"6LeVoHMUAAAAACLRc4K7k51R6FMLrzlmA2L7SoUd","basketApiUrl":"/basketapi/api/v1","cookieDomain":".beeline.ru","search":{"algoliaEnabled":false,"digineticaEnabled":true,"digineticaOptimalResponseDuration":3000,"digineticaAutocompleteUrl":"https://autocomplete.diginetica.net/autocomplete?apiKey=KDLO7HA988&strategy=vectors_extended&productsSize=100&forIs=true&showUnavailable=true&withContent=true&withSku=false&regionId=98295","searchHistory":{"name":"История","icon":"clocks","clearText":"Очистить","cookieName":"recentlySearched","daysToExpire":365,"valuesNumber":3,"printNumber":3}},"isBasketRedirectEnabled":false,"searchResultsPageUrl":"/search/","isYasnyiYazykLinkEnabled":true,"isWidgetChatEnabled":false,"widgetChatUrl":"ocp2.beeline.ru"}}), document.getElementById("react_0HMPGRRD5CC5H"))});</script>
+</div>
+
+            
+    
+
+        </div>
+        <div class="react-adaptive-page">
+            
+    
+
+            
+    
+
+
+
+
+<main class="react-container">
+    <div id="react_0HMPGRRD5CC5G"><main class="gH8od2 T6xO1W" data-reactroot=""><h1 class="RfXZDQ">билайн — официальный сайт оператора</h1><div class="nMhWna TCBiks jvxC4Y ni04TO"><div class="brbgXv TE7P_R"><section class="tF0juR f160mY dNrd50"><div id="block_banners_01" class=""><div class="FIKb4n"><div class="QQ1ZWl"><div class="XGD1fz vmNiQW gOBS7D nH8Mqf"><div class="M_BFcT"><div class="hBpMPg"><div class="Z552Rd"><div class="YjtnL0 Eq4b2a Y3DUp1"><button class="RqsCnB" type="button"><span class="cwFKRb">Назад</span><svg fill="#191C22" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="m11 11.9 4.9 5-1.4 1.4L8 11.9l6.4-6.4L15.9 7l-5 5Z"></path></svg></button></div><div class="YjtnL0 Ypn4Na Lyy0HK"><button class="RqsCnB" type="button"><span class="cwFKRb">Вперед</span><svg fill="#191C22" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="m13 11.9-4.9-5 1.4-1.4L16 12l-6.4 6.4-1.4-1.5 5-5Z"></path></svg></button></div><div class="swiper-container sWuBLw"><div class="swiper-pagination"></div><div class="swiper-wrapper"><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="0"><div class="Y2uLID"><div class="yP6Afs"><div><div class="hMkLCL"><span class="Ru13oj JcQa1x Cxg6Xu" data-component="Text">Добавь домашний<br>интернет<br>в Тариф UP</span></div><div class="UYwndv"><span class="Ru13oj te7E8q Cxg6Xu" data-component="Text"> </span></div><div class="BV6apn"><a class="ipCT7P l7hjM5 ZA3GD3 yzauZ9" data-component="Link" href="/customers/products/uppers/"><span class="ItBbSA link__text--secondary">Подробнее</span></a></div></div><a href="/customers/products/uppers/"><div class="uIxYuk"></div><span class="cwFKRb">Подробнее</span></a><div class="PIKzQx"><div class="OuNisq"><picture><source media="(min-width: 480px)" srcSet="https://static.beeline.ru/upload/images/banners/main/slider/tariff-up-fttb-10464_d.jpg"/><source media="(max-width: 480px)" srcSet="https://static.beeline.ru/upload/images/banners/main/slider/tariff-up-fttb-10464_m.jpg"/><img alt="" style="object-position:center" loading="lazy"/></picture></div></div></div></div></div><div class="swiper-slide" data-swiper-slide-index="0"><div class="Y2uLID"><div class="yP6Afs"><div><div class="hMkLCL"><span class="Ru13oj JcQa1x Cxg6Xu" data-component="Text">Добавь домашний<br>интернет<br>в Тариф UP</span></div><div class="UYwndv"><span class="Ru13oj te7E8q Cxg6Xu" data-component="Text"> </span></div><div class="BV6apn"><a class="ipCT7P l7hjM5 ZA3GD3 yzauZ9" data-component="Link" href="/customers/products/uppers/"><span class="ItBbSA link__text--secondary">Подробнее</span></a></div></div><a href="/customers/products/uppers/"><div class="uIxYuk"></div><span class="cwFKRb">Подробнее</span></a><div class="PIKzQx"><div class="OuNisq"><picture><source media="(min-width: 480px)" srcSet="https://static.beeline.ru/upload/images/banners/main/slider/tariff-up-fttb-10464_d.jpg"/><source media="(max-width: 480px)" srcSet="https://static.beeline.ru/upload/images/banners/main/slider/tariff-up-fttb-10464_m.jpg"/><img alt="" style="object-position:center" loading="lazy"/></picture></div></div></div></div></div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="0"><div class="Y2uLID"><div class="yP6Afs"><div><div class="hMkLCL"><span class="Ru13oj JcQa1x Cxg6Xu" data-component="Text">Добавь домашний<br>интернет<br>в Тариф UP</span></div><div class="UYwndv"><span class="Ru13oj te7E8q Cxg6Xu" data-component="Text"> </span></div><div class="BV6apn"><a class="ipCT7P l7hjM5 ZA3GD3 yzauZ9" data-component="Link" href="/customers/products/uppers/"><span class="ItBbSA link__text--secondary">Подробнее</span></a></div></div><a href="/customers/products/uppers/"><div class="uIxYuk"></div><span class="cwFKRb">Подробнее</span></a><div class="PIKzQx"><div class="OuNisq"><picture><source media="(min-width: 480px)" srcSet="https://static.beeline.ru/upload/images/banners/main/slider/tariff-up-fttb-10464_d.jpg"/><source media="(max-width: 480px)" srcSet="https://static.beeline.ru/upload/images/banners/main/slider/tariff-up-fttb-10464_m.jpg"/><img alt="" style="object-position:center" loading="lazy"/></picture></div></div></div></div></div></div></div></div></div></div></div></div><div class="f_1PMY"><ul class="aM7svT"><li class="aside-banners-list__item"><div class="EPfQAE"><div class="bfdZy7 wrapper--s UlUr4w vmNiQW gOBS7D nH8Mqf"><div class="GahmOf F04B4_" style="background-image:url(//static.beeline.ru/upload/images/banners/main/aside/mobilnaya-svyaz-8785.png);background-position:right bottom;background-size:auto 100%"><a class="cmzQPY" href="/customers/products/mobile/tariffs/"><span class="cwFKRb">Мобильная связь</span></a><div class="zh6dA8"><div class="JLO3WV LAasmP"><div class="i6xw8j VmsMwh"><div class="cmnh9B"><p class="Ru13oj atFhJU Cxg6Xu" data-component="Text">Мобильная связь</p></div><div class="V37zkU"><p class="Ru13oj ntIBAo Cxg6Xu" data-component="Text">Выгодные тарифы<br>на связь и интернет</p></div></div></div><div class="tr_3OT"><div class="U09hD3 label--s grey95"><span class="Ru13oj gN3q8Q Cxg6Xu" data-component="Text">билайн</span></div></div></div></div></div></div></li><li class="aside-banners-list__item"><div class="EPfQAE"><div class="bfdZy7 wrapper--s nWD_1N vmNiQW nH8Mqf"><div class="GahmOf F04B4_" style="background-image:url(//static.beeline.ru/upload/images/banners/main/vmeste-deshevle_4d.png);background-position:right -21px bottom;background-size:auto 100%"><a class="cmzQPY" href="/customers/domashnij-internet-tv-mobilnaya-svyaz/"><span class="cwFKRb">Вместе дешевле</span></a><div class="zh6dA8"><div class="JLO3WV LAasmP"><div class="i6xw8j VmsMwh"><div class="cmnh9B"><p class="Ru13oj atFhJU Cxg6Xu" data-component="Text">Вместе дешевле</p></div><div class="V37zkU"><p class="Ru13oj ntIBAo Cxg6Xu" data-component="Text">Домашний интернет,<br>ТВ и связь</p></div></div></div><div class="tr_3OT"><div class="U09hD3 label--s grey95"><span class="Ru13oj gN3q8Q Cxg6Xu" data-component="Text">билайн</span></div></div></div></div></div></div></li><li class="aside-banners-list__item"><div class="EPfQAE"><div class="bfdZy7 wrapper--s UlUr4w vmNiQW gOBS7D nH8Mqf"><div class="GahmOf F04B4_" style="background-image:url(//static.beeline.ru/upload/images/banners/main/aside/7289-oats.png);background-position:center right;background-size:auto 100%"><a class="cmzQPY" href="/business/telephony/cloud-ats/"><span class="cwFKRb">Облачная АТС</span></a><div class="zh6dA8"><div class="JLO3WV LAasmP"><div class="i6xw8j VmsMwh"><div class="cmnh9B"><p class="Ru13oj atFhJU Cxg6Xu" data-component="Text">Облачная АТС</p></div><div class="V37zkU"><p class="Ru13oj ntIBAo Cxg6Xu" data-component="Text">Чтобы не пропустить<br>ни одного звонка</p></div></div></div><div class="tr_3OT"><div class="U09hD3 label--s grey95"><span class="Ru13oj gN3q8Q Cxg6Xu" data-component="Text">билайн бизнес</span></div></div></div></div></div></div></li></ul></div></div></div></section></div></div><div class="nMhWna TCBiks YqKEzy ni04TO rEuNDC"><div class="brbgXv TE7P_R"><section class="tF0juR f160mY dNrd50"><div class="qFA9RF"><div class="JwnNK_"><div class="Uax_j2" id="block_payment_2"><div data-component="Card" class="NlBduT p3feKI vN9BTi"><header class="JPcw97"><div class="KORDRZ"><h2 class="Ru13oj IbKe7Z Cxg6Xu" data-component="Text">Пополнение счёта</h2></div><div><div class="X7ezA8"><div class="vhSDoO"><img src="https://static.beeline.ru/upload/images/b2c/logos/payment-systems/logo-mir.svg" alt="Mir"/></div><div class="vhSDoO"><img src="https://static.beeline.ru/upload/images/b2c/logos/payment-systems/logo-visa.svg" alt="Visa"/></div><div class="vhSDoO"><img src="https://static.beeline.ru/upload/images/b2c/logos/payment-systems/logo-mc.svg" alt="MasterCard"/></div></div></div></header><div style="margin-bottom:24px"><div class="VEFc7w uNbIh0" data-component="Tabs"><ul class="cU9N1v ZyZmxk"><li class="tabs__item tabs__item--secondary tabs__item--selected-secondary" data-component="Tab"><button class="aM3Hpg IIqID1 xUt2FP C98SUL oICgm7 FhX0TW"><div class="A91_rI"><span class="Hx8vHh GSrici k5awOt">Телефон</span></div></button></li><li class="tabs__item tabs__item--secondary" data-component="Tab"><button class="aM3Hpg IIqID1 kpGzEV MIpJfe"><div class="A91_rI"><span class="Hx8vHh GSrici">Интернет</span></div></button></li></ul></div></div><form><div class="k2SqQw gv_foP"><div class="j4uvCp IRG5sY"><div class="aAYFMw" data-component="Input"><div class="fiKqnJ"><label data-component="Label" class="_9lJ1Di"><span class="H5KD7m"></span><input type="text" class="TBWrdb" value=""/></label></div></div></div><div class="j4uvCp"><div class="aAYFMw" data-component="Input"><div class="fiKqnJ"><label data-component="Label" class="_9lJ1Di"><span class="H5KD7m">Сумма</span><input type="text" maxLength="5" placeholder="100–15000 ₽ без комиссии" value="" class="TBWrdb"/></label></div></div></div></div><div class="k2SqQw U3JA_m"><div class="j4uvCp eVaGMg"><div class="Qza4Jm" data-component="Select"><p class="Jff8jo">Способ оплаты</p><button class="VKxMEq PgBll9" type="button"><div class="jj0lzr"><div class="Pws3oD"><img alt="" class="Owq1N1" src="https://static.beeline.ru/upload/images/b2c/index-redesign-payment-icons/sfp.svg"/></div><div class="n5qH_S">СБП</div><div class="APe7Hq JeX1Sg"><svg fill="#191C22" height="20" viewBox="0 0 24 24" width="20" xmlns="http://www.w3.org/2000/svg"><path d="m12 13.7 5-5 1.4 1.4-6.4 6.4-6.4-6.4 1.5-1.4 4.9 5Z"></path></svg></div></div></button></div></div><div class="j4uvCp _NIYvL"><span class="Ru13oj HniPx9 Cxg6Xu" data-component="Text"> или <a class="ipCT7P vhZovA uUL8Q5 RHceaY" data-component="Link" href="/customers/finansy-oplata/popolnenie-scheta/" rel="noreferrer" target="_blank"><span class="ItBbSA">все способы оплаты</span></a></span></div></div><div class="k2SqQw PXjcBr"><div class="j4uvCp"><div class=""><button class="x0X8fM H2Sh_U XGUunN GDx7C_" data-component="PayButton" type="button"><span class="aLxInI">Оплатить через</span><div class="MVskai"><svg fill="#191C22" height="20" viewBox="0 0 21 20" width="21" xmlns="http://www.w3.org/2000/svg"><path d="m2.5 4.35 2.39 4.33v2.64L2.5 15.64V4.35Z" fill="#5B57A2"></path><path d="m11.68 7.1 2.24-1.38h4.58l-6.82 4.23V7.1Z" fill="#D90751"></path><path d="m11.66 4.33.02 5.73-2.4-1.5V0l2.38 4.33Z" fill="#FAB718"></path><path d="M18.5 5.71h-4.58l-2.26-1.38L9.28 0l9.22 5.71Z" fill="#ED6F26"></path><path d="M11.68 15.67v-2.78l-2.4-1.47V20l2.4-4.33Z" fill="#63B22F"></path><path d="M13.91 14.29 4.9 8.69 2.5 4.34l16 9.93-4.59.01Z" fill="#1487C9"></path><path d="m9.28 20 2.4-4.33 2.23-1.38h4.58l-9.2 5.7Z" fill="#017F36"></path><path d="m2.5 15.64 6.8-4.22L7.01 10 4.9 11.32 2.5 15.64Z" fill="#984995"></path></svg><p class="DU9ngX">сбп</p></div></button></div></div></div></form></div></div></div><div class="JwnNK_"><div class="Uax_j2 XjtCFb" id="block_fttbForm"><div class="yFK_Sj Yy81i2 rufitJ vmNiQW gOBS7D"><span><a href="/customers/products/home/internet/"></a></span><div class="Rru_eS"><div class="qRlzVL"><div class="fRtjel"><h2 class="Ru13oj IbKe7Z Cxg6Xu" data-component="Text"></h2></div><div><div class="header-logo"><img src="https://static.beeline.ru/upload/images/beeline-internet-invi.png" alt="beeline"/></div></div></div><div class="k94gR5"><div><div class="VEFc7w uNbIh0" data-component="Tabs"><ul class="cU9N1v ZyZmxk"></ul></div></div></div></div></div></div></div><div class="JwnNK_"><div class="Uax_j2" id="block_fancyNumber"><div><div class="JdkoWS Yy81i2 rufitJ vmNiQW gOBS7D"><section class="cRupLK"><div class="qRlzVL"><div class="fRtjel"><h2 class="Ru13oj IbKe7Z Cxg6Xu" data-component="Text"><span class="withBackgroundColor">Красивые номера</span></h2></div><div><a class="ipCT7P vhZovA uUL8Q5 RHceaY" data-component="Link" href="/customers/products/mobile/services/details/nomer-na-vybor/krasivie-nomera/"><span class="ItBbSA">Все красивые номера</span></a></div></div><div class="J5GtFm"><div class="VEFc7w uNbIh0" data-component="Tabs"><ul class="cU9N1v ZyZmxk"><li class="tabs__item tabs__item--secondary" data-component="Tab"><button class="aM3Hpg IIqID1 xUt2FP C98SUL"><div class="A91_rI"><span class="Hx8vHh GSrici">Бесплатные</span></div></button></li><li class="tabs__item tabs__item--secondary tabs__item--selected-secondary" data-component="Tab"><button class="aM3Hpg IIqID1 oICgm7 FhX0TW"><div class="A91_rI"><span class="Hx8vHh GSrici k5awOt">Бронзовые</span></div></button></li><li class="tabs__item tabs__item--secondary" data-component="Tab"><button class="aM3Hpg IIqID1"><div class="A91_rI"><span class="Hx8vHh GSrici">Серебряные</span></div></button></li><li class="tabs__item tabs__item--secondary" data-component="Tab"><button class="aM3Hpg IIqID1 kpGzEV MIpJfe"><div class="A91_rI"><span class="Hx8vHh GSrici">Золотые</span></div></button></li></ul></div></div><div class="q0SRm_"><div class="qnjxIO t6M2De xnJ9q8" data-component="Preloader"><svg fill="#191C22" height="18" viewBox="0 0 18 18" width="18" xmlns="http://www.w3.org/2000/svg"><path d="m15.36 2.64-1.41 1.41A7 7 0 1 0 16 9h2a9 9 0 1 1-2.64-6.36z"></path></svg></div></div></section></div></div></div></div><div class="JwnNK_"><div class="Uax_j2" id="block_advertisementBanner_6_1"><div class="UK4Fbr"><div class="EPfQAE"><div class="bfdZy7 wrapper--l nWD_1N vmNiQW nH8Mqf"><div class="GahmOf VyQwZD" style="background-image:url(//static.beeline.ru/upload/images/banners/main/hochu-v-beeline-34084_6-1d-transparent.png)"><a class="cmzQPY" href="/customers/products/mobile/services/details/mnp/"><span class="cwFKRb">Хочу в билайн</span></a><div class="zh6dA8"><div class="JLO3WV LAasmP"><div class="i6xw8j kBv2Sl"><div class="cmnh9B"><p class="Ru13oj IbKe7Z Cxg6Xu" data-component="Text">Хочу в билайн</p></div><div class="V37zkU"><p class="Ru13oj kLTBcs Cxg6Xu" data-component="Text">Переходи со своим номером</p></div></div></div><div class="tr_3OT"><div class="U09hD3 label--l grey95"><span class="Ru13oj gN3q8Q Cxg6Xu" data-component="Text">билайн</span></div></div></div></div></div></div></div></div></div></div></section></div></div><div class="nMhWna iA43DJ YqKEzy Cfk2uc"><div class="brbgXv TE7P_R"><section class="tF0juR f160mY dNrd50"><div id="block_stories" class=""><div class="ffrxSW"><div class="rwMfuL"><div class="Z552Rd"><div class="YjtnL0 Eq4b2a gZqHrQ eFMm8w"><button class="RqsCnB" type="button"><span class="cwFKRb">Назад</span><svg fill="#191C22" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="m11 11.9 4.9 5-1.4 1.4L8 11.9l6.4-6.4L15.9 7l-5 5Z"></path></svg></button></div><div class="YjtnL0 Ypn4Na gZqHrQ rRc1Mn"><button class="RqsCnB" type="button"><span class="cwFKRb">Вперед</span><svg fill="#191C22" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="m13 11.9-4.9-5 1.4-1.4L16 12l-6.4 6.4-1.4-1.5 5-5Z"></path></svg></button></div><div class="swiper-container sWuBLw"><div class="swiper-pagination"></div><div class="swiper-wrapper"></div></div></div></div></div></div></section></div></div></main></div>
+</main>
+
+
+        </div>
+        <!-- content -->
+        
+<div class="popup-wrap hidden" id="commonPopup">
+    <div class="popup">
+        <div class="popup-content">
+                <div id="popup-block" 
+        class="b-loader  
+             hidden
+"
+        style=''>
+        <div class="load-overlay">
+            &nbsp;
+        </div>
+        <div class="load"
+            style=''>
+            &nbsp;
+        </div>
+    </div>
+
+            <span class="popup-close">Закрыть</span>
+            <div id="popup-content">
+                <div class="change-popup">
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- popup-content -->
+</div>
+<!-- popup -->
+
+
+    </div>
+    <!-- wrap -->
+    
+    <div style='display: block;'>
+        
+
+<div class="react-container">
+    <div id="react_0HMPGRRD5CC07"><footer class="szCqDk" role="contentinfo"><div class="mK_va2"><ul class="xdnZ9y" data-сomponent="Accordion"><li class="em0f6b"><div class="MMbgC9" data-сomponent="ExpandingPanel"><button class="ZRTQOR" type="button"><div class="cSh5eP"><span class="Ru13oj atFhJU Cxg6Xu" data-component="Text">Покупателям</span></div><div class="TcnRhB"><svg fill="#191C22" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M11 11V5h2v6h6v2h-6v6h-2v-6H5v-2h6Z"></path></svg></div></button><div class="AEH5no"><ul class="xTRssK"><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/customers/pomosh/shop/oplata-dostavka/"><span class="ItBbSA">Оплата и доставка</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/customers/pomosh/shop/vozvrat-otmena/"><span class="ItBbSA">Возврат товара</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/customers/pomosh/shop/garantiya/"><span class="ItBbSA">Гарантия</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/shop/trade-in/"><span class="ItBbSA">Trade-in</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/shop/catalog/actions/chestnaia-rassrochka/"><span class="ItBbSA">Рассрочка</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/shop/obzory/"><span class="ItBbSA">Обзоры</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/customers/pomosh/shop/nashi-kontakty/"><span class="ItBbSA">Контакты</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/customers/beeline-map/?lat=55.75999999999371&amp;lon=37.6317&amp;zoom=12"><span class="ItBbSA">Офисы на карте</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/customers/products/mobile/profile/"><span class="ItBbSA">Личный кабинет</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/shop/"><span class="ItBbSA">Интернет-магазин</span></a></li></ul></div></div></li><li class="em0f6b"><div class="MMbgC9" data-сomponent="ExpandingPanel"><button class="ZRTQOR" type="button"><div class="cSh5eP"><span class="Ru13oj atFhJU Cxg6Xu" data-component="Text">Каталог</span></div><div class="TcnRhB"><svg fill="#191C22" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M11 11V5h2v6h6v2h-6v6h-2v-6H5v-2h6Z"></path></svg></div></button><div class="AEH5no"><ul class="xTRssK"><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/shop/catalog/telefony/smartfony/"><span class="ItBbSA">Смартфоны и телефоны</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/shop/catalog/audio/naushniki/"><span class="ItBbSA">Наушники</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/shop/catalog/audio/kolonki/"><span class="ItBbSA">Колонки</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/shop/catalog/planshety/planshety-3/"><span class="ItBbSA">Планшеты</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/shop/catalog/gadzhety/umnye-chasy-i-braslety/"><span class="ItBbSA">Умные часы</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/shop/catalog/gadzhety/fitnes-braslety/"><span class="ItBbSA">Фитнес-браслеты</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/shop/catalog/modemy-i-routery/modemy/"><span class="ItBbSA">Модемы и роутеры</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/shop/catalog/aksessuary/chekhly-i-sumki/"><span class="ItBbSA">Аксессуары</span></a></li></ul></div></div></li><li class="em0f6b"><div class="MMbgC9" data-сomponent="ExpandingPanel"><button class="ZRTQOR" type="button"><div class="cSh5eP"><span class="Ru13oj atFhJU Cxg6Xu" data-component="Text">Частным лицам</span></div><div class="TcnRhB"><svg fill="#191C22" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M11 11V5h2v6h6v2h-6v6h-2v-6H5v-2h6Z"></path></svg></div></button><div class="AEH5no"><ul class="xTRssK"><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/customers/press/news/"><span class="ItBbSA">Новости</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/customers/products/mobile/services/details/mnp/"><span class="ItBbSA">Стать клиентом билайн</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/customers/products/mobile/tariffs/cellphone/"><span class="ItBbSA">Мобильная связь</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/customers/products/home/internet/"><span class="ItBbSA">Домашний билайн</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/customers/domashnij-internet-tv-mobilnaya-svyaz/"><span class="ItBbSA">Домашний интернет, ТВ и связь</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/customers/how-to-pay/popolnenie-scheta/promopayment/overview/"><span class="ItBbSA">Финансы и оплата</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/customers/pomosh/"><span class="ItBbSA">Помощь</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/customers/beeline-map/"><span class="ItBbSA">Офисы на карте</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/login/"><span class="ItBbSA">Личный кабинет</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/shop/"><span class="ItBbSA">Интернет-магазин</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/customers/pomosh/question/voprosy-i-dokumenty/mobile/drugie-dokumenty/yasnyi-yazyk/"><span class="ItBbSA">Ясный язык</span></a></li></ul></div></div></li><li class="em0f6b"><div class="MMbgC9" data-сomponent="ExpandingPanel"><button class="ZRTQOR" type="button"><div class="cSh5eP"><span class="Ru13oj atFhJU Cxg6Xu" data-component="Text">Партнёрам</span></div><div class="TcnRhB"><svg fill="#191C22" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M11 11V5h2v6h6v2h-6v6h-2v-6H5v-2h6Z"></path></svg></div></button><div class="AEH5no"><ul class="xTRssK"><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/business/partners/rent-office/?b2c=footer_АрендаПозиция"><span class="ItBbSA">Аренда позиций</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/business/partners/zakupki/?b2c=footer_Поставщикам"><span class="ItBbSA">Поставщикам</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/business/partners/property/?b2c=footer_ВладельцамНедвижимости"><span class="ItBbSA">Владельцам недвижимости</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/business/partners/agents/?b2c=footer_Агентам"><span class="ItBbSA">Агентам</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/business/b2o/?b2c=footer_ОператорамСвязи"><span class="ItBbSA">Операторам связи</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/business/partners/wholesale/?b2c=footer_ОптовыеПродажи"><span class="ItBbSA">Оптовые продажи</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/business/partners/partnerskaja-programma/?b2c=footer_ДляФизлиц"><span class="ItBbSA">Для физлиц</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/business/partners/startups/?b2c=footer_ДляСтартапов"><span class="ItBbSA">Для стартапов</span></a></li></ul></div></div></li><li class="em0f6b"><div class="MMbgC9" data-сomponent="ExpandingPanel"><button class="ZRTQOR" type="button"><div class="cSh5eP"><span class="Ru13oj atFhJU Cxg6Xu" data-component="Text">Бизнесу</span></div><div class="TcnRhB"><svg fill="#191C22" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M11 11V5h2v6h6v2h-6v6h-2v-6H5v-2h6Z"></path></svg></div></button><div class="AEH5no"><ul class="xTRssK"><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/business/mobile-and-internet/mobile-internet/?b2c=footer_МобильныйИнтернет"><span class="ItBbSA">Мобильный интернет</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/business/telephony/?b2c=footer_Телефония"><span class="ItBbSA">Телефония</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/business/office-internet/?b2c=footer_ИнтернетВофис"><span class="ItBbSA">Интернет в офис</span></a></li></ul></div></div></li><li class="em0f6b"><div class="MMbgC9" data-сomponent="ExpandingPanel"><button class="ZRTQOR" type="button"><div class="cSh5eP"><span class="Ru13oj atFhJU Cxg6Xu" data-component="Text">Прессе</span></div><div class="TcnRhB"><svg fill="#191C22" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M11 11V5h2v6h6v2h-6v6h-2v-6H5v-2h6Z"></path></svg></div></button><div class="AEH5no"><ul class="xTRssK"><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/about/press-center-new/"><span class="ItBbSA">Пресс-центр</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/about/press-center/contact-press/"><span class="ItBbSA">Контакты для СМИ</span></a></li></ul></div></div></li><li class="em0f6b"><div class="MMbgC9" data-сomponent="ExpandingPanel"><button class="ZRTQOR" type="button"><div class="cSh5eP"><span class="Ru13oj atFhJU Cxg6Xu" data-component="Text">О компании</span></div><div class="TcnRhB"><svg fill="#191C22" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M11 11V5h2v6h6v2h-6v6h-2v-6H5v-2h6Z"></path></svg></div></button><div class="AEH5no"><ul class="xTRssK"><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/about/about-beeline/"><span class="ItBbSA">Общая информация</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/customers/contact-page/"><span class="ItBbSA">Контакты</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="https://job.beeline.ru/"><span class="ItBbSA">Работа в билайн</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="https://www.veon.com/"><span class="ItBbSA">Инвесторам</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/about/about-beeline/social/"><span class="ItBbSA">Устойчивое развитие</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/about/compliance/about-compliance/"><span class="ItBbSA">Комплаенс и деловая этика</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/about/about-beeline/disclosure/documents/"><span class="ItBbSA">Раскрытие информации</span></a></li><li class="FabTQY"><a class="ipCT7P TvstjN kcUVfV RHceaY" data-component="Link" href="/customers/legal/"><span class="ItBbSA">Юридическая информация</span></a></li></ul></div></div></li></ul><div class="OUwz0D"><div><div class="Cocp2J"><span class="Ru13oj atFhJU Cxg6Xu" data-component="Text">Подпишись на нашу рассылку</span></div><div class="I29eKw"><span class="Ru13oj kLTBcs xQvJV2" data-component="Text">Ты всегда будешь в курсе новинок и выгодных предложений.</span></div><form class="zJxjpk"><div class="VIbobt"><div class="aAYFMw" data-component="Input"><div class="fiKqnJ"><label data-component="Label" class="_9lJ1Di"><span class="H5KD7m"></span><input placeholder="Электронная почта" value="" class="TBWrdb"/></label></div></div></div><div class="Ogt_ZB"><button class="OJcgFt khngBT kn4pmV nTIynk" data-component="Button" type="submit"><span class="uBdXoz">Подписаться</span></button></div></form><div class="dViRU0"><label class="KVR5kp" data-component="Checkbox"><input type="checkbox" checked="" class="hP8KI5" name="personalData" value=""/><span class="ZnQgpK"><svg fill="none" height="20" width="20" xmlns="http://www.w3.org/2000/svg"><path clip-rule="nonzero" d="M13.75 2.5h-7.5A3.75 3.75 0 0 0 2.5 6.25v7.5a3.75 3.75 0 0 0 3.75 3.75h7.5a3.75 3.75 0 0 0 3.75-3.75v-7.5a3.75 3.75 0 0 0-3.75-3.75Zm-5 11.47L4.77 10l1.32-1.32 2.65 2.65 2.66-2.65 2.65-2.65 1.32 1.32-6.63 6.63h.01Z" fill="#191C22" fill-rule="nonzero"></path></svg></span><div class="Lt1r6h jezIHE"><span class="XLfC5z"><span class="Ru13oj Bb9Nrp rRVsIJ" data-component="Text">Я согласен с условиями обработки </span><a href="/" class="wKgrAz"> персональных данных</a></span></div></label></div></div></div><div class="hbhN6F"><div class="VHc8CL"><span class="Ru13oj atFhJU Cxg6Xu" data-component="Text">Скачать приложение билайн</span></div><a class="cBOPVs jg2qIE" href="https://apps.apple.com/ru/app/moj-bilajn/id569251594" rel="noreferrer" style="background-image:url(https://static.beeline.ru/upload/images/b2c/apps/appstore.svg)" target="_blank"><span class="iiC6Jm">на<!-- -->ios</span></a><a class="cBOPVs jg2qIE" href="https://play.google.com/store/apps/details?id=ru.beeline.services&amp;hl=ru" rel="noreferrer" style="background-image:url(https://static.beeline.ru/upload/images/b2c/apps/googleplay.svg)" target="_blank"><span class="iiC6Jm">на<!-- -->android</span></a></div><div class="upzdeU"><ul class="mBwSgc"><li class="Gu3WY2 VOf1eg"><a class="_njSVn social-link__link--vk" href="https://vk.com/beeline" rel="nofollow noreferrer" target="_blank" aria-label="vk"><img alt="" class="social-link__img G0SviA" src="https://static.beeline.ru/upload/images/socials/vk.svg"/></a></li><li class="Gu3WY2 kEPD_u"><a class="_njSVn social-link__link--youtube" href="https://www.youtube.com/user/beelineru" rel="nofollow noreferrer" target="_blank" aria-label="youtube"><img alt="" class="social-link__img qxUmXT" src="https://static.beeline.ru/upload/images/socials/youtube.svg"/></a></li><li class="Gu3WY2 WqpDKQ"><a class="_njSVn social-link__link--odnoklassniki" href="https://ok.ru/beeline" rel="nofollow noreferrer" target="_blank" aria-label="odnoklassniki"><img alt="" class="social-link__img radFKL" src="https://static.beeline.ru/upload/images/socials/odnoklassniki.svg"/></a></li><li class="Gu3WY2 Ni68vg"><a class="_njSVn social-link__link--telegram" href="https://t.me/beeline" rel="nofollow noreferrer" target="_blank" aria-label="telegram"><img alt="" class="social-link__img cdw55y" src="https://static.beeline.ru/upload/images/socials/telegram.svg"/></a></li></ul></div><span class="footer__personal-data"><span class="Ru13oj Bb9Nrp xQvJV2" data-component="Text">Упоминание в рекламных материалах ПАО «ВымпелКом» сайта beeline.ru означает, что рекламодателем (или одним из рекламодателей) таких материалов является ПАО «ВымпелКом», если в самих рекламных материалах прямо не установлено иное. <br /> <br /> Посещая сайт beeline.ru, вы предоставляете </span><a class="NhuUqK" href="/">согласие на обработку данных </a><span class="Ru13oj Bb9Nrp xQvJV2" data-component="Text">в соответствии с политикой конфиденциальности.</span></span><div class="YFDEhR"><div class="_0bCI1f"><a class="ipCT7P vhZovA NlDQsq RHceaY" data-component="Link" href="/customers/site-map/"><span class="ItBbSA">Карта сайта</span></a><div class="xNEhA2"><span class="Ru13oj gN3q8Q rRVsIJ" data-component="Text">билайн © <!-- -->2023</span></div></div><div class="vYXgVl"><button class="bNuEHR" type="button"><img alt="" class="v7BEin" src="https://static.beeline.ru/upload/images/b2c/flags/5310_ru.png"/><span class="Ru13oj atFhJU Cxg6Xu" data-component="Text">RU</span></button></div><div></div></div></div></footer></div>
+<script>defReactS = window.defReactS || []; defReactS.push(function(){
+ReactDOM.hydrate(React.createElement(beeline.components.FooterV2.default, {"data":{"socialsLinks":[{"name":"vk","srcImage":"https://static.beeline.ru/upload/images/socials/vk.svg","url":"https://vk.com/beeline"},{"name":"youtube","srcImage":"https://static.beeline.ru/upload/images/socials/youtube.svg","url":"https://www.youtube.com/user/beelineru"},{"name":"odnoklassniki","srcImage":"https://static.beeline.ru/upload/images/socials/odnoklassniki.svg","url":"https://ok.ru/beeline"},{"name":"telegram","srcImage":"https://static.beeline.ru/upload/images/socials/telegram.svg","url":"https://t.me/beeline"}],"appHeading":"Скачать приложение билайн","appButtonsMobile":{"ios":{"link":"https://apps.apple.com/ru/app/moj-bilajn/id569251594","image":"https://static.beeline.ru/upload/images/b2c/apps/appstore.svg"},"android":{"link":"https://play.google.com/store/apps/details?id=ru.beeline.services&hl=ru","image":"https://static.beeline.ru/upload/images/b2c/apps/googleplay.svg"}},"appButtonsDesktop":{"appLink":"/customers/products/mobile/devices/","appLinkIcon":"https://static.beeline.ru/upload/images/b2c/footer/appLinkIcon.svg","appQRCodeLinkIconWithText":"https://static.beeline.ru/upload/images/b2c/footer/appQRCodeLinkIconWithText.svg","appQRCodeLinkIcon":"https://static.beeline.ru/upload/images/b2c/footer/appQRCodeLinkIcon.svg"},"blocks":[{"type":"links","mobileIdx":2,"title":"Частным лицам","data":[{"name":"Новости","value":"/customers/press/news/"},{"name":"Стать клиентом билайн","value":"/customers/products/mobile/services/details/mnp/"},{"name":"Мобильная связь","value":"/customers/products/mobile/tariffs/cellphone/"},{"name":"Домашний билайн","value":"/customers/products/home/internet/"},{"name":"Домашний интернет, ТВ и связь","value":"/customers/domashnij-internet-tv-mobilnaya-svyaz/"},{"name":"Финансы и оплата","value":"/customers/how-to-pay/popolnenie-scheta/promopayment/overview/"},{"name":"Помощь","value":"/customers/pomosh/"},{"name":"Офисы на карте","value":"/customers/beeline-map/"},{"name":"Личный кабинет","value":"/login/"},{"name":"Интернет-магазин","value":"/shop/"},{"name":"Ясный язык","value":"/customers/pomosh/question/voprosy-i-dokumenty/mobile/drugie-dokumenty/yasnyi-yazyk/"}]},{"type":"links","mobileIdx":3,"title":"Партнёрам","data":[{"name":"Аренда позиций","value":"/business/partners/rent-office/?b2c=footer_АрендаПозиция"},{"name":"Поставщикам","value":"/business/partners/zakupki/?b2c=footer_Поставщикам"},{"name":"Владельцам недвижимости","value":"/business/partners/property/?b2c=footer_ВладельцамНедвижимости"},{"name":"Агентам","value":"/business/partners/agents/?b2c=footer_Агентам"},{"name":"Операторам связи","value":"/business/b2o/?b2c=footer_ОператорамСвязи"},{"name":"Оптовые продажи","value":"/business/partners/wholesale/?b2c=footer_ОптовыеПродажи"},{"name":"Для физлиц","value":"/business/partners/partnerskaja-programma/?b2c=footer_ДляФизлиц"},{"name":"Для стартапов","value":"/business/partners/startups/?b2c=footer_ДляСтартапов"}]},{"type":"groupLinks","data":[{"type":"links","mobileIdx":4,"title":"Бизнесу","data":[{"name":"Мобильный интернет","value":"/business/mobile-and-internet/mobile-internet/?b2c=footer_МобильныйИнтернет"},{"name":"Телефония","value":"/business/telephony/?b2c=footer_Телефония"},{"name":"Интернет в офис","value":"/business/office-internet/?b2c=footer_ИнтернетВофис"}]},{"type":"links","mobileIdx":5,"title":"Прессе","data":[{"name":"Пресс-центр","value":"/about/press-center-new/"},{"name":"Контакты для СМИ","value":"/about/press-center/contact-press/"}]}]},{"type":"subscribeMailingList","title":"Подпишись на нашу рассылку"},{"type":"links","mobileIdx":0,"title":"Покупателям","data":[{"name":"Оплата и доставка","value":"/customers/pomosh/shop/oplata-dostavka/"},{"name":"Возврат товара","value":"/customers/pomosh/shop/vozvrat-otmena/"},{"name":"Гарантия","value":"/customers/pomosh/shop/garantiya/"},{"name":"Trade-in","value":"/shop/trade-in/"},{"name":"Рассрочка","value":"/shop/catalog/actions/chestnaia-rassrochka/"},{"name":"Обзоры","value":"/shop/obzory/"},{"name":"Контакты","value":"/customers/pomosh/shop/nashi-kontakty/"},{"name":"Офисы на карте","value":"/customers/beeline-map/?lat=55.75999999999371&lon=37.6317&zoom=12"},{"name":"Личный кабинет","value":"/customers/products/mobile/profile/"},{"name":"Интернет-магазин","value":"/shop/"}]},{"type":"links","mobileIdx":1,"title":"Каталог","data":[{"name":"Смартфоны и телефоны","value":"/shop/catalog/telefony/smartfony/"},{"name":"Наушники","value":"/shop/catalog/audio/naushniki/"},{"name":"Колонки","value":"/shop/catalog/audio/kolonki/"},{"name":"Планшеты","value":"/shop/catalog/planshety/planshety-3/"},{"name":"Умные часы","value":"/shop/catalog/gadzhety/umnye-chasy-i-braslety/"},{"name":"Фитнес-браслеты","value":"/shop/catalog/gadzhety/fitnes-braslety/"},{"name":"Модемы и роутеры","value":"/shop/catalog/modemy-i-routery/modemy/"},{"name":"Аксессуары","value":"/shop/catalog/aksessuary/chekhly-i-sumki/"}]},{"type":"links","mobileIdx":6,"title":"О компании","data":[{"name":"Общая информация","value":"/about/about-beeline/"},{"name":"Контакты","value":"/customers/contact-page/"},{"name":"Работа в билайн","value":"https://job.beeline.ru/"},{"name":"Инвесторам","value":"https://www.veon.com/"},{"name":"Устойчивое развитие","value":"/about/about-beeline/social/"},{"name":"Комплаенс и деловая этика","value":"/about/compliance/about-compliance/"},{"name":"Раскрытие информации","value":"/about/about-beeline/disclosure/documents/"},{"name":"Юридическая информация","value":"/customers/legal/"}]},{"type":"beelineApps","title":"Скачать приложение билайн"}],"mailInput":{"texts":{"heading":"Подпишись на нашу рассылку","description":"Ты всегда будешь в курсе новинок и выгодных предложений.","personalDataText":"Я согласен с условиями обработки ","personalDataButton":" персональных данных","inputPlaceholder":"Электронная почта","button":"Подписаться","errorMailEmpty":"Введите e-mail","errorMailValidate":"Некорректный e-mail","successEmail":"Спасибо за подписку!","successEmailTnx":"Выслали письмо для подтверждения e-mail.","errorText":"Упс, что-то пошло не так"}},"footer":{"personalDataTextFirst":"Упоминание в рекламных материалах ПАО «ВымпелКом» сайта beeline.ru означает, что рекламодателем (или одним из рекламодателей) таких материалов является ПАО «ВымпелКом», если в самих рекламных материалах прямо не установлено иное. <br /> <br /> Посещая сайт beeline.ru, вы предоставляете ","personalDataButtonText":"согласие на обработку данных ","personalDataTextSecond":"в соответствии с политикой конфиденциальности.","siteMap":"Карта сайта","copyrightBeeline":"билайн © ","policyModalTitle":"Политика конфиденциальности beeline.ru","policyModalText":"Посещая сайт beeline.ru, вы предоставляете согласие на обработку данных о посещении сайта beeline.ru (данные cookies и иные пользовательские данные), сбор которых автоматически осуществляется ПАО «ВымпелКом» (Российская Федерация, 127083, г. Москва, ул. 8 Марта, д. 10, стр. 14, далее — билайн) на условиях <a target='_blank' href='https://static.beeline.ru/upload/images/politica22102021.pdf'>политики обработки персональных данных</a>. Компания также может использовать указанные данные для их последующей обработки системами Яндекс.Метрика, MyTarget, Monkey, Mindbox и др., а также передавать/привлекать к обработке данных третьих лиц, перечень которых размещён <a target='_blank' href='https://static.beeline.ru/upload/images/docs/footer_perechen_tretih_lic_dlya_kuki-3003.pdf'>здесь</a>. Обработка осуществляется с целью функционирования сайта beeline.ru и продвижения товаров, работ, услуг билайна и третьих лиц. <br /><br /> ПАО «ВымпелКом» раскрывает информацию, предусмотренную законодательством РФ о ценных бумагах также на странице в интернете ООО «Интерфакс-ЦРКИ» — информационного агентства, аккредитованного ЦБ РФ на раскрытие информации. Информация доступна по <a target='_blank' href='https://www.e-disclosure.ru/portal/company.aspx?id=4464'>ссылке</a>.","policyModalButton":"Хорошо"},"international":{"beelineOtherCountries":"билайн в других странах","locales":[{"icon":"gb","srcIcon":"https://static.beeline.ru/upload/images/b2c/flags/5310_gb.png","title":"English","link":"/en-us/welcome/general-information/"},{"icon":"ru","srcIcon":"https://static.beeline.ru/upload/images/b2c/flags/5310_ru.png","title":"Русский","link":"/customers/products/"}],"countries":[{"icon":"am","srcIcon":"https://static.beeline.ru/upload/images/b2c/flags/5310_am.png","title":"Армения","link":"http://beeline.am/"},{"icon":"ge","srcIcon":"https://static.beeline.ru/upload/images/b2c/flags/5310_ge.png","title":"Грузия","link":"http://beeline.ge/"},{"icon":"kz","srcIcon":"https://static.beeline.ru/upload/images/b2c/flags/5310_kz.png","title":"Казахстан","link":"http://beeline.kz/"},{"icon":"kg","srcIcon":"https://static.beeline.ru/upload/images/b2c/flags/5310_kg.png","title":"Кыргызстан","link":"http://beeline.kg/"},{"icon":"uz","srcIcon":"https://static.beeline.ru/upload/images/b2c/flags/5310_uz.png","title":"Узбекистан","link":"http://beeline.uz/"}]}}}), document.getElementById("react_0HMPGRRD5CC07"))});</script>
+</div>
+
+    </div>
+
+    
+    
+
+
+    
+
+    <script type="text/javascript" async="async">
+            
+            $(function () {
+                if (Cookies && Cookies.set) {
+                        Cookies.set('SITE_VERSION', 'is_full_selected', { domain: '.beeline.ru' });
+                }
+            });
+            
+
+    </script>
+
+    <script type="text/javascript">
+        //<![CDATA[
+        if (!window.console) {
+            // для IE
+            window.console = {};
+            window.console.log = function () { };
+            window.console.error = function () { };
+            window.console.warn = function () { };
+        }
+
+        // определяем переменную, котоая нужна для SSO
+        var qa_auth_nope = "notauth";
+
+        $.ajaxSetup({
+            beforeSend: function (request, settings) {
+                if (settings.type.toLowerCase() == 'post' && QA && QA.Token) {
+                    request.setRequestHeader(QA.Token.key, QA.Token.value);
+                }
+            }
+        });
+
+        
+        $(function () {
+            $(".control-panel").attr('style', 'z-index: 1000 !important');
+        });
+
+        //]]>
+
+    </script>
+
+    
+    
+
+    <script type="text/javascript">var digiScript = document.createElement('script');
+digiScript.src = '//cdn.diginetica.net/2203/client.js?ts=' + Date.now();
+digiScript.defer = true;
+digiScript.async = true;
+document.body.appendChild(digiScript);</script>
+
+
+
+
+    <script type="text/javascript">
+    (function () {
+        document.addEventListener('click', handleClick, true);
+
+        var actions = {
+            Button: 'buttonClick',
+            Link: 'linkClick',
+            Switch: 'useTumbler',
+            Tab: 'openTab',
+            Checkbox: 'checkbox'
+        };
+
+        function handleClick(event) {
+            var info = getEventElementInfo(event.target);
+            if (info) {
+                var _event = {
+                    event: 'autotracking',
+                    action: info.action,
+                    eventText: info.element.innerText
+                };
+
+                if (info.action === actions.Switch) {
+                    _event.tumblerId = info.element.id;
+                }
+
+                pushGAEvent(_event);
+            }
+        }
+
+        function getEventElementInfo(element) {
+            var action;
+            var component = element.getAttribute('data-component');
+            var tags = {
+                INPUT: true,
+                A: true,
+                BUTTON: true
+            };
+
+            if (element.tagName === 'BODY') return null;
+
+            if (element.dataset && component) {
+                action = actions[component];
+            }
+
+            if (tags[element.tagName] && !component) {
+                switch (element.tagName) {
+                    case 'A':
+                        action = actions.Link;
+                        break;
+                    case 'BUTTON':
+                        action = actions.Button;
+                        break;
+                    case 'INPUT':
+                        if (element.type === 'button') action = actions.Button;
+                        if (element.type === 'checkbox') action = actions.Checkbox;
+                        break;
+                }
+            }
+
+            return action ? { action: action, element: element } : getEventElementInfo(element.parentElement);
+        }
+
+        function pushGAEvent(event) {
+            if (window && window.dataLayer) {
+                dataLayer.push(event);
+            }
+        }
+    })();
+</script>
+
+
+<script type="text/javascript" src="/react/build/vendor.fdfdfb9.js"></script>
+<script type="text/javascript" src="/react/build/components.fdfdfb9.js"></script>
+
+    
+
+
+    
+    
+    <script type="text/javascript" src="/react/build/MainPage2021.fdfdfb9.js"></script>
+
+
+
+
+    <script>ReactDOM.hydrate(React.createElement(beeline.externalPages.MainPage2021, {"data":{"blocks":[{"id":1628305,"alias":"block_banners_01","type":"banners","content":{"asideBannersLimit":3,"autoplay":3000},"data":{"banners":[{"type":"main","details":{"heading":"Добавь домашний<br>интернет<br>в Тариф UP","text":" "},"buttonVariant":"secondary","link":{"url":"/customers/products/uppers/","text":"Подробнее"},"img":{"backgroundPosition":{"desktop":"right"},"source":[{"srcset":"https://static.beeline.ru/upload/images/banners/main/slider/tariff-up-fttb-10464_d.jpg","media":"min-width: 480px"},{"srcset":"https://static.beeline.ru/upload/images/banners/main/slider/tariff-up-fttb-10464_m.jpg","media":"max-width: 480px"}]},"wholeBannerClickable":true},{"type":"main","details":{"heading":"Комплект выгоднее<br>смартфона","text":"Redmi 9A со связью<br>и аксессуаром"},"buttonVariant":"secondary","link":{"url":"/shop/catalog/actions/komplekt-vygodnee-smartfona/","text":"Подробнее"},"img":{"backgroundPosition":{"desktop":"right"},"source":[{"srcset":"https://static.beeline.ru/upload/images/banners/main/slider/komplekt-vygodnee-smartfona-10169_d.jpg","media":"min-width: 480px"},{"srcset":"https://static.beeline.ru/upload/images/banners/main/slider/komplekt-vygodnee-smartfona-10169_m.jpg","media":"max-width: 480px"}]},"wholeBannerClickable":true},{"type":"main","details":{"heading":"Оплачивай покупки<br>в магазине<br>и приложениях","text":"с мобильного номера билайна"},"buttonVariant":"secondary","link":{"url":"/igrioplata","text":"Перейти"},"img":{"backgroundPosition":{"desktop":"right"},"source":[{"srcset":"https://static.beeline.ru/upload/images/banners/main/slider/oplachivay-pokupki-v-magazine-i-prilozheniyah-9949_d2.jpg","media":"min-width: 480px"},{"srcset":"https://static.beeline.ru/upload/images/banners/main/slider/oplachivay-pokupki-v-magazine-i-prilozheniyah-9949_m3.jpg","media":"max-width: 480px"}]},"wholeBannerClickable":true},{"type":"aside","backgroundImage":"//static.beeline.ru/upload/images/banners/main/aside/mobilnaya-svyaz-8785.png","backgroundPosition":"right bottom","backgroundSize":"auto 100%","backgroundColor":"","caption":"Мобильная связь","captionTag":"p","description":"Выгодные тарифы<br>на связь и интернет","buttonCaption":"","label":"билайн","size":"s","link":"/customers/products/mobile/tariffs/","contentPosition":"top","theme":"light","buttonTheme":""},{"type":"aside","backgroundImage":"//static.beeline.ru/upload/images/banners/main/vmeste-deshevle_4d.png","backgroundPosition":"right -21px bottom","backgroundSize":"auto 100%","backgroundColor":"","caption":"Вместе дешевле","captionTag":"p","description":"Домашний интернет,<br>ТВ и связь","buttonCaption":"","label":"билайн","size":"s","link":"/customers/domashnij-internet-tv-mobilnaya-svyaz/","contentPosition":"top","theme":"yellow","buttonTheme":""},{"type":"aside","backgroundImage":"//static.beeline.ru/upload/images/banners/main/aside/7289-oats.png","backgroundPosition":"center right","backgroundSize":"auto 100%","caption":"Облачная АТС","captionTag":"p","description":"Чтобы не пропустить<br>ни одного звонка","label":"билайн бизнес","size":"s","link":"/business/telephony/cloud-ats/","contentPosition":"top","theme":"light"},{"type":"main","details":{"heading":"<span class='main_banner-vowifi'>Включи VoWiFi<br />и звони даже там,<br />где сигнал слабый!</span><span class='main_banner-vowifi-m'>Включи<br />VoWiFi<br />и звони<br />даже там,<br />где сигнал<br />слабый!</span>","text":""},"buttonVariant":"secondary","link":{"url":"/customers/products/vowifi/","text":"Подробнее"},"img":{"backgroundPosition":{"desktop":"right"},"source":[{"srcset":"https://static.beeline.ru/upload/images/banners/main/slider/9850_cat-d.png","media":"min-width: 480px"},{"srcset":"https://static.beeline.ru/upload/images/banners/main/slider/9850_cat-m.png","media":"max-width: 480px"}]},"wholeBannerClickable":true}],"dynamicYieldCampaign":"MainPageBanner"}},{"id":1628306,"alias":"block_mob_categories_bba","type":"mobile_navigation","content":{"links":[{"url":"https://www.beeline.ru/customers/products/mobile/tariffs/","iconSrc":"https://static.beeline.ru/upload/images/icons/2a.svg","target":"_blank","label":"Мобильная связь"},{"url":"/customers/how-to-pay/popolnenie-scheta/#/ImmediatePayment/Mobile","iconSrc":"https://static.beeline.ru/upload/images/icons/3a.svg","label":"Оплата"},{"url":"https://www.beeline.ru/customers/products/mobile/services/details/mnp/","iconSrc":"https://static.beeline.ru/upload/images/icons/4a.svg","label":"Перейти в билайн"},{"url":"https://www.beeline.ru/customers/products/home/internet/","iconSrc":"https://static.beeline.ru/upload/images/icons/5a.svg","label":"Интернет"},{"url":"https://www.beeline.ru/customers/products/home/kit/","iconSrc":"https://static.beeline.ru/upload/images/icons/internetTVicon.svg","label":"Интернет и ТВ"},{"url":"https://www.beeline.ru/shop/catalog/telefony/smartfony/","iconSrc":"https://static.beeline.ru/upload/images/icons/7a.svg","label":"Устройства"}]},"data":null},{"id":1628308,"alias":"block_payment_2","type":"payment","content":{"group":"controlPanel","popupContent":{"success":{"button":{"text":"Хорошо"},"img":{"src":"//static.beeline.ru/upload/images/Congratulations.svg"},"title":"Платёж успешно совершён"},"error":{"button":{"text":"Назад"},"img":{"src":"//static.beeline.ru/upload/images/Fail.svg "},"description":"Попробуйте оставить заявку ещё раз","title":"Что-то пошло не так"}}},"data":{"widgetPayUrl":"https://widgetpay1.beeline.ru","minPaymentAmount":100,"maxPaymentAmount":15000,"paymentMethods":["fps","sberpay","card"]}},{"id":1628823,"alias":"block_fttbForm","type":"fttbForm","content":{"failedRequestData":{"retryCount":1,"title":"Домашний интернет от билайна","description":"Подключайте скоростные тарифы по выгодной цене","backgroundImage":"https://static.beeline.ru/upload/images/new-shpd-catalog/tariffs/internet-300-mbit.png"},"texts":{"formTexts":{"submitButtonText":"Подключить","catalogLinkText":"В каталог тарифов","statusConnectionTexts":{"isNone":"Проверь подключение по адресу","isAvailable":"Подключение возможно","isExists":"Заявка по этому адресу уже существует","isNotAvailable":"По этому адресу пока не подключаем","alreadyInUse":"Подключение возможно","houseIsNotFound":"К сожалению, такой дом не найден","streetIsNotFound":"К сожалению, такая улица не найдена"},"placeholderTexts":{"city":"Город","street":"Улица","house":"Дом","flat":"Квартира"}},"checkoutTexts":{"title":"Заявка на подключение","buttonBackText":"Назад, к выбору тарифа","checkoutDescription":"Мы перезвоним в ближайшее время и ответим на все твои вопросы. Предложим удобное время подключения. Звонки осуществляются в период с 09:00 до 22:00.","tariffSectionTitleText":"Тариф","connectionAddressText":"Адрес подключения","phoneSectionText":"Контактный телефон","successText":"Заявка принята!","connectButtonText":"Оставить заявку"},"formDescription":{"linkText":"Подробнее о тарифе"}},"links":{"baseUrl":"/customers/products/","catalogUrl":"home/internet/","headerIconUrl":"https://static.beeline.ru/upload/images/beeline-internet-invi.png"},"group":"controlPanel","isFttbAvailable":true,"descriptions":[{"speed":"50","description":"Стабильный интернет для проверки почты, общения в соцсетях и скачивания файлов"},{"speed":"100","description":"Скачивай файлы быстро и смотри видео без зависаний"},{"speed":"300","description":"Быстрее скачивай файлы, играй в онлайн-игры и смотри фильмы без зависаний на нескольких устройствах"},{"speed":"500","description":"Сверхскоростной интернет для любых задач. Работай, играй, моментально скачивай файлы"}]},"data":null},{"id":1628307,"alias":"block_fancyNumber","type":"fancyNumber","content":{"group":"controlPanel","numbersListLegend":"Выбери номер:"},"data":{"widget":{"emptyCategory":"Красивые номера закончились","reload":"обновить номер","title":"<span class='withBackgroundColor'>Красивые номера</span>","titleLink":null,"pageIcon":"https://static.beeline.ru/upload/images/b2c/backgrounds/boss-heart.svg","description":"Успей ухватить свой красивый номер","titleIcon":null,"checkRegionUrl":"/fancynumber/isphonebelongtocurrentregion/","fetchTariffsUrl":"/fancynumber/popupTariffInfo/","buttonText":"Заказать","highlight":true,"initialCategory":"bronzovie","numberMasks":[["%%AAA%%%%","_-__-_-_"],["%%%AAA%%%","_--__-__"],["%%%%AAA%%","_-_-__-_"],["%%%%%AAA%","__-_-__-"],["%%AAAA%%%","_-_-_-__"],["%%%AAAA%%","__-_-_-_"],["%%%%AAAA%","_-_-_-_-"],["%%%AA%BB%","_--_-_-_"],["%%%AA%%BB","__-_-_-_"],["%%AA%%BB%","__--_-_-"],["%%AA%%%BB","_-_-__-_"],["%%AABBCC%","_-_-_-__"],["%%AA%BBCC","_-_--_-_"],["%%AABB%CC","_-_-_--_"],["%AAAA%%%%","_-__-_-_"],["%AABBB%%%","__-__-__"],["AABBB%%%%","_-__-_-_"],["AABBBCC%%","_-__-_-_"],["AABB%%%%%","_-_--_-_"],["%%AABB%%%","_-_-_-__"],["%%AAAABAB","_-__-_-_","%%AAAA%%%"],["%%AAAAA%%","_-____-_"],["%AAAABCBC","-___-_-_"],["%%AAABBCC","_-__-_-_"],["%AAABBAAA","-__-_-__","%%AA%%AAA"],["%AAABBCCC","-__-_-__"],["%AAAABBB%","-___-__-"],["%AAAA%BBB","-___--__"],["%%%AAABAB","_--_-_-_","%%%AAA%A%"],["%%%AAAABB","_--___-_"],["%%%AABBCC","_--_-_-_"],["%%%AAAAA%","_--____-"],["%%%AAABBB","_--__-__"],["%%%A0B0C0","_--_-_-_"],["%%%%%AAAA","_-__-___"],["%%%%%AABB","_-__-_-_"],["%%%%%AAA%","_-__-__-"],["%%%%%ABAB","_-__-_-_"],["%%%%%ABBA","_-__-_-_"],["%%%%%%AAA","_-__--__"],["%%%ABCABC","_--__-__"],["%%ABABAB%","_-_-_-_-"],["%%ABCABC%","_-__-__-"],["%%ABC%ABC","_-__--__"],["%%%AA%AA%","_--_--_-"],["%%ABABBAB","_-______","%%ABAB%AB"]],"disableFancyColor":false,"link":{"href":"/customers/products/mobile/services/details/nomer-na-vybor/krasivie-nomera/","text":"Все красивые номера"},"categories":[{"alias":"spetsialnyie","tabText":"Бесплатные","title":"Бесплатный номер","icon":"","text":"","link":"/customers/products/mobile/services/details/nomer-na-vybor/krasivie-nomera/","linkText":"Все красивые номера","priceText":"Цена за номер: {{PRICE}} ₽","profitText":"Ваша выгода: <strong>{{PROFIT}}</strong>","description":""},{"alias":"bronzovie","tabText":"Бронзовые","title":"Бронзовый номер","icon":"bronze","oldPrice":"1000 ₽","price":"0","discountValue":"100%","text":"Бесплатно бронзовый номер с тарифом на выбор","link":"/customers/products/mobile/services/details/nomer-na-vybor/krasivie-nomera/","linkText":"Все красивые номера","priceText":"Цена за номер: {{PRICE}} ₽","profitText":"Ваша выгода: <strong>{{PROFIT}}</strong>","description":"Бронзовый номер <strong>бесплатно</strong> при заказе онлайнонлайн","tooltip":"Есть тарифы-исключения. <a href='/customers/products/mobile/bonus/details/krasiviy-nomer-v-podarok/'>Подробнее</a>"},{"alias":"serebryanie","tabText":"Серебряные","title":"Серебряный номер","link":"/customers/products/mobile/services/details/nomer-na-vybor/krasivie-nomera/","linkText":"Все красивые номера","icon":"silver","text":"3000 ₽ за номер","priceText":"Цена за номер: {{PRICE}} ₽","profitText":"Ваша выгода: <strong>{{PROFIT}}</strong>","description":"<strong>{{MONTHCOUNT}} бесплатной связи</strong> при заказе серебряного номераномера"},{"alias":"zolotie","tabText":"Золотые","title":"Золотой номер","link":"/customers/products/mobile/services/details/nomer-na-vybor/krasivie-nomera/","linkText":"Все красивые номера","icon":"gold","text":"15 000 ₽","priceText":"Цена за номер: {{PRICE}} ₽","profitText":"Ваша выгода: <strong>{{PROFIT}}</strong>","description":""}],"stubNumbers":[{"categoryPluralTitle":"Золотые номера","categorySingularTitle":"Золотой номер","alias":"zolotie","numbers":["empty"]},{"categoryPluralTitle":"Серебряные номера","categorySingularTitle":"Серебряный номер","alias":"serebryanie","numbers":["empty"]},{"categoryPluralTitle":"Бронзовые номера","categorySingularTitle":"Бронзовый номер","alias":"bronzovie","numbers":["empty"]},{"categoryPluralTitle":"Специальные предложения","categorySingularTitle":"Специальное предложение","alias":"spetsialnyie","numbers":["empty"]}]},"useFastBasketRedirect":false}},{"id":1628781,"alias":"block_advertisementBanner_6_1","type":"advertisementBanner","content":{"group":"controlPanel","backgroundImage":"//static.beeline.ru/upload/images/banners/main/hochu-v-beeline-34084_6-1d-transparent.png","backgroundPosition":"","backgroundSize":"","backgroundColor":"","caption":"Хочу в билайн","description":"Переходи со своим номером","buttonCaption":"","label":"билайн","link":"/customers/products/mobile/services/details/mnp/","buttonTheme":"","captionTag":"p","size":"l","contentPosition":"top","theme":"yellow"},"data":null},{"id":1628309,"alias":"block_stories","type":"stories","content":{"separateRow":"grey","stories":[{"id":1561691,"text":"Выгодное ОСАГО","img":"https://static.beeline.ru/upload/images/stories/32480-icon-OSAGO.png","viewed":false,"detail":{"viewTimeout":4000,"legend":{"title":"ОСАГО онлайн","text":"Рассчитайте цены сразу в 18 страховых компаниях, чтобы выбрать лучшую и сэкономить в среднем 3000₽. Подбор предложений по оформлению полиса ОСАГО осуществляется сервисом ООО «Сравни.ру»","link":{"url":"https://www.sravni.ru/osago/wl/?uid=10e42c7c-e6f6-4e94-a7b0-db0b736dc92e&aff_id=2345&offer_id=1064&source=3933&aff_sub=9&aff_sub2=reciept&aff_sub3=qr&aff_sub4=qrcode&aff_sub5=tap5","text":"Подробнее"}},"img":{"src":"https://static.beeline.ru/upload/images/stories/32480-backgr-OSAGO.png","title":"ОСАГО"}}},{"id":1561695,"text":"До 15 000 на вашу карту","img":"https://via.placeholder.com/100x100","viewed":false,"detail":{"viewTimeout":4000,"legend":{"text":"Привлекайте клиентов, откройте кол-центр,принимайте заказы и повышайте продажи. Мы бесплатно поможемподобрать эффективные инструменты для вашего бизнеса","link":{"url":"https://www.beeline.ru/customers/domashnij-internet-i-tv-besplatno/","text":"Подробнее"}},"video":{"src":"https://static.beeline.ru/upload/images/banners/video/neprerivnaya-svyaz.mp4","poster":"https://static.beeline.ru/upload/images/stories/32480-backgr-OSAGO.png"}}},{"id":1561697,"text":"Скидки и предложения1","img":"https://via.placeholder.com/150x200","viewed":false,"detail":{"legend":{"link":{"url":"https://www.beeline.ru/customers/domashnij-internet-i-tv-besplatno/","text":"Подробнее"}},"img":{"src":"https://static.beeline.ru/upload/images/banners/main/domashnii-internet-i-tv-za-300_d.jpg","title":"title"}}},{"id":1561900,"text":"Скидки и бонусы","img":"https://via.placeholder.com/200x150","viewed":false,"detail":{"viewTimeout":5000,"legend":{"title":"Стройте успешный бизнес вместе с нами!","text":"Привлекайте клиентов, откройте кол-центр,принимайте заказы и повышайте продажи. Мы бесплатно поможемподобрать эффективные инструменты для вашего бизнеса"},"img":{"src":"https://static.beeline.ru/upload/images/banners/main/domashnii-internet-i-tv-za-300_d.jpg","title":"title"}}},{"id":1561200,"text":"Скидки и бонусы2","img":"https://via.placeholder.com/200x150","viewed":false,"detail":{"viewTimeout":5000,"img":{"src":"https://static.beeline.ru/upload/images/banners/main/domashnii-internet-i-tv-za-300_d.jpg","title":"title"}}},{"id":1511300,"text":"Скидки и бонусы3","img":"https://via.placeholder.com/200x150","viewed":false,"detail":{"legend":{"text":"Привлекайте клиентов, откройте кол-центр,принимайте заказы и повышайте продажи. Мы бесплатно поможемподобрать эффективные инструменты для вашего бизнеса"},"img":{"src":"https://static.beeline.ru/upload/images/banners/main/domashnii-internet-i-tv-za-300_d.jpg","title":"title"}}}]},"data":{"stories":[{"text":"Выгодный комплект","img":"//static.beeline.ru/upload/images/banners/main/stories/vygodnyi-komplekt-10170_d.jpg","viewed":false,"detail":{"viewTimeout":4000,"legend":{"title":"Комплект выгоднее смартфона","text":"Redmi 9A со связью и аксессуаром.","link":{"url":"/shop/catalog/actions/komplekt-vygodnee-smartfona/","text":"Подробнее"}},"img":{"src":"//static.beeline.ru/upload/images/banners/main/stories/vygodnyi-komplekt-10170_s.jpg"}},"id":1791553},{"text":"Оплачивай с номера","img":"//static.beeline.ru/upload/images/banners/main/stories/oplachivay-s-nomera-10029_d.png","viewed":false,"detail":{"viewTimeout":4000,"legend":{"title":"Оплачивай покупки в магазине и приложениях","text":"с мобильного номера билайна.","link":{"url":"/igrioplata","text":"Перейти"}},"img":{"src":"//static.beeline.ru/upload/images/banners/main/stories/oplachivay-s-nomera-10029_s.png"}},"id":1791009},{"text":"Слабеет сигнал?","img":"//static.beeline.ru/upload/images/banners/main/stories/slabeet-signal-9851_d.png","viewed":false,"detail":{"viewTimeout":4000,"legend":{"title":"Сделай связь лучше!","text":"Включи VoWiFi в смартфоне и звони по Wi‑Fi там, где сигнал слабее.","link":{"url":"/customers/products/vowifi/","text":"Подробнее"}},"img":{"src":"//static.beeline.ru/upload/images/banners/main/stories/slabeet-signal-9851_s.jpg"}},"id":1791102},{"text":"Смартфон БЕЗ переплат","img":"https://static.beeline.ru/upload/images/banners/main/stories/smartfon-bez-pereplat-7371_d.jpg","viewed":false,"detail":{"viewTimeout":4000,"legend":{"title":"Смартфон БЕЗ переплат","text":"Приобретайте смартфон в кредит без переплат на оптимальных условиях.","link":{"url":"/customers/products/mobile/bonus/details/smartfon-v-kredit-bez-pereplat/","text":"Подробнее"}},"img":{"src":"https://static.beeline.ru/upload/images/banners/main/stories/smartfon-bez-pereplat-7371_s2.jpg"}},"id":1767578},{"text":"Держатель в подарок","img":"https://static.beeline.ru/upload/images/banners/main/stories/derzhatel-red-line-v-podarok-6681_d.png","viewed":false,"detail":{"viewTimeout":4000,"legend":{"title":"При покупке Яндекс Станции","text":"Держатель Red Line в подарок.","link":{"url":"/shop/catalog/actions/yandeks-stanciya-s-alisoi-i-derzhatel-red-line-v-podarok/?*main**_**stories**=**yandeks**-**stanciya**-**s**-**alisoi**-**i**-**derzhatel**-**red**-**line**-**v**-**podarok**/*","text":"Купить"}},"img":{"src":"https://static.beeline.ru/upload/images/banners/main/stories/derzhatel-red-line-v-podarok-6681_s.png"}},"id":1746378},{"text":"Скидка на умные часы","img":"https://static.beeline.ru/upload/images/banners/main/stories/skidka-na-umnye-chasy-4079_d2.jpg","viewed":false,"detail":{"viewTimeout":4000,"legend":{"title":"Скидка до 20% на умные часы","text":" в комплекте с SIM-картой.","link":{"url":"/shop/catalog/actions/skidka-na-umnye-chasy/","text":"Купить"}},"img":{"src":"https://static.beeline.ru/upload/images/banners/main/stories/skidka-na-umnye-chasy-4079_s2.jpg","title":"Скидка на умные часы"}},"id":1704098},{"text":"ОСАГО","img":"//static.beeline.ru/upload/images/banners/main/stories/osago-9603_d.jpg","viewed":false,"detail":{"viewTimeout":4000,"legend":{"title":"ОСАГО","text":"Поможем сравнить цены 17 страховых компаний и сэкономить от 800 до 5500 ₽¹.<br><br><span class='ligalStories_1730678'>Реклама. Рекламодатель — ООО «Сравни.ру».<br>¹ Экономия достигается за счёт разницы в цене предложений разных страховых компаний. Расчёт вёлся по базе клиентов за октябрь 2022 года.</span>","link":{"url":"https://www.sravni.ru/osago/wl/?uid=10e42c7c-e6f6-4e94-a7b0-db0b736dc92e&aff_id=2345&offer_id=1064&source=3933&aff_sub=9&aff_sub2=mybeeline&aff_sub3=link&aff_sub4=esavecar&aff_sub5=storis1&erid=LatgBYJjA","text":"Сравнить"}},"img":{"src":"//static.beeline.ru/upload/images/banners/main/stories/osago-9603_s.jpg","title":"ОСАГО"}},"id":1628734},{"text":"365 дней без %","img":"https://static.beeline.ru/upload/images/banners/main/stories/365-dney-bez-procentov-7823_d.png","viewed":false,"detail":{"viewTimeout":4000,"legend":{"title":"Бесплатная кредитная карта «365 дней без %»","text":"Карта с возможностью снимать наличные в любых банкоматах без комиссии.<br><br><span class='ligalStories_1730678'>Реклама. Рекламодатель — АО «Альфа-Банк».</span>","link":{"url":"/alfa-collab/bank/creditcard/?platformId=partners_offline_beeline_storis_site_newland_cc_creditcard&utm_source=partners&utm_medium=offline&utm_campaign=beeline_storis_site_newland_cc_creditcard","text":"Получить карту"}},"textColor":"white","img":{"src":"https://static.beeline.ru/upload/images/banners/main/stories/365-dney-bez-procentov-7823_s.jpg","title":"365 дней без %"}},"id":1630800},{"text":"Кэшбэк 1‑5‑25","img":"https://static.beeline.ru/upload/images/banners/main/stories/cashbach-1-5-25-8894_d.png","viewed":false,"detail":{"viewTimeout":4000,"legend":{"title":"Бесплатная дебетовая карта «Кэшбэк 1‑5‑25»","text":"Возвращаем 25% за оплату связи и услуг билайна.<br><br><span class='ligalStories_1730678'>Реклама. Рекламодатель — АО «Альфа-Банк».</span>","link":{"url":"/alfa-collab/bank/debitcard/?platformId=partners_offline_beeline_storis_site_newland_debitcard&utm_source=partners&utm_medium=offline&utm_campaign=beeline_storis_site_newland_debitcard","text":"Получить карту"}},"img":{"src":"https://static.beeline.ru/upload/images/banners/main/stories/cashbach-1-5-25-8894_s.jpg"}},"id":1779778},{"text":"У вас ипотека?","img":"https://static.beeline.ru/upload/images/banners/main/stories/u-vas-ipoteka-8218_d.png","viewed":false,"detail":{"viewTimeout":4000,"legend":{"title":"Страхование ипотеки","text":"Дарим клиентам ряда банков скидку до 35% на страхование ипотеки от «АльфаСтрахования».<br><br><span class='ligalStories_1730678'>Сделать расчёт онлайн, узнать ограничения и подробные условия страхования можно на сайте. Услуга — АО «АльфаСтрахование». Реклама. Рекламодатель — АО «АльфаСтрахование».</span>","link":{"url":"https://beeline.alfastrah.ru/?utm_source=mybeeline&utm_medium=link_astripot_storis1&utm_campaign=astripot&utm_term=storis1&erid=LatgC2rfJ","text":"Застраховать"}},"img":{"src":"https://static.beeline.ru/upload/images/banners/main/stories/u-vas-ipoteka-8218_s.jpg"}},"id":1769141},{"text":"Персональный роуминг","img":"//static.beeline.ru/upload/images/banners/main/stories/personalniy-rouming-8785_d.png","viewed":false,"detail":{"viewTimeout":4000,"legend":{"title":"Персональный роуминг в поездках за границу","text":"Пользуйся индивидуальным пакетом по специальной цене в мобильном приложении и наслаждайся путешествием.","link":{"url":"https://moskva.beeline.ru/customers/products/persroaming/","text":"Подробнее"}},"img":{"src":"//static.beeline.ru/upload/images/banners/main/stories/personalniy-rouming-8785_s.jpg"}},"id":1629574},{"text":"На твоей стороне","img":"//static.beeline.ru/upload/images/banners/main/stories/na-tvoey-storone-8785_d.png","viewed":false,"detail":{"viewTimeout":4000,"legend":{"title":"На твоей стороне","text":"Узнай больше о наших изменениях.","link":{"url":"/natvoeystorone","text":"Узнать"}},"img":{"src":"//static.beeline.ru/upload/images/banners/main/stories/na-tvoey-storone-8785_s.jpg","title":"На твоей стороне"}},"id":1629010},{"text":"Быстрая оплата услуг","img":"//static.beeline.ru/upload/images/banners/main/stories/bistroe-popolnenie-balansa-8785_d.png","viewed":false,"detail":{"viewTimeout":4000,"legend":{"title":"Быстрая оплата услуг","text":"Больше половины наших клиентов оплачивают услуги в личном кабинете за пару кликов.","link":{"url":"/login","text":"Перейти в личный кабинет"}},"img":{"src":"https://static.beeline.ru/upload/images/stories/bystroe-popolnenie-balansa-d21-2.png","title":"Быстрое пополнение баланса"}},"id":1628800},{"text":"Смартфоны до 20 000 ₽","img":"https://static.beeline.ru/upload/images/banners/main-stories/smartfony-do-20-000-1348_d.jpg","viewed":false,"detail":{"viewTimeout":4000,"legend":{"title":"Доступные смартфоны","text":"Выбери свой в билайне.","link":{"url":"/shop/catalog/telefony/smartfony/?price=0:20000","text":"За покупками"}},"img":{"src":"https://static.beeline.ru/upload/images/banners/main-stories/smartfony-do-20-000-1348_s.jpg","title":"Смартфоны до 20 000 ₽"}},"id":1678934}]}},{"id":1628388,"alias":"block_bannerGrid_2","type":"bannerGrid","content":{"title":"Мобильная связь","mainBanner":{"backgroundImage":"//static.beeline.ru/upload/images/banners/main/mobile-grid/vygodnye-tarify-8785.png","backgroundPosition":"right","backgroundSize":"","backgroundColor":null,"caption":"Выгодные тарифы","description":"При заказе SIM на сайте","buttonCaption":"","label":"билайн","link":"/customers/products/mobile/tariffs/","buttonTheme":"","captionTag":"p","size":"s","contentPosition":"top"},"bannersList":[{"backgroundImage":"//static.beeline.ru/upload/images/banners/main-mobile-grid/pereyti-v-beeline_grid-s-10a.png","backgroundPosition":"bottom right","backgroundSize":"auto 46px","backgroundColor":"","caption":"Перейти в билайн","description":"","buttonCaption":"","link":"/customers/products/mobile/services/details/mnp/","buttonTheme":"tertiary","captionTag":"p","size":"s","contentPosition":"top"},{"backgroundImage":"//static.beeline.ru/upload/images/banners/main/mobile-grid/semya-v-beeline-6131.png","backgroundPosition":"bottom right","backgroundSize":"auto 40px","backgroundColor":"","caption":"Семья в билайне","description":"","buttonCaption":"","link":"/family/?main=family_mob","buttonTheme":"tertiary","captionTag":"p","size":"s","contentPosition":"top"},{"backgroundImage":"//static.beeline.ru/upload/images/banners/main-mobile-grid/oplata_12a.png","backgroundPosition":"bottom right","backgroundSize":"auto 46px","backgroundColor":"","caption":"Оплата","description":"","buttonCaption":"","link":"/customers/how-to-pay/popolnenie-scheta/#/ImmediatePayment/Mobile","buttonTheme":"tertiary","captionTag":"p","size":"s","contentPosition":"top"}]},"data":null}],"isAuthorized":false},"renderUrl":"/customers/products/","baseUrl":"/customers/products/"}), document.getElementById("react_0HMPGRRD5CC5G"));
+</script><script>
+if (window.defReactS)
+    for (var i = 0; i < defReactS.length; i++) {
+        defReactS[i]();
+    }
+</script>
+
+    
+<script type="text/javascript">
+    (function () {
+        dataLayer.push({
+            auth_type: '0',
+            userAuth: 'not authorized',
+        });
+
+        dataLayer.push({ 'newPage': 1 });
+    })();
+</script>
+
+    
+    
+
+    
+
+        <style>
+            body {
+                background: #fff;
+            }
+        </style>
+</body>
+</html>

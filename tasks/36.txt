@@ -1,0 +1,922 @@
+
+<!doctype html>
+<html class="light ctx-dark d ru"  lang="ru">
+<!-- X-Request-ID: 3b8c00d7c321719a382d4742d17581ab -->
+
+<head>
+    <meta charset="utf-8">
+    <title>DRIVE2.RU</title>
+    <meta name="description" content="Автомобильная социальная сеть">
+    <meta name="yandex-tableau-widget" content="logo=https://www.drive2.ru/assets/images/res/widget-logo-drive2.png, color=#cc0033, feed=https://www.drive2.ru/_api/tableau/feed.json" />
+    <meta name="format-detection" content="telephone=no">
+            <meta name="viewport" content="width=1228">
+                <link rel="manifest" href="/manifest.json">
+    <link rel="preconnect" href="https://a.d-cd.net">
+    <link rel="preconnect" href="https://i-a.d-cd.net">
+            <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link href="/assets/css/d/main.GzqekLFzT-eqbXFCJ8_0Z8ImPiA.css" rel="stylesheet">
+    <link href="/assets/css/d/res.kEn2WoGmgsd5dp6DJszAlAr03zc.css" rel="stylesheet">
+    
+    <link href="/assets/css/d/index.blUiIhyfEV1TMOWX0Tp-Q7ifTGU.css" rel="stylesheet">
+
+        <link rel="preconnect" href="https://ads.betweendigital.com">
+    <script>
+        window.d2Env = Object.freeze({
+            iconsUrl: '/assets/images/map.eQAHfxQ38Bc-97dYyorrCEYq5Tk.svg',
+                        formContext: { '.FCTX': '_wfqzlwoyisDAAUAAN-rcSBdnkNyG9ac2G9aCHTePzvD' },
+            recaptchaSiteKey: '6LfIECkTAAAAABUZX9kBlE5bMq_aJ1Y_5V-JzJXu',
+            smartCaptchaSiteKey: 'lWZhRvvzouarem9Fc6bmmrf2O45tfRfxT8fsKrFx',
+            uploadUrl: 'https://upload-www.drive2.ru/ajax/upload.cshtml?.AMIG=.AMIG',
+            requestId: '3b8c00d7c321719a382d4742d17581ab',
+            context: 'hurricane',
+            isDesktop: true,
+            isMobile: false,
+            isApp: false,
+                                            });
+        window.__nativeCustomElements = 'customElements' in window;
+        window.__nativeIO = 'IntersectionObserver' in window
+            && 'IntersectionObserverEntry' in window
+            && 'intersectionRatio' in window.IntersectionObserverEntry.prototype;
+    </script>
+    <script nomodule="" src="/assets/js/polyfills.9w-qXbmRO3PZ_4zmrlwf8RKQmzg.js"></script>
+    <script src="/assets/js/sync-start.RxpmkF5N5d8iiGC7QotxM9xd8DU.js"></script>
+    
+    <link rel="canonical" href="https://www.drive2.ru/">
+    <meta property="og:image" content="https://www.drive2.ru/assets/images/cover.png">
+    <meta property="og:title" content="DRIVE2">
+    <meta property="og:description" content="Человеческие ответы на&nbsp;автомобильные вопросы">
+
+    <script src="/assets/js/ru/maina.8gOmYpIx6-pWNgcJobnBIOK7ox8.js" type="module"></script>
+    <script defer="" nomodule="" src="/assets/js/ru/nomodulea.GRSEVfvxolZGeBeAmq8iyXLlVSU.js"></script>
+    <link rel="preconnect" href="https://exchange.buzzoola.com">
+    <link rel="preconnect" href="https://pb.adriver.ru">
+    <link rel="preconnect" href="https://ad.mail.ru">
+    <script src="https://yandex.ru/ads/system/header-bidding.js" async></script>
+<script>
+    window.YaHeaderBiddingSettings = {
+        biddersMap: {
+            'myTarget': '726568',
+            'buzzoola': '769214',
+            'betweenDigital': '789810',
+            'adriver': '724076',
+            'relap': '907688',
+            'otm': '1408556',
+            'getintent': '815656',
+            'hybrid': '1122453',
+            'adfox_adsmart': '953391',
+            'segmento': '1457258',
+            'MTS': '1697169',
+            'sape': '2241276',
+            'mediasniper': '2241352',
+        },
+        adUnits: [
+            {
+                code: 'adfox_1487022369548130',
+                sizes: [[300, 600]],
+                bids: [
+                    {
+                        bidder: 'myTarget',
+                        params: {
+                            placementId: '213310',
+                        }
+                    },
+                    {
+                        bidder: 'betweenDigital',
+                        params: {
+                            placementId: '2412836',
+                        }
+                    },
+                    {
+                        bidder: 'adriver',
+                        params: {
+                            placementId: 'drive2_300x600',
+                            additional: {
+                                ext: { query: 'cid=' + localStorage.getItem('adrcid') },
+                            },
+                        }
+                    },
+                    {
+                        bidder: 'relap',
+                        params: {
+                            placementId: '_7a2q7R1wDrAHx8f',
+                        }
+                    },
+                    {
+                        bidder: 'otm',
+                        params: {
+                            placementId: '450',
+                        }
+                    },
+                    {
+                        bidder: 'getintent',
+                        params: {
+                            placementId: '80_drive_300x600_d2_side1',
+                        }
+                    },
+                    {
+                        bidder: 'hybrid',
+                        params: {
+                            placementId: '5d5d4dfa6a5ac024f8c44802',
+                        }
+                    },
+                    {
+                        bidder: 'segmento',
+                        params: {
+                            placementId: '155',
+                        }
+                    },
+                    {
+                        bidder: 'adfox_adsmart',
+                        params: {
+                            p1: 'cqgut',
+                            p2: 'hhro',
+                        }
+                    },
+                    {
+                        bidder: 'buzzoola',
+                        params: {
+                            placementId: '1220569',
+                        }
+                    },
+                    {
+                        bidder: 'MTS',
+                        params: {
+                            placementId: '2000000',
+                        }
+                    },
+                    {
+                        bidder: 'sape',
+                        params: {
+                            placementId: '828776',
+                        }
+                    },
+                    {
+                        bidder: 'mediasniper',
+                        params: {
+                            placementId: '110001',
+                        }
+                    }
+                ]
+            }
+        ],
+        timeout: 1200,
+    };
+</script>
+                <script>window.yaContextCb = window.yaContextCb || []</script>
+        <script src="https://yandex.ru/ads/system/adfox.js" async></script>
+        <script src="https://content.adriver.ru/AdRiverFPS.js" async></script>
+    
+    <script>
+            var xhr = new XMLHttpRequest();
+            xhr.open('POST', '/_api/vuv', true);
+            xhr.send('0');
+        </script>
+
+    
+    
+</head>
+<body  >
+
+    <script>
+        __run('d2.metrikaSuccess')('signup_create_profile');
+    </script>
+            <script>
+            window.dataLayer = window.dataLayer || [];
+            (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+            m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+            (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+            ym(33911514, "init", {
+                clickmap: true,
+                trackLinks: true,
+                accurateTrackBounce: true,
+                
+                ecommerce: "dataLayer",
+                triggerEvent: true,
+                
+                params: {
+                    user: "Guest",
+                    business: false,
+                    type: "Desktop",
+                    standing: "Unknown",
+                    module: ("noModule" in HTMLScriptElement.prototype) ? "1" : "0",
+                    customElements: __nativeCustomElements,
+                    intersectionObserver: __nativeIO,
+                    car: {
+                                "NoCar": { "Guest": true },
+                        },
+                                                                segment: "MDP_2236",
+                }
+            });
+        </script>
+        <noscript><div><img src="https://mc.yandex.ru/watch/33911514" style="position:absolute; left:-9999px;" alt=""></div></noscript>
+            <template data-slot="signuptt.content">
+            Доступно только для зарегистрированных пользователей.<br>
+            <div class="o-t-l">
+                <a class="c-button c-button--primary c-button--l u-100" href="/reception/" data-ym-target="login_from_bubble_by_email">Войти</a>
+            </div>
+        </template>
+            <header class="l-header" data-role="sticky">
+            
+<div class="ctx-dark c-top">
+    <div class="c-top__container">
+        
+        
+<a class="c-logo" rel="home" href="/" data-ym-target="menu_logo">
+    <span>DRIVE2.RU</span>
+</a>
+
+
+                <div class="o-group">
+                    <a class="c-button" href="/reception/" data-ym-target="login_from_top_by_email menu_top_entry" data-testid="topbar.login">Войти</a>
+                    <a class="c-button" href="/signup/" data-ym-target="menu_top_entry">Зарегистрироваться</a>
+                </div>
+    </div>
+</div>
+
+        </header>
+        <main class="is-narrow">
+            
+
+
+
+
+
+    <script type="application/json" data-slot="search-tips.tips">
+        [{"text":"какие гибриды бывают","link":"/search?text=%D0%BA%D0%B0%D0%BA%D0%B8%D0%B5%20%D0%B3%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D1%8B%20%D0%B1%D1%8B%D0%B2%D0%B0%D1%8E%D1%82"},{"text":"как сделать подсветку бардачка","link":"/search?text=%D0%BA%D0%B0%D0%BA%20%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%B2%D0%B5%D1%82%D0%BA%D1%83%20%D0%B1%D0%B0%D1%80%D0%B4%D0%B0%D1%87%D0%BA%D0%B0"},{"text":"что такое капсула времени","link":"/search?text=%D1%87%D1%82%D0%BE%20%D1%82%D0%B0%D0%BA%D0%BE%D0%B5%20%D0%BA%D0%B0%D0%BF%D1%81%D1%83%D0%BB%D0%B0%20%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8"},{"text":"как отрегулировать фары","link":"/search?text=%D0%BA%D0%B0%D0%BA%20%D0%BE%D1%82%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%20%D1%84%D0%B0%D1%80%D1%8B"},{"text":"как устроены беспилотные машины","link":"/search?text=%D0%BA%D0%B0%D0%BA%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D1%8B%20%D0%B1%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D1%8B"},{"text":"как поехать в европу на машине","link":"/search?text=%D0%BA%D0%B0%D0%BA%20%D0%BF%D0%BE%D0%B5%D1%85%D0%B0%D1%82%D1%8C%20%D0%B2%20%D0%B5%D0%B2%D1%80%D0%BE%D0%BF%D1%83%20%D0%BD%D0%B0%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B5"},{"text":"как выбрать коврики","link":"/search?text=%D0%BA%D0%B0%D0%BA%20%D0%B2%D1%8B%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D0%BA%D0%BE%D0%B2%D1%80%D0%B8%D0%BA%D0%B8"},{"text":"как сэкономить в автосервисе","link":"/search?text=%D0%BA%D0%B0%D0%BA%20%D1%81%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%82%D1%8C%20%D0%B2%20%D0%B0%D0%B2%D1%82%D0%BE%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B5"},{"text":"как устроен вариатор","link":"/search?text=%D0%BA%D0%B0%D0%BA%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%20%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D1%82%D0%BE%D1%80"},{"text":"как избавиться от сверчка","link":"/search?text=%D0%BA%D0%B0%D0%BA%20%D0%B8%D0%B7%D0%B1%D0%B0%D0%B2%D0%B8%D1%82%D1%8C%D1%81%D1%8F%20%D0%BE%D1%82%20%D1%81%D0%B2%D0%B5%D1%80%D1%87%D0%BA%D0%B0"}]
+    </script>
+
+<div class="c-index-header x-box x-box--ghost">
+    <h2 class="c-index-title">Человеческие ответы на&nbsp;автомобильные вопросы</h2>
+    <div class="c-index-subtitle"><span class="u-nobr">22&#160;051&#160;009</span>&nbsp;историй из&nbsp;личного опыта автовладельцев</div>
+    <form class="o-group" action="/search" onsubmit="return !!this.text.value;">
+        <div class="ctx-reset x-search x-search--alt u-100">
+            <input class="x-search__input" type="search" name="text" placeholder="" data-role="search-tips" autocomplete="off">
+            <x-icon class="x-search__icon" name="search"></x-icon>
+        </div>
+        <button class="c-button c-button--primary c-button--index" type="submit" data-ym-target="root_screen_search">Найти ответ</button>
+    </form>
+</div>
+
+
+<div class="x-form x-box ctx-reset">
+    <div class="o-group o-group--justify o-group--top o-b-s">
+        <h1 class="x-header">Искать по марке</h1>
+        <form class="c-radiogroup">
+            <label class="c-radiogroup__item">
+                <input name="filter" type="radio" data-action="filter.filtered" checked>
+                <span class="c-radiogroup__button">Популярные</span>
+            </label>
+            <label class="c-radiogroup__item">
+                <input name="filter" type="radio" data-action="filter.full" data-slot="filter.full">
+                <span class="c-radiogroup__button">Все марки</span>
+            </label>
+        </form>
+    </div>
+
+        <div class="o-grid o-grid--8 o-grid--s o-t o-b" data-slot="filter.when-filtered">
+                <a class="c-index-logo" href="/experience/volkswagen/" data-ym-target="root_screen_experience">
+<div class="o-img is-transparent" style="background-color: #ededed;" data-size="100,100"><span style="display: block; padding-top: 100%"></span><img src="/assets/images/index/makes/volkswagen-2.svg" loading="lazy" width="100" height="100"></div>
+                </a>
+                <a class="c-index-logo" href="/experience/mercedes/" data-ym-target="root_screen_experience">
+<div class="o-img is-transparent" style="background-color: #ededed;" data-size="100,100"><span style="display: block; padding-top: 100%"></span><img src="/assets/images/index/makes/mercedes-2.svg" loading="lazy" width="100" height="100"></div>
+                </a>
+                <a class="c-index-logo" href="/experience/mitsubishi/" data-ym-target="root_screen_experience">
+<div class="o-img is-transparent" style="background-color: #ededed;" data-size="100,100"><span style="display: block; padding-top: 100%"></span><img src="/assets/images/index/makes/mitsubishi-2.svg" loading="lazy" width="100" height="100"></div>
+                </a>
+                <a class="c-index-logo" href="/experience/renault/" data-ym-target="root_screen_experience">
+<div class="o-img is-transparent" style="background-color: #ededed;" data-size="100,100"><span style="display: block; padding-top: 100%"></span><img src="/assets/images/index/makes/renault-2.svg" loading="lazy" width="100" height="100"></div>
+                </a>
+                <a class="c-index-logo" href="/experience/toyota/" data-ym-target="root_screen_experience">
+<div class="o-img is-transparent" style="background-color: #ededed;" data-size="100,100"><span style="display: block; padding-top: 100%"></span><img src="/assets/images/index/makes/toyota-2.svg" loading="lazy" width="100" height="100"></div>
+                </a>
+                <a class="c-index-logo" href="/experience/lada/" data-ym-target="root_screen_experience">
+<div class="o-img is-transparent" style="background-color: #ededed;" data-size="100,100"><span style="display: block; padding-top: 100%"></span><img src="/assets/images/index/makes/lada-2.svg" loading="lazy" width="100" height="100"></div>
+                </a>
+                <a class="c-index-logo" href="/experience/ford/" data-ym-target="root_screen_experience">
+<div class="o-img is-transparent" style="background-color: #ededed;" data-size="100,100"><span style="display: block; padding-top: 100%"></span><img src="/assets/images/index/makes/ford-2.svg" loading="lazy" width="100" height="100"></div>
+                </a>
+                <a class="c-index-logo" href="/experience/hyundai/" data-ym-target="root_screen_experience">
+<div class="o-img is-transparent" style="background-color: #ededed;" data-size="100,100"><span style="display: block; padding-top: 100%"></span><img src="/assets/images/index/makes/hyundai-2.svg" loading="lazy" width="100" height="100"></div>
+                </a>
+        </div>
+    <div class="o-secondary c-index-makes is-filtered" data-slot="filter.root">
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/ac/" data-ym-target="root_screen_experience">
+                AC Cobra
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/acura/" data-ym-target="root_screen_experience">
+                Acura
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/alfaromeo/" data-ym-target="root_screen_experience">
+                Alfa Romeo
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/alpina/" data-ym-target="root_screen_experience">
+                Alpina
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/amc/" data-ym-target="root_screen_experience">
+                AMC
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/aro/" data-ym-target="root_screen_experience">
+                ARO
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/asia/" data-ym-target="root_screen_experience">
+                Asia
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/astonmartin/" data-ym-target="root_screen_experience">
+                Aston Martin
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/audi/" data-ym-target="root_screen_experience">
+                Audi
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/austin/" data-ym-target="root_screen_experience">
+                Austin
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/autozam/" data-ym-target="root_screen_experience">
+                Autozam
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/avia/" data-ym-target="root_screen_experience">
+                Avia
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/bac/" data-ym-target="root_screen_experience">
+                BAC
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/barkas/" data-ym-target="root_screen_experience">
+                Barkas
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/bilenkinclassiccars/" data-ym-target="root_screen_experience">
+                BCC
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/bentley/" data-ym-target="root_screen_experience">
+                Bentley
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/bertone/" data-ym-target="root_screen_experience">
+                Bertone
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/bmw/" data-ym-target="root_screen_experience">
+                BMW
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/bogdan/" data-ym-target="root_screen_experience">
+                Bogdan
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/brilliance/" data-ym-target="root_screen_experience">
+                Brilliance
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/bugatti/" data-ym-target="root_screen_experience">
+                Bugatti
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/buick/" data-ym-target="root_screen_experience">
+                Buick
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/byd/" data-ym-target="root_screen_experience">
+                BYD
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/cadillac/" data-ym-target="root_screen_experience">
+                Cadillac
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/caterham/" data-ym-target="root_screen_experience">
+                Caterham
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/changan/" data-ym-target="root_screen_experience">
+                Changan
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/chery/" data-ym-target="root_screen_experience">
+                Chery
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/chevrolet/" data-ym-target="root_screen_experience">
+                Chevrolet
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/chrysler/" data-ym-target="root_screen_experience">
+                Chrysler
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/citroen/" data-ym-target="root_screen_experience">
+                Citroen
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/cord/" data-ym-target="root_screen_experience">
+                Cord
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/cupra/" data-ym-target="root_screen_experience">
+                Cupra
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/dacia/" data-ym-target="root_screen_experience">
+                Dacia
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/dadi/" data-ym-target="root_screen_experience">
+                Dadi
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/daewoo/" data-ym-target="root_screen_experience">
+                Daewoo
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/daihatsu/" data-ym-target="root_screen_experience">
+                Daihatsu
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/daimler/" data-ym-target="root_screen_experience">
+                Daimler
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/datsun/" data-ym-target="root_screen_experience">
+                Datsun
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/detomaso/" data-ym-target="root_screen_experience">
+                de Tomaso
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/delorean/" data-ym-target="root_screen_experience">
+                DeLorean
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/derways/" data-ym-target="root_screen_experience">
+                Derways
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/dodge/" data-ym-target="root_screen_experience">
+                Dodge
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/dongfeng/" data-ym-target="root_screen_experience">
+                Dongfeng
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/ds/" data-ym-target="root_screen_experience">
+                DS
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/eagle/" data-ym-target="root_screen_experience">
+                Eagle
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/efini/" data-ym-target="root_screen_experience">
+                Efini
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/eunos/" data-ym-target="root_screen_experience">
+                Eunos
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/evolute/" data-ym-target="root_screen_experience">
+                Evolute
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/exeed/" data-ym-target="root_screen_experience">
+                EXEED
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/faw/" data-ym-target="root_screen_experience">
+                FAW
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/ferrari/" data-ym-target="root_screen_experience">
+                Ferrari
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/fiat/" data-ym-target="root_screen_experience">
+                FIAT
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/ford/" data-ym-target="root_screen_experience">
+                Ford
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/foton/" data-ym-target="root_screen_experience">
+                Foton
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/fso/" data-ym-target="root_screen_experience">
+                FSO
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/gac/" data-ym-target="root_screen_experience">
+                GAC
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/geely/" data-ym-target="root_screen_experience">
+                Geely
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/genesis/" data-ym-target="root_screen_experience">
+                Genesis
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/gmc/" data-ym-target="root_screen_experience">
+                GMC
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/greatwall/" data-ym-target="root_screen_experience">
+                Great Wall
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/hafei/" data-ym-target="root_screen_experience">
+                Hafei
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/haima/" data-ym-target="root_screen_experience">
+                Haima
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/haval/" data-ym-target="root_screen_experience">
+                Haval
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/hawtai/" data-ym-target="root_screen_experience">
+                Hawtai
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/holden/" data-ym-target="root_screen_experience">
+                Holden
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/honda/" data-ym-target="root_screen_experience">
+                Honda
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/huanghai/" data-ym-target="root_screen_experience">
+                Huanghai
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/hummer/" data-ym-target="root_screen_experience">
+                Hummer
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/hyundai/" data-ym-target="root_screen_experience">
+                Hyundai
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/infiniti/" data-ym-target="root_screen_experience">
+                Infiniti
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/ikco/" data-ym-target="root_screen_experience">
+                Iran Khodro
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/isuzu/" data-ym-target="root_screen_experience">
+                Isuzu
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/iveco/" data-ym-target="root_screen_experience">
+                Iveco
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/jac/" data-ym-target="root_screen_experience">
+                JAC
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/jaguar/" data-ym-target="root_screen_experience">
+                Jaguar
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/jeep/" data-ym-target="root_screen_experience">
+                Jeep
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/kia/" data-ym-target="root_screen_experience">
+                KIA
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/ktm/" data-ym-target="root_screen_experience">
+                KTM
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/lada/" data-ym-target="root_screen_experience">
+                LADA
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/lamborghini/" data-ym-target="root_screen_experience">
+                Lamborghini
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/lancia/" data-ym-target="root_screen_experience">
+                Lancia
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/landrover/" data-ym-target="root_screen_experience">
+                Land Rover
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/ldv/" data-ym-target="root_screen_experience">
+                LDV
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/lexus/" data-ym-target="root_screen_experience">
+                Lexus
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/lifan/" data-ym-target="root_screen_experience">
+                Lifan
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/ligier/" data-ym-target="root_screen_experience">
+                Ligier
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/lincoln/" data-ym-target="root_screen_experience">
+                Lincoln
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/lotus/" data-ym-target="root_screen_experience">
+                Lotus
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/luxgen/" data-ym-target="root_screen_experience">
+                Luxgen
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/marussia/" data-ym-target="root_screen_experience">
+                Marussia
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/maserati/" data-ym-target="root_screen_experience">
+                Maserati
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/maybach/" data-ym-target="root_screen_experience">
+                Maybach
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/mazda/" data-ym-target="root_screen_experience">
+                Mazda
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/mercedes/" data-ym-target="root_screen_experience">
+                Mercedes-Benz
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/mercury/" data-ym-target="root_screen_experience">
+                Mercury
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/merkur/" data-ym-target="root_screen_experience">
+                Merkur
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/mg/" data-ym-target="root_screen_experience">
+                MG
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/mini/" data-ym-target="root_screen_experience">
+                MINI
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/mitsubishi/" data-ym-target="root_screen_experience">
+                Mitsubishi
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/morgan/" data-ym-target="root_screen_experience">
+                Morgan
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/morris/" data-ym-target="root_screen_experience">
+                Morris
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/nio/" data-ym-target="root_screen_experience">
+                NIO
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/nissan/" data-ym-target="root_screen_experience">
+                Nissan
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/noble/" data-ym-target="root_screen_experience">
+                Noble
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/nysa/" data-ym-target="root_screen_experience">
+                Nysa
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/oldsmobile/" data-ym-target="root_screen_experience">
+                Oldsmobile
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/omoda/" data-ym-target="root_screen_experience">
+                Omoda
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/opel/" data-ym-target="root_screen_experience">
+                Opel
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/peugeot/" data-ym-target="root_screen_experience">
+                Peugeot
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/plymouth/" data-ym-target="root_screen_experience">
+                Plymouth
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/polestar/" data-ym-target="root_screen_experience">
+                Polestar
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/pontiac/" data-ym-target="root_screen_experience">
+                Pontiac
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/porsche/" data-ym-target="root_screen_experience">
+                Porsche
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/proton/" data-ym-target="root_screen_experience">
+                Proton
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/ravon/" data-ym-target="root_screen_experience">
+                Ravon
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/renault/" data-ym-target="root_screen_experience">
+                Renault
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/rivian/" data-ym-target="root_screen_experience">
+                Rivian
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/rollsroyce/" data-ym-target="root_screen_experience">
+                Rolls-Royce
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/rover/" data-ym-target="root_screen_experience">
+                Rover
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/saab/" data-ym-target="root_screen_experience">
+                Saab
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/samsung/" data-ym-target="root_screen_experience">
+                Samsung
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/saturn/" data-ym-target="root_screen_experience">
+                Saturn
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/scion/" data-ym-target="root_screen_experience">
+                Scion
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/seat/" data-ym-target="root_screen_experience">
+                SEAT
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/simca/" data-ym-target="root_screen_experience">
+                Simca
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/skoda/" data-ym-target="root_screen_experience">
+                Skoda
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/skywell/" data-ym-target="root_screen_experience">
+                Skywell
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/sma/" data-ym-target="root_screen_experience">
+                SMA
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/smart/" data-ym-target="root_screen_experience">
+                Smart
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/ssangyong/" data-ym-target="root_screen_experience">
+                SsangYong
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/subaru/" data-ym-target="root_screen_experience">
+                Subaru
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/suzuki/" data-ym-target="root_screen_experience">
+                Suzuki
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/talbot/" data-ym-target="root_screen_experience">
+                Talbot
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/tank/" data-ym-target="root_screen_experience">
+                Tank
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/tata/" data-ym-target="root_screen_experience">
+                Tata
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/tatra/" data-ym-target="root_screen_experience">
+                Tatra
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/tesla/" data-ym-target="root_screen_experience">
+                Tesla
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/toyota/" data-ym-target="root_screen_experience">
+                Toyota
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/trabant/" data-ym-target="root_screen_experience">
+                Trabant
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/vauxhall/" data-ym-target="root_screen_experience">
+                Vauxhall
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/volkswagen/" data-ym-target="root_screen_experience">
+                Volkswagen
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/volvo/" data-ym-target="root_screen_experience">
+                Volvo
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/voyah/" data-ym-target="root_screen_experience">
+                Voyah
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/wartburg/" data-ym-target="root_screen_experience">
+                Wartburg
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/wiesmann/" data-ym-target="root_screen_experience">
+                Wiesmann
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/willys/" data-ym-target="root_screen_experience">
+                Willys
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/xpeng/" data-ym-target="root_screen_experience">
+                Xpeng
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/zotye/" data-ym-target="root_screen_experience">
+                Zotye
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/zx/" data-ym-target="root_screen_experience">
+                ZX
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/avtokam/" data-ym-target="root_screen_experience">
+                Автокам
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/vis/" data-ym-target="root_screen_experience">
+                ВИС
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/gaz/" data-ym-target="root_screen_experience">
+                ГАЗ
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/eraz/" data-ym-target="root_screen_experience">
+                ЕрАЗ
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/zaz/" data-ym-target="root_screen_experience">
+                ЗАЗ
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/zil/" data-ym-target="root_screen_experience">
+                ЗИЛ
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/izh/" data-ym-target="root_screen_experience">
+                ИЖ
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/kamaz/" data-ym-target="root_screen_experience">
+                КАМАЗ
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/luaz/" data-ym-target="root_screen_experience">
+                ЛуАЗ
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/moskvich/" data-ym-target="root_screen_experience">
+                Москвич
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/raf/" data-ym-target="root_screen_experience">
+                РАФ
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/seaz/" data-ym-target="root_screen_experience">
+                СеАЗ
+            </a>
+            <a class="c-index-makes__item c-link c-link--text is-full" href="/experience/tagaz/" data-ym-target="root_screen_experience">
+                ТагАЗ
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/uaz/" data-ym-target="root_screen_experience">
+                УАЗ
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/other/" data-ym-target="root_screen_experience">
+                Другие
+            </a>
+            <a class="c-index-makes__item c-link c-link--text" href="/experience/selfmade/" data-ym-target="root_screen_experience">
+                Самоделки
+            </a>
+    </div>
+    <button class="x-box-more" data-action="filter.full" data-slot="filter.when-filtered">Все марки машин</button>
+</div>
+<script>
+    
+    document.querySelector('[data-slot="filter.root"]').style.paddingRight = '.1px';
+</script>
+
+    <div class="ctx-reset x-box o-f u-mobile-noselect" data-role="scrolltracking" data-target="drom_main_view">
+        <div class="o-group o-group--justify o-group--top o-b">
+            <h3 class="x-header">Машины в продаже</h3>
+            <div><a class="drom-logo" href="https://auto.drom.ru/?utm_source=drive2&amp;utm_medium=cpt&amp;utm_campaign=drom_00_russia_integration_desktop_media_handmade&amp;utm_content=desktop_integration_main-page-guest" rel="noopener" target="_blank" data-ym-target="drom_main_click"></a></div>
+        </div>
+        <div class="o-secondary o-grid o-grid--3 o-grid--s" >
+                <a class="ctx-dark drom-item drom-item--index" href="https://cheboksary.drom.ru/volkswagen/polo/49369425.html?utm_source=drive2&amp;utm_medium=cpt&amp;utm_campaign=drom_00_russia_integration_desktop_media_handmade&amp;utm_content=desktop_integration_main-page-guest" rel="noopener" target="_blank" data-ym-target="drom_main_click">
+<div class="o-img is-cover is-rounded has-darkening-hover u-vignette drom-item__pic" data-size="600,802"><span style="display: block; padding-top: 56.25%"></span><img src="https://s1.auto.drom.ru/photo/_aI-NUcJlA2hZZpVNJbC0BsPS4vrhOLtFQWx_jnTCv60YhMZ40tIXBNhcbcrsCAKEgn5EYLH6Kebj2Uk0O5LVqYDlF8.jpg" loading="lazy" width="600" height="802"></div>
+                    <div class="drom-item__location">Чебоксары</div>
+                    <h4 class="drom-item__caption">Volkswagen Polo, 2015</h4>
+                    <div class="drom-item__price">430 000 ₽</div>
+                </a>
+                <a class="ctx-dark drom-item drom-item--index" href="https://kazan.drom.ru/nissan/terrano/49976694.html?utm_source=drive2&amp;utm_medium=cpt&amp;utm_campaign=drom_00_russia_integration_desktop_media_handmade&amp;utm_content=desktop_integration_main-page-guest" rel="noopener" target="_blank" data-ym-target="drom_main_click">
+<div class="o-img is-cover is-rounded has-darkening-hover u-vignette drom-item__pic" data-size="600,1367"><span style="display: block; padding-top: 56.25%"></span><img src="https://s1.auto.drom.ru/photo/uYoFEmNBlZW3THLESZaV3uY7SVNeXew8aetzT6n5ri8zH5Z_Jq-xp3q05mGlK4vF_0wjO_qqIrx7Wdnr91MkuDPeW10.jpg" loading="lazy" width="600" height="1367"></div>
+                    <div class="drom-item__location">Казань</div>
+                    <h4 class="drom-item__caption">Nissan Terrano, 2015</h4>
+                    <div class="drom-item__price">960 000 ₽</div>
+                </a>
+                <a class="ctx-dark drom-item drom-item--index" href="https://vyatskie-polyany.drom.ru/lada/2114/49371692.html?utm_source=drive2&amp;utm_medium=cpt&amp;utm_campaign=drom_00_russia_integration_desktop_media_handmade&amp;utm_content=desktop_integration_main-page-guest" rel="noopener" target="_blank" data-ym-target="drom_main_click">
+<div class="o-img is-cover is-rounded has-darkening-hover u-vignette drom-item__pic" data-size="600,450"><span style="display: block; padding-top: 56.25%"></span><img src="https://s1.auto.drom.ru/photo/2OKHq0VRLtbUkSsYNadYOLkIcEcN8zDxlFKhPXSS09ovQtQcu_bhu44KaC7URI36-9iOFGSkUd9Q14IxCT_F-vuQRX4.jpg" loading="lazy" width="600" height="450"></div>
+                    <div class="drom-item__location">Вятские Поляны</div>
+                    <h4 class="drom-item__caption">Лада 2114 Самара, 2007</h4>
+                    <div class="drom-item__price">165 000 ₽</div>
+                </a>
+                <a class="ctx-dark drom-item drom-item--index" href="https://kazan.drom.ru/opel/astra/48123702.html?utm_source=drive2&amp;utm_medium=cpt&amp;utm_campaign=drom_00_russia_integration_desktop_media_handmade&amp;utm_content=desktop_integration_main-page-guest" rel="noopener" target="_blank" data-ym-target="drom_main_click">
+<div class="o-img is-cover is-rounded has-darkening-hover u-vignette drom-item__pic" data-size="600,449"><span style="display: block; padding-top: 56.25%"></span><img src="https://s1.auto.drom.ru/photo/3t2ZnzUWXjDB-NixH9hMQKqq3zBIYk93OoK5ZY6sPSX0TN7d8lBnlIlu5Hk7TzISf5QXlp-MoX9dJjpDaMp4c4wuuX8.jpg" loading="lazy" width="600" height="449"></div>
+                    <div class="drom-item__location">Казань</div>
+                    <h4 class="drom-item__caption">Opel Astra, 2011</h4>
+                    <div class="drom-item__price">499 000 ₽</div>
+                </a>
+                <a class="ctx-dark drom-item drom-item--index" href="https://kazan.drom.ru/bmw/x5/50326704.html?utm_source=drive2&amp;utm_medium=cpt&amp;utm_campaign=drom_00_russia_integration_desktop_media_handmade&amp;utm_content=desktop_integration_main-page-guest" rel="noopener" target="_blank" data-ym-target="drom_main_click">
+<div class="o-img is-cover is-rounded has-darkening-hover u-vignette drom-item__pic" data-size="653,435"><span style="display: block; padding-top: 56.25%"></span><img src="https://s1.auto.drom.ru/photo/1BJAfBY1vCifgBfzPqUpFGMlv9PNsAyjSHtcHAeEi9pQ5h2dQR-QpmDnsLKXdMnzkNMu76a2LpgxIUa5475MyOat4EI.jpg" loading="lazy" width="653" height="435"></div>
+                    <div class="drom-item__location">Казань</div>
+                    <h4 class="drom-item__caption">BMW X5, 2010</h4>
+                    <div class="drom-item__price">1 579 000 ₽</div>
+                </a>
+                <a class="ctx-dark drom-item drom-item--index" href="https://kazan.drom.ru/peugeot/307/50328367.html?utm_source=drive2&amp;utm_medium=cpt&amp;utm_campaign=drom_00_russia_integration_desktop_media_handmade&amp;utm_content=desktop_integration_main-page-guest" rel="noopener" target="_blank" data-ym-target="drom_main_click">
+<div class="o-img is-cover is-rounded has-darkening-hover u-vignette drom-item__pic" data-size="600,450"><span style="display: block; padding-top: 56.25%"></span><img src="https://s1.auto.drom.ru/photo/7qynuqlNyOspJABG8To5YAggZFRqL82rfxmlD3hfOBDkkdPc6fdpRjtudX2fl4ZXXjfUOn91SxosPuYGc4ls5ejXHYs.jpg" loading="lazy" width="600" height="450"></div>
+                    <div class="drom-item__location">Казань</div>
+                    <h4 class="drom-item__caption">Peugeot 307, 2004</h4>
+                    <div class="drom-item__price">205 000 ₽</div>
+                </a>
+        </div>
+        <a class="x-box-more" href="https://kazan.drom.ru/auto/?distance=200&amp;ph=1&amp;unsold=1&amp;utm_source=drive2&amp;utm_medium=cpt&amp;utm_campaign=drom_00_russia_integration_desktop_media_handmade&amp;utm_content=desktop_integration_main-page-guest" rel="noopener" target="_blank" data-ym-target="drom_main_click">Посмотреть больше машин на Дроме</a>
+    </div>
+
+        </main>
+            <footer class="l-footer">
+            <div class="ctx-branded-dark footer">
+                <div class="footer__content">
+                    <div class="footer__bg">
+                        <div class="footer__body">
+                                <div class="footer__links">
+                                        <p>
+                                            <a class="c-link c-link--current" href="/help/" data-testid="footer-links.help">Помощь</a>
+                                            <a class="c-link c-link--current" href="/help/support?topic=none" data-testid="footer-links.support">Написать в&nbsp;поддержку</a>
+                                            <a class="c-link c-link--current" href="/o/BrandSupport" data-testid="footer-links.brand">Символика</a>
+                                                <a class="c-link c-link--current" href="https://vk.com/drive2" rel="noopener" target="_blank" data-testid="footer-links.vk">ВКонтакте</a>
+                                                <a class="c-link c-link--current" href="https://t.me/drive2russia" rel="noopener" target="_blank" data-testid="footer-links.telegram">Телеграм</a>
+                                            <a class="c-link c-link--current" href="/mobile/" data-testid="footer-links.apps">Мобильный DRIVE2</a>
+                                        </p>
+                                        <p>
+                                            <a class="c-link c-link--current" href="/about/" data-testid="footer-links.about">О проекте</a>
+                                            <a class="c-link c-link--current" href="/jobs/" data-testid="footer-links.jobs">Вакансии</a>
+                                            <a class="c-link c-link--current" href="/business/" data-testid="footer-links.ba" data-ym-target="ba_promo_fromfooter">Бизнес-аккаунт</a>
+                                            <a class="c-link c-link--current" href="/promo/" data-testid="footer-links.promo">Реклама и сотрудничество</a>
+                                        </p>
+                                        <p>
+                                            <a class="c-link c-link--current" href="/rules/" data-testid="footer-links.rules">Правила сайта</a>
+                                            <a class="c-link c-link--current" href="/agreement/" data-testid="footer-links.agreement">Пользовательское соглашение</a>
+                                            <a class="c-link c-link--current" href="/data-use/" data-testid="footer-links.data-use">Политика обработки персональных данных</a>
+                                        </p>
+                                </div>
+                            <div class="footer__copyrights">
+                                    © DRIVE2.RU, 2023
+                                    <script type="application/ld+json">
+                                    {
+                                        "@context": "https://schema.org",
+                                        "@type": "Organization",
+                                        "url": "https://www.drive2.ru",
+                                        "logo": "https://www.drive2.ru/assets/images/res/d-logo.png"
+                                    }
+                                    </script>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+
+            <script>
+                (function(win, doc, cb){
+                    (win[cb] = win[cb] || []).push(function() {
+                        try {
+                            tnsCounterDrive_ru = new TNS.TnsCounter({
+                            'account':'drive_ru',
+                            'tmsec': 'drive2_total'
+                            });
+                        } catch(e){}
+                    });
+
+                    var tnsscript = doc.createElement('script');
+                    tnsscript.type = 'text/javascript';
+                    tnsscript.async = true;
+                    tnsscript.src = ('https:' == doc.location.protocol ? 'https:' : 'http:') +
+                        '//www.tns-counter.ru/tcounter.js';
+                    var s = doc.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(tnsscript, s);
+                })(window, this.document,'tnscounter_callback');
+            </script>
+            <noscript>
+                <img src="//www.tns-counter.ru/V13a****drive_ru/ru/UTF-8/tmsec=drive2_total/" width="0" height="0" alt="" />
+            </noscript>
+</body>
+</html>
+

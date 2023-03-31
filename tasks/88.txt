@@ -1,0 +1,1059 @@
+<!DOCTYPE html><script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="https://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=b9f848c06fcba7eaf305d4a7cb7a1b98"></script><!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<title>2 Kinds of People</title>
+<meta name="description" content="There are only 2 kinds of people in this world. Which one are you?" />
+
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="2 Kinds of People" />
+<meta property="og:description" content="There are only 2 kinds of people in this world. Which one are you?" />
+<meta property="og:url" content="http://2kindsofpeople.tumblr.com" />
+<meta property="og:site_name" content="2 Kinds of People" />
+<meta property="fb:app_id" content="360145997782470" />
+<meta property="og:image" content="https://static.tumblr.com/acgqklj/WtIp222nz/2kindsface.jpg" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="There are only 2 kinds of people in this world. Which one are you?" />
+<meta name="twitter:title" content="2 Kinds of People" />
+<meta name="twitter:site" content="@bigboldballsy" />
+<meta name="twitter:image" content="https://static.tumblr.com/acgqklj/WtIp222nz/2kindsface.jpg" />
+
+<script src="https://use.fontawesome.com/2600a500f4.js"></script>
+
+<style>figure{margin:0}.tmblr-iframe{position:absolute}.tmblr-iframe.hide{display:none}.tmblr-iframe--amp-cta-button{visibility:hidden;position:fixed;bottom:10px;left:50%;transform:translateX(-50%);z-index:100}.tmblr-iframe--amp-cta-button.tmblr-iframe--loaded{visibility:visible;animation:iframe-app-cta-transition .2s ease-out}</style><link rel="stylesheet" media="screen" href="https://assets.tumblr.com/client/prod/standalone/blog-network-npf/index.build.css?_v=c451b85cf126275a22cf7ca62ddacdc0"><link rel="alternate" href="android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=2kindsofpeople" /><link rel="alternate" href="ios-app://305343404/tumblr/x-callback-url/blog?blogName=2kindsofpeople" /><script
+    defer
+    type="application/javascript"
+    id="bilmur"
+    data-provider="tumblr.com"
+    data-service="blognetwork"
+    data-customproperties='{"theme": ""}'
+    nonce="5EiLIsvYP1abkxtiiRfZ5rMCd8"
+    src="https://s0.wp.com/wp-content/js/bilmur.min.js?m=202313"
+  ></script><script src="https://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=a8fadfa499d8cb7c3f8eefdf0b1adfdd"></script><link rel="stylesheet" type="text/css" href="https://assets.tumblr.com/fonts/gibson/stylesheet.css?v=3"><meta name="keywords" content="104,103,102,101,100" /><!-- GOOGLE CAROUSEL --><script type="application/ld+json">
+	{"@type":"ItemList","url":"https:\/\/2kindsofpeople.tumblr.com","itemListElement":[{"@type":"ListItem","position":1,"url":"https:\/\/2kindsofpeople.tumblr.com\/post\/176088583356"},{"@type":"ListItem","position":2,"url":"https:\/\/2kindsofpeople.tumblr.com\/post\/175775875961"},{"@type":"ListItem","position":3,"url":"https:\/\/2kindsofpeople.tumblr.com\/post\/175088703461"},{"@type":"ListItem","position":4,"url":"https:\/\/2kindsofpeople.tumblr.com\/post\/173681588451"},{"@type":"ListItem","position":5,"url":"https:\/\/2kindsofpeople.tumblr.com\/post\/171135529366\/end-of-volume-01"},{"@type":"ListItem","position":6,"url":"https:\/\/2kindsofpeople.tumblr.com\/post\/170020912686\/get-the-book"},{"@type":"ListItem","position":7,"url":"https:\/\/2kindsofpeople.tumblr.com\/post\/168292544086"},{"@type":"ListItem","position":8,"url":"https:\/\/2kindsofpeople.tumblr.com\/post\/167784987121\/battle-for-the-net"},{"@type":"ListItem","position":9,"url":"https:\/\/2kindsofpeople.tumblr.com\/post\/167210545196"},{"@type":"ListItem","position":10,"url":"https:\/\/2kindsofpeople.tumblr.com\/post\/165558701951"}],"@context":"http:\/\/schema.org"}</script><link rel="canonical" href="https://2kindsofpeople.tumblr.com" /></head>
+
+<meta charset="UTF-8">
+
+<title>
+    2 Kinds of People
+</title>
+
+<link rel="shortcut icon" href="https://64.media.tumblr.com/avatar_e45d7983e791_128.pnj">
+<link rel="apple-touch-icon" href="https://64.media.tumblr.com/avatar_e45d7983e791_128.pnj">
+<link rel="alternate" type="application/rss+xml" href="https://2kindsofpeople.tumblr.com/rss">
+<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Merriweather:400,700,400italic' rel='stylesheet' type='text/css'>
+		
+<style type="text/css">
+			
+html {
+    background-color: #fff;
+    -webkit-font-smoothing: antialiased;
+}
+
+body {
+    color: #000;
+    font-family: 'Helvetica Neue', "Arial", sans-serif;
+    font-size: 12px;
+    line-height:1.8em;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Montserrat', 'Helvetica Neue', "Arial", sans-serif;
+    font-weight: 400;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 48px;
+    line-height: 48px;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-size: 32px;
+    line-height: 38px;
+}
+
+h3 {
+    font-size: 22px;
+    line-height: 28px;
+}
+
+a:link, a:visited {
+    color: #000;
+    text-decoration: none;
+}
+     
+a:hover, a:active {
+    color: #ccc;
+}
+
+hr{
+    border:0 #aaa solid;
+    border-top-width:1px;
+    clear:both;
+    height:0;
+}
+
+ol{
+    list-style:decimal
+}
+
+ul{ 
+    list-style:disc;
+    margin-left:0px;
+}
+
+li{
+    margin-left:0px
+}
+     
+p,dl,hr,h1,h2,h3,h4,h5,h6,ol,ul,pre,table,address,fieldset {
+    margin: 0 0 15px 0;
+}
+    
+.wrapper {
+    max-width: 728px;
+    margin: 0 auto;
+}
+
+.header { 
+    margin:0 auto;
+}
+    
+.logo {
+    margin: 50px 0;
+    text-align: center;
+}
+
+.logo img{
+    width: 400px;
+}
+    
+.description {
+    text-align: center;
+}
+    
+.nav { 
+    padding-bottom: 10px;
+    margin-top: -30px;
+    text-align: center;
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: 'Montserrat', 'Helvetica Neue', "Arial", sans-serif;
+    color: #ccc;
+    }
+
+.nav a {
+    color: #ccc;
+}
+
+.nav a:hover, a:active {
+    color: #000;
+}
+        
+.nav li {
+    margin: 10px;
+    display: inline;
+}
+    
+.posts {
+    min-width: 728px;
+    padding-top: 40px;
+}
+    
+iframe {
+    max-width: 100%;
+}
+    
+.meta {
+    margin-top: -20px;
+    display: block;
+    height:14px;
+    line-height:1em;
+    font-family: 'Montserrat', 'Helvetica Neue', "Arial", sans-serif;
+    padding-bottom:10px;
+    font-size:12px;
+    font-weight: bold;
+    color: #ccc;
+    text-transform: uppercase;
+}
+
+.meta a {
+    color: #ccc;
+}
+
+.meta a:hover {
+    color: #000;
+}
+    
+.date {
+    margin-right: 0px;
+}
+    
+.metanotes {
+    margin-top: 3px;
+    margin-right: 15px;
+    float: left;
+}
+
+.caption {
+    color: #000;
+}
+
+.caption a {
+    color: #000;
+}
+    
+.caption a:hover {
+    color: #ccc;
+}
+    
+.quote {
+    font-size: 30px;
+    font-family: 'Merriweather', serif;
+    letter-spacing: -1px;
+    line-height: 1.2em;
+    padding-bottom: 10px;
+}
+    
+blockquote {
+    margin-left: 20px;
+    padding-left: 15px;
+    border-left: 3px #ccc solid;
+}
+    
+.chat {
+    list-style: none;
+    padding: 0;
+}
+    
+.tags {
+    margin-top: 10px;
+}
+    
+.tags a {
+    color: #ccc;
+}
+    
+.tags ul {
+    list-style-type: none;
+    display:inline;
+    margin: 0;
+    padding: 0;
+}
+    
+.tags li {
+    margin: 0;
+    padding-right: 10px;
+    display:inline;
+}
+    
+.footer {
+    text-align: center;
+    padding-bottom: 25px;
+    padding-top: 20px;
+    font-family: 'Montserrat', 'Helvetica Neue', "Arial", sans-serif;
+    font-weight: bold;
+    color: #ccc;
+    text-transform: uppercase;
+}
+    
+.notes {
+    list-style: none;
+    padding: 20px 0 50px 0;
+    margin: 30px 0 0 0;
+    line-height: 2.2em;
+}
+     
+.notes li {
+    margin: 0;
+    color:#ccc;
+}
+
+.notes li a {
+    margin: 0;
+    color:#ccc;
+}
+
+.notes li a:hover {
+    margin: 0;
+    color:#000;
+}
+
+.notes .avatar {
+    margin: 0 5px 0 0;
+    position: relative;
+    top: 5px;
+}
+
+.notes blockquote {
+    margin: 10px 0 10px 0px;
+}
+
+.media {
+    width: 728px;
+    margin-bottom: 20px;
+}
+     
+.posts img {
+    width: 100%;
+}
+
+.header-posts {
+    width: 728px;
+}
+
+.header-posts img {
+    width: 728px;
+}
+    
+.pagination {
+    font-size: 12px;
+    text-align: center;
+    font-weight: 700;
+    font-family: 'Montserrat', 'Helvetica Neue', "Arial", sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.pagination a {
+    color: #000;
+}
+
+.pagination a:hover {
+    color: #ccc;
+     }
+
+
+.pagination ul {
+    list-style: none;
+    padding: 10px 15px;
+    margin-top: 20px;
+}
+
+.pagination li {
+    margin: 0 2px 0 2px;
+    display: inline;
+}
+
+#pagination a:link, #pageNav a:visited {
+    padding: 0;
+    margin: 0 2px;
+}
+
+#pagination a:hover, #pageNav a:active, #pageNav a.active:link, #pageNav a.active:visited {
+    color: #ccc;
+}
+
+.custom-like-button {
+    position: relative;
+    display: block;
+    cursor: pointer;
+    display: inline-block;
+    float: right;
+    font-size: 16px;
+    padding: 3px 0 0 0px;
+}
+
+.mainad {
+    margin-top:30px;
+    width:728px;
+}
+
+.donate a {
+    color: #000;
+}
+
+.donate a:hover {
+    color: #ccc;
+}
+
+
+
+</style>
+</head>
+    
+<body>
+
+<div class="wrapper">
+<div class="header">
+<div class="logo">
+    <a href="/"><img src="https://static.tumblr.com/acgqklj/xHPp21x8x/2kindslogo.png"></a>
+</div>
+
+<div class="nav">
+    
+        <li><a href="/about">About</a></li>
+    
+    
+        <li><a href="/submit" >Contact</a></li>
+    
+    <li><a href="/book">Book</a></li>
+    <li><a href="http://www.twitter.com/inoffensive" target="_blank">Twitter</a></li>
+    <span class="donate">
+    <li><a href="http://buymeacoffee.com/inoffensive" target="_blank">Buy me a coffee</a></li>
+    </span>
+</div>
+
+<!-- CONTENT -->    
+
+<div class = "autopagerize_page_element" >
+
+
+
+    <div class="posts">
+    
+        <div class="media"> <a href="https://2kindsofpeople.tumblr.com/image/176088583356"><a href="https://2kindsofpeople.tumblr.com/post/176088583356"><img src="https://64.media.tumblr.com/381d048b69965bf56daa396718e98c11/tumblr_pc610l76UG1urogowo1_1280.jpg" alt=""/></a></div>
+    
+          
+    
+    </div>
+           
+    <div class="header-posts">
+    
+           
+     
+          
+          
+          
+    
+    </div>
+
+<div class="meta">
+    <div class="metanotes">
+        
+        #104
+        
+    </div>
+           
+<div class="metanotes">
+    
+    <span class="date">20 Jul 2018</span>
+    
+</div>           
+
+    <div class="metanotes">
+        <div class="caption">  
+            
+        </div>
+    </div>
+
+      
+        <div class="custom-like-button">
+  		<a a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;" href="https://www.facebook.com/sharer.php?u=https://2kindsofpeople.tumblr.com/post/176088583356&amp;t=2 Kinds of People"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+		<a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;" href="https://twitter.com/share?url=https://2kindsofpeople.tumblr.com/post/176088583356;text=2 Kinds of People (via @inoffensive)"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
+        <a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;" href="https://www.tumblr.com/share/link?url=https://2kindsofpeople.tumblr.com/post/176088583356&amp;title=2 Kinds of People"><i class="fa fa-tumblr-square" aria-hidden="true"></i></a>
+</div>
+    
+
+    </div>
+        
+    
+
+    
+
+
+
+    <div class="posts">
+    
+        <div class="media"> <a href="https://2kindsofpeople.tumblr.com/image/175775875961"><a href="https://2kindsofpeople.tumblr.com/post/175775875961"><img src="https://64.media.tumblr.com/a5ef21cac6a64fa2d6055a6bcebc0a87/tumblr_pbp7t2EImn1urogowo1_1280.jpg" alt=""/></a></div>
+    
+          
+    
+    </div>
+           
+    <div class="header-posts">
+    
+           
+     
+          
+          
+          
+    
+    </div>
+
+<div class="meta">
+    <div class="metanotes">
+        
+        #103
+        
+    </div>
+           
+<div class="metanotes">
+    
+    <span class="date">11 Jul 2018</span>
+    
+</div>           
+
+    <div class="metanotes">
+        <div class="caption">  
+            
+        </div>
+    </div>
+
+      
+        <div class="custom-like-button">
+  		<a a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;" href="https://www.facebook.com/sharer.php?u=https://2kindsofpeople.tumblr.com/post/175775875961&amp;t=2 Kinds of People"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+		<a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;" href="https://twitter.com/share?url=https://2kindsofpeople.tumblr.com/post/175775875961;text=2 Kinds of People (via @inoffensive)"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
+        <a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;" href="https://www.tumblr.com/share/link?url=https://2kindsofpeople.tumblr.com/post/175775875961&amp;title=2 Kinds of People"><i class="fa fa-tumblr-square" aria-hidden="true"></i></a>
+</div>
+    
+
+    </div>
+        
+    
+
+    
+
+
+
+    <div class="posts">
+    
+        <div class="media"> <a href="https://2kindsofpeople.tumblr.com/image/175088703461"><a href="https://2kindsofpeople.tumblr.com/post/175088703461"><img src="https://64.media.tumblr.com/32d1a0ba804182e877d4983d934108fb/tumblr_pan8wkBsVP1urogowo1_1280.jpg" alt=""/></a></div>
+    
+          
+    
+    </div>
+           
+    <div class="header-posts">
+    
+           
+     
+          
+          
+          
+    
+    </div>
+
+<div class="meta">
+    <div class="metanotes">
+        
+        #102
+        
+    </div>
+           
+<div class="metanotes">
+    
+    <span class="date">20 Jun 2018</span>
+    
+</div>           
+
+    <div class="metanotes">
+        <div class="caption">  
+            
+        </div>
+    </div>
+
+      
+        <div class="custom-like-button">
+  		<a a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;" href="https://www.facebook.com/sharer.php?u=https://2kindsofpeople.tumblr.com/post/175088703461&amp;t=2 Kinds of People"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+		<a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;" href="https://twitter.com/share?url=https://2kindsofpeople.tumblr.com/post/175088703461;text=2 Kinds of People (via @inoffensive)"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
+        <a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;" href="https://www.tumblr.com/share/link?url=https://2kindsofpeople.tumblr.com/post/175088703461&amp;title=2 Kinds of People"><i class="fa fa-tumblr-square" aria-hidden="true"></i></a>
+</div>
+    
+
+    </div>
+        
+    
+
+    
+
+
+
+    <div class="posts">
+    
+        <div class="media"> <a href="https://2kindsofpeople.tumblr.com/image/173681588451"><a href="https://2kindsofpeople.tumblr.com/post/173681588451"><img src="https://64.media.tumblr.com/5f77bd9dff4e24ee79de2dde940a2cd3/tumblr_p8dn0uXok51urogowo1_1280.jpg" alt=""/></a></div>
+    
+          
+    
+    </div>
+           
+    <div class="header-posts">
+    
+           
+     
+          
+          
+          
+    
+    </div>
+
+<div class="meta">
+    <div class="metanotes">
+        
+        #101
+        
+    </div>
+           
+<div class="metanotes">
+    
+    <span class="date">07 May 2018</span>
+    
+</div>           
+
+    <div class="metanotes">
+        <div class="caption">  
+            
+        </div>
+    </div>
+
+      
+        <div class="custom-like-button">
+  		<a a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;" href="https://www.facebook.com/sharer.php?u=https://2kindsofpeople.tumblr.com/post/173681588451&amp;t=2 Kinds of People"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+		<a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;" href="https://twitter.com/share?url=https://2kindsofpeople.tumblr.com/post/173681588451;text=2 Kinds of People (via @inoffensive)"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
+        <a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;" href="https://www.tumblr.com/share/link?url=https://2kindsofpeople.tumblr.com/post/173681588451&amp;title=2 Kinds of People"><i class="fa fa-tumblr-square" aria-hidden="true"></i></a>
+</div>
+    
+
+    </div>
+        
+    
+
+    
+
+
+
+    <div class="posts">
+    
+        <div class="media"> <a href="https://2kindsofpeople.tumblr.com/image/171135529366"><a href="https://2kindsofpeople.tumblr.com/post/171135529366/end-of-volume-01"><img src="https://64.media.tumblr.com/dbdcde9fb60d8cc9c9732b308fda758c/tumblr_p4hxfzMPMZ1urogowo1_1280.jpg" alt="END OF VOLUME 01"/></a></div>
+    
+          
+    
+    </div>
+           
+    <div class="header-posts">
+    
+           
+     
+          
+          
+          
+    
+    </div>
+
+<div class="meta">
+    <div class="metanotes">
+        
+        #100
+        
+    </div>
+           
+<div class="metanotes">
+    
+    <span class="date">21 Feb 2018</span>
+    
+</div>           
+
+    <div class="metanotes">
+        <div class="caption">  
+            <p><a href="http://2kindsofpeople.tumblr.com/100">END OF VOLUME 01</a></p>
+        </div>
+    </div>
+
+      
+        <div class="custom-like-button">
+  		<a a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;" href="https://www.facebook.com/sharer.php?u=https://2kindsofpeople.tumblr.com/post/171135529366/end-of-volume-01&amp;t=2 Kinds of People"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+		<a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;" href="https://twitter.com/share?url=https://2kindsofpeople.tumblr.com/post/171135529366/end-of-volume-01;text=2 Kinds of People (via @inoffensive)"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
+        <a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;" href="https://www.tumblr.com/share/link?url=https://2kindsofpeople.tumblr.com/post/171135529366/end-of-volume-01&amp;title=2 Kinds of People"><i class="fa fa-tumblr-square" aria-hidden="true"></i></a>
+</div>
+    
+
+    </div>
+        
+    
+
+    
+        <div class="mainad">
+    <a href="https://www.workman.com/products/2-kinds-of-people" target="_blank"><img src="https://static.tumblr.com/acgqklj/nG5pc63bc/untitled-1.jpg" style="width:728px"></a>
+    </div>
+    
+
+
+
+    <div class="posts">
+    
+        <div class="media"> <a href="https://2kindsofpeople.tumblr.com/image/170020912686"><a href="https://2kindsofpeople.tumblr.com/post/170020912686/get-the-book"><img src="https://64.media.tumblr.com/c1ab5e51e671180a367e589c1a1719f8/tumblr_p2zk3ioCYU1urogowo1_1280.jpg" alt="get the book"/></a></div>
+    
+          
+    
+    </div>
+           
+    <div class="header-posts">
+    
+           
+     
+          
+          
+          
+    
+    </div>
+
+<div class="meta">
+    <div class="metanotes">
+        
+        #099
+        
+    </div>
+           
+<div class="metanotes">
+    
+    <span class="date">22 Jan 2018</span>
+    
+</div>           
+
+    <div class="metanotes">
+        <div class="caption">  
+            <p><a href="https://2kindsofpeople.tumblr.com/book" target="_blank">get the book</a></p>
+        </div>
+    </div>
+
+      
+        <div class="custom-like-button">
+  		<a a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;" href="https://www.facebook.com/sharer.php?u=https://2kindsofpeople.tumblr.com/post/170020912686/get-the-book&amp;t=2 Kinds of People"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+		<a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;" href="https://twitter.com/share?url=https://2kindsofpeople.tumblr.com/post/170020912686/get-the-book;text=2 Kinds of People (via @inoffensive)"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
+        <a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;" href="https://www.tumblr.com/share/link?url=https://2kindsofpeople.tumblr.com/post/170020912686/get-the-book&amp;title=2 Kinds of People"><i class="fa fa-tumblr-square" aria-hidden="true"></i></a>
+</div>
+    
+
+    </div>
+        
+    
+
+    
+
+
+
+    <div class="posts">
+    
+        <div class="media"> <a href="https://2kindsofpeople.tumblr.com/image/168292544086"><a href="https://2kindsofpeople.tumblr.com/post/168292544086"><img src="https://64.media.tumblr.com/a17781141e8957ce59402b543330b178/tumblr_p0lmtqYecN1urogowo1_1280.jpg" alt=""/></a></div>
+    
+          
+    
+    </div>
+           
+    <div class="header-posts">
+    
+           
+     
+          
+          
+          
+    
+    </div>
+
+<div class="meta">
+    <div class="metanotes">
+        
+        #098
+        
+    </div>
+           
+<div class="metanotes">
+    
+    <span class="date">07 Dec 2017</span>
+    
+</div>           
+
+    <div class="metanotes">
+        <div class="caption">  
+            
+        </div>
+    </div>
+
+      
+        <div class="custom-like-button">
+  		<a a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;" href="https://www.facebook.com/sharer.php?u=https://2kindsofpeople.tumblr.com/post/168292544086&amp;t=2 Kinds of People"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+		<a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;" href="https://twitter.com/share?url=https://2kindsofpeople.tumblr.com/post/168292544086;text=2 Kinds of People (via @inoffensive)"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
+        <a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;" href="https://www.tumblr.com/share/link?url=https://2kindsofpeople.tumblr.com/post/168292544086&amp;title=2 Kinds of People"><i class="fa fa-tumblr-square" aria-hidden="true"></i></a>
+</div>
+    
+
+    </div>
+        
+    
+
+    
+
+
+
+    <div class="posts">
+    
+        <div class="media"> <a href="https://2kindsofpeople.tumblr.com/image/167784987121"><a href="https://2kindsofpeople.tumblr.com/post/167784987121/battle-for-the-net"><img src="https://64.media.tumblr.com/2a8d5874a3d544354df95aa9fa9859f0/tumblr_ozuibbhFFc1urogowo1_1280.jpg" alt="battle for the net"/></a></div>
+    
+          
+    
+    </div>
+           
+    <div class="header-posts">
+    
+           
+     
+          
+          
+          
+    
+    </div>
+
+<div class="meta">
+    <div class="metanotes">
+        
+        #097
+        
+    </div>
+           
+<div class="metanotes">
+    
+    <span class="date">22 Nov 2017</span>
+    
+</div>           
+
+    <div class="metanotes">
+        <div class="caption">  
+            <p><a href="https://href.li/?https://www.battleforthenet.com/">battle for the net</a></p>
+        </div>
+    </div>
+
+      
+        <div class="custom-like-button">
+  		<a a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;" href="https://www.facebook.com/sharer.php?u=https://2kindsofpeople.tumblr.com/post/167784987121/battle-for-the-net&amp;t=2 Kinds of People"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+		<a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;" href="https://twitter.com/share?url=https://2kindsofpeople.tumblr.com/post/167784987121/battle-for-the-net;text=2 Kinds of People (via @inoffensive)"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
+        <a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;" href="https://www.tumblr.com/share/link?url=https://2kindsofpeople.tumblr.com/post/167784987121/battle-for-the-net&amp;title=2 Kinds of People"><i class="fa fa-tumblr-square" aria-hidden="true"></i></a>
+</div>
+    
+
+    </div>
+        
+    
+
+    
+
+
+
+    <div class="posts">
+    
+        <div class="media"> <a href="https://2kindsofpeople.tumblr.com/image/167210545196"><a href="https://2kindsofpeople.tumblr.com/post/167210545196"><img src="https://64.media.tumblr.com/21132a3f5483baa76e0f9e4511b4982c/tumblr_oz0pwemXa61urogowo1_1280.jpg" alt=""/></a></div>
+    
+          
+    
+    </div>
+           
+    <div class="header-posts">
+    
+           
+     
+          
+          
+          
+    
+    </div>
+
+<div class="meta">
+    <div class="metanotes">
+        
+        #096
+        
+    </div>
+           
+<div class="metanotes">
+    
+    <span class="date">06 Nov 2017</span>
+    
+</div>           
+
+    <div class="metanotes">
+        <div class="caption">  
+            
+        </div>
+    </div>
+
+      
+        <div class="custom-like-button">
+  		<a a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;" href="https://www.facebook.com/sharer.php?u=https://2kindsofpeople.tumblr.com/post/167210545196&amp;t=2 Kinds of People"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+		<a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;" href="https://twitter.com/share?url=https://2kindsofpeople.tumblr.com/post/167210545196;text=2 Kinds of People (via @inoffensive)"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
+        <a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;" href="https://www.tumblr.com/share/link?url=https://2kindsofpeople.tumblr.com/post/167210545196&amp;title=2 Kinds of People"><i class="fa fa-tumblr-square" aria-hidden="true"></i></a>
+</div>
+    
+
+    </div>
+        
+    
+
+    
+
+
+
+    <div class="posts">
+    
+        <div class="media"> <a href="https://2kindsofpeople.tumblr.com/image/165558701951"><a href="https://2kindsofpeople.tumblr.com/post/165558701951"><img src="https://64.media.tumblr.com/6725d8187e696f3c4cda8621913ae8e6/tumblr_owll04Zipc1urogowo1_1280.jpg" alt=""/></a></div>
+    
+          
+    
+    </div>
+           
+    <div class="header-posts">
+    
+           
+     
+          
+          
+          
+    
+    </div>
+
+<div class="meta">
+    <div class="metanotes">
+        
+        #095
+        
+    </div>
+           
+<div class="metanotes">
+    
+    <span class="date">20 Sep 2017</span>
+    
+</div>           
+
+    <div class="metanotes">
+        <div class="caption">  
+            
+        </div>
+    </div>
+
+      
+        <div class="custom-like-button">
+  		<a a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;" href="https://www.facebook.com/sharer.php?u=https://2kindsofpeople.tumblr.com/post/165558701951&amp;t=2 Kinds of People"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+		<a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;" href="https://twitter.com/share?url=https://2kindsofpeople.tumblr.com/post/165558701951;text=2 Kinds of People (via @inoffensive)"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
+        <a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;" href="https://www.tumblr.com/share/link?url=https://2kindsofpeople.tumblr.com/post/165558701951&amp;title=2 Kinds of People"><i class="fa fa-tumblr-square" aria-hidden="true"></i></a>
+</div>
+    
+
+    </div>
+        
+    
+
+    
+
+
+
+</div>
+
+<!-- PAGINATION --> 
+
+
+    <div class="pagination">
+        <ul class="clearfix">
+         
+        
+            
+            <li><a href="" class="active">1</a></li>
+            
+            
+        
+            
+            
+            <li><a href="/page/2">2</a></li>
+            
+        
+            
+            
+            <li><a href="/page/3">3</a></li>
+            
+        
+            
+            
+            <li><a href="/page/4">4</a></li>
+            
+        
+            
+            
+            <li><a href="/page/5">5</a></li>
+            
+        
+            
+            
+            <li><a href="/page/6">6</a></li>
+            
+        
+            
+            
+            <li><a href="/page/7">7</a></li>
+            
+        
+            
+            
+            <li><a href="/page/8">8</a></li>
+            
+        
+            
+            
+            <li><a href="/page/9">9</a></li>
+            
+        
+            
+            
+            <li><a href="/page/10">10</a></li>
+            
+        
+        
+        <li><a href="/page/2" id="older">Older</a></li>
+         
+        </ul>
+    </div>
+
+
+
+<!-- FOOTER --> 
+
+<div class="footer">
+© 2015–2023 JR
+</div>
+
+</div>
+
+
+<iframe scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0; z-index:9999;" id="ga_target"></iframe><script type="text/javascript">
+    (function(){
+        var analytics_frame = document.getElementById('ga_target');
+        var analytics_iframe_loaded;
+        var user_logged_in;
+        var blog_is_nsfw = 'No';
+
+        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+        var eventer = window[eventMethod];
+        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+        eventer(messageEvent,function(e) {
+            var message = (e.data && e.data.split) ? e.data.split(';') : '';
+            switch (message[0]) {
+                case 'analytics_iframe_loaded':
+                    analytics_iframe_loaded = true;
+                    postCSMessage();
+                    postGAMessage();
+                    break;
+                case 'user_logged_in':
+                    user_logged_in = message[1];
+                    postGAMessage();
+                    break;
+            }
+        }, false);
+
+        analytics_frame.src = "https://assets.tumblr.com/analytics.html?_v=9f5febfd57a8a649c598d888f2d9e062#" +
+                              "https://2kindsofpeople.tumblr.com";
+        function postGAMessage() {
+            if (analytics_iframe_loaded && user_logged_in) {
+                var is_ajax = false;
+                analytics_frame.contentWindow.postMessage(['tick_google_analytics', is_ajax, user_logged_in, blog_is_nsfw, '/?route=%2F'].join(';'), analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postCSMessage() {
+            COMSCORE = true;
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }
+    })();
+</script><script type="text/javascript" nonce="5EiLIsvYP1abkxtiiRfZ5rMCd8">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1680198473&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDovLzJraW5kc29mcGVvcGxlLnR1bWJsci5jb20vIiwicmVxdHlwZSI6MCwicm91dGUiOiIvIn0=&U=ANBHOPMJCP&K=c039ddb27ba57f901f1b701ca73bd48b2a2e5734f272d6a7258ecc1e0a3194f2&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1680198473&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDovLzJraW5kc29mcGVvcGxlLnR1bWJsci5jb20vIiwicmVxdHlwZSI6MCwicm91dGUiOiIvIiwibm9zY3JpcHQiOjF9&U=ANBHOPMJCP&K=9dd3cb84b3a011d0bfebb1d0cb7d74d1a9ef7a2ad28d0175f3b222a65d71fc91&R="></noscript><script type="text/javascript" nonce="5EiLIsvYP1abkxtiiRfZ5rMCd8">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1680198473&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6Ly8ya2luZHNvZnBlb3BsZS50dW1ibHIuY29tLyIsInJlcXR5cGUiOjAsInJvdXRlIjoiLyIsInBvc3RzIjpbeyJwb3N0aWQiOiIxNzYwODg1ODMzNTYiLCJibG9naWQiOjIyODc3MzE2Nywic291cmNlIjozM30seyJwb3N0aWQiOiIxNzU3NzU4NzU5NjEiLCJibG9naWQiOjIyODc3MzE2Nywic291cmNlIjozM30seyJwb3N0aWQiOiIxNzUwODg3MDM0NjEiLCJibG9naWQiOjIyODc3MzE2Nywic291cmNlIjozM30seyJwb3N0aWQiOiIxNzM2ODE1ODg0NTEiLCJibG9naWQiOjIyODc3MzE2Nywic291cmNlIjozM30seyJwb3N0aWQiOiIxNzExMzU1MjkzNjYiLCJibG9naWQiOjIyODc3MzE2Nywic291cmNlIjozM30seyJwb3N0aWQiOiIxNzAwMjA5MTI2ODYiLCJibG9naWQiOjIyODc3MzE2Nywic291cmNlIjozM30seyJwb3N0aWQiOiIxNjgyOTI1NDQwODYiLCJibG9naWQiOjIyODc3MzE2Nywic291cmNlIjozM30seyJwb3N0aWQiOiIxNjc3ODQ5ODcxMjEiLCJibG9naWQiOjIyODc3MzE2Nywic291cmNlIjozM30seyJwb3N0aWQiOiIxNjcyMTA1NDUxOTYiLCJibG9naWQiOjIyODc3MzE2Nywic291cmNlIjozM30seyJwb3N0aWQiOiIxNjU1NTg3MDE5NTEiLCJibG9naWQiOjIyODc3MzE2Nywic291cmNlIjozM31dfQ==&U=OLGEAIOHLM&K=ba1e456d71c81ce5f180089be95ea167b6a56c9a96c6a1835221950c408bfb6e&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1680198473&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6Ly8ya2luZHNvZnBlb3BsZS50dW1ibHIuY29tLyIsInJlcXR5cGUiOjAsInJvdXRlIjoiLyIsInBvc3RzIjpbeyJwb3N0aWQiOiIxNzYwODg1ODMzNTYiLCJibG9naWQiOjIyODc3MzE2Nywic291cmNlIjozM30seyJwb3N0aWQiOiIxNzU3NzU4NzU5NjEiLCJibG9naWQiOjIyODc3MzE2Nywic291cmNlIjozM30seyJwb3N0aWQiOiIxNzUwODg3MDM0NjEiLCJibG9naWQiOjIyODc3MzE2Nywic291cmNlIjozM30seyJwb3N0aWQiOiIxNzM2ODE1ODg0NTEiLCJibG9naWQiOjIyODc3MzE2Nywic291cmNlIjozM30seyJwb3N0aWQiOiIxNzExMzU1MjkzNjYiLCJibG9naWQiOjIyODc3MzE2Nywic291cmNlIjozM30seyJwb3N0aWQiOiIxNzAwMjA5MTI2ODYiLCJibG9naWQiOjIyODc3MzE2Nywic291cmNlIjozM30seyJwb3N0aWQiOiIxNjgyOTI1NDQwODYiLCJibG9naWQiOjIyODc3MzE2Nywic291cmNlIjozM30seyJwb3N0aWQiOiIxNjc3ODQ5ODcxMjEiLCJibG9naWQiOjIyODc3MzE2Nywic291cmNlIjozM30seyJwb3N0aWQiOiIxNjcyMTA1NDUxOTYiLCJibG9naWQiOjIyODc3MzE2Nywic291cmNlIjozM30seyJwb3N0aWQiOiIxNjU1NTg3MDE5NTEiLCJibG9naWQiOjIyODc3MzE2Nywic291cmNlIjozM31dLCJub3NjcmlwdCI6MX0=&U=OLGEAIOHLM&K=429fb220195ea1a9b5d6b3162894150cade69949d3689ea160d358d4a0930e00&R="></noscript><noscript id="bootloader" data-bootstrap="{&quot;Components&quot;:{&quot;PostActivity&quot;:[],&quot;NotificationPoller&quot;:{&quot;messaging_keys&quot;:[],&quot;token&quot;:&quot;c86f8a500596474a7ef5034081f694bd&quot;,&quot;inbox_unread&quot;:0},&quot;DesktopDashboardLogo&quot;:{&quot;animations&quot;:[[&quot;https:\/\/assets.tumblr.com\/images\/logo\/hover-animations\/1.png?_v=161861acded461bb6e995593a3bae835&quot;,&quot;https:\/\/assets.tumblr.com\/images\/logo\/hover-animations\/1@2x.png?_v=496a774637302a598c851381d00009b0&quot;]]},&quot;TumblelogIframe&quot;:{&quot;unified&quot;:true,&quot;variant&quot;:null,&quot;isCompact&quot;:true,&quot;tumblelogBundleSrc&quot;:&quot;https:\/\/assets.tumblr.com\/client\/prod\/standalone\/tumblelog\/index.build.js?_v=0c38ea772dfcf026d9fa4f6245753118&quot;,&quot;tumblelogName&quot;:&quot;2kindsofpeople&quot;,&quot;isLoggedIn&quot;:false,&quot;isFriend&quot;:false,&quot;formKey&quot;:&quot;&quot;,&quot;canSubscribe&quot;:false,&quot;isSubscribed&quot;:false,&quot;tumblelogTitle&quot;:&quot;2 Kinds of People&quot;,&quot;tumblelogAvatar&quot;:&quot;https:\/\/64.media.tumblr.com\/avatar_e45d7983e791_64.pnj&quot;,&quot;tumblelogAvatar128&quot;:&quot;https:\/\/64.media.tumblr.com\/avatar_e45d7983e791_128.pnj&quot;,&quot;tumblelogHost&quot;:&quot;https:\/\/2kindsofpeople.tumblr.com&quot;,&quot;isOptica&quot;:false,&quot;isCustomTheme&quot;:true,&quot;themeHeaderImage&quot;:&quot;https:\/\/64.media.tumblr.com\/0c497e32aad1c3e9a53a5a41d7dd8e28\/70b1b2cd9be13510-b2\/s2048x3072\/1d86fdc6e540a6ed071ff3cd525ba1d9ed75fb13.jpg&quot;,&quot;themeBackgroundColor&quot;:&quot;#ffffff&quot;,&quot;themeTitleColor&quot;:&quot;#444444&quot;,&quot;themeAccentColor&quot;:&quot;#102029&quot;,&quot;brag&quot;:false,&quot;canShowAd&quot;:true,&quot;isPremium&quot;:false,&quot;showLrecAds&quot;:false,&quot;showStickyLrecBackfill&quot;:false,&quot;showGeminiAds&quot;:false,&quot;geminiSectionCodeDesktop&quot;:&quot;a10bca9c-0c5d-4a02-ab13-14ab8513d81d&quot;,&quot;geminiSectionCodeMobile&quot;:&quot;ced63809-b609-4aca-96a0-abc099acba6b&quot;,&quot;currentPageType&quot;:&quot;blog&quot;,&quot;currentPage&quot;:1,&quot;searchQuery&quot;:&quot;&quot;,&quot;tag&quot;:&quot;&quot;,&quot;query&quot;:&quot;&quot;,&quot;chrono&quot;:false,&quot;postId&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/2kindsofpeople.tumblr.com\/&quot;,&quot;postUrl&quot;:&quot;&quot;,&quot;openInPeeprUrl&quot;:&quot;https:\/\/www.tumblr.com\/2kindsofpeople&quot;,&quot;isBlocked&quot;:null,&quot;isAdmin&quot;:false,&quot;lookupButtonUrl&quot;:&quot;&quot;,&quot;showSpamButton&quot;:false,&quot;showRootPostButton&quot;:false,&quot;rootPostUrl&quot;:&quot;&quot;,&quot;showRadarPostButton&quot;:false,&quot;radarKeys&quot;:&quot;&quot;,&quot;isUniblocked&quot;:false,&quot;isNsfw&quot;:false,&quot;isAdult&quot;:false,&quot;isSpam&quot;:false,&quot;isPrimaryBlog&quot;:false,&quot;canEdit&quot;:false,&quot;canReblogSelf&quot;:false,&quot;showLikeButton&quot;:false,&quot;showReblogButton&quot;:false,&quot;reblogUrl&quot;:&quot;&quot;,&quot;showMessagingButton&quot;:false,&quot;loginCheckIframeSrc&quot;:&quot;https:\/\/assets.tumblr.com\/assets\/html\/iframe\/login_check.html?_v=3de94a184d600617102ddd5b48fb36e9&quot;,&quot;appInstallUrls&quot;:{&quot;android&quot;:&quot;https:\/\/play.google.com\/store\/apps\/details?id=com.tumblr\u0026referrer=utm_source%3Dtumblr%26utm_medium%3Diframe%26utm_campaign%3Dbn_continue_or_install_cta&quot;,&quot;ios&quot;:&quot;https:\/\/apps.apple.com\/app\/apple-store\/id305343404?pt=212308\u0026ct=bn_continue_or_install_cta\u0026mt=8&quot;},&quot;appOpenReferrer&quot;:&quot;bn_header_open_btn&quot;,&quot;isShowSearch&quot;:true,&quot;supplyLogging&quot;:[],&quot;secondsSinceLastActivity&quot;:-1,&quot;installUrlOpenFailed&quot;:{&quot;android&quot;:&quot;https:\/\/play.google.com\/store\/apps\/details?id=com.tumblr\u0026referrer=utm_source%3Dtumblr%26utm_medium%3Diframe%26utm_campaign%3Dbn_header_app_open_failed&quot;,&quot;ios&quot;:&quot;https:\/\/apps.apple.com\/app\/apple-store\/id305343404?pt=212308\u0026ct=bn_header_app_open_failed\u0026mt=8&quot;},&quot;loginWallVariant&quot;:&quot;small_center&quot;}},&quot;Flags&quot;:{&quot;features&quot;:&quot;eyJmaWx0ZXJfbnNmdyI6dHJ1ZSwibW9iaWxlX3dlYl9nYXRlIjp0cnVlLCJzYWZlX21vZGUiOnRydWUsInNhZmVfbW9kZV9lbmFibGVkIjp0cnVlLCJrZXljb21tYW5kX2F1dG9fcGFnaW5hdGUiOnRydWUsImxvZ2dlZF9vdXRfc2VhcmNoIjp0cnVlLCJrcmFrZW5fd2ViX2xvZ2dpbmdfbGlicmFyeSI6dHJ1ZSwibGl2ZXBob3Rvc193ZWIiOnRydWUsInVzZXJfdGFnX2ZpbHRlcmluZyI6dHJ1ZSwic2FmZV9tb2RlX293bl9wb3N0Ijp0cnVlLCJwcm9qZWN0X3hfYXBwZWFsIjp0cnVlLCJtb2JpbGVfd2ViX3Bob3Rvc2V0cyI6dHJ1ZSwiaGlkZV9kZWZhdWx0X2hlYWRlcnNfYmxvZ19jYXJkcyI6dHJ1ZSwibm90aWZpY2F0aW9uX3JlcGx5X2xpbmtfdG9fbm90ZXMiOnRydWUsInR5cGluZ19pbmRpY2F0b3Jfd3JpdGUiOnRydWUsInR1bWJscl92aWRlb19zcG9uc29yZWRfZGF5Ijp0cnVlLCJjYXB0Y2hhOnVzZV9yZWNhcHRjaGEyIjp0cnVlLCJsaXR0bGVfc2lzdGVyIjp0cnVlLCJsb2dfbGFkeSI6dHJ1ZSwicmVkcG9wX3Bvc3RfZm9ybV9tb2JpbGVfY3JlYXRlIjp0cnVlLCJsZWdhY3lfcG9zdF9mb3JtX2J1dHRvbnNfbGlua190b19yZWRwb3AiOnRydWUsInNob3dfdHNwX2NsaWNrX3Rocm91Z2hfdG9nZ2xlIjp0cnVlLCJkYXJsYV9hZF9mZWVkYmFjayI6dHJ1ZSwic3RhdHVzX2luZGljYXRvciI6dHJ1ZSwiY29udmVyc2F0aW9uYWxfbm90aWZpY2F0aW9ucyI6dHJ1ZSwiZGlzYWJsZV95YWhvb19iX2Nvb2tpZSI6dHJ1ZSwibGl2ZXBob3RvcyI6dHJ1ZX0=&quot;},&quot;Context&quot;:{&quot;name&quot;:&quot;default&quot;,&quot;time&quot;:1680198473000,&quot;userinfo&quot;:{&quot;primary&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;channels&quot;:[]},&quot;hosts&quot;:{&quot;assets_host&quot;:&quot;https:\/\/assets.tumblr.com&quot;,&quot;secure_assets_host&quot;:&quot;https:\/\/assets.tumblr.com&quot;,&quot;www_host&quot;:&quot;https:\/\/www.tumblr.com&quot;,&quot;secure_www_host&quot;:&quot;https:\/\/www.tumblr.com&quot;,&quot;embed_host&quot;:&quot;https:\/\/embed.tumblr.com&quot;,&quot;safe_host&quot;:&quot;https:\/\/safe.txmblr.com&quot;,&quot;platform_host&quot;:&quot;https:\/\/platform.tumblr.com&quot;},&quot;language&quot;:&quot;en_US&quot;,&quot;language_simple&quot;:&quot;en&quot;,&quot;assets&quot;:&quot;https:\/\/assets.tumblr.com\/client\/prod\/&quot;},&quot;Translations&quot;:{&quot;%1$sReport %2$s&#039;s post?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;:&quot;%1$sReport %2$s&#039;s reblog?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;,&quot;%1$sReport %2$s&#039;s reply?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;:&quot;%1$sReport %2$s&#039;s reblog?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;,&quot;%1$sDelete your tip??%2$s&quot;:&quot;%1$sDelete your tip?%2$s&quot;,&quot;Deleting your tip&quot;:&quot;Deleting your tip will only remove it from the replies tab and notes. %1$sYou won&#039;t receive a refund of your tip.%2$s For further help contact %3$sTumblr Support%4$s.&quot;}}"></noscript><script src="https://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=0c38ea772dfcf026d9fa4f6245753118"></script></body>
+</html>

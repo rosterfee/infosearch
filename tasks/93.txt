@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="description" content ="allolo.com -This site help you relax;)"/>
+	<meta name="author" content="ReginFell" />
+	<meta name="date" content="2011-05-21T19:00:00" />
+	<meta name="copyright" content="ReginFell 2011 (c)" />
+	<meta name="keywords" content="Fire, burn, sound of nature, fire burn" />
+	<script src="http://vkontakte.ru/js/api/openapi.js" type="text/javascript" charset="windows-1251"></script>
+	<meta property="vk:image" content="/files/images/1.jpg" />
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.1/swfobject.js"></script>
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+	<script src="/public/js/jquery.min.js" type="text/javascript"></script>
+	<link rel="stylesheet" type="text/css" href="/public/css/style.css" />
+	<link rel="stylesheet" type="text/css" href="/public/css/thumbnail_slider.css" />
+	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Cantarell">
+	<script src="/public/js/jquery-1.7.2.min.js"></script>
+	<script src="/public/js/jquery-ui-1.8.21.custom.min.js"></script>
+	<script src="/public/js/jnotifier.jquery.js" type="text/javascript"></script>
+	<link rel="icon" href="/public/favicon.png" />
+	<script type="text/javascript">VK.init({apiId: 2330897, onlyWidgets: true});</script>
+	<style type="text/css">
+		body {
+			background-image: url("files/images/24.jpg"); 100% 100% no-repeat;
+			background-size: cover;
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+			background-position: center bottom;
+		}
+	</style>
+	<title>allolo.ru - Silent Noise Of Nature... </title>
+</head>
+<body>
+
+<!--div style="display:none"></div-->
+<div id="fb-root"></div>
+<script>
+(function(d, s, id) {
+	var js, fjs = d.getElementsByTagName(s)[0];
+	if (d.getElementById(id)) return;
+	js = d.createElement(s); js.id = id;
+	js.src = "//connect.facebook.net/ru_RU/all.js#xfbml=1";
+	fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<br/>
+<br/>
+<center>
+	<span style="font-size: 24px; font-family: Helvetica Neue,Arial; color: rgb(255, 255, 255); text-shadow: 0px 1px 1px rgb(29, 65, 89); letter-spacing: -0.05em;"><a href="/"> allolo.ru :) </a></span><br />
+	<span style="font-size: 12px; font-family: Helvetica Neue,Arial; color: rgb(255, 255, 255); text-shadow: 0px 1px 1px rgb(29, 65, 89); letter-spacing: -0.05em;"><a href="http://www.facebook.com/NoiseOfNature"> Silent Noise Of Nature  </a></span> 
+	<div class="links">
+		<a href="http://odnoklassniki.ru/group/52177000530172" target="_blank"><img src="/public/i/odnoklas.png"/></a>
+		<a href="http://www.facebook.com/NoiseOfNature" target="_blank"><img src="/public/i/facebook.png"/></a>
+		<a href="http://vk.com/silentnoiseofnature" target="_blank"><img src="/public/i/vkontakte.png"/></a>
+	</div>
+</center>
+<div><div style="position:fixed; bottom:20px; right:10px;">
+				<div id="demo2" class="demo">
+					<ul class="ts_container">
+						<li><a href="/?id=1">Image 1</a></li>
+<li><a href="/?id=5">Image 5</a></li>
+<li><a href="/?id=6">Image 6</a></li>
+<li><a href="/?id=7">Image 7</a></li>
+<li><a href="/?id=8">Image 8</a></li>
+<li><a href="/?id=9">Image 9</a></li>
+<li><a href="/?id=10">Image 10</a></li>
+<li><a href="/?id=11">Image 11</a></li>
+<li><a href="/?id=12">Image 12</a></li>
+<li><a href="/?id=13">Image 13</a></li>
+<li><a href="/?id=14">Image 14</a></li>
+<li><a href="/?id=15">Image 15</a></li>
+<li><a href="/?id=16">Image 16</a></li>
+<li><a href="/?id=17">Image 17</a></li>
+<li><a href="/?id=18">Image 18</a></li>
+<li><a href="/?id=19">Image 19</a></li>
+<li><a href="/?id=20">Image 20</a></li>
+<li><a href="/?id=21">Image 21</a></li>
+<li><a href="/?id=22">Image 22</a></li>
+<li><a href="/?id=23">Image 23</a></li>
+<li><a href="/?id=24">Image 24</a></li>
+<li><a href="/?id=25">Image 25</a></li>
+<li><a href="/?id=26">Image 26</a></li>
+<li><a href="/?id=27">Image 27</a></li>
+<li><a href="/?id=28">Image 28</a></li>
+<li><a href="/?id=29">Image 29</a></li>
+<li><a href="/?id=30">Image 30</a></li>
+<li><a href="/?id=31">Image 31</a></li>
+<li><a href="/?id=32">Image 32</a></li>
+<li><a href="/?id=33">Image 33</a></li>
+<li><a href="/?id=34">Image 34</a></li>
+<li><a href="/?id=35">Image 35</a></li>
+<li><a href="/?id=36">Image 36</a></li>
+						<li class="ts_thumbnails">
+							<div class="ts_preview_wrapper">
+								<ul class="ts_preview">
+									<li><img src="/files/thumb/1.jpg" alt="Thumb 1" /></li>
+<li><img src="/files/thumb/5.jpg" alt="Thumb 5" /></li>
+<li><img src="/files/thumb/6.jpg" alt="Thumb 6" /></li>
+<li><img src="/files/thumb/7.jpg" alt="Thumb 7" /></li>
+<li><img src="/files/thumb/8.jpg" alt="Thumb 8" /></li>
+<li><img src="/files/thumb/9.jpg" alt="Thumb 9" /></li>
+<li><img src="/files/thumb/10.jpg" alt="Thumb 10" /></li>
+<li><img src="/files/thumb/11.jpg" alt="Thumb 11" /></li>
+<li><img src="/files/thumb/12.jpg" alt="Thumb 12" /></li>
+<li><img src="/files/thumb/13.jpg" alt="Thumb 13" /></li>
+<li><img src="/files/thumb/14.jpg" alt="Thumb 14" /></li>
+<li><img src="/files/thumb/15.jpg" alt="Thumb 15" /></li>
+<li><img src="/files/thumb/16.jpg" alt="Thumb 16" /></li>
+<li><img src="/files/thumb/17.jpg" alt="Thumb 17" /></li>
+<li><img src="/files/thumb/18.jpg" alt="Thumb 18" /></li>
+<li><img src="/files/thumb/19.jpg" alt="Thumb 19" /></li>
+<li><img src="/files/thumb/20.jpg" alt="Thumb 20" /></li>
+<li><img src="/files/thumb/21.jpg" alt="Thumb 21" /></li>
+<li><img src="/files/thumb/22.jpg" alt="Thumb 22" /></li>
+<li><img src="/files/thumb/23.jpg" alt="Thumb 23" /></li>
+<li><img src="/files/thumb/24.jpg" alt="Thumb 24" /></li>
+<li><img src="/files/thumb/25.jpg" alt="Thumb 25" /></li>
+<li><img src="/files/thumb/26.jpg" alt="Thumb 26" /></li>
+<li><img src="/files/thumb/27.jpg" alt="Thumb 27" /></li>
+<li><img src="/files/thumb/28.jpg" alt="Thumb 28" /></li>
+<li><img src="/files/thumb/29.jpg" alt="Thumb 29" /></li>
+<li><img src="/files/thumb/30.jpg" alt="Thumb 30" /></li>
+<li><img src="/files/thumb/31.jpg" alt="Thumb 31" /></li>
+<li><img src="/files/thumb/32.gif" alt="Thumb 32" /></li>
+<li><img src="/files/thumb/33.gif" alt="Thumb 33" /></li>
+<li><img src="/files/thumb/34.gif" alt="Thumb 34" /></li>
+<li><img src="/files/thumb/35.jpg" alt="Thumb 35" /></li>
+<li><img src="/files/thumb/36.jpg" alt="Thumb 36" /></li>
+								</ul>
+							</div>
+							<span></span>
+						</li>
+					</ul>
+					<table>
+					<td><audio src="/files/sounds/24.ogg" autoplay="autoplay" loop="50" controls><a href="http://loadmoney.ru/get_file?sid=6147&url=base64(url)&name=base64(name)&type=base64(type)&size=base64(size)"/>Ваш браузер не поддерживает аудио, для загрузки нового браузера нажмите здесь</a> </audio></td>
+					<td><a href="http://allolo.ru?id=1" id="sh_rand" /><img src="/public/i/sh.png"></a></td></table></div>
+				</div>
+		<script type="text/javascript" src="http://code.jquery.com/jquery-1.4.4.min.js"></script>
+		<script type="text/javascript" src="/public/js/jquery.easing.1.3.js"></script>
+        <script type="text/javascript">
+			(function($) {
+				$.fn.thumbnailSlider = function(options) {
+					var opts = $.extend({}, $.fn.thumbnailSlider.defaults, options);
+					return this.each(function() {
+						var $this 				= $(this),
+							o 					= $.meta ? $.extend({}, opts, $pxs_container.data()) : opts;
+
+						var $ts_container		= $this.children('.ts_container'),
+							$ts_thumbnails		= $ts_container.children('.ts_thumbnails'),
+							$nav_elems			= $ts_container.children('li').not($ts_thumbnails),
+							total_elems			= $nav_elems.length,
+							$ts_preview_wrapper	= $ts_thumbnails.children('.ts_preview_wrapper'),
+							$arrow				= $ts_thumbnails.children('span'),
+							$ts_preview			= $ts_preview_wrapper.children('.ts_preview');
+
+						/*
+						calculate sizes for $ts_thumbnails:
+						width 	-> width thumbnail + border (2*5)
+						height 	-> height thumbnail + border + triangle height(6)
+						top		-> -(height plus margin of 5)
+						left	-> leftDot - 0.5*width + 0.5*widthNavDot
+							this will be set when hovering the nav,
+							and the default value will correspond to the first nav dot
+						*/
+						var w_ts_thumbnails	= o.thumb_width + 2*5,
+							h_ts_thumbnails	= o.thumb_height + 2*5 + 6,
+							t_ts_thumbnails	= -(h_ts_thumbnails + 5),
+							$first_nav		= $nav_elems.eq(0),
+							l_ts_thumbnails	= $first_nav.position().left - 0.5*w_ts_thumbnails + 0.5*$first_nav.width();
+
+						$ts_thumbnails.css({
+							width	: w_ts_thumbnails + 'px',
+							height	: h_ts_thumbnails + 'px',
+							top		: t_ts_thumbnails + 'px',
+							left	: l_ts_thumbnails + 'px'
+						});
+
+						/*
+						calculate the top and left for the arrow of the tooltip
+						top		-> thumb height + border(2*5)
+						left	-> (thumb width + border)/2 -width/2
+						*/
+						var t_arrow	= o.thumb_height + 2*5,
+							l_arrow	= (o.thumb_width + 2*5) / 2 - $arrow.width() / 2;
+						$arrow.css({
+							left	: l_arrow + 'px',
+							top		: t_arrow + 'px'
+						});
+
+						/*
+						calculate the $ts_preview width -> thumb width times number of thumbs
+						*/
+						$ts_preview.css('width' , total_elems*o.thumb_width + 'px');
+
+						/*
+						set the $ts_preview_wrapper width and height -> thumb width / thumb height
+						*/
+						$ts_preview_wrapper.css({
+							width	: o.thumb_width + 'px',
+							height	: o.thumb_height + 'px'
+						});
+
+						//hover the nav elems
+						$nav_elems.bind('mouseenter',function(){
+							var $nav_elem	= $(this),
+								idx			= $nav_elem.index();
+
+							/*
+							calculate the new left
+							for $ts_thumbnails
+							*/
+							var new_left	= $nav_elem.position().left - 0.5*w_ts_thumbnails + 0.5*$nav_elem.width();
+
+							$ts_thumbnails.stop(true)
+										  .show()
+										  .animate({
+											left	: new_left + 'px'
+										  },o.speed,o.easing);
+
+							/*
+							animate the left of the $ts_preview to show the right thumb
+							*/
+							$ts_preview.stop(true)
+									   .animate({
+											left	: -idx*o.thumb_width + 'px'
+									   },o.speed,o.easing);
+
+							//zoom in the thumb image if zoom is true
+							if(o.zoom && o.zoomratio > 1){
+								var new_width	= o.zoomratio * o.thumb_width,
+									new_height	= o.zoomratio * o.thumb_height;
+
+								//increase the $ts_preview width in order to fit the zoomed image
+								var ts_preview_w	= $ts_preview.width();
+								$ts_preview.css('width' , (ts_preview_w - o.thumb_width + new_width)  + 'px');
+
+								$ts_preview.children().eq(idx).find('img').stop().animate({
+									width		: new_width + 'px',
+									height		: new_height + 'px'
+								},o.zoomspeed);
+							}
+
+						}).bind('mouseleave',function(){
+							//if zoom set the width and height to defaults
+							if(o.zoom && o.zoomratio > 1){
+								var $nav_elem	= $(this),
+									idx			= $nav_elem.index();
+								$ts_preview.children().eq(idx).find('img').stop().css({
+									width	: o.thumb_width + 'px',
+									height	: o.thumb_height + 'px'
+								});
+							}
+
+							$ts_thumbnails.stop(true)
+										  .hide();
+
+						}).bind('click',function(){
+							var $nav_elem	= $(this),
+								idx			= $nav_elem.index();
+
+							o.onClick(idx);
+						});
+
+					});
+				};
+				$.fn.thumbnailSlider.defaults = {
+					speed		: 100,//speed of each slide animation
+					easing		: 'jswing',//easing effect for the slide animation
+					thumb_width	: 75,//your photos width
+					thumb_height: 75,//your photos height
+					zoom		: false,//zoom animation for the thumbs
+					zoomratio	: 1.3,//multiplicator for zoom (must be > 1)
+					zoomspeed	: 15000,//speed of zoom animation
+					onClick		: function(){return false;}//click callback
+				};
+			})(jQuery);
+		</script>
+		<script type="text/javascript">
+			$(function() {
+				//demo1
+				$('#demo1').thumbnailSlider();
+				//demo2
+				$('#demo2').thumbnailSlider({
+					thumb_width	: 130,
+					thumb_height: 87,
+					easing		: 'easeOutExpo',//easeInBack
+					speed		: 600
+				});
+				//demo3
+				$('#demo3').thumbnailSlider({
+					thumb_width	: 174,
+					thumb_height: 260,
+					speed		: 200
+				});
+				//demo4
+				$('#demo4').thumbnailSlider({
+					thumb_width	: 174,
+					thumb_height: 260,
+					speed		: 200,
+					zoom		: true,
+					zoomspeed	: 3000,
+					zoomratio	: 1.7
+				});
+			});
+        </script>
+
+</div>
+<div class="social">
+
+
+<div id="vk_like" style="clear:none !important;"></div>
+<script type="text/javascript">
+VK.Widgets.Like("vk_like", {type: "mini", pageImage:"http://allolo.ru/img/5.jpg" ,pageURL: "http://allolo.ru/"});
+</script>
+
+<g:plusone SIZE="medium"></g:plusone>
+<div>
+<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://allolo.ru" data-text="Silent Noise Of Nature">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+
+<div class="fb-like" data-href="http://allolo.ru" data-send="false" data-layout="button_count" data-width="450" data-show-faces="true"></div>
+
+<div>
+<su:badge layout="1"></su:badge>
+
+<!-- Place this snippet wherever appropriate -->
+<script type="text/javascript">
+  (function() {
+    var li = document.createElement('script'); li.type = 'text/javascript'; li.async = true;
+    li.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + '//platform.stumbleupon.com/1/widgets.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(li, s);
+  })();
+</script>
+</div>
+<div>
+<a target="_blank" class="surfinbird__like_button" data-surf-config="{'layout': 'common', 'width': '120', 'height': '20'}" href="http://surfingbird.ru/share">Серф</a>
+
+<!-- Put this script tag after all buttons -->
+<script type="text/javascript" charset="UTF-8" src="http://surfingbird.ru/share/share.min.js"></script>
+</div>
+<a target="_blank" class="mrc__plugin_uber_like_button" href="http://connect.mail.ru/share" data-mrc-config="{'cm' : '1', 'ck' : '3', 'sz' : '20', 'st' : '2', 'tp' : 'combo'}">Нравится</a>
+
+<script src="http://cdn.connect.mail.ru/js/loader.js" type="text/javascript" charset="UTF-8"></script>
+
+
+<div id="fb-root"></div>
+
+</div>
+<!--LiveInternet counter--><script type="text/javascript"><!--
+new Image().src = "//counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random();//--></script><!--/LiveInternet-->
+</body>
+</html>

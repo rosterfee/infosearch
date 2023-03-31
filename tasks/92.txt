@@ -1,0 +1,2582 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=0.8, minimum-scale=0.8, maximum-scale=0.8" />
+	<meta name="google-site-verification" content="f9Bcxy6hXnygpG1nxl24186nVoxkkRTGjm7rS6FRxC4" />
+	<title>Virtual Travels, 360&deg; Aerial Panoramas, 360° Virtual Tours Around the World, Photos of the Most Interesting Places on the Earth</title>
+	<meta name="apple-itunes-app" content="app-id=1142577996" />
+	<meta name="yandex-verification" content="ebea3d95431148ab" />
+	<meta name="description" content="AirPano is a VR project created by a team of Russian photographers focused on taking high-resolution aerial 360° photographs and 360° video. Today AirPano is the largest virtual travel resource in the world -- by geographical coverage, number of aerial photographs, and artistic and technical quality of the images — featuring 360° panoramas and 360° videos of the highest quality shot from a bird's eye view.">
+	<meta name="keywords" content="VR, virtual tour, virtual travel, aerial, VR360, photography, Fantastic, Time-Wasting Web Site, panorama, helicopter, RC helicopter, VR360, photography, photo, air, 360, 360° tour, high resolution quality, place, landscape, citiscape, city, hundred best places, 100 best places around the world, airpano.com">
+	<meta name="author" content="AirPano Team" />
+
+	<meta property="og:title" content="AirPano.com &bull; VR Production Studio &bull; Virtual Travels  &bull;  360° Aerial Panoramas and 360° Video around the World" />
+	<meta property="og:site_name" content="AirPano" />
+	<meta property="og:description" content="AirPano is a VR project created by a team of Russian photographers focused on taking high-resolution aerial 360° photographs and 360° video. Today AirPano is the largest virtual travel resource in the world -- by geographical coverage, number of aerial photographs, and artistic and technical quality of the images — featuring 360° panoramas and 360° videos of the highest quality shot from a bird's eye view." />
+	<meta property="og:image" content="https://www.airpano.ru/images/fb/1.jpg" />
+    
+    <link rel="icon" href="https://www.airpano.ru/favicon.ico" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&amp;subset=cyrillic" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href=""> 
+    <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css"> 
+    <link rel="stylesheet" type="text/css" href="css/main.css"> 
+
+    <script type="text/javascript" src="js/greensock/src/minified/TweenLite.min.js"></script>
+    <script type="text/javascript" src="js/greensock/src/minified/plugins/ScrollToPlugin.min.js"></script>
+    <script type="text/javascript" src="js/greensock/src/minified/plugins/CSSPlugin.min.js"></script>
+    
+	
+	<script data-ad-client="ca-pub-7528949385909099" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script async='async' src='https://securepubads.g.doubleclick.net/tag/js/gpt.js' type='text/javascript'/></script>
+	<script type='text/javascript'>window.googletag = window.googletag || { cmd: [] };</script>
+	<script type='text/javascript'>
+		let airpScript = document.createElement('script');
+		airpScript.src = 'https://adncdnend.azureedge.net/adtags/airpano.adn.js';
+		document.getElementsByTagName('head')[0].append(airpScript);
+	</script>
+	
+
+</head>
+<body>
+
+
+    <div id="top_menu_stage">
+
+        <script type="text/javascript" src="/js/tween.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/top_menu_index.css">
+
+<!-- <style type="text/css">
+    #santa {
+        position: fixed;  z-index: 20000;
+        left: 120%; top: 70px; width: 480px; height: 160px;
+        background-image: url(/images/santa.gif);
+        opacity: 0; pointer-events: none;
+    }
+</style>
+<div id="santa">
+    <script type="text/javascript">
+        setTimeout(function() {
+            window.santa = document.querySelector("#santa");
+            santa.style.opacity = 1;
+            document.body.appendChild(santa);
+            santGO();
+        },100000 + Math.random() *  50000);  
+
+        function  santGO(argument) {
+            santa.style.transition = "";
+            santa.style.left = "120%";
+            santa.style.transform = "scale("+(Math.random()*0.7+0.3)+")";
+            setTimeout(function() {
+                santa.style.transition = "left 8s linear";
+                santa.style.left = "-40%";
+            },1000);
+            setTimeout(santGO,100000 + Math.random() *  50000);  
+        }
+    </script>
+</div>
+
+
+<style type="text/css">
+    .moroz {
+        background-size: 100% 100%; 
+        position: fixed; z-index: 20000;
+        width: 40%; height: 40%;
+        pointer-events: none;
+        opacity: 0;
+        transition: opacity 2s;
+    }
+    #morozTL { background-image: url(/images/morozTL.png); left: 0; top: 0; }
+    #morozTR { background-image: url(/images/morozTR.png); right: 0; top: 0; }
+    #morozBL { background-image: url(/images/morozBL.png); left: 0; bottom: 0; }
+    #morozBR { background-image: url(/images/morozBR.png); right: 0; bottom: 0; }
+</style>
+
+<div id="morozTL" class="moroz" style="opacity: 0"></div>
+<div id="morozTR" class="moroz" style="right: -3%; top: -3%"></div>
+<div id="morozBL" class="moroz" style="bottom: -13%"></div>
+<div id="morozBR" class="moroz" style="bottom: -6%"></div>
+
+<script type="text/javascript">
+    setTimeout(function() {
+        document.querySelector("#morozTL").style.opacity = 0.6;
+        document.querySelector("#morozTR").style.opacity = 0.6;
+        document.querySelector("#morozBL").style.opacity = 0.6;
+        document.querySelector("#morozBR").style.opacity = 0.6;
+    },1000)
+</script> -->
+
+
+
+
+
+<div id="top_menu_stage_img"></div>
+
+
+<a href="/google_map.php" style="
+    position: absolute; display: block; left: 0; top: 0; width: 63px; height: 100%; opacity: 0.9;
+    background-position: center; background-repeat: no-repeat; background-size: auto 32px; background-image: url(images/icon_globe.png); /*transform: rotate(-45deg);*/
+" title="AirPano on world map" ></a>
+
+
+<script type="text/javascript">
+    var d = document.getElementById("top_menu_stage_img");
+    d.x = 0;
+    function move(){
+        d.x += 0.5;
+        if(d.x > 1920) d.x = 0;
+        d.style.transform = "translateX("+d.x+"px)";
+        requestAnimationFrame(move);
+    }
+    move();
+</script>
+
+<div id="top_menu">
+    <a href="/360photo_list.php">360° Photo</a>
+    <a href="/360video_list.php">360° Video</a>
+    <a href="/photogalleries.php">Photogallery</a>
+    <span><a href="/get_price.php" class="link_button_green">Price List</a></span><br>
+</div>
+
+<div id="top_menu_side_stage">
+<div id="top_menu_side">
+    <div id="top_menu_main_mobile">
+        <a href="/360photo_list.php">360° Photo</a>
+        <a href="/360video_list.php">360° Video</a>
+        <a href="/photogalleries.php">Photogallery</a>
+        <span><a href="/get_price.php" class="link_button_green">Price List</a></span><br>
+    </div>
+    <div id="top_menu_more">
+        <a href="/services.php">Our services</a>
+        <a href="/news_list.php">News</a>
+        <a href="/merch.php">Clothing & Accessories</a>
+        <a href="/google_map.php">AirPano on world map</a>
+ 			
+        <a href="/article_list.php">Articles</a>
+       <!--  <a href="/guestbook.php">Guest book</a> -->
+        <a href="/contact.php">Contact</a>
+        <a href="/frequently_asked_questions.php">FAQ</a>
+        <a href="/citations.php">Citation Rules</a>
+        <a href="/partners.php">Our clients and partners</a>
+    </div>
+</div>
+</div>
+
+<div id="top_menu_button" onclick="menu_button_tocross()">
+    <div id="top_menu_button_bar1"></div>
+    <div id="top_menu_button_bar2"></div>
+    <div id="top_menu_button_bar3"></div>
+</div>
+
+<!-- <form id="top_menu_search" action="/search.php" method="POST">
+    <input type="text" id="top_menu_search_input" name="search_form" placeholder="Search" value="">
+    <button type="submit" id="top_menu_search_btn"></button>
+</form> -->
+    
+    <!-- <a href="https://www.airpano.com/" class="top_menu_lang_item elm_hover_bg_green">EN</a> -->
+
+<div id="top_menu_lang">
+    <a href="/contact.php" class="top_menu_lang_item elm_hover_bg_green"><img src="/images/phone_icon.png" width="24" height="auto" style="margin: 6px 0 -7px 0;"></a>
+        <!-- <a id="langLink" href="https://airpano.ru" class="top_menu_lang_item elm_hover_bg_green">RU</a> -->
+    <a id="langLinkCN" href="http://airpano.org.cn" class="top_menu_lang_item elm_hover_bg_green">中文</a>
+    
+</div>
+
+<script type="text/javascript">
+    window.addEventListener("resize",menu_update);
+    window.searchInputPos = "top";
+    window.menuOpen = false;
+    window.menu = document.querySelector("#top_menu");
+    window.menu_side = document.querySelector("#top_menu_side");
+    window.menu_part1 = document.querySelector("#top_menu_main_mobile");
+    window.menu_part2 = document.querySelector("#top_menu_more");
+
+    function menu_update(){
+        var mph = menu_part1.getBoundingClientRect().height + menu_part2.getBoundingClientRect().height;
+        var wh = window.innerHeight - 109;
+        if(mph > wh) {
+            menu_side.style.height = (wh+45) + "px";
+        } else {
+            menu_side.style.height = "auto";
+        }
+
+        if(window.innerWidth < 1080) {
+            // document.querySelector("#top_menu_stage").className = "index mobile";
+            // if(menuOpen == false) {
+                // document.querySelector("#top_menu").style.display = "none";
+                // document.querySelector("#top_menu_button").style.display = "block";
+                // document.querySelector("#top_menu_button").className = "";
+            // }
+        } else {
+            // document.querySelector("#top_menu_stage").className = "index";
+            // document.querySelector("#top_menu").style.display = "block";
+            // document.querySelector("#top_menu_button").style.display = "none";
+            // document.querySelector("#top_menu_button").className = "";
+            // menuOpen = false;
+        }
+
+        // if(window.innerWidth < 560) {
+        //     if(searchInputPos != "menu") {            
+        //         var search = document.querySelector("#top_menu_search");
+        //         document.querySelector("#top_menu_main_mobile").appendChild(search);
+        //         search.style.position = "relative";
+        //         search.style.width = "auto";
+        //         search.style.marginTop = "26px";
+        //         search.style.right = "0";
+        //         searchInputPos = "menu";
+        //     }
+
+        // } else {
+        //     if(searchInputPos != "top") {
+        //         var search = document.querySelector("#top_menu_search");
+        //         document.querySelector("#top_menu_stage").appendChild(search);
+        //         search.style.position = "";
+        //         search.style.width = "";
+        //         search.style.marginTop = "";
+        //         search.style.right = "";
+        //         searchInputPos = "top";
+        //     }
+        // }
+
+
+    }
+
+    menu_update();
+
+    function menu_button_tocross(){
+        var btn = document.querySelector("#top_menu_button");
+        if(btn.className == "cross") {
+            btn.className = "";
+            menu_side.style.right = "-250px";
+            menuOpen = false;
+        }
+        else {
+            btn.className = "cross"
+            menu_side.style.right = 0;
+            menuOpen = true;
+        }
+    }
+</script>
+
+
+
+    </div>
+
+
+    <div id="layout_head" class="index">
+
+    
+        <link rel="stylesheet" type="text/css" href="/css/index_head_slider.css">
+
+<div id="index_head_slider" style="background: #324a65;">
+    <form id="index_head_search" method="GET" action="search.php" style="z-index: 1000">
+        <input type="text" id="index_head_search_input" name="q" placeholder="Search">
+        <button type="submit" id="index_head_search_btn"></button>
+        <!-- <style type="text/css">
+            #sosulki {
+                position: absolute; pointer-events: none; 
+                background-image: url(/images/sosulki.png); background-size: 100% 100%; 
+                top: 51px; width: 69%; height: 49px; right: 72px; opacity: 0; transition: opacity 2s;
+            }
+        </style>
+        <div id="sosulki"></div>
+        <script type="text/javascript">
+            setTimeout(function() {
+                document.querySelector("#sosulki").style.opacity = 0.75;
+            },1000)
+        </script> -->
+
+    </form>
+
+    <!-- <img src="images/index_head_slider/img1.jpg" width="100%"> -->
+
+    <img id="index_head_slider_logo" style="" src="css/img/logo.png">
+    <div id="index_head_slider_title" style="">A virtual journey around the world</div>
+    
+    <!-- <div id="index_head_slider_prev" style="left: 5%;">
+        <div class="arr" style="margin-left: -6px; border-left-width: 2px; border-bottom-width: 2px;"></div>
+    </div>
+    <div id="index_head_slider_next" style="right: 5%;">
+        <div class="arr" style="margin-left: -16px; border-right-width: 2px; border-top-width: 2px;"></div>
+    </div>
+    
+    <div class="dot active" style="margin-left: -67px;"></div>
+    <div class="dot" style="margin-left: -37px;"></div>
+    <div class="dot" style="margin-left: -7px;"></div>
+    <div class="dot" style="margin-left: 23px;"></div>
+    <div class="dot" style="margin-left: 53px;"></div> -->
+
+    <script type="text/javascript" src="krpano/tour.js"></script>
+
+    <div id="intro_tour" style="position: absolute; left: 0; top: 0; width: 100%; height: 100%; z-index: 0; opacity: 0; transition: opacity 1s; pointer-events: none;">
+        <script type="text/javascript">
+                var panoParams = {
+                    swf:"krpano/tour.swf",
+                    xml:"intro_tour/tour.xml",
+                    target:"intro_tour",
+                    html5:"only",
+                    // bgcolor: "#9db3c6",
+                    bgcolor: "#000000",
+                    // wmode:"opaque",
+                    passQueryParameters:true,
+                    onready: krpanoReady,
+                    mwheel:false,
+
+                };
+                // if(!createPanoViewer().isHTML5possible()) panoParams["wmode"] = "opaque";
+
+                // if(viewportSize.box.width > 800) {
+                    //embedpano(panoParams);
+                // }
+                    
+                setTimeout(function(){ embedpano(panoParams); },2000);
+
+            function krpanoReady(){
+                setTimeout(function(){
+                    document.querySelector("#intro_tour").style.opacity = 1;
+                },500);
+            }
+        </script>
+    </div>
+    
+</div>       
+        
+
+    </div>
+
+
+    <div id="layout_body">
+		<!-- <div data-onpage=true data-adpath="/339474670,22634514837/AirPano.com/Top" style="position: relative; margin-top: 30px; left: 50%; transform: translateX(-50%); max-width: 730px;"></div> -->
+		
+        
+        <link rel="stylesheet" type="text/css" href="/css/content.css">
+
+
+
+
+        
+        <br>
+        <div class="media_title"><hr><span>360° Photo</span></div>
+        <br>
+        <br>
+        <br>
+        
+        <div class="content" style="max-width: 1290px">
+			  <link rel="stylesheet" type="text/css" href="/css/360photo_list_item_tiles.css">
+
+            <style type="text/css">
+                @media (min-width:1550px) { 
+                    .photo_list_item {
+                        width: 23%;
+                    }
+                }
+
+                @media (max-width:1550px) { 
+                    .photo_list_item {
+                        width: 23%;
+                    }
+                }
+
+                @media (max-width:1260px) { 
+                    .photo_list_item {
+                        width: 31.2%;
+                    }
+                }
+
+                @media (max-width:970px) { 
+                    .photo_list_item {
+                        width: 46.9%;
+                    }
+                }
+
+                @media (max-width:550px) { 
+                    .photo_list_item {
+                        width: 92%;
+                    }
+                }
+            </style>
+            
+            <div id="photo360_cont_index" style="position: relative; text-align: center; letter-spacing: 16px; margin-bottom: 20px; overflow: hidden; ">
+
+                <div style="position: absolute; left: -20px; top: 0; right: -20px;">
+
+    
+            <!-- // output example $arr[$i]["folder"] -->
+
+            
+                    <a class="photo_list_item" href="/360photo/lake-onega/"> 
+                        
+                        <img class="spacer" src="/images/spacer_450x450.png" width="100%" height="auto" >
+                        <img class="thumb" src="https://www.airpano.ru/files/r_450/onega_01.jpg">
+
+                        <div class="photo_list_item_icon"></div>
+
+                        <div class="photo_list_item_views_count">views: <span>3,515</span></div>
+
+                        <span class="photo_list_item_black_grad"> </span>
+                        <span class="photo_list_item_title">Lake Onega</span>
+                    </a>
+
+                
+            <!-- // output example $arr[$i]["folder"] -->
+
+            
+                    <a class="photo_list_item" href="/360photo/maldives-07-2022/"> 
+                        
+                        <img class="spacer" src="/images/spacer_450x450.png" width="100%" height="auto" >
+                        <img class="thumb" src="https://www.airpano.ru/files/r_450/maldives_08_2022_01.jpg">
+
+                        <div class="photo_list_item_icon"></div>
+
+                        <div class="photo_list_item_views_count">views: <span>9,730</span></div>
+
+                        <span class="photo_list_item_black_grad"> </span>
+                        <span class="photo_list_item_title">Paradise Islands, Part II</span>
+                    </a>
+
+                
+            <!-- // output example $arr[$i]["folder"] -->
+
+            
+                    <a class="photo_list_item" href="/360photo/polar-urals/"> 
+                        
+                        <img class="spacer" src="/images/spacer_450x450.png" width="100%" height="auto" >
+                        <img class="thumb" src="https://www.airpano.ru/files/r_450/polar_ural_winter_01.jpg">
+
+                        <div class="photo_list_item_icon"></div>
+
+                        <div class="photo_list_item_views_count">views: <span>10,965</span></div>
+
+                        <span class="photo_list_item_black_grad"> </span>
+                        <span class="photo_list_item_title">Polar Urals</span>
+                    </a>
+
+                
+            <!-- // output example $arr[$i]["folder"] -->
+
+            
+                    <a class="photo_list_item" href="/360photo/kauai-hawaii/"> 
+                        
+                        <img class="spacer" src="/images/spacer_450x450.png" width="100%" height="auto" >
+                        <img class="thumb" src="https://www.airpano.ru/files/r_450/kauai_hawaii_01.jpg">
+
+                        <div class="photo_list_item_icon"></div>
+
+                        <div class="photo_list_item_views_count">views: <span>14,966</span></div>
+
+                        <span class="photo_list_item_black_grad"> </span>
+                        <span class="photo_list_item_title">Kauai Island, Hawaii</span>
+                    </a>
+
+                
+            <!-- // output example $arr[$i]["folder"] -->
+
+            
+                    <a class="photo_list_item" href="/360photo/maldives-02-2022/"> 
+                        
+                        <img class="spacer" src="/images/spacer_450x450.png" width="100%" height="auto" >
+                        <img class="thumb" src="https://www.airpano.ru/files/r_450/maldives_02_22_02.jpg">
+
+                        <div class="photo_list_item_icon"></div>
+
+                        <div class="photo_list_item_views_count">views: <span>13,717</span></div>
+
+                        <span class="photo_list_item_black_grad"> </span>
+                        <span class="photo_list_item_title">Paradise Islands</span>
+                    </a>
+
+                
+            <!-- // output example $arr[$i]["folder"] -->
+
+            
+                    <a class="photo_list_item" href="/360photo/san-francisco-2022/"> 
+                        
+                        <img class="spacer" src="/images/spacer_450x450.png" width="100%" height="auto" >
+                        <img class="thumb" src="https://www.airpano.ru/files/r_450/sf_usa_22_01.jpg">
+
+                        <div class="photo_list_item_icon"></div>
+
+                        <div class="photo_list_item_views_count">views: <span>24,397</span></div>
+
+                        <span class="photo_list_item_black_grad"> </span>
+                        <span class="photo_list_item_title">San Francisco, California, USA</span>
+                    </a>
+
+                
+            <!-- // output example $arr[$i]["folder"] -->
+
+            
+                    <a class="photo_list_item" href="/360photo/vladivostok/"> 
+                        
+                        <img class="spacer" src="/images/spacer_450x450.png" width="100%" height="auto" >
+                        <img class="thumb" src="https://www.airpano.ru/files/r_450/vladivostok_01.jpg">
+
+                        <div class="photo_list_item_icon"></div>
+
+                        <div class="photo_list_item_views_count">views: <span>15,127</span></div>
+
+                        <span class="photo_list_item_black_grad"> </span>
+                        <span class="photo_list_item_title">Vladivostok City</span>
+                    </a>
+
+                
+            <!-- // output example $arr[$i]["folder"] -->
+
+            
+                    <a class="photo_list_item" href="/360photo/everest-2022/"> 
+                        
+                        <img class="spacer" src="/images/spacer_450x450.png" width="100%" height="auto" >
+                        <img class="thumb" src="https://www.airpano.ru/files/r_450/everest_2022_01.jpg">
+
+                        <div class="photo_list_item_icon"></div>
+
+                        <div class="photo_list_item_views_count">views: <span>26,165</span></div>
+
+                        <span class="photo_list_item_black_grad"> </span>
+                        <span class="photo_list_item_title">Everest, the highest mountain in the World</span>
+                    </a>
+
+                  
+                </div>
+
+            </div>
+
+            <script type="text/javascript">
+                window.addEventListener("resize",photoDivUpdate);
+
+                function photoDivUpdate(){
+                    var items = document.querySelectorAll("#photo360_cont_index .photo_list_item");
+                    if(typeof items != "undefined" && items.length > 0) {
+                        var rect = items[0].getBoundingClientRect();
+                        document.querySelector("#photo360_cont_index").style.height = (rect.height * 2 + 38) + "px";
+                    }
+                }
+
+                photoDivUpdate();
+                setTimeout(photoDivUpdate,100);
+                setTimeout(photoDivUpdate,500);
+            </script>
+
+            <p style="text-align: center;"><a href="360photo_list.php" class="link_button_green">See all 360° Photo (473)</a></p>
+            <br>
+
+            <script type="text/javascript">
+                
+            </script>
+
+        </div>
+
+        <div class="media_title"><hr><span>360° Video</span></div>
+        <br>
+        <br>
+        <br>
+
+        <div class="content" style="max-width: 1290px">
+			 <link rel="stylesheet" type="text/css" href="/css/360video_list_item_tiles.css">
+
+            <style type="text/css">
+                @media (min-width:1550px) { 
+                    .video_list_item {
+                        width: 23%;
+                    }
+                }
+
+                @media (max-width:1550px) { 
+                    .video_list_item {
+                        width: 23%;
+                    }
+                }
+
+                @media (max-width:1260px) { 
+                    .video_list_item {
+                        width: 31.2%;
+                    }
+                }
+
+                @media (max-width:970px) { 
+                    .video_list_item {
+                        width: 46.9%;
+                    }
+                }
+
+                @media (max-width:550px) { 
+                    .video_list_item {
+                        width: 92%;
+                    }
+                }
+            </style>
+
+            <div  id="video360_cont_index" style="position: relative; text-align: center; letter-spacing: 16px; margin-bottom: 20px; overflow: hidden; ">
+
+                <div style="position: absolute; left: -20px; top: 0; right: -20px;">
+
+    
+            <!-- // output example $arr[$i]["folder"] -->
+
+            
+                    <a class="video_list_item" href="360video/vr-wild-cats/"> 
+                        
+                        <img class="spacer" src="/images/spacer_450x300.png" width="100%" height="auto" >
+                        <img class="thumb" src="https://www.airpano.ru/files/r_450/wild_cats_01.jpg">
+
+                        <div class="video_list_item_icon"></div>
+
+                        <div class="video_list_item_views_count">views: <span>2,209</span></div>
+
+                        <span class="video_list_item_black_grad"> </span>
+                        <span class="video_list_item_title">Wlid Cats, Primorskiy Safari-Park</span>
+                    </a>
+
+                
+            <!-- // output example $arr[$i]["folder"] -->
+
+            
+                    <a class="video_list_item" href="360video/vr-jerusalem/"> 
+                        
+                        <img class="spacer" src="/images/spacer_450x300.png" width="100%" height="auto" >
+                        <img class="thumb" src="https://www.airpano.ru/files/r_450/vr-jerusalem-02.jpg">
+
+                        <div class="video_list_item_icon"></div>
+
+                        <div class="video_list_item_views_count">views: <span>2,483</span></div>
+
+                        <span class="video_list_item_black_grad"> </span>
+                        <span class="video_list_item_title">Scenic flight over Jerusalem</span>
+                    </a>
+
+                
+            <!-- // output example $arr[$i]["folder"] -->
+
+            
+                    <a class="video_list_item" href="360video/vr-zubr/"> 
+                        
+                        <img class="spacer" src="/images/spacer_450x300.png" width="100%" height="auto" >
+                        <img class="thumb" src="https://www.airpano.ru/files/r_450/vr-zubr-02.jpg">
+
+                        <div class="video_list_item_icon"></div>
+
+                        <div class="video_list_item_views_count">views: <span>3,361</span></div>
+
+                        <span class="video_list_item_black_grad"> </span>
+                        <span class="video_list_item_title">European Bison, Bryansk Forest Nature Reserve</span>
+                    </a>
+
+                
+            <!-- // output example $arr[$i]["folder"] -->
+
+            
+                    <a class="video_list_item" href="360video/vr-sharks/"> 
+                        
+                        <img class="spacer" src="/images/spacer_450x300.png" width="100%" height="auto" >
+                        <img class="thumb" src="https://www.airpano.ru/files/r_450/vr-sharks_01.jpg">
+
+                        <div class="video_list_item_icon"></div>
+
+                        <div class="video_list_item_views_count">views: <span>9,463</span></div>
+
+                        <span class="video_list_item_black_grad"> </span>
+                        <span class="video_list_item_title">Diving with Sharks around the World</span>
+                    </a>
+
+                
+            <!-- // output example $arr[$i]["folder"] -->
+
+            
+                    <a class="video_list_item" href="360video/vr-moneron/"> 
+                        
+                        <img class="spacer" src="/images/spacer_450x300.png" width="100%" height="auto" >
+                        <img class="thumb" src="https://www.airpano.ru/files/r_450/vr-moneron-02.jpg">
+
+                        <div class="video_list_item_icon"></div>
+
+                        <div class="video_list_item_views_count">views: <span>5,733</span></div>
+
+                        <span class="video_list_item_black_grad"> </span>
+                        <span class="video_list_item_title">Moneron Island national park</span>
+                    </a>
+
+                
+            <!-- // output example $arr[$i]["folder"] -->
+
+            
+                    <a class="video_list_item" href="360video/vr-manpupuner/"> 
+                        
+                        <img class="spacer" src="/images/spacer_450x300.png" width="100%" height="auto" >
+                        <img class="thumb" src="https://www.airpano.ru/files/r_450/vr-manpupuner_01.jpg">
+
+                        <div class="video_list_item_icon"></div>
+
+                        <div class="video_list_item_views_count">views: <span>5,204</span></div>
+
+                        <span class="video_list_item_black_grad"> </span>
+                        <span class="video_list_item_title">Trip to Manpupuner Rock Formations</span>
+                    </a>
+
+                
+            <!-- // output example $arr[$i]["folder"] -->
+
+            
+                    <a class="video_list_item" href="360video/vr-kalyazin/"> 
+                        
+                        <img class="spacer" src="/images/spacer_450x300.png" width="100%" height="auto" >
+                        <img class="thumb" src="https://www.airpano.ru/files/r_450/vr-kalyazin-01.jpg">
+
+                        <div class="video_list_item_icon"></div>
+
+                        <div class="video_list_item_views_count">views: <span>6,319</span></div>
+
+                        <span class="video_list_item_black_grad"> </span>
+                        <span class="video_list_item_title">Kalyazin, Bell tower, Volga river</span>
+                    </a>
+
+                
+            <!-- // output example $arr[$i]["folder"] -->
+
+            
+                    <a class="video_list_item" href="360video/vr-cancun/"> 
+                        
+                        <img class="spacer" src="/images/spacer_450x300.png" width="100%" height="auto" >
+                        <img class="thumb" src="https://www.airpano.ru/files/r_450/vr-cancun-01.jpg">
+
+                        <div class="video_list_item_icon"></div>
+
+                        <div class="video_list_item_views_count">views: <span>8,688</span></div>
+
+                        <span class="video_list_item_black_grad"> </span>
+                        <span class="video_list_item_title">Cancun, Mexico. Blue water scenic flight</span>
+                    </a>
+
+                
+            <!-- // output example $arr[$i]["folder"] -->
+
+            
+                    <a class="video_list_item" href="360video/vr-lena-pillars/"> 
+                        
+                        <img class="spacer" src="/images/spacer_450x300.png" width="100%" height="auto" >
+                        <img class="thumb" src="https://www.airpano.ru/files/r_450/vr-lena_pillars_01.jpg">
+
+                        <div class="video_list_item_icon"></div>
+
+                        <div class="video_list_item_views_count">views: <span>7,712</span></div>
+
+                        <span class="video_list_item_black_grad"> </span>
+                        <span class="video_list_item_title">National park Lena Pillars</span>
+                    </a>
+
+                
+            <!-- // output example $arr[$i]["folder"] -->
+
+            
+                    <a class="video_list_item" href="360video/vr-montenegro-beaches/"> 
+                        
+                        <img class="spacer" src="/images/spacer_450x300.png" width="100%" height="auto" >
+                        <img class="thumb" src="https://www.airpano.ru/files/r_450/vr-montenegro_beaches_01.jpg">
+
+                        <div class="video_list_item_icon"></div>
+
+                        <div class="video_list_item_views_count">views: <span>7,707</span></div>
+
+                        <span class="video_list_item_black_grad"> </span>
+                        <span class="video_list_item_title">Beaches of Montenegro</span>
+                    </a>
+
+                
+            <!-- // output example $arr[$i]["folder"] -->
+
+            
+                    <a class="video_list_item" href="360video/vr-namib/"> 
+                        
+                        <img class="spacer" src="/images/spacer_450x300.png" width="100%" height="auto" >
+                        <img class="thumb" src="https://www.airpano.ru/files/r_450/vr-namib-01.jpg">
+
+                        <div class="video_list_item_icon"></div>
+
+                        <div class="video_list_item_views_count">views: <span>7,912</span></div>
+
+                        <span class="video_list_item_black_grad"> </span>
+                        <span class="video_list_item_title">Namib Desert, Namibia</span>
+                    </a>
+
+                
+            <!-- // output example $arr[$i]["folder"] -->
+
+            
+                    <a class="video_list_item" href="360video/vr-miami-short/"> 
+                        
+                        <img class="spacer" src="/images/spacer_450x300.png" width="100%" height="auto" >
+                        <img class="thumb" src="https://www.airpano.ru/files/r_450/vr-miami-short__02.jpg">
+
+                        <div class="video_list_item_icon"></div>
+
+                        <div class="video_list_item_views_count">views: <span>12,497</span></div>
+
+                        <span class="video_list_item_black_grad"> </span>
+                        <span class="video_list_item_title">Relaxing Flight over Miami, USA</span>
+                    </a>
+
+                              
+                </div>
+
+            </div>
+
+            <script type="text/javascript">
+                window.addEventListener("resize",videoDivUpdate);
+
+                function videoDivUpdate(){
+                    var items = document.querySelectorAll("#video360_cont_index .video_list_item");
+                    if(typeof items != "undefined" && items.length > 0) {
+                        var rect = items[0].getBoundingClientRect();
+                        document.querySelector("#video360_cont_index").style.height = (rect.height * 3 + 58) + "px";
+                    }
+                }
+
+                videoDivUpdate();
+                setTimeout(videoDivUpdate,100);
+                setTimeout(videoDivUpdate,500);
+
+            </script>
+
+            <p style="text-align: center;"><a href="360video_list.php" class="link_button_green">See all 360° Video (216)</a></p>
+
+
+			<a name="world_map"></a>
+            
+            <!--<div id='div-gpt-ad-Middle1' style="position: relative; margin-top: 30px; left: 50%; transform: translateX(-50%); max-width: 970px;">
+                <script>
+                   // googletag.cmd.push(function() { googletag.display('div-gpt-ad-Middle1'); });
+                </script>
+            </div>-->
+			
+			<div id='div-adds-mid' style="position: relative; margin-top: 30px; left: 50%; transform: translateX(-50%); max-width: 730px;">	
+				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 720x90 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-1145942850431825"
+     data-ad-slot="9280846427"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>			</div>
+
+            <br>
+
+        </div>
+		
+        <div class="media_title"><hr><span>World&nbsp;Map. AirPano shooting locations</span></div>
+        <br>
+        <br>
+        <br>
+
+        <div class="content" style="max-width: 1290px">  
+
+
+
+
+
+
+
+
+            <script type="text/javascript">
+
+                function load() {
+
+                    var imageUrl_inactive = 'https://www.airpano.ru/images/gmaps_spot_inactive.png';
+                    var markerImage_inactive = new google.maps.MarkerImage(imageUrl_inactive, new google.maps.Size(31, 44));
+
+                    var imageUrl = 'https://www.airpano.ru/images/gmaps_spot_360photo.png';
+                    var markerImage = new google.maps.MarkerImage(imageUrl, new google.maps.Size(31, 44));
+
+                    var imageUrl_video = 'https://www.airpano.ru/images/gmaps_spot_360video.png';
+                    var markerImage_video = new google.maps.MarkerImage(imageUrl_video, new google.maps.Size(31, 44));
+
+
+                    var map = new google.maps.Map(document.getElementById("map"), {
+                    center: new google.maps.LatLng(35.532226,23.767089),
+                    zoom: 2,
+
+                    mapTypeId: google.maps.MapTypeId.TERRAIN
+                    });
+                    map.setOptions({ minZoom: 2, maxZoom: 15 });
+                    var infoWindow = new google.maps.InfoWindow;
+
+                    // Change this depending on the name of your PHP file
+                    downloadUrl("includes/google_map_xml_inactive.php", function(data) {
+                        var xml = data.responseXML;
+                        var markers = xml.documentElement.getElementsByTagName("marker");
+                        for (var i = 0; i < markers.length; i++) {
+                            var name = markers[i].getAttribute("name");
+                            var folder = markers[i].getAttribute("folder");
+                            var type = markers[i].getAttribute("type");
+                            var description = markers[i].getAttribute("description");
+                            var point = new google.maps.LatLng(
+                                parseFloat(markers[i].getAttribute("lat")),
+                                parseFloat(markers[i].getAttribute("lng"))
+                            );
+                            var html = description;
+
+                            if (folder == "") {
+                                var marker = new google.maps.Marker({
+                                    map: map,
+                                    icon: markerImage_inactive,
+                                    position: point,
+                                });
+                                marker.setZIndex(1);
+                            } else {
+                                var marker = new google.maps.Marker({
+                                    map: map,
+                                    icon: (type == "360video") ? markerImage_video : markerImage,
+                                    position: point,
+                                });
+                                marker.setZIndex(google.maps.Marker.MAX_ZINDEX + 1);
+                            }
+                            
+                            bindInfoWindow(marker, map, infoWindow, html);
+                        }
+                    });
+
+                    document.getElementById("map").removeEventListener("click",load,false);
+                }
+
+                function bindInfoWindow(marker, map, infoWindow, html) {
+                    google.maps.event.addListener(marker, 'click', function() {
+                        infoWindow.setContent(html);
+                        infoWindow.open(map, marker);
+                    });
+                }
+
+                function downloadUrl(url, callback) {
+                    var request = window.ActiveXObject ?
+                        new ActiveXObject('Microsoft.XMLHTTP') :
+                        new XMLHttpRequest;
+
+                    request.onreadystatechange = function() {
+                        if (request.readyState == 4) {
+                            request.onreadystatechange = doNothing;
+                            callback(request, request.status);
+                        }   
+                    };
+
+                    request.open('GET', url, true);
+                    request.send(null);
+                }
+
+                function doNothing() {}
+
+                //]]>
+            </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <style type="text/css">
+                #map {
+                    background-image: url(css/img/map_bg.png);
+                    background-position: center;
+                    background-size: auto 100%;
+                    height: 600px;
+                    margin-bottom: 20px;
+                }
+            </style>
+
+            <div id="map"></div>       
+            
+            <script type="text/javascript"
+                     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBd1NA51P3pUMV54ZtxSIipn2jgvc4Fx9I&sensor=false&language=en">
+            </script>
+			<!-- src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBkrvkKwbMAr1mgs3m7NfG5D0j69HgaCbM&sensor=false&language=en">-->
+                <!-- src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBEce_w_eT9qlQxRwy48MrZ_dC4gaPhNxQ&language=en"> -->
+
+            <script type="text/javascript">
+                function load_map() {
+                    var map = new google.maps.Map(document.getElementById("map"), {
+                        center: new google.maps.LatLng(35.532226,23.767089),
+                        zoom: 2,
+                        mapTypeId: google.maps.MapTypeId.TERRAIN
+                    });
+
+                    map.setOptions({ minZoom: 2, maxZoom: 15 });
+
+                    document.getElementById("map").removeEventListener("click",load_map,false);                    
+                }
+
+                // document.getElementById("map").addEventListener("click",load_map,false);
+                document.getElementById("map").addEventListener("click",load,false);
+            </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+        </div>
+
+        <div class="media_title"><hr><span>Photogallery</span></div>
+        <br>
+        <br>
+        <br>
+
+        <div class="content" style="max-width: 1290px">         
+            
+            <link rel="stylesheet" type="text/css" href="/css/photo_gallery_tiles.css"> 
+
+<div id="photo_gallery">
+
+
+    
+            <!-- // output example $arr_photo[$i]["folder"] -->
+
+
+            <a class="photo_gallery_tile" href="/gallery.php?gallery=36&photo=5467"
+                title="The crater of the Volcano Plosky Tolbachik"
+            > 
+    
+                <img src="/photogallery/images_150_vert/36_460317.jpg"
+                    alt="The crater of the Volcano Plosky Tolbachik"
+                    title="The crater of the Volcano Plosky Tolbachik"
+                >
+
+                <!-- <span class="photo_gallery_tile_hover_frame"> </span> -->
+                <span class="photo_gallery_tile_black_grad"> </span>
+                 
+                    <span class="photo_gallery_tile_title">The crater of the Volcano Plosky Tolbachik</span>
+                            </a>
+
+
+    
+            <!-- // output example $arr_photo[$i]["folder"] -->
+
+
+            <a class="photo_gallery_tile" href="/gallery.php?gallery=36&photo=829"
+                title="Paris #2"
+            > 
+    
+                <img src="/photogallery/images_150_vert/36_281323_ThebestAirPanophotos.jpg"
+                    alt="Paris #2"
+                    title="Paris #2"
+                >
+
+                <!-- <span class="photo_gallery_tile_hover_frame"> </span> -->
+                <span class="photo_gallery_tile_black_grad"> </span>
+                 
+                    <span class="photo_gallery_tile_title">Paris #2</span>
+                            </a>
+
+
+    
+            <!-- // output example $arr_photo[$i]["folder"] -->
+
+
+            <a class="photo_gallery_tile" href="/gallery.php?gallery=36&photo=5475"
+                title="Wayag islands, Raja Ampat, Indonesia"
+            > 
+    
+                <img src="/photogallery/images_150_vert/36_099370.jpg"
+                    alt="Wayag islands, Raja Ampat, Indonesia"
+                    title="Wayag islands, Raja Ampat, Indonesia"
+                >
+
+                <!-- <span class="photo_gallery_tile_hover_frame"> </span> -->
+                <span class="photo_gallery_tile_black_grad"> </span>
+                 
+                    <span class="photo_gallery_tile_title">Wayag islands, Raja Ampat, Indonesia</span>
+                            </a>
+
+
+    
+            <!-- // output example $arr_photo[$i]["folder"] -->
+
+
+            <a class="photo_gallery_tile" href="/gallery.php?gallery=36&photo=824"
+                title="Santorini (Thira), Oia, Greece #92"
+            > 
+    
+                <img src="/photogallery/images_150_vert/36_217079_ThebestAirPanophotos.jpg"
+                    alt="Santorini (Thira), Oia, Greece #92"
+                    title="Santorini (Thira), Oia, Greece #92"
+                >
+
+                <!-- <span class="photo_gallery_tile_hover_frame"> </span> -->
+                <span class="photo_gallery_tile_black_grad"> </span>
+                 
+                    <span class="photo_gallery_tile_title">Santorini (Thira), Oia, Greece #92</span>
+                            </a>
+
+
+    
+            <!-- // output example $arr_photo[$i]["folder"] -->
+
+
+            <a class="photo_gallery_tile" href="/gallery.php?gallery=36&photo=5457"
+                title="Siena, Italy"
+            > 
+    
+                <img src="/photogallery/images_150_vert/36_095243.jpg"
+                    alt="Siena, Italy"
+                    title="Siena, Italy"
+                >
+
+                <!-- <span class="photo_gallery_tile_hover_frame"> </span> -->
+                <span class="photo_gallery_tile_black_grad"> </span>
+                 
+                    <span class="photo_gallery_tile_title">Siena, Italy</span>
+                            </a>
+
+
+    
+            <!-- // output example $arr_photo[$i]["folder"] -->
+
+
+            <a class="photo_gallery_tile" href="/gallery.php?gallery=36&photo=5465"
+                title="Volcano Klyuchevskaya Sopka, Kamchatka, Russia"
+            > 
+    
+                <img src="/photogallery/images_150_vert/36_499986.jpg"
+                    alt="Volcano Klyuchevskaya Sopka, Kamchatka, Russia"
+                    title="Volcano Klyuchevskaya Sopka, Kamchatka, Russia"
+                >
+
+                <!-- <span class="photo_gallery_tile_hover_frame"> </span> -->
+                <span class="photo_gallery_tile_black_grad"> </span>
+                 
+                    <span class="photo_gallery_tile_title">Volcano Klyuchevskaya Sopka, Kamchatka, Russia</span>
+                            </a>
+
+
+    
+            <!-- // output example $arr_photo[$i]["folder"] -->
+
+
+            <a class="photo_gallery_tile" href="/gallery.php?gallery=36&photo=5491"
+                title="Aiguille du Midi"
+            > 
+    
+                <img src="/photogallery/images_150_vert/36_228487.jpg"
+                    alt="Aiguille du Midi"
+                    title="Aiguille du Midi"
+                >
+
+                <!-- <span class="photo_gallery_tile_hover_frame"> </span> -->
+                <span class="photo_gallery_tile_black_grad"> </span>
+                 
+                    <span class="photo_gallery_tile_title">Aiguille du Midi</span>
+                            </a>
+
+
+    
+            <!-- // output example $arr_photo[$i]["folder"] -->
+
+
+            <a class="photo_gallery_tile" href="/gallery.php?gallery=36&photo=5485"
+                title="Kambalnoe Lake at sunset, Kamchatka, Russia"
+            > 
+    
+                <img src="/photogallery/images_150_vert/36_900067.jpg"
+                    alt="Kambalnoe Lake at sunset, Kamchatka, Russia"
+                    title="Kambalnoe Lake at sunset, Kamchatka, Russia"
+                >
+
+                <!-- <span class="photo_gallery_tile_hover_frame"> </span> -->
+                <span class="photo_gallery_tile_black_grad"> </span>
+                 
+                    <span class="photo_gallery_tile_title">Kambalnoe Lake at sunset, Kamchatka, Russia</span>
+                            </a>
+
+
+    
+            <!-- // output example $arr_photo[$i]["folder"] -->
+
+
+            <a class="photo_gallery_tile" href="/gallery.php?gallery=36&photo=5519"
+                title="Great Pyramids of Giza in Egypt"
+            > 
+    
+                <img src="/photogallery/images_150_vert/36_634968.jpg"
+                    alt="Great Pyramids of Giza in Egypt"
+                    title="Great Pyramids of Giza in Egypt"
+                >
+
+                <!-- <span class="photo_gallery_tile_hover_frame"> </span> -->
+                <span class="photo_gallery_tile_black_grad"> </span>
+                 
+                    <span class="photo_gallery_tile_title">Great Pyramids of Giza in Egypt</span>
+                            </a>
+
+
+    
+            <!-- // output example $arr_photo[$i]["folder"] -->
+
+
+            <a class="photo_gallery_tile" href="/gallery.php?gallery=36&photo=5508"
+                title="Great Wall of China"
+            > 
+    
+                <img src="/photogallery/images_150_vert/36_362762.jpg"
+                    alt="Great Wall of China"
+                    title="Great Wall of China"
+                >
+
+                <!-- <span class="photo_gallery_tile_hover_frame"> </span> -->
+                <span class="photo_gallery_tile_black_grad"> </span>
+                 
+                    <span class="photo_gallery_tile_title">Great Wall of China</span>
+                            </a>
+
+
+    
+            <!-- // output example $arr_photo[$i]["folder"] -->
+
+
+            <a class="photo_gallery_tile" href="/gallery.php?gallery=36&photo=5483"
+                title="Mist above the Namib Desert"
+            > 
+    
+                <img src="/photogallery/images_150_vert/36_215775.jpg"
+                    alt="Mist above the Namib Desert"
+                    title="Mist above the Namib Desert"
+                >
+
+                <!-- <span class="photo_gallery_tile_hover_frame"> </span> -->
+                <span class="photo_gallery_tile_black_grad"> </span>
+                 
+                    <span class="photo_gallery_tile_title">Mist above the Namib Desert</span>
+                            </a>
+
+
+    
+            <!-- // output example $arr_photo[$i]["folder"] -->
+
+
+            <a class="photo_gallery_tile" href="/gallery.php?gallery=36&photo=5455"
+                title="Yuanyang Hani Rice Terraces, China"
+            > 
+    
+                <img src="/photogallery/images_150_vert/36_155963.jpg"
+                    alt="Yuanyang Hani Rice Terraces, China"
+                    title="Yuanyang Hani Rice Terraces, China"
+                >
+
+                <!-- <span class="photo_gallery_tile_hover_frame"> </span> -->
+                <span class="photo_gallery_tile_black_grad"> </span>
+                 
+                    <span class="photo_gallery_tile_title">Yuanyang Hani Rice Terraces, China</span>
+                            </a>
+
+
+    
+            <!-- // output example $arr_photo[$i]["folder"] -->
+
+
+            <a class="photo_gallery_tile" href="/gallery.php?gallery=36&photo=5454"
+                title="Len&#231;&#243;is Maranhenses National Park, Brazil"
+            > 
+    
+                <img src="/photogallery/images_150_vert/36_614886.jpg"
+                    alt="Len&#231;&#243;is Maranhenses National Park, Brazil"
+                    title="Len&#231;&#243;is Maranhenses National Park, Brazil"
+                >
+
+                <!-- <span class="photo_gallery_tile_hover_frame"> </span> -->
+                <span class="photo_gallery_tile_black_grad"> </span>
+                 
+                    <span class="photo_gallery_tile_title">Len&#231;&#243;is Maranhenses National Park, Brazil</span>
+                            </a>
+
+
+    
+            <!-- // output example $arr_photo[$i]["folder"] -->
+
+
+            <a class="photo_gallery_tile" href="/gallery.php?gallery=36&photo=6548"
+                title="The Great Barrier Reef"
+            > 
+    
+                <img src="/photogallery/images_150_vert/36_683312.jpg"
+                    alt="The Great Barrier Reef"
+                    title="The Great Barrier Reef"
+                >
+
+                <!-- <span class="photo_gallery_tile_hover_frame"> </span> -->
+                <span class="photo_gallery_tile_black_grad"> </span>
+                 
+                    <span class="photo_gallery_tile_title">The Great Barrier Reef</span>
+                            </a>
+
+
+    
+            <!-- // output example $arr_photo[$i]["folder"] -->
+
+
+            <a class="photo_gallery_tile" href="/gallery.php?gallery=36&photo=5469"
+                title="Over the center of Moscow city"
+            > 
+    
+                <img src="/photogallery/images_150_vert/36_748444.jpg"
+                    alt="Over the center of Moscow city"
+                    title="Over the center of Moscow city"
+                >
+
+                <!-- <span class="photo_gallery_tile_hover_frame"> </span> -->
+                <span class="photo_gallery_tile_black_grad"> </span>
+                 
+                    <span class="photo_gallery_tile_title">Over the center of Moscow city</span>
+                            </a>
+
+
+    
+            <!-- // output example $arr_photo[$i]["folder"] -->
+
+
+            <a class="photo_gallery_tile" href="/gallery.php?gallery=36&photo=839"
+                title="Golden Eagles is flying above the Red Square, Moscow"
+            > 
+    
+                <img src="/photogallery/images_150_vert/36_355253_ThebestAirPanophotos.jpg"
+                    alt="Golden Eagles is flying above the Red Square, Moscow"
+                    title="Golden Eagles is flying above the Red Square, Moscow"
+                >
+
+                <!-- <span class="photo_gallery_tile_hover_frame"> </span> -->
+                <span class="photo_gallery_tile_black_grad"> </span>
+                 
+                    <span class="photo_gallery_tile_title">Golden Eagles is flying above the Red Square, Moscow</span>
+                            </a>
+
+
+    
+            <!-- // output example $arr_photo[$i]["folder"] -->
+
+
+            <a class="photo_gallery_tile" href="/gallery.php?gallery=36&photo=857"
+                title="Valley of Silence"
+            > 
+    
+                <img src="/photogallery/images_150_vert/36_246237_ThebestAirPanophotos.jpg"
+                    alt="Valley of Silence"
+                    title="Valley of Silence"
+                >
+
+                <!-- <span class="photo_gallery_tile_hover_frame"> </span> -->
+                <span class="photo_gallery_tile_black_grad"> </span>
+                 
+                    <span class="photo_gallery_tile_title">Valley of Silence</span>
+                            </a>
+
+
+    
+            <!-- // output example $arr_photo[$i]["folder"] -->
+
+
+            <a class="photo_gallery_tile" href="/gallery.php?gallery=36&photo=5460"
+                title="Naarden, Netherlands"
+            > 
+    
+                <img src="/photogallery/images_150_vert/36_927815.jpg"
+                    alt="Naarden, Netherlands"
+                    title="Naarden, Netherlands"
+                >
+
+                <!-- <span class="photo_gallery_tile_hover_frame"> </span> -->
+                <span class="photo_gallery_tile_black_grad"> </span>
+                 
+                    <span class="photo_gallery_tile_title">Naarden, Netherlands</span>
+                            </a>
+
+
+    
+            <!-- // output example $arr_photo[$i]["folder"] -->
+
+
+            <a class="photo_gallery_tile" href="/gallery.php?gallery=36&photo=9866"
+                title="Jellyfish Bay, Raja Ampat, Indonesia"
+            > 
+    
+                <img src="/photogallery/images_150_vert/36_652869.jpg"
+                    alt="Jellyfish Bay, Raja Ampat, Indonesia"
+                    title="Jellyfish Bay, Raja Ampat, Indonesia"
+                >
+
+                <!-- <span class="photo_gallery_tile_hover_frame"> </span> -->
+                <span class="photo_gallery_tile_black_grad"> </span>
+                 
+                    <span class="photo_gallery_tile_title">Jellyfish Bay, Raja Ampat, Indonesia</span>
+                            </a>
+
+
+    
+            <!-- // output example $arr_photo[$i]["folder"] -->
+
+
+            <a class="photo_gallery_tile" href="/gallery.php?gallery=36&photo=5542"
+                title="Len&#231;&#243;is Maranhenses National Park, Brazil"
+            > 
+    
+                <img src="/photogallery/images_150_vert/36_775193.jpg"
+                    alt="Len&#231;&#243;is Maranhenses National Park, Brazil"
+                    title="Len&#231;&#243;is Maranhenses National Park, Brazil"
+                >
+
+                <!-- <span class="photo_gallery_tile_hover_frame"> </span> -->
+                <span class="photo_gallery_tile_black_grad"> </span>
+                 
+                    <span class="photo_gallery_tile_title">Len&#231;&#243;is Maranhenses National Park, Brazil</span>
+                            </a>
+
+
+      
+
+</div>
+
+
+<script type="text/javascript">
+    var imgs = document.querySelectorAll("#photo_gallery img");
+
+    for (var i = 0; i < imgs.length; i++) {
+        var img = imgs[i];
+
+        function imgLoad(){
+            // document.querySelector("#test").innerHTML += ' ' + this.naturalWidth;
+            this.aspect = this.naturalWidth / this.naturalHeight;
+            photoGalleryUpdate();
+        }
+
+        function imgLoad2(image){
+            // document.querySelector("#test").innerHTML += ' ' + this.naturalWidth;
+            image.aspect = image.naturalWidth / image.naturalHeight;
+            photoGalleryUpdate();
+        }
+
+        img.addEventListener('load', imgLoad, false);
+        setTimeout(imgLoad2,300,img);
+
+    }
+
+    function photoGalleryUpdate(){
+        var imgsCont = document.querySelector("#photo_gallery");
+        var imgs = document.querySelectorAll("#photo_gallery img");
+        var tiles = document.querySelectorAll("#photo_gallery .photo_gallery_tile");
+
+        var imgsContRect = imgsCont.getBoundingClientRect();
+
+
+        var imgcount = 0;                    
+        var rowWidth = 0;                    
+        var rowHeight = 0;                    
+        var rowHeightAll = 0;                    
+        for (var i = 0; i < imgs.length; i++) {
+            tiles[i].style.zIndex = imgs.length - i;
+            tiles[i].style.opacity = 0;
+            
+            if(typeof imgs[i].aspect !== "undefined") {
+
+                imgcount++;
+                rowWidth += imgs[i].naturalWidth;
+                if(rowWidth > imgsContRect.width) {
+                    var rowAspect = (imgsContRect.width+1) / rowWidth;
+                    // console.log(rowAspect,imgcount);
+                    var imgH = 150 * rowAspect;
+                    rowHeightAll += imgH;
+                    
+                    rowWidth = 0;
+
+                    for (var j = imgcount-1; j > -1; j--) {
+                        var imgW = imgH * imgs[i-j].aspect;
+
+                        // if(rowWidth + imgW > imgsContRect.width) imgW = imgsContRect.width - rowWidth;
+
+                        tiles[i-j].style.height = imgH - 1 + "px";
+                        tiles[i-j].style.width = imgW - 1 + "px";
+
+                        tiles[i-j].style.top = rowHeightAll - imgH + "px";
+                        tiles[i-j].style.left = rowWidth + "px";
+                        
+                        tiles[i-j].style.opacity = 1;            
+
+                        rowWidth += imgW;
+                        // console.log(imgs[i-j].style.height);
+                    }
+                    
+                    rowWidth = 0;
+                    imgcount = 0;
+                }
+            }
+        }
+
+        imgsCont.style.height = rowHeightAll + "px"
+
+    }
+
+    window.photoGalleryUpdateTimeout = null;
+
+    window.addEventListener("resize",function(){
+        clearTimeout(photoGalleryUpdateTimeout);
+        photoGalleryUpdateTimeout = setTimeout(function(){
+            photoGalleryUpdate();
+        },100);
+    })
+
+</script>
+
+
+<!--   -->
+            <br>
+            <p style="text-align: center;"><a href="photogalleries.php" class="link_button_green">See all photo (15306)</a></p>
+            <br>
+                    
+        </div>
+
+        <br>
+        <br>
+        <div style="background: #efefef">
+
+            <br>
+            <div class="media_title"><hr><span style="background: #efefef">Services</span></div>
+            <br>
+            <div class="content" style="background: #efefef;"> 
+                <style type="text/css">
+
+h2, h3 {
+    font-family: Hattori, Helvetica, sans-serif;
+    color: #007298;
+    text-align: center;
+    font-weight: normal;
+    letter-spacing: 8px;
+    margin: 30px 0 10px 0;
+}
+
+h4.serviceTitle {
+    display: block;
+    font-size: 25px;
+    font-family: Hattori, Helvetica, sans-serif;
+    color: #007298;
+    text-align: left;
+    font-weight: normal;
+    margin: 20px 0 15px 0;
+    /*letter-spacing: 8px;*/
+}
+
+.serviceThumb {
+    display: inline-block;
+    position: relative;
+    width: 48%;
+    height: 130px;
+    /*background: #999999;*/
+    background: #dce6ee;
+    border:3px solid #ffffff;
+    border-radius: 2px;
+    box-shadow: 0px 10px 20px rgba(30, 30, 30, 0.3);
+    /*margin-left: 30px;
+    margin-right: 30px;*/
+    text-decoration: none;
+    overflow: hidden;
+
+    cursor: pointer;
+
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+
+    -webkit-transition:all 1s;
+    -moz-transition:all 1s;
+    -ms-transition:all 1s;
+    -o-transition:all 1s;
+    transition:all 1s;
+
+    -webkit-transform: translateZ(0);
+}
+
+.serviceThumb:hover {
+    -webkit-transition:all 0.3s;
+    -moz-transition:all 0.3s;
+    -ms-transition:all 0.3s;
+    -o-transition:all 0.3s;
+    transition:all 0.3s;
+
+    border:3px solid #0093bc;
+    box-shadow: 0px 10px 20px rgba(30, 30, 30, 0.5);
+}
+
+.serviceThumbRowLeft {
+    float: left;
+}
+
+.serviceThumbRowRight {
+    float: right;
+}
+
+.serviceThumbIcon {
+    position: absolute;
+    left: 0; top: 0;
+    width: 100%; height: 90px;
+    background-repeat: no-repeat;
+    background-position: center;
+    pointer-events: none;
+    z-index: 50;
+}
+
+.serviceThumbImg {
+    position: absolute;
+    left: 41%; top: 0;
+    height: 115%; width: auto;
+    margin-left: -174px;
+}
+
+.serviceThumb:not(:hover) .serviceThumbImg  {
+    -webkit-transition:all 2s;
+    -moz-transition:all 2s;
+    -ms-transition:all 2s;
+    -o-transition:all 2s;
+    transition:all 2s;
+
+    /*opacity: 0.3;
+
+    -webkit-filter:grayscale(100%);
+    -moz-filter:greyscale(100%);
+    -ms-filter:greyscale(100%);
+    -o-filter:greyscale(100%);
+    filter:grayscale(100%);*/
+}
+
+.serviceThumb:hover .serviceThumbImg {
+    /*opacity: 1;*/
+
+    -webkit-transition:all 0.4s;
+    -moz-transition:all 0.4s;
+    -ms-transition:all 0.4s;
+    -o-transition:all 0.4s;
+    transition:all 0.4s;
+
+    /*-webkit-filter:greyscale(0%);
+    -moz-filter:greyscale(0%);
+    -ms-filter:greyscale(0%);
+    -o-filter:greyscale(0%);
+    filter:greyscale(0%);*/
+}
+
+.serviceThumbTitle {
+    display: block;
+    position: absolute;
+    left: 0; bottom: 0; width: 100%;
+    color: #ffffff;
+    font-size: 16px;
+    /*font-family: Oswald, Helvetica, Arial, sans-serif;*/
+    font-family: Hattori, Helvetica, Arial, sans-serif;
+    text-align: center;
+    /*line-height: 24px;*/
+    /*height: 40px;*/
+    padding: 10px 0 7px 0;
+    background-color: rgba(30,30,30,0.8);
+    box-shadow: 0px 0px 10px rgba(255,255,255,1);
+    z-index: 100;
+}
+
+.serviceRowLeft, .serviceRowRight {
+    position: relative;
+    -webkit-transform: translateZ(0);
+}
+
+.serviceRowLeft {
+    float: left;
+    width:49%;
+}
+.serviceRowRight {
+    float: right;
+    width:49%;
+}
+
+.serviceRowLeft > .serviceInfoGroup {
+    float: left;
+}
+
+.serviceRowRight > .serviceInfoGroup {
+    float: right;
+}
+
+.service_info_div {
+    display: none;
+    position: absolute;
+    /*height: 0;*/
+    left: 0; top: 0; right: 0; bottom: 0;
+    background-color: #f3f3f3;
+    padding: 20px;
+    overflow: auto;
+
+    -webkit-transition:all 0.3s;
+    -moz-transition:all 0.3s;
+    -ms-transition:all 0.3s;
+    -o-transition:all 0.3s;
+    transition:all 0.3s;
+}
+
+.serviceInfoGroup {
+    position: relative;
+    width: 204%;
+    margin-top:20px;
+    margin-bottom:-20px;
+    /*border: 1px solid rgba(0,0,0,0.3);*/
+    overflow: hidden;
+    text-align: left;
+    -webkit-transform: translateZ(0);
+}
+
+    .service_info_div_opened {
+        display: block!important;;
+        /*height: auto!important;*/
+        /*opacity: 1!important;*/
+    }
+
+    .service_info_div {
+        display: none;
+        background-color: #ffffff;
+        position: relative;
+        /*height: 0;*/
+        /*height: auto;*/
+        /*opacity: 0.5;*/
+        padding: 5px 15px;
+        border-top: 3px solid rgba(0,0,0,0.3);
+        border-bottom: 3px solid rgba(0,0,0,0.3);
+        /*margin-top: 20px;*/
+        margin-bottom: 30px;
+        /*box-shadow: inset 2px 3px 8px rgba(0,0,0,0.2);*/
+        overflow: hidden;
+    }
+
+#serviceInfoGroupClose {
+    display: block;
+    position: absolute;
+    z-index: 1000;
+    right: 10px;
+    top: 10px;
+    display: block;
+    width: 40px;
+    height: 40px;
+    border-radius: 3px;
+    background: url(images/service_info_close.png) center no-repeat;
+    /*background-size: 100%;*/
+    cursor: pointer;
+
+    background-color: transparent;
+}
+
+#serviceInfoGroupClose:active {
+    top: 11px;
+}
+
+.serviceimgLink {
+    display:block;
+    border:2px solid transparent;
+    font-size: 0;
+    width:90%;
+    margin: 0 auto !important;
+    text-align: center
+}
+
+.serviceimgLink img {
+    width: 100%;
+}
+
+.serviceimgLink:hover {
+    border:2px solid #007298;
+}
+
+.serviceimgLink:first-child {
+    margin: 0 0 0 5%;
+}
+
+.serviceimgLink:last-child {
+    margin: 0 5% 0 0;
+}
+
+@media (max-width: 730px) {
+    .serviceRowLeft {
+        width:100%;
+    }
+    .serviceRowRight {
+        width:100%;
+        margin-top: 15px;
+    }
+
+    .serviceInfoGroup {
+        width: 100%;
+        margin-top:20px;
+        margin-bottom:-20px;
+    }
+
+    #serviceInfoGroupClose {
+        /*display: block;*/
+    }
+
+}
+</style>
+
+
+<h4 class="serviceTitle">360° Panoramic Creations: <!-- видео, фотопанорамы, гигапанорамы, таймлапсы --></h4>
+<div class="serviceRowLeft" align="left">
+    <div class="serviceThumb serviceThumbRowLeft" contentdiv="service360video">
+        <img class="serviceThumbImg" src="images/service_thumbs/video360.jpg" border="0"/>
+        <div class="serviceThumbIcon" style="background-image:url(images/service_thumbs/service_icon_video.png)"></div>
+        <span class="serviceThumbTitle">360° VIDEO</span>
+    </div>
+    <div class="serviceThumb serviceThumbRowRight" contentdiv="service360foto">
+        <img class="serviceThumbImg" src="images/service_thumbs/zvezda.jpg" border="0"/>
+        <div class="serviceThumbIcon" style="background-image:url(images/service_thumbs/service_icon_foto.png)"></div>
+        <span class="serviceThumbTitle">360° PHOTOGRAPHY</span>
+    </div>
+
+    <div class="serviceInfoGroup">
+        <div id="serviceInfoGroupClose" onclick="event.preventDefault();serviceInfoDivOpenClose()"></div>
+        <div id="service360video" class="service_info_div">
+            <h2>360° VIDEO</h2>
+            <p>We create high-quality stabilized video having 8k and 4k resolution, 48 or 24 frames per second together with high-quality post-processing. Videos are supported by the most advanced technologies, such as virtual reality headsets (including Samsung Gear VR), different electronic devices and YouTube channels.</p>
+			<p>We use different types of moving and fixed objects (tripods, monopods, cars, helicopters, building cranes, etc.) to record videos. For aerial shooting we usually use drones with fully gyro-stabilized unique suspension. Panoramic video covers up all the space around the camera 360x180 degrees without black spots at both nadir and zenith viewing angle.</p>
+            <p>360° videos are available in any format you choose: .mp4, .avi, .mov, etc. All the videos are made and kept in frames, making it possible to encode them into any available format and bitrate with the resolution up to 8k.</p>
+            <p align="center"><a href="/contact.php" class="link_button_green">Order</a></p>
+        </div>
+        <div id="service360foto" class="service_info_div">
+            <h2>360° PHOTOGRAPHY</h2>
+            <p>Our team creates high-quality 360° photo-panoramas with 35000x17500 pixels resolution (in the equidistant projection) and carries out professional post-processing and corrections of any complexity. We develop virtual tours which are suitable for all browsers, support both Flash and HTML5 technologies and are compatible with different mobile devices and virtual reality headsets (including Samsung Gear VR).</p>
+            <p>We use different types of moving and fixed objects (tripods, monopods, cars, helicopters, building cranes, etc.) to record videos. For aerial shooting we usually use drones with the fully gyro-stabilized unique suspension. Panoramic video covers up all the space around the camera 360x180 degrees without black spots at both nadir and zenith viewing angle.</p>
+            <p>Ready 360° photo-panoramas cover up all the space around the camera 360x180 degrees without black spots at both nadir and zenith viewing angle.</p>
+            <p>Info-points (description buttons that can be placed in the panorama), embedded pictures, video and audio can be added to the virtual tour.</p>
+            <p align="center"><a href="/contact.php" class="link_button_green">Order</a></p>
+        </div>
+    </div>
+</div>
+<div class="serviceRowRight" align="right">
+    <div class="serviceThumb serviceThumbRowLeft" contentdiv="service360giga">
+        <img class="serviceThumbImg" src="images/service_thumbs/giga_chistoprudov.jpg" border="0"/>
+        <div class="serviceThumbIcon" style="background-image:url(images/service_thumbs/service_icon_giga.png)"></div>
+        <span class="serviceThumbTitle">360° GIGAPANORAMA</span>
+    </div>
+    <div class="serviceThumb serviceThumbRowRight" contentdiv="service360laps">
+        <img class="serviceThumbImg" src="images/service_thumbs/time_square_03.jpg" border="0"/>
+        <div class="serviceThumbIcon" style="background-image:url(images/service_thumbs/service_icon_timelapse.png)"></div>
+        <span class="serviceThumbTitle">360° TIMELAPSE</span>
+    </div>
+
+    <div class="serviceInfoGroup">
+        <div id="service360giga" class="service_info_div">
+            <h2>360° GIGAPANORAMA</h2>
+            <p>Our team creates high-quality 360° photo-panoramas with resolution from 1 to 3 gigapixel and carries out professional post-processing and corrections of any complexity. We develop virtual tours which are suitable for all browsers, support both Flash and HTML5 technologies and are compatible with different mobile devices and virtual reality glasses (including Samsung Gear VR).</p>
+            <p>We use different types of moving and fixed objects (tripods, monopods, cars, helicopters, building cranes, etc.) to record videos. For aerial shooting we usually use drones with the fully gyro-stabilized unique suspension. Panoramic video covers up all the space around the camera 360x180 degrees without black spots at both nadir and zenith viewing angle.</p>
+            <p>Ready 360° photo-panoramas cover up all the space around the camera 360x180 degrees without black spots at both nadir and zenith viewing angle.</p>
+            <p>Info-points (description buttons that can be placed in the panorama), embedded pictures, video and audio can be added to the ready virtual tour.</p>
+            <p align="center"><a href="/contact.php" class="link_button_green">Order</a></p>
+        </div>
+
+        <div id="service360laps" class="service_info_div">
+            <h2>360° TIMELAPSE</h2>
+            <p>We can make panoramic timelapses with the given viewing angle and resolution up to 12k with professional post-processing and without black spots at both nadir and zenith viewing angle. 360° timelapses are supported by the most advanced technologies, such as virtual reality glasses (including Samsung Gear VR), different electronic devices and YouTube channels.</p>
+            <p>360° timelapses are available in any format you choose: .mp4, .avi, .mov, etc. All the timelapses are made and kept in frames, making it possible to encode them into any available format and bitrate with the resolution up to 12K.</p>
+            <p align="center"><a href="/contact.php" class="link_button_green">Order</a></p>
+        </div>
+    </div>
+</div>
+<div style="clear:both"></div>
+
+
+<a name="b2"></a>
+<h4 class="serviceTitle">Content sales: <!-- виртуальные туры, интерактивные презентации, iOS/Android приложения --></h4>
+<div class="serviceRowLeft" align="left">
+    <div class="serviceThumb serviceThumbRowLeft" contentdiv="serviceTour">
+        <img class="serviceThumbImg" src="images/service_thumbs/tour_map.jpg" border="0"/>
+        <div class="serviceThumbIcon" style="background-image:url(images/service_thumbs/service_icon_tour.png)"></div>
+        <span class="serviceThumbTitle">VIRTUAL TOURS</span>
+    </div>
+    <div class="serviceThumb serviceThumbRowRight" contentdiv="serviceFotobank">
+        <img class="serviceThumbImg" src="images/service_thumbs/fotobank.jpg" border="0"/>
+        <div class="serviceThumbIcon" style="background-image:url(images/service_thumbs/service_icon_fotobank.png)"></div>
+        <span class="serviceThumbTitle">STOCK PHOTOS</span>
+    </div>
+
+    <div class="serviceInfoGroup">
+        <div id="serviceTour" class="service_info_div">
+            <h2>VIRTUAL TOURS</h2>
+            <p>On the basis of 360° panoramas we create virtual tours of any complexity, branded with logos and design elements of the company’s website together with embedding interactive elements, such as photos, slideshows, videos, descriptions, switch-points to other panoramas, audio descriptions, 3D sounds.</p>
+            <p>Our clients receive a fully functional virtual tour developed in HTML5 and supported by any computer or mobile device (iOS, Android, Windows Phone).</p>
+			<p align="center">
+                <a href="/360photo_list.php" class="link_button_green">360° Photo</a>&nbsp;&nbsp;
+                <a href="/get_price.php?type=pano" class="link_button_green">Price List</a>
+            </p>
+        </div>
+        <div id="serviceFotobank" class="service_info_div">
+            <h2>STOCK PHOTOS</h2>
+            <p>For almost 10 years of travelling around the world our team has gathered an extensive stock of pictures, taken from both flying devices and the ground.</p>
+            <p>Any picture presented at our stock can be licensed for any kind of possible use. We can also offer the photos of <a href="https://www.airpano.com/Photogallery.php?gallery=55">ultra-high quality</a> (the longer side up to 103,000 pixels).</p>
+            <p>You can also take a look at the spherical panoramas published on the website <a href="https://www.airpano.com/">www.airpano.ru</a>. Any of the 360° panoramas represented on the website can be converted into a printed image of very high quality.</p>
+            <p align="center">
+                <a href="/photogalleries.php" class="link_button_green">Photogallery</a>&nbsp;&nbsp;
+                <a href="/get_price.php?type=photo" class="link_button_green">Price List</a>
+            </p>
+        </div>
+    </div>
+</div>
+<div class="serviceRowRight" align="right">
+    <div class="serviceThumb serviceThumbRowRight" contentdiv="serviceApps">
+        <img class="serviceThumbImg" src="images/service_thumbs/ios_android.jpg" border="0"/>
+        <div class="serviceThumbIcon" style="background-image:url(images/service_thumbs/service_icon_mobile.png)"></div>
+        <span class="serviceThumbTitle">APPLICATIONS</span>
+    </div>   
+    <div class="serviceThumb serviceThumbRowLeft" style="margin-right:2%" contentdiv="serviceVideobank">
+        <img class="serviceThumbImg" src="images/service_thumbs/videobank.jpg" border="0"/>
+        <div class="serviceThumbIcon" style="background-image:url(images/service_thumbs/service_icon_videobank.png)"></div>
+        <span class="serviceThumbTitle">STOCK 360° VIDEOS</span>
+    </div>
+
+    <div class="serviceInfoGroup">
+		<div id="serviceVideobank" class="service_info_div">
+            <h2>STOCK 360° VIDEOS</h2>
+            <p>By filming 360° video since 2011, our team has gathered an extensive stock of clips, taken from both flying devices and the ground.</p>
+            <p>Any video presented on our website can be licensed for any kind of possible use.</p> 
+			<p>We create high-quality stabilized video having 8k and 4k resolution, 48 or 24 frames per second together with high-quality post-processing. Videos are supported by the most advanced technologies, such as virtual reality headsets (including Samsung Gear VR), different electronic devices and YouTube channels.</p>
+            <p>360° videos are available in any format you choose: .mp4, .avi, .mov, etc. All the videos are made and kept in frames, making it possible to encode them into any available format and bitrate.</p>
+            <p align="center">
+                <a href="/360video_list.php" class="link_button_green">360° Video</a>&nbsp;&nbsp;
+                <a href="/get_price.php?type=video" class="link_button_green">Price List</a>
+            </p>
+        </div>
+        <div id="serviceApps" class="service_info_div" style="padding-bottom:20px">
+            <h2>APPLICATIONS</h2>
+            <p>We are one of the software developers of applications based on 360° photos and videos. Currently, there are 7 applications in our portfolio. One of them was top-rated in 84 countries and listed among the best applications of the year 2014 according to App Store.</p>
+            <p>These applications can also be used for demonstration of panoramic content with the help of virtual reality devices, such as Samsung Gear VR, Google Cardboard and analogues.</p>
+            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <col width="33%">
+                <col width="33%">
+                <col width="33%">
+                <tr>
+                    <td style="text-align: center;">
+                        <a href="https://itunes.apple.com/us/app/airpano-travel-book/id887138564" target="_blank" class="serviceimgLink">
+                            <img src="images/travel_book.jpg" width="100%" height="auto" border="0">
+                        </a>                        
+                    </td>
+                    <td style="text-align: center;">                        
+                            <img src="images/virtual_travel.jpg" width="100%" height="auto" border="0">                        
+                    </td>
+                    <td style="text-align: center;">
+                        <a href="https://itunes.apple.com/us/app/airpano-city-book-virtual-travel-city-guides/id1142577996?ls=1&mt=8" target="_blank" class="serviceimgLink">
+                            <img src="images/city_book_eng_s.png" width="100%" height="auto" border="0">
+                        </a>                        
+                    </td>
+                </tr>
+            </table>
+            <p align="center"><a href="/contact.php" class="link_button_green">Order</a></p>
+        </div>
+    </div>
+</div>
+<div style="clear:both"></div>
+
+
+<a name="b3"></a>
+<h4 class="serviceTitle">Exhibition installations: <!-- панорамный кинотеатр, сенсорная панель, очки виртуальной реальности --></h4>
+<div class="serviceRowLeft" align="left">
+    <div class="serviceThumb serviceThumbRowLeft" contentdiv="serviceCinema">
+        <img class="serviceThumbImg" src="images/service_thumbs/cinema.jpg" border="0"/>
+        <div class="serviceThumbIcon" style="background-image:url(images/service_thumbs/service_icon_cinema.png)"></div>
+        <span class="serviceThumbTitle">EXHIBITION INSTALLATIONS</span>
+    </div>
+    <div class="serviceThumb serviceThumbRowRight" style="margin-left:2%" contentdiv="servicePanel">
+        <img class="serviceThumbImg" src="images/service_thumbs/panel.jpg" border="0"/>
+        <div class="serviceThumbIcon" style="background-image:url(images/service_thumbs/service_icon_panel.png)"></div>
+        <span class="serviceThumbTitle">TOUCH SCREENS</span>
+    </div>
+
+    <div class="serviceInfoGroup">
+        <div id="serviceCinema" class="service_info_div">
+            <h2>EXHIBITION INSTALLATIONS</h2>
+            <p>AirPano team has the experience of creating panoramic cinemas and video-walls, making it possible to demonstrate our panoramic content at different kinds of events, exhibitions and in museums. The size is only defined by the premises, the quality of projector and the dimensions of plasma screens. Such solutions usually make a deep impression on visitors.</p>
+            <p>The control is carried out by a tablet or Kinect devices.</p>
+            <p align="center">
+                <img src="https://www.airpano.ru/files/images_for_articles/news_economic_forum1.jpg" border="0" height="auto" style="max-width:100%;">
+            </p>
+            <p align="center"><a href="/contact.php" class="link_button_green">Order</a></p>
+        </div>
+        <div id="servicePanel" class="service_info_div">
+            <h2>TOUCH SCREENS</h2>
+            <p>We are ready to create applications with panoramic content working on touch screens of any size. Both AirPano panoramas and the client’s material can be the basis for this kind of software.</p>
+            <p>We create virtual tours of any complexity, branded with logos and design elements of the company’s website together with embedding interactive elements, such as photos, slideshows, videos, descriptions, switch-points to other panoramas, audio descriptions, 3D sounds.</p>
+            <p align="center">
+                <img src="https://www.airpano.ru/files/images_for_articles/news_stend_2_645.jpg" border="0" height="auto" style="max-width:100%;">
+            </p>
+            <p align="center"><a href="/contact.php" class="link_button_green">Order</a></p>
+        </div>
+    </div>
+</div>
+<div class="serviceRowRight" align="right">
+    <div class="serviceThumb serviceThumbRowLeft" style="margin-right:2%" contentdiv="serviceVRGlasses">
+        <img class="serviceThumbImg" src="images/service_thumbs/vr.jpg" border="0"/>
+        <div class="serviceThumbIcon" style="background-image:url(images/service_thumbs/service_icon_vr.png)"></div>
+        <span class="serviceThumbTitle">VR HEADSETS</span>
+    </div>
+    <div class="serviceThumb serviceThumbRowRight" contentdiv="serviceBinocular">
+        <img class="serviceThumbImg" src="images/service_thumbs/binocular.jpg" border="0"/>
+        <div class="serviceThumbIcon" style="background-image:url(images/service_thumbs/service_icon_binocular.png)"></div>
+        <span class="serviceThumbTitle">BINOCULARS</span>
+    </div>
+
+    <div class="serviceInfoGroup">
+        <div id="serviceVRGlasses" class="service_info_div">
+            <h2>VR HEADSETS</h2>
+            <p>Our virtual tours and 360° videos are supported by all the types of virtual reality headsets (VR): Google Cardboard, Oculus Rift, Samsung Gear VR, Sony Morpheus and others.</p>
+            <p>We can also develop special software for operating on Samsung Gear VR, if required.</p>
+            <p align="center"><a href="/contact.php" class="link_button_green">Order</a></p>
+        </div>
+        <div id="serviceBinocular" class="service_info_div">
+            <h2>BINOCULARS</h2>
+            <p>AirPano in cooperation with Polden Studio carries out the installation of the binocular usage of the client’s or our own content. With the help of binoculars, the client can present the panoramic content at different kinds of events, exhibitions and in museums. This kind of devices usually attract a lot of visitors and leave a deep impression on them.</p>
+			<p align="center">
+                <img src="https://www.airpano.ru/files/images_for_articles/news_binocular.jpg" border="0" height="auto" style="max-width:100%;">
+            </p>
+            <p align="center"><a href="/contact.php" class="link_button_green">Order</a></p>
+        </div>
+    </div>
+</div>
+<div style="clear:both"></div>
+<br/><br/>
+
+
+<script type="text/javascript">
+    function servicesThumbsInit(){
+        var serviceInfoDivs = document.querySelectorAll(".service_info_div");
+        for (var i = 0; i < serviceInfoDivs.length; i++) {
+            serviceInfoDivs[i].groupDiv = serviceInfoDivs[i].parentNode;
+        };
+
+        var servicesThumbs = document.querySelectorAll(".serviceThumb");
+        for (var i = 0; i < servicesThumbs.length; i++) {
+            servicesThumbs[i].addEventListener("click",function(e){
+                if(this.getAttribute("linkto") != "site") {
+                    e.preventDefault();
+                    // windowOpen("iframe",this.getAttribute("href"));
+                    // windowOpen("div",this.getAttribute("contentdiv"));
+                    var contentId = this.getAttribute("contentdiv");
+                    var contentDiv = document.querySelector("#" + contentId);
+                    // if(getStyle(contentDiv,"position") == "relative") {
+                        if(contentDiv.getAttribute("opened") == "open") {
+                            serviceInfoDivOpenClose();
+                        } else {
+                            serviceInfoDivOpenClose(contentDiv,true,this);
+                        }
+                    // } else {
+                        // windowOpen("div",this.getAttribute("contentdiv"));
+                    // }
+                }
+            },false);
+        };
+    }
+
+    servicesThumbsInit();
+
+    // function serviceThumbClick(e) {
+
+
+    //     var serviceThumb = e.target;
+    //     if(serviceThumb.getAttribute("opened") == "open") {
+    //         mainMenuOpen(false);
+    //     } else {
+    //         mainMenuOpen(true);
+    //     }
+    // }
+
+    function serviceInfoDivOpenClose(div,state,thumb) {
+        var serviceInfoDivs = document.querySelectorAll(".service_info_div");
+        for (var i = 0; i < serviceInfoDivs.length; i++) {
+            serviceInfoDivs[i].classList.remove("service_info_div_opened");
+            serviceInfoDivs[i].setAttribute("opened","close");
+        };
+
+        // var serviceGroup = "";
+        if(typeof div != "undefined") {
+            if(typeof state != "undefined" && state != "true" ) {
+                div.appendChild(document.querySelector("#serviceInfoGroupClose"));
+                div.groupDiv.appendChild(div);
+
+                div.groupDiv.style.position = "absolute";
+                var groupHeight = div.groupDiv.getBoundingClientRect().height;
+                div.groupDiv.style.height = "auto";
+                div.groupDiv.style.opacity = 1;
+
+                div.classList.add("service_info_div_opened");
+                div.setAttribute("opened","open");
+
+                div.groupBox = div.groupDiv.getBoundingClientRect();
+                div.groupDiv.style.position = "relative";
+                div.groupDiv.style.height = groupHeight + "px";
+                // div.groupDiv.style.opacity = 1;
+
+                serviceInfoGroupClose();
+
+                history.replaceState(null, null, location.pathname + '?service=' + div.getAttribute("id"));
+
+                // Velocity(div.groupDiv,"stop");
+                // Velocity(div.groupDiv,{ height: div.groupBox.height/*, opacity: 1*/ },{
+                TweenLite.to(div.groupDiv,0.3,{
+                    height: div.groupBox.height,
+                    onComplete: function(){
+                        // console.log("serviceInfoGroupHideComplete");
+                        // setTimeout( function(){ Velocity(arguments[0],"scroll" ,{ offset: -65 },{ duration: 300 }); }, 100, arguments[2] );
+                        if(typeof thumb != "undefined") {
+                            var scrollOffset = getScrollY() + thumb.getBoundingClientRect().top - 65;
+                            TweenLite.to(window,0.3,{scrollTo:{y:scrollOffset}});
+                            // Velocity(thumb,"scroll" ,{ offset: -65 },{ duration: 300 });
+                        }
+                    }
+
+                });
+            } else {
+                div.classList.remove("service_info_div_opened");
+                div.setAttribute("opened","close");
+                serviceInfoGroupClose();
+                history.replaceState(null, null, location.pathname);
+            }
+        } else {
+            serviceInfoGroupClose();
+            history.replaceState(null, null, location.pathname);
+        }
+
+        languageLinkUpdate();
+
+    }
+
+    // window.serviceInfoGroupHideComplete = false;
+    function serviceInfoGroupClose(group) {
+        var serviceInfoGroups = document.querySelectorAll(".serviceInfoGroup");
+        for (var i = 0; i < serviceInfoGroups.length; i++) {
+            // Velocity(serviceInfoGroups[i],"stop");
+            if(parseInt(serviceInfoGroups[i].style.height) > 0) {
+                TweenLite.to(serviceInfoGroups[i],0.3,{height: 0});
+                // Velocity(serviceInfoGroups[i],{ height: 0 },{ duration: 300 });
+            }
+        };
+    }
+
+    // function menuItemClick(e){
+    //     e.preventDefault();
+    //     scrollToLink(e.target.getAttribute("section"));
+    //     mainMenuOpen(false);
+    // }
+
+    
+</script>
+ 
+            </div>
+             
+         </div>
+        
+    </div>
+
+
+	<div id="layout_footer" class="" style="">
+
+        <style type="text/css">
+	#backScroller {
+		position: fixed;
+		right: 0;
+		bottom: 100px;
+		width: 40px;
+		height: 50px;
+		margin-top: -25px;
+		text-align: center;
+		z-index: 10000;
+		border-radius: 4px 0 0 4px;
+		background: #51b72d;
+		margin-right: 0px;
+		-webkit-transition: margin-right .3s;
+		-moz-transition: margin-right .3s;
+		-ms-transition: margin-right .3s;
+		-o-transition: margin-right .3s;
+		transition: margin-right .3s;
+	}
+	#backScroller > a:hover {
+		background-color: #6cd646!important;
+	}
+	#backScroller > a {
+		display: block;
+		width: 100%;
+		height: 100%;
+		border-radius: 4px 0 0 4px;
+		background: url(/images/arrow_back_scroll.png) center no-repeat;
+		background-color: transparent;
+		-webkit-transition: margin-right .3s;
+		-moz-transition: margin-right .3s;
+		-ms-transition: margin-right .3s;
+		-o-transition: margin-right .3s;
+		transition: background-color .3s;
+	}
+
+	#downScroller {
+		position: fixed;
+		right: 0;
+		bottom: 10px;
+		width: 40px;
+		height: 50px;
+		/*margin-top: -25px;*/
+		text-align: center;
+		z-index: 10000;
+		border-radius: 4px 0 0 4px;
+		background: #51b72d;
+		margin-right: 0px;
+		-webkit-transition: margin-right .3s;
+		-moz-transition: margin-right .3s;
+		-ms-transition: margin-right .3s;
+		-o-transition: margin-right .3s;
+		transition: margin-right .3s;
+	}
+	#downScroller > a:hover {
+		background-color: #6cd646!important;
+	}
+	#downScroller > a {
+		display: block;
+		width: 100%;
+		height: 100%;
+		border-radius: 0 4px 4px 0;
+		background: url(/images/arrow_back_scroll.png) center no-repeat;
+		background-color: transparent;
+		-webkit-transition: margin-right .3s;
+		-moz-transition: margin-right .3s;
+		-ms-transition: margin-right .3s;
+		-o-transition: margin-right .3s;
+		transition: background-color .3s;
+		transform: rotate(180deg);
+	}
+</style>
+
+<div id="backScroller" style="margin-right:-40px;">
+    <a href="#" onclick="event.preventDefault();scrollToTop();"></a>
+</div>
+
+<div id="downScroller" style="margin-right:-40px;">
+    <a href="#" onclick="event.preventDefault();scrollDown();"></a>
+</div>
+
+<script type="text/javascript">
+	window.backScroller = document.querySelector("#backScroller");
+	window.downScroller = document.querySelector("#downScroller");
+    window.backScrollerTimeout = null;
+
+    // window.addEventListener("resize", function(){
+        // console.log(viewportSize.box.width);
+        // showHideBackScroller();
+    // });
+
+    // function showHideBackScroller(){
+        // if(viewportSize.box.width < 800)
+        //     backScroller.style.right = "-1000px";
+        // else
+        //     backScroller.style.right = "0px";
+    // }
+
+    // showHideBackScroller();
+
+
+    function scrollToTop(){
+        var bodyElm = (document.body.scrollTop > 0) ? document.body : document.documentElement;				    
+        tween(bodyElm, { scrollTop: 0 },500,"",null,function(){
+                
+        });
+    }
+
+    window.addEventListener("scroll",updateScrollers,false);
+
+    function updateScrollers(){
+
+        clearTimeout(backScrollerTimeout);
+
+        backScrollerTimeout = setTimeout(function(){
+            if(window.scrollY > 200) {
+                if(parseInt(backScroller.style.marginRight) < 0)
+                    backScroller.style.marginRight = 0;
+                    downScroller.style.marginRight = "-40px";
+            } else {
+                if(parseInt(backScroller.style.marginRight) > -40)
+                    backScroller.style.marginRight = "-40px";
+                    downScroller.style.marginRight = 0;
+            }
+        },100);
+
+    }
+
+    updateScrollers();
+
+	function scrollDown(){
+		var bodyElm = (document.body.scrollTop > 0) ? document.body : document.documentElement;				    
+        tween(bodyElm, { scrollTop: bodyElm.clientHeight - 230 },500,"",null,function(){
+                
+        });
+	}
+
+</script>
+
+
+<link rel="stylesheet" type="text/css" href="/css/footer.css"> 
+
+<div style="width: 94%; max-width: 1290px; margin: 0 auto; font-size: 0; padding: 40px 0;">
+
+    <div class="footer_row">
+        <div id="footer_column_social" class="footer_column" style="width: 36%;  min-width: 300px;">
+            <div id="footer_appstore" class="footer_column_social_item">
+                <a href="https://apps.apple.com/us/app/airpano-travel-book/id887138564">
+                    <img src="/css/img/appstore.png" class="img-responsive" alt="" width="130">
+                </a>
+            </div>
+            
+            <div id="footer_social_btns" class="footer_column_social_item">
+                <div class="footer_column_h">We are in social networks</div>
+                <div style="font-size: 30px; margin-top:-4px; margin-bottom:-20px">
+                   <!--  <a href="https://facebook.com/airpano" class="fa fa-facebook jssocials-share-logo"></a>
+					<a href="https://www.instagram.com/airpano" class="fa fa-instagram jssocials-share-logo"></a>  -->
+
+                    <a href="https://www.youtube.com/airpanovr" class="fa fa-youtube jssocials-share-logo" style="color: #ec0005"></a>
+                    
+                    <a href="https://twitter.com/airpano" class="fa fa-twitter jssocials-share-logo"></a>
+                    
+                               
+                    <a href="https://vk.com/airpano" class="fa fa-vk jssocials-share-logo"></a>
+                    
+                    <a href="https://www.google.com/maps/contrib/106642761680605709217/photos/@37.0625,-95.677068,4z/data=!4m3!8m2!3m1!1e2" class="fa fa-google jssocials-share-logo"></a>
+                    
+                    <!-- <a href="https://airpano.smugmug.com/" style=""><img src="/images/social/smug.png" style="vertical-align: bottom;" height="38" width="auto"></a> -->
+                </div>
+
+            </div>
+            
+            <div id="footer_subscribe" class="footer_column_social_item">
+                <div class="footer_column_h">Subscribe</div>
+                <!-- <form id="footer_search"  action="maillist.php" method="post">
+                    <input type="text" id="footer_search_input" name="email" placeholder="E-mail">
+                    <button type="submit" name="submit" id="footer_search_btn">Ok</button>
+                </form>-->
+
+
+<!-- Begin Mailchimp Signup Form -->
+<!-- <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css"> -->
+<style type="text/css">
+/*#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }*/
+/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+#mc_embed_signup_scroll { position: relative; }
+</style>
+<div id="mc_embed_signup">
+    <form style="padding: 0!important" action="https://airpano.us3.list-manage.com/subscribe/post?u=d8ce90d5297327e36adc60587&amp;id=8fac375023" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<div id="mc_embed_signup_scroll">
+<!-- <h2>Subscribe</h2> -->
+<!-- <div class="mc-field-group"> -->
+<!-- <label for="mce-EMAIL">Email Address </label> -->
+<input type="email" value="" name="EMAIL" class="required email footer_search_input" id="mce-EMAIL" placeholder="E-mail">
+<input type="submit" value="Ok" name="subscribe" id="mc-embedded-subscribe" class="link_button_green footer_search_btn">
+<!-- </div> -->
+ <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_d8ce90d5297327e36adc60587_8fac375023" tabindex="-1" value=""></div>
+</div>
+<div id="mce-responses" class="clear">
+<div class="response" id="mce-error-response" style="display:none"></div>
+<div class="response" id="mce-success-response" style="display:none"></div>
+</div>
+</form>
+</div>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End mc_embed_signup-->
+
+
+
+            </div>
+        </div>
+
+        <div id="footer_info" class="footer_column" style="width: 23%; min-width: 160px;">
+            <!-- <div class="btn"></div> -->
+            <div class="footer_column_h">INFORMATION</div>
+            <div class="footer-menu">
+                <a href="/news_list.php">News</a>
+                <a href="/google_map.php">AirPano on world map</a>
+				<a href="/maillist.php">Subscribe</a>
+ 				
+                <a href="/article_list.php">Articles</a>
+                   <!-- <a href="/guestbook.php">Guest book</a> -->
+                <a href="/contact.php">Contact</a>
+                <a href="/frequently_asked_questions.php">FAQ</a>
+                <a href="/citations.php">Citation Rules</a>
+                <a href="/partners.php">Our clients and partners</a>
+            </div>
+        </div>
+
+        <div id="footer_services" class="footer_column" style="width: 23%; min-width: 160px;">
+            <!-- <div class="btn"></div> -->
+            <div class="footer_column_h">SERVICES</div>
+            <div class="footer-menu">
+                <a href="/services.php">Our services</a>
+                <a href="/services.php?service=service360foto">360° Photo</a>
+                <a href="/services.php?service=service360video">360° Video</a>
+                <a href="/services.php?service=service360giga">360° Gigapanorama</a>
+                <a href="/services.php?service=service360laps">360° Timelapse</a>
+                <a href="/services.php?service=serviceTour#b2">Virtual tours</a>
+                <a href="/services.php?service=serviceVideobank#b2">Stock 360° Videos</a>
+                <a href="/services.php?service=serviceFotobank#b2">Stock Photos</a>
+                <a href="/merch.php">Clothing & Accessories</a>
+                <a href="/services.php?service=serviceApps#b2">Applications</a>
+                <a href="/services.php?service=serviceCinema#b3">Panoramic cinemas</a>
+                <a href="/services.php?service=servicePanel#b3">Touch screens</a>
+                <a href="/services.php?service=serviceVRGlasses#b3">VR headsets</a>
+                <a href="/services.php?service=serviceBinocular#b3">Binocular</a>
+            </div>
+            
+        </div>
+
+        <div id="footer_links" class="footer_column" style="width: 18%; min-width: 160px;">
+            <!-- <div class="btn"></div> -->
+            <div class="footer_column_h">LINKS</div>
+            <div class="footer-menu">
+                <a target="_blank" href="https://antarctica360.airpano.com/">AirPano Antarctica</a>
+                <a target="_blank" href="https://travelbook.airpano.com/">TravelBook for iOS</a>
+                <a target="_blank" href="https://citybook.airpano.com/">CityBook for iOS</a>
+                <a target="_blank" href="https://tv.airpano.com/">AirPano for AppleTV</a>
+            </div>
+        </div>
+    </div>
+
+    <div id="footer_splitter">
+        <hr style="border: 0px; border-bottom: 1px solid #444444; margin: 20px 0">
+    </div>
+
+    <div id="footer_introtext" class="footer_column" style="width: 59%">
+        Our panoramas and photos are widely used by top western companies. Among the clients and partners of AirPano are Google, Microsoft, Adobe, Facebook, LG, Samsung, Nokia and others. AirPano Travel Book app for iOS is one of the best apps of 2014 estimated by Apple.<br>
+        <a href="/terms_and_conditions.php">Terms and Conditions</a> | <a href="/privacy_policy.php">Privacy Policy</a>
+    </div>
+    <div id="footer_contact" class="footer_column" style="width: 40%; ">
+        <div style="width: 56%; min-width-: 100px;">
+            <div class="footer_column_h">Contacts us</div>
+            				
+                        <a href="tel:+14842989934" class="tel">+1 484-298-9934</a>
+                        <br>
+            <a href="mailto:info@airpano.com" class="email">info@airpano.com</a>                      
+            <br>
+            <br>
+            reserve<br><a href="mailto:airpano.reserve@gmail.com" class="email">airpano.reserve@gmail.com</a>                      
+        </div>
+        <div style="width: 43%; min-width-: 240px;">
+            <div class="footer_column_h">AirPano</div>
+            <p><script>document.write(new Date().getFullYear())</script> &copy; All Rights Reserved</p>
+            <!-- <a href="/news.php?news=103297" target="_blank">-->
+                <!-- <img src="css/img/runet.png" class="img-responsive" alt=""> -->
+               <!--  <img src="/css/img/runet2.png" class="img-responsive" alt="">-->
+           <!--  </a>          -->              
+        </div>
+    </div>
+
+</div>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(8137978, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/8137978" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!--Google Analytics-->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-24927915-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!--/Google Analytics-->
+
+<script type="text/javascript">
+/* tours events tracking */
+    function trackTourEvent(category,action,thumbindex){
+        // console.log('Interface_test_27-11', action, thumbindex);
+        // _gaq.push(['_trackEvent', 'Desktop VTour', action, vars.tourfolder, thumbindex]);
+        _gaq.push(['_trackEvent', category, action, thumbindex]);
+        // ga('send','event', category, action, thumbindex );
+    }
+</script>
+
+
+<script type="text/javascript">
+    // forEach polyfill
+    if (window.NodeList && !NodeList.prototype.forEach) {
+        NodeList.prototype.forEach = function (callback, thisArg) {
+            thisArg = thisArg || window;
+            for (var i = 0; i < this.length; i++) {
+                callback.call(thisArg, this[i], i, this);
+            }
+        };
+    }
+
+    window.addEventListener("resize",footer_update);
+
+    function footer_update(){
+        if(window.innerWidth < 965) {
+            if(window.innerWidth < 685)
+                document.querySelector("#layout_footer").className = "mobile";
+            else 
+                document.querySelector("#layout_footer").className = "tablet";
+            // document.querySelector("#top_menu").style.display = "none";
+        } else {
+            document.querySelector("#layout_footer").className = "";
+            document.querySelectorAll("#layout_footer .btn").forEach(function(item){
+                item.style.transform = "";
+            })
+            document.querySelector("#footer_info").style.height = "";
+            document.querySelector("#footer_services").style.height = "";
+            document.querySelector("#footer_links").style.height = "";
+        }
+    }
+
+    footer_update();
+
+    document.querySelector("#footer_info > .footer_column_h").addEventListener("click",footer_column_expand);
+    document.querySelector("#footer_services > .footer_column_h").addEventListener("click",footer_column_expand);
+    document.querySelector("#footer_links > .footer_column_h").addEventListener("click",footer_column_expand);
+
+    function footer_column_expand(){
+        if(parseInt(this.parentNode.style.height) > 40) {
+            this.parentNode.style.height = "40px";
+            this.parentNode.querySelector(".btn").style.transform = "rotate(45deg)";
+        } else {
+            this.parentNode.style.height = this.parentNode.scrollHeight + "px";
+            this.parentNode.querySelector(".btn").style.transform = "rotate(225deg)";
+        }
+    }
+</script>       
+		
+	</div>
+
+
+</body>
+</html>

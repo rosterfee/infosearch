@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js">
+<head>
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" />
+<meta content="8ccf3d80a7ffe685f43c02b0b7a28abf" name="p:domain_verify" />
+<meta content="648f76f238884534" name="yandex-verification" />
+<meta content="180d2fd353c0bab8a76a8dac83871b83" name="wmail-verification" />
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0" name="viewport" />
+<link rel="shortcut icon" href="/xmlui/themes/Mirage/images/favicon.ico" />
+<link rel="apple-touch-icon" href="/xmlui/themes/Mirage/images/apple-touch-icon.png" />
+<meta name="Generator" content="DSpace 5.10" />
+<link type="text/css" rel="stylesheet" media="screen" href="/xmlui/themes/Mirage/lib/css/reset.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="/xmlui/themes/Mirage/lib/css/base.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="/xmlui/themes/Mirage/lib/css/helper.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="/xmlui/themes/Mirage/lib/BookReader/BookReader.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="/xmlui/themes/Mirage/lib/css/style.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="/xmlui/themes/Mirage/lib/css/authority-control.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="/xmlui/themes/Mirage/lib/jqpuzzle/jquery.jqpuzzle.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="/xmlui/themes/Mirage/lib/fancybox/jquery.fancybox-1.2.5.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="/xmlui/themes/Mirage/lib/gallery.css" />
+<link type="text/css" rel="stylesheet" media="handheld" href="/xmlui/themes/Mirage/lib/css/handheld.css" />
+<link type="text/css" rel="stylesheet" media="print" href="/xmlui/themes/Mirage/lib/css/print.css" />
+<link type="text/css" rel="stylesheet" media="all" href="/xmlui/themes/Mirage/lib/css/media.css" />
+<script type="text/javascript">
+                           (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+                           m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+                           (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+                           ym(36520890, "init", {
+                                clickmap:true,
+                                trackLinks:true,
+                                accurateTrackBounce:true,
+                                webvisor:true,
+                                ecommerce:"dataLayer"
+                           });
+                        </script>
+<noscript>
+<div>
+<img alt="" style="position:absolute; left:-9999px;" src="https://mc.yandex.ru/watch/36520890" />
+</div>
+</noscript>
+<script type="text/javascript">var JsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+            document.write(unescape("%3Cscript src='" + JsHost + "ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));</script>
+<script type="text/javascript">!window.jQuery && document.write('<script type="text/javascript" src="/xmlui/static/js/jquery-1.4.2.min.js"> <\/script>')</script>
+<script type="text/javascript" src="/xmlui/themes/Mirage/lib/BookReader/jquery-1.4.2.js"> </script>
+<script type="text/javascript" src="/xmlui/themes/Mirage/lib/gallery.js"> </script>
+<script type="text/javascript" src="/xmlui/themes/Mirage/lib/fancybox/jquery.fancybox-1.2.5.js"> </script>
+<script type="text/javascript" src="/xmlui/themes/Mirage/lib/jqpuzzle/jquery.jqpuzzle.min.js"> </script>
+<script type="text/javascript" src="/xmlui/themes/Mirage/lib/tjpzoom/tjpzoom.js"> </script>
+<script type="text/javascript" src="/xmlui/themes/Mirage/lib/BookReader/jquery.easing.1.3.js"> </script>
+<script type="text/javascript" src="/xmlui/themes/Mirage/lib/BookReader/dragscrollable.js"> </script>
+<script type="text/javascript" src="/xmlui/themes/Mirage/lib/BookReader/BookReader.js"> </script>
+<script type="text/javascript" src="/xmlui/themes/Mirage/lib/BookReader/BookReaderJSSimple.js"> </script>
+<script type="text/javascript" src="/xmlui/themes/Mirage/lib/js/checkinput.js"> </script>
+<link type="application/rss+xml" rel="alternate" href="/xmlui/feed/rss_1.0/site" />
+<link type="application/rss+xml" rel="alternate" href="/xmlui/feed/rss_2.0/site" />
+<link type="application/atom+xml" rel="alternate" href="/xmlui/feed/atom_1.0/site" />
+<link type="application/opensearchdescription+xml" rel="search" href="https://arch.rgdb.ru:443/xmlui/description.xml" title="DSpace" />
+<script type="text/javascript">
+                                //Clear default text of emty text areas on focus
+                                function tFocus(element)
+                                {
+                                        if (element.value == ' '){element.value='';}
+                                }
+                                //Clear default text of emty text areas on submit
+                                function tSubmit(form)
+                                {
+                                        var defaultedElements = document.getElementsByTagName("textarea");
+                                        for (var i=0; i != defaultedElements.length; i++){
+                                                if (defaultedElements[i].value == ' '){
+                                                        defaultedElements[i].value='';}}
+                                }
+                                //Disable pressing 'enter' key to submit a form (otherwise pressing 'enter' causes a submission to start over)
+                                function disableEnterKey(e)
+                                {
+                                     var key;
+
+                                     if(window.event)
+                                          key = window.event.keyCode;     //Internet Explorer
+                                     else
+                                          key = e.which;     //Firefox and Netscape
+
+                                     if(key == 13)  //if "Enter" pressed, then disable!
+                                          return false;
+                                     else
+                                          return true;
+                                }
+
+                                function FnArray()
+                                {
+                                    this.funcs = new Array;
+                                }
+
+                                FnArray.prototype.add = function(f)
+                                {
+                                    if( typeof f!= "function" )
+                                    {
+                                        f = new Function(f);
+                                    }
+                                    this.funcs[this.funcs.length] = f;
+                                };
+
+                                FnArray.prototype.execute = function()
+                                {
+                                    for( var i=0; i < this.funcs.length; i++ )
+                                    {
+                                        this.funcs[i]();
+                                    }
+                                };
+
+                                var runAfterJSImports = new FnArray();
+            </script>
+<script xmlns:i18n="http://apache.org/cocoon/i18n/2.1" type="text/javascript" src="/xmlui/themes/Mirage/lib/js/modernizr-1.5.min.js"> </script>
+<meta content="Национальная электронная детская библиотека НЭДБ arch.rgdb.ru Бесплатная легальная еженедельно пополняемая коллекция оцифрованных книг, журналов, газет, диафильмов для детей и о детях, изданных в России с XVIII по XXI вв. Редкие, старые издания. Удобный поиск, чтение on-line, загрузка pdf. Оператор – Российская государственная детская библиотека." name="Description" />
+<meta content="НЭДБ, детское чтение, книги для детей, журналы для детей, читать бесплатно, редкие издания, старые издания, диафильм, советские диафильмы" name="Keywords" />
+<title>Национальная электронная детская библиотека (НЭДБ) arch.rgdb.ru</title>
+</head><!--[if lt IE 7 ]> <body class="ie6"> <![endif]-->
+                <!--[if IE 7 ]>    <body class="ie7"> <![endif]-->
+                <!--[if IE 8 ]>    <body class="ie8"> <![endif]-->
+                <!--[if IE 9 ]>    <body class="ie9"> <![endif]-->
+                <!--[if (gt IE 9)|!(IE)]><!--><body><!--<![endif]-->
+<div xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" class="b-main" id="ds-main">
+<div class="b-head" id="ds-header-wrapper">
+<div class="b-logo">
+<a id="ds-header-logo2-link" href="https://rgdb.ru" />
+<a id="ds-header-logo-link" href="/xmlui/">
+<img alt="" src="/xmlui/themes/Mirage/images/logo2.png" />
+</a>
+</div>
+</div>
+<div class="b-bread-crumbs">
+<ul class="list" id="ds-trail">
+<li>Национальная электронная детская библиотека (НЭДБ) arch.rgdb.ru</li>
+</ul>
+</div>
+<div xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" class="hidden" id="no-js-warning-wrapper">
+<div id="no-js-warning">
+<div class="notice failure">JavaScript is disabled for your browser. Some features of this site may not work without it.</div>
+</div>
+</div>
+<div id="ds-content-wrapper">
+<div class="clearfix" id="ds-content">
+
+<div class="b-main-column" id="ds-body">
+<script src="/xmlui/themes/Mirage/lib/js/jquery.cookie.js">//</script>
+<script charset="utf-8" src="/xmlui/themes/Mirage/lib/js/news.js">//</script>
+<div class="b-main-search">
+<div class="inner">
+<form action="/xmlui/discover" method="post" id="ds-search-form">
+<fieldset>
+<div class="inputs">
+<input id="mainSearch" type="text" name="query" />
+<label for="mainSearch">Перейти</label>
+<script xmlns:i18n="http://apache.org/cocoon/i18n/2.1" type="text/javascript">$("#mainSearch").checkInput();</script>
+<input value=" " type="submit" name="submit" onclick="&#10;                                    var radio = document.getElementById(&quot;ds-search-form-scope-container&quot;);&#10;                                    if (radio != undefined &amp;&amp; radio.checked)&#10;                                    {&#10;                                    var form = document.getElementById(&quot;ds-search-form&quot;);&#10;                                    form.action=&#10;                                                                                &quot;/xmlui/handle/&quot; + radio.value + &quot;/discover&quot; ; &#10;                                    }&#10;                                                                                        " />
+</div>
+</fieldset>
+</form>
+</div>
+</div>
+<table width="100%">
+<tr>
+<td style="text-align:center" colspan="2">
+<a href="https://t.me/+UHbwxJXZoY4UbKv8">
+<img title="Канал НЭДБ в Telegram" alt="Канал НЭДБ в Telegram" src="/xmlui/themes/Mirage/images/telegram-logo-for-nedb.jpg" />
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<div class="nav-icons even">
+<a href="/xmlui/handle/123456789/27123/browse?type=title">
+<img title="электронная библиотека книги для детей" alt="детская электронная библиотека читать бесплатно книги" src="/xmlui/themes/Mirage/images/books.png" />
+</a>
+</div>
+</td>
+<td width="50%">
+<div class="nav-icons odd">
+<a href="/xmlui/handle/123456789/20027">
+<img title="электронная библиотека для детей скачать бесплатно журналы" alt="электронная библиотека для детей журналы" src="/xmlui/themes/Mirage/images/journals.png" />
+</a>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<div class="nav-icons even">
+<a href="/xmlui/handle/123456789/27090/browse?type=title">
+<img title="бесплатная электронная библиотека для детей диафильмы" alt="детская электронная библиотека бесплатно диафильмы" src="/xmlui/themes/Mirage/images/diafilms.png" />
+</a>
+</div>
+</td>
+<td width="50%">
+<div class="nav-icons odd">
+<a href="/xmlui/handle/123456789/39289">
+<img title="детская библиотека электронных книг газеты" alt="детская электронная библиотека скачать газеты" src="/xmlui/themes/Mirage/images/AOM_rgdb_paper_open.png" />
+</a>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="b-right-column" id="ds-options-wrapper-">
+<div id="ds-options">
+<div class="b-main-search">
+<h3 class="b-title">Поиск в архиве</h3>
+<div xmlns:i18n="http://apache.org/cocoon/i18n/2.1" class="inner">
+<form action="/xmlui/discover" method="post" id="ds-search-form">
+<fieldset>
+<div class="inputs">
+<input id="mainSearch" type="text" name="query" />
+<label for="mainSearch">Перейти</label>
+<script xmlns:i18n="http://apache.org/cocoon/i18n/2.1" type="text/javascript">$("#mainSearch").checkInput();</script>
+<input value=" " type="submit" name="submit" onclick="&#10;                                    var radio = document.getElementById(&quot;ds-search-form-scope-container&quot;);&#10;                                    if (radio != undefined &amp;&amp; radio.checked)&#10;                                    {&#10;                                    var form = document.getElementById(&quot;ds-search-form&quot;);&#10;                                    form.action=&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&quot;/xmlui/handle/&quot; + radio.value + &quot;/discover&quot; ; &#10;                                    }&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;" />
+</div>
+</fieldset>
+</form>
+</div>
+<div class="link">
+<a href="/xmlui/discover">Продвинутый поиск</a>
+</div>
+</div>
+<about xmlns:i18n="http://apache.org/cocoon/i18n/2.1">
+<ul class="standart-list">
+<li>
+<a href="/xmlui/page/about">Об архиве</a>
+</li>
+<li>
+<a href="/xmlui/page/help">Помощь</a>
+</li>
+<li>
+<a href="/xmlui/page/creators">Создатели цифровых копий</a>
+</li>
+<li>
+<a href="/xmlui/page/owners">Правообладателям</a>
+</li>
+<li>
+<a href="https://vz.rgdb.ru/">Виртуальный зал (юр. лицам)</a>
+</li>
+<li>
+<a href="/xmlui/page/banners">Баннеры</a>
+</li>
+<li>
+<a target="_blank" href="https://zen.yandex.ru/id/5c3f1ed1f7c3db00ac8a45d4">Интересно о разном</a>
+</li>
+</ul>
+</about>
+<div class="b-right-container">
+<h1 class="ds-option-set-head">Просмотр</h1>
+<div xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" id="aspect_viewArtifacts_Navigation_list_browse" class="ds-option-set">
+<ul class="standart-list">
+<li>
+<h2 class="ds-sublist-head">Весь архив</h2>
+<ul xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" class="ds-simple-list sublist">
+<li class="ds-simple-list-item">
+<a href="/xmlui/community-list">Разделы &amp; Коллекции</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" class="ds-simple-list-item">
+<a href="/xmlui/browse?type=dateissued">Дата публикации</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" class="ds-simple-list-item">
+<a href="/xmlui/browse?type=author">Авторы и не только</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" class="ds-simple-list-item">
+<a href="/xmlui/browse?type=title">Название</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" class="ds-simple-list-item">
+<a href="/xmlui/browse?type=subject">Тема</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" style="display:none" class="simple-item-view-rights">Anonimous user</div>
+<div class="b-right-container">
+<h1 class="ds-option-set-head">Мой профиль</h1>
+<ul xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" id="aspect_viewArtifacts_Navigation_list_account" class="standart-list">
+<li class="ds-simple-list-item">
+<a href="/xmlui/login">Войти</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" class="ds-simple-list-item">
+<a href="/xmlui/register">Зарегистрироваться</a>
+</li>
+</ul>
+</div>
+<div xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" style="display:none;" class="discovery_main">
+<h1 class="b-title">Поиск по</h1>
+<div xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" id="aspect_discovery_Navigation_list_discovery" class="ds-option-set">
+<ul class="standart-discovery-list">
+<li>
+<h2 class="ds-sublist-head">Дате выпуска</h2>
+<ul xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" class="ds-simple-list sublist">
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=dateIssued&amp;filter_relational_operator=equals&amp;filter=%5B2000+TO+2021%5D">2000 - 2021 (1331)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=dateIssued&amp;filter_relational_operator=equals&amp;filter=%5B1900+TO+1999%5D">1900 - 1999 (21329)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=dateIssued&amp;filter_relational_operator=equals&amp;filter=%5B1800+TO+1899%5D">1800 - 1899 (1610)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=dateIssued&amp;filter_relational_operator=equals&amp;filter=%5B1728+TO+1799%5D">1728 - 1799 (337)</a>
+</li>
+</ul>
+</li>
+<li>
+<h2 class="ds-sublist-head">Тематике</h2>
+<ul xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" class="ds-simple-list sublist">
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=rubrica&amp;filter_relational_operator=equals&amp;filter=%22%D0%90%D0%B2%D1%80%D0%BE%D1%80%D0%B0%22%2C+%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80">"Аврора", крейсер (4)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=rubrica&amp;filter_relational_operator=equals&amp;filter=%22%D0%90%D0%B7%D0%B1%D1%83%D0%BA%D0%B0%22+%D0%98%D0%B2%D0%B0%D0%BD%D0%B0+%D0%A4%D0%B5%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B0+--+%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F">"Азбука" Ивана Федорова -- История (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=rubrica&amp;filter_relational_operator=equals&amp;filter=%22%D0%90%D0%B7%D0%B1%D1%83%D0%BA%D0%B0%22+%D0%98%D0%B2%D0%B0%D0%BD%D0%B0+%D0%A4%D1%91%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B0%2C+1574+%D0%B3.">"Азбука" Ивана Фёдорова, 1574 г. (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=rubrica&amp;filter_relational_operator=equals&amp;filter=%22%D0%90%D1%80%D1%82%D0%B5%D0%BA%22%2C+%D0%BF%D0%B8%D0%BE%D0%BD%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9+%D0%BB%D0%B0%D0%B3%D0%B5%D1%80%D1%8C">"Артек", пионерский лагерь (4)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=rubrica&amp;filter_relational_operator=equals&amp;filter=%22%D0%90%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%B4%22%2C+%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80">"Аскольд", крейсер (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=rubrica&amp;filter_relational_operator=equals&amp;filter=%22%D0%92%D0%B8%D1%82%D1%8F%D0%B7%D1%8C%22+--+%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B5+%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE-%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5+%D1%81%D1%83%D0%B4%D0%BD%D0%BE+--+1949-1979">"Витязь" -- советское научно-исследовательское судно -- 1949-1979 (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=rubrica&amp;filter_relational_operator=equals&amp;filter=%22%D0%93%D0%B0%D0%BC%D0%BB%D0%B5%D1%82%22%2C+%D1%82%D1%80%D0%B0%D0%B3%D0%B5%D0%B4%D0%B8%D1%8F+%D0%A3.+%D0%A8%D0%B5%D0%BA%D1%81%D0%BF%D0%B8%D1%80%D0%B0+%D0%BD%D0%B0+%D1%81%D1%86%D0%B5%D0%BD%D0%B5">"Гамлет", трагедия У. Шекспира на сцене (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=rubrica&amp;filter_relational_operator=equals&amp;filter=%22%D0%93%D0%BB%D0%BE%D0%B1%D1%83%D1%81%22%2C+%D1%82%D0%B5%D0%B0%D1%82%D1%80+--+1599+%D0%B3.">"Глобус", театр -- 1599 г. (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=rubrica&amp;filter_relational_operator=equals&amp;filter=%22%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%22%2C+%D0%BC%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9+%D1%80%D0%B5%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9+%D0%B3%D0%B8%D0%BC%D0%BD+%D0%BF%D1%80%D0%BE%D0%BB%D0%B5%D1%82%D0%B0%D1%80%D0%B8%D0%B0%D1%82%D0%B0">"Интернационал", международный революционный гимн пролетариата (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=rubrica&amp;filter_relational_operator=equals&amp;filter=%22%D0%98%D1%81%D0%BA%D1%80%D0%B0%22%2C+%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0+--+%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F">"Искра", газета -- История (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=rubrica&amp;filter_relational_operator=equals&amp;filter=%22%D0%98%D1%81%D0%BA%D1%80%D0%B0%22%2C+%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB+--+%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F">"Искра", журнал -- История (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/search-filter?field=rubrica">... смотреть дальше</a>
+</li>
+</ul>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/">
+<h2 class="ds-sublist-head">Автору</h2>
+<ul xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" class="ds-simple-list sublist">
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=author&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B1%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0+%D0%A0%D0%B0%D0%B8%D1%81%D0%B0+%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2%D0%BD%D0%B0">Аболина Раиса Яковлевна (6)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=author&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B1%D1%80%D0%B0%D0%BC%D0%BE%D0%B2+%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80+%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87">Абрамов Александр Николаевич (5)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=author&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B1%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0+%D0%9D%D0%B0%D1%82%D0%B0%D0%BB%D1%8C%D1%8F+%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%BD%D0%B0">Абрамова Наталья Николаевна (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=author&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B1%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0+%D0%9E%D0%BA%D1%81%D0%B0%D0%BD%D0%B0+%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D0%BD%D0%B0">Абрамова Оксана Викторовна (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=author&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B1%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0-%D0%9A%D0%B0%D0%BB%D0%B8%D1%86%D0%BA%D0%B0%D1%8F+%D0%92%D0%B5%D1%80%D0%B0+%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0">Абрамова-Калицкая Вера Павловна (2)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=author&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B1%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B8%D1%87+%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9+%D0%A4%D0%B5%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87">Абрамович Алексей Федорович (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=author&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B1%D1%80%D0%B0%D0%BC%D1%86%D0%B5%D0%B2%D0%B0+%D0%9D%D0%B0%D1%82%D0%B0%D0%BB%D1%8C%D1%8F+%D0%9A%D0%BE%D1%80%D0%BD%D0%B5%D0%BB%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0">Абрамцева Наталья Корнельевна (5)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=author&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B1%D1%83-%D0%91%D0%B0%D0%BA%D0%B0%D1%80+%D0%90%D1%85%D0%BC%D0%B5%D0%B4%D1%85%D0%B0%D0%BD">Абу-Бакар Ахмедхан (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=author&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B2%D0%B3%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8E%D0%BA+%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80+%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87">Августынюк Александр Иванович (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=author&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B2%D0%B4%D0%B5%D0%B5%D0%B2+%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80+%D0%A4%D1%91%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87">Авдеев Виктор Фёдорович (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=author&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B2%D0%B4%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE+%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9+%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%B8%D1%87">Авдиенко Евгений Павлович (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/search-filter?field=author">... смотреть дальше</a>
+</li>
+</ul>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/">
+<h2 class="ds-sublist-head">Переводчику</h2>
+<ul xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" class="ds-simple-list sublist">
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=translator&amp;filter_relational_operator=equals&amp;filter=%D0%90.+%D0%92.">А. В. (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=translator&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B1%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0+%D0%9C.">Абрамова М. (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=translator&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B4%D0%B5%D0%BB%D1%8C%D0%B3%D0%B5%D0%B9%D0%BC+%D0%98%D1%80%D0%B8%D0%BD%D0%B0+%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0">Адельгейм Ирина Евгеньевна (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=translator&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B4%D0%BE%D0%B4%D1%83%D1%80%D0%BE%D0%B2+%D0%92.">Адодуров В. (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=translator&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B4%D0%BE%D0%B4%D1%83%D1%80%D0%BE%D0%B2+%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D0%B9+%D0%95%D0%B2%D0%B4%D0%BE%D0%BA%D0%B8%D0%BC%D0%BE%D0%B2%D0%B8%D1%87">Адодуров Василий Евдокимович (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=translator&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B4%D1%80%D0%B8%D0%B0%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9+%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9">Адриановский Сергей (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=translator&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B7%D0%BE%D0%B2+%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80+%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87">Азов Владимир Александрович (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=translator&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%BA%D0%B8%D0%BC+%D0%AF%D0%BA%D0%BE%D0%B2+%D0%9B%D0%B0%D0%B7%D0%B0%D1%80%D0%B5%D0%B2%D0%B8%D1%87">Аким Яков Лазаревич (2)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=translator&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%BB%D0%B5%D0%B9%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0+%D0%9C.+%D0%9E.">Алейникова М. О. (2)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=translator&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B0+%D0%97%D0%B8%D0%BD%D0%B0%D0%B8%D0%B4%D0%B0+%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0">Александрова Зинаида Евгеньевна (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=translator&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B0+%D0%97%D0%B8%D0%BD%D0%B0%D0%B8%D0%B4%D0%B0+%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%BD%D0%B0">Александрова Зинаида Николаевна (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/search-filter?field=translator">... смотреть дальше</a>
+</li>
+</ul>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/">
+<h2 class="ds-sublist-head">Иллюстратору</h2>
+<ul xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" class="ds-simple-list sublist">
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=illustrator&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B1%D0%B4%D0%BE%D0%BB%D0%BB%D0%B0%D1%85%D0%B8+%D0%9C%D0%B8%D1%82%D1%80%D0%B0">Абдоллахи Митра (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=illustrator&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B1%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0">Абрамова (2)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=illustrator&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B1%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0+%D0%95.">Абрамова Е. (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=illustrator&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B1%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0+%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D1%8F+%D0%A1%D0%BE%D0%BB%D0%BE%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2%D0%BD%D0%B0">Абрамова Евгения Соломоновна (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=illustrator&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B2%D0%B0%D0%BA%D1%8F%D0%BD+%D0%AD%D0%BB%D1%8C%D0%B2%D0%B8%D1%80%D0%B0+%28%D0%AD%D0%BB%D0%BB%D0%B0%29">Авакян Эльвира (Элла) (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=illustrator&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D0%B0%D0%BD%D0%B8+%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9+%D0%92%D0%B5%D0%BD%D0%B8%D0%B0%D0%BC%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87">Авалиани Евгений Вениаминович (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=illustrator&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87+%D0%98%D1%80%D0%B8%D0%BD%D0%B0">Августинович Ирина (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=illustrator&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B2%D0%B4%D0%B5%D0%B5%D0%B2+%D0%AE.">Авдеев Ю. (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=illustrator&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B2%D0%B4%D0%B5%D0%B5%D0%B2+%D0%AE%D1%80%D0%B8%D0%B9+%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87">Авдеев Юрий Константинович (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=illustrator&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B2%D1%80%D1%83%D1%82%D0%B8%D1%81+%D0%98.">Аврутис И. (2)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=illustrator&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B2%D1%80%D1%83%D1%82%D0%B8%D1%81+%D0%A5%D0%B0%D0%B8%D0%BC+%D0%90%D0%B2%D1%80%D0%B0%D0%B0%D0%BC%D0%BE%D0%B2%D0%B8%D1%87">Аврутис Хаим Авраамович (44)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/search-filter?field=illustrator">... смотреть дальше</a>
+</li>
+</ul>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/">
+<h2 class="ds-sublist-head">Составителю</h2>
+<ul xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" class="ds-simple-list sublist">
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=compiler&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B1%D1%80%D0%B0%D0%BC%D0%BE%D0%B2+%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80+%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87">Абрамов Александр Николаевич (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=compiler&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B2%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D1%83%D1%81+%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D0%B9+%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87">Авенариус Василий Петрович (3)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=compiler&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%BB%D1%82%D0%B0%D0%B5%D0%B2+%D0%90%D0%BB.">Алтаев Ал. (3)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=compiler&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%BB%D1%8C%D0%BC%D0%B5%D0%B4%D0%B8%D0%BD%D0%B3%D0%B5%D0%BD+%D0%A2%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0+%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0">Альмединген Татьяна Алексеевна (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=compiler&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%BC%D0%B8%D1%80%D1%8D%D0%B4%D0%B6%D0%B8%D0%B1%D0%B8+%D0%A0.+%D0%98.">Амирэджиби Р. И. (4)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=compiler&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%BC%D0%B8%D1%80%D1%8D%D0%B4%D0%B6%D0%B8%D0%B1%D0%B8+%D0%A0%D0%BE%D0%B4%D0%B0%D0%BC+%D0%98%D1%80%D0%B0%D0%BA%D0%BB%D0%B8%D0%B5%D0%B2%D0%BD%D0%B0">Амирэджиби Родам Ираклиевна (4)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=compiler&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B0+%D0%92.">Андреева В. (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=compiler&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%B0+%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0">Андреевская Варвара Павловна (3)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=compiler&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%BD%D0%B8%D0%B1%D0%B0%D0%BB+%D0%91%D0%BE%D1%80%D0%B8%D1%81">Анибал Борис (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=compiler&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%BF%D0%BF%D0%BE%D0%BB%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0+%D0%90.+%D0%9C.">Апполонова А. М. (4)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=compiler&amp;filter_relational_operator=equals&amp;filter=%D0%90%D1%80%D1%86%D0%B8%D1%88%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9+%D0%92%D1%8F%D1%87%D0%B5%D1%81%D0%BB%D0%B0%D0%B2+%D0%92%D1%8F%D1%87%D0%B5%D1%81%D0%BB%D0%B0%D0%B2%D0%BE%D0%B2%D0%B8%D1%87">Арцишевский Вячеслав Вячеславович (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/search-filter?field=compiler">... смотреть дальше</a>
+</li>
+</ul>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/">
+<h2 class="ds-sublist-head">Редактору и др.</h2>
+<ul xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" class="ds-simple-list sublist">
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=nonauthor&amp;filter_relational_operator=equals&amp;filter=%D0%90.+%D0%9E.+%2C+%D0%90%D0%B2%D1%82%D0%BE%D1%80+%D0%B0%D0%B4%D0%B0%D0%BF%D1%82%D0%B0%D1%86%D0%B8%D0%B8">А. О. , Автор адаптации (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=nonauthor&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B1%D0%B3%D0%B0%D1%80%D1%8F%D0%BD+%D0%9D.%2C+%D0%9A%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82">Абгарян Н., Консультант (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=nonauthor&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B1%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0+%D0%A0%D0%B0%D0%B8%D1%81%D0%B0+%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2%D0%BD%D0%B0%2C+%D0%9A%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0">Аболина Раиса Яковлевна, Консультант проекта (2)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=nonauthor&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B1%D1%80%D0%B0%D0%BC%D0%BE%D0%B2+%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80+%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87%2C+%D0%9F%D1%80%D0%BE%D1%87%D0%B8%D0%B5">Абрамов Александр Николаевич, Прочие (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=nonauthor&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B1%D1%83+%D0%AD%D0%B4%D0%BC%D0%BE%D0%BD%2C+%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%D0%BF%D1%80%D0%B5%D0%B4%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA">Абу Эдмон, Библиографический предшественник (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=nonauthor&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B2%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D1%83%D1%81+%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D0%B9+%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87%2C+%D0%90%D0%B2%D1%82%D0%BE%D1%80+%D0%B0%D0%B4%D0%B0%D0%BF%D1%82%D0%B0%D1%86%D0%B8%D0%B8">Авенариус Василий Петрович, Автор адаптации (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=nonauthor&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B2%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D1%83%D1%81+%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D0%B9+%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87%2C+%D0%A0%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80">Авенариус Василий Петрович, Редактор (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=nonauthor&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B3%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%BA%D0%BE+%D0%97%D0%B0%D1%85%D0%B0%D1%80+%D0%9C%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%B8%D1%87">Аграненко Захар Маркович (2)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=nonauthor&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B7%D0%B0%D0%B4%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9+%D0%9C%D0%B0%D1%80%D0%BA+%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%2C+%D0%A0%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80">Азадовский Марк Константинович, Редактор (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=nonauthor&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B7%D0%B0%D1%80%D0%B9%D0%B0%D0%B7%D0%B4%D0%B8+%D0%9C%D0%B5%D1%85%D0%B4%D0%B8%2C+%D0%90%D0%B2%D1%82%D0%BE%D1%80+%D0%B0%D0%B4%D0%B0%D0%BF%D1%82%D0%B0%D1%86%D0%B8%D0%B8">Азарйазди Мехди, Автор адаптации (2)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=nonauthor&amp;filter_relational_operator=equals&amp;filter=%D0%90%D0%B9%D0%B7%D0%B5%D0%BD%D1%88%D1%82%D0%B0%D1%82+%D0%9C.+%D0%9C.%2C+%D0%A0%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80">Айзенштат М. М., Редактор (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/search-filter?field=nonauthor">... смотреть дальше</a>
+</li>
+</ul>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/">
+<h2 class="ds-sublist-head">Издателю</h2>
+<ul xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" class="ds-simple-list sublist">
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=publisher&amp;filter_relational_operator=equals&amp;filter=%22%D0%94%D0%BE%D0%BB%D0%BE%D0%B9+%D0%9D%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C%22">"Долой Неграмотность" (2)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=publisher&amp;filter_relational_operator=equals&amp;filter=%22%D0%94%D1%80%D1%83%D0%B7%D1%8C%D1%8F+%D0%B4%D0%B5%D1%82%D0%B5%D0%B9%22">"Друзья детей" (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=publisher&amp;filter_relational_operator=equals&amp;filter=%22%D0%97%D0%B5%D0%BC%D0%BB%D1%8F+%D0%B8+%D1%84%D0%B0%D0%B1%D1%80%D0%B8%D0%BA%D0%B0%22">"Земля и фабрика" (7)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=publisher&amp;filter_relational_operator=equals&amp;filter=%22%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%22">"Новая Москва" (3)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=publisher&amp;filter_relational_operator=equals&amp;filter=%22%D0%9F%D0%BE%D0%BB%D1%8C%D0%B7%D0%B0%22+%D0%92.+%D0%90%D0%BD%D1%82%D0%B8%D0%BA+%D0%B8+%D0%9A%C2%B0">"Польза" В. Антик и К° (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=publisher&amp;filter_relational_operator=equals&amp;filter=%22%D0%9F%D0%BE%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA%22">"Посредник" (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=publisher&amp;filter_relational_operator=equals&amp;filter=%22%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B0%D1%8F+%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0%22">"Рабочая газета" (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=publisher&amp;filter_relational_operator=equals&amp;filter=%22%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F%22+%D1%82%D0%B8%D0%BF%D0%BE-%D0%BB%D0%B8%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F">"Русская" типо-литография (35)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=publisher&amp;filter_relational_operator=equals&amp;filter=%22%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F%22%D1%82%D0%B8%D0%BF%D0%BE-%D0%BB%D0%B8%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F">"Русская"типо-литография (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=publisher&amp;filter_relational_operator=equals&amp;filter=%22%D0%A2-%D0%B2%D0%BE+%D0%A5%D1%83%D0%B4%D0%BE%D0%B6.+%D0%9F%D0%B5%D1%87.%22">"Т-во Худож. Печ." (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=publisher&amp;filter_relational_operator=equals&amp;filter=%22%D0%A2-%D0%B2%D0%BE+%D0%A5%D1%83%D0%B4%D0%BE%D0%B6.+%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D0%B8%22">"Т-во Худож. Печати" (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/search-filter?field=publisher">... смотреть дальше</a>
+</li>
+</ul>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/">
+<h2 class="ds-sublist-head">Создателю электронной копии</h2>
+<ul xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" class="ds-simple-list sublist">
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=creator&amp;filter_relational_operator=equals&amp;filter=Princeton+university+digital+library">Princeton university digital library (86)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=creator&amp;filter_relational_operator=equals&amp;filter=%D0%93%D0%9F%D0%98%D0%91">ГПИБ (1016)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=creator&amp;filter_relational_operator=equals&amp;filter=%D0%98.+%D0%9D%D0%B0%D1%84%D1%82%D1%83%D0%BB%D1%8C%D0%B5%D0%B2">И. Нафтульев (62)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=creator&amp;filter_relational_operator=equals&amp;filter=%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%B5%D0%B2+%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9+%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87">Караваев Сергей Николаевич (73)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=creator&amp;filter_relational_operator=equals&amp;filter=%D0%9B%D0%B8%D1%82%D0%A0%D0%B5%D1%81">ЛитРес (579)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=creator&amp;filter_relational_operator=equals&amp;filter=%D0%9D%D0%91%D0%A0">НБР (499)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=creator&amp;filter_relational_operator=equals&amp;filter=%D0%9D%D0%A0%D0%91">НРБ (1)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=creator&amp;filter_relational_operator=equals&amp;filter=%D0%A0%D0%93%D0%91">РГБ (5196)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=creator&amp;filter_relational_operator=equals&amp;filter=%D0%A0%D0%93%D0%94%D0%91">РГДБ (17375)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=creator&amp;filter_relational_operator=equals&amp;filter=%D0%A0%D0%9D%D0%91">РНБ (223)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=creator&amp;filter_relational_operator=equals&amp;filter=%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%9E%D0%94%D0%91">Ростовская ОДБ (2)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/search-filter?field=creator">... смотреть дальше</a>
+</li>
+</ul>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/">
+<h2 class="ds-sublist-head">Целевой аудитории</h2>
+<ul xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" class="ds-simple-list sublist">
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=target&amp;filter_relational_operator=equals&amp;filter=%D0%B4%D0%BB%D1%8F+%D0%B4%D0%B5%D1%82%D0%B5%D0%B9+%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%B3%D0%BE+%D0%B2%D0%BE%D0%B7%D1%80%D0%B0%D1%81%D1%82%D0%B0%2C+9-14+%D0%BB%D0%B5%D1%82">для детей среднего возраста, 9-14 лет (11129)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=target&amp;filter_relational_operator=equals&amp;filter=%D0%B4%D0%BB%D1%8F+%D1%8E%D0%BD%D0%BE%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B0%2C+%D0%B2%D0%BE%D0%B7%D1%80%D0%B0%D1%81%D1%82+14-20+%D0%BB%D0%B5%D1%82">для юношества, возраст 14-20 лет (9149)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=target&amp;filter_relational_operator=equals&amp;filter=%D0%B4%D0%BB%D1%8F+%D0%B4%D0%B5%D1%82%D0%B5%D0%B9+%D0%BC%D0%BB%D0%B0%D0%B4%D1%88%D0%B5%D0%B3%D0%BE+%D0%B2%D0%BE%D0%B7%D1%80%D0%B0%D1%81%D1%82%D0%B0%2C+5-10+%D0%BB%D0%B5%D1%82">для детей младшего возраста, 5-10 лет (7994)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=target&amp;filter_relational_operator=equals&amp;filter=%D0%B4%D0%BB%D1%8F+%D0%B4%D0%B5%D1%82%D0%B5%D0%B9+%D0%B4%D0%BE%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE+%D0%B2%D0%BE%D0%B7%D1%80%D0%B0%D1%81%D1%82%D0%B0%2C+0-5+%D0%BB%D0%B5%D1%82">для детей дошкольного возраста, 0-5 лет (3407)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=target&amp;filter_relational_operator=equals&amp;filter=%D0%B4%D0%BB%D1%8F+%D0%B2%D0%B7%D1%80%D0%BE%D1%81%D0%BB%D1%8B%D1%85%2C+%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%B0%D1%8F">для взрослых, научная (1134)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=target&amp;filter_relational_operator=equals&amp;filter=%D0%B4%D0%BB%D1%8F+%D1%8E%D0%BD%D0%BE%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B0%2C+%D0%BE%D0%B1%D1%89%D0%B5%D0%B3%D0%BE+%D1%85%D0%B0%D1%80%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B0">для юношества, общего характера (220)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=target&amp;filter_relational_operator=equals&amp;filter=%D0%9D%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%BE">Неизвестно (119)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=target&amp;filter_relational_operator=equals&amp;filter=%D0%B4%D0%BB%D1%8F+%D0%B2%D0%B7%D1%80%D0%BE%D1%81%D0%BB%D1%8B%D1%85%2C+%D0%BE%D0%B1%D1%89%D0%B5%D0%B3%D0%BE+%D1%85%D0%B0%D1%80%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B0">для взрослых, общего характера (93)</a>
+</li>
+</ul>
+</li>
+<li>
+<h2 class="ds-sublist-head">Загружено в архив</h2>
+<ul xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" class="ds-simple-list sublist">
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=loaded&amp;filter_relational_operator=equals&amp;filter=2012.12.14">2012.12.14 (1675)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=loaded&amp;filter_relational_operator=equals&amp;filter=2012.12.21">2012.12.21 (6)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=loaded&amp;filter_relational_operator=equals&amp;filter=2013.09.05">2013.09.05 (770)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=loaded&amp;filter_relational_operator=equals&amp;filter=2013.09.18">2013.09.18 (144)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=loaded&amp;filter_relational_operator=equals&amp;filter=2013.09.25">2013.09.25 (330)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=loaded&amp;filter_relational_operator=equals&amp;filter=2013.10.08">2013.10.08 (76)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=loaded&amp;filter_relational_operator=equals&amp;filter=2013.12.25">2013.12.25 (720)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=loaded&amp;filter_relational_operator=equals&amp;filter=2014.01.23">2014.01.23 (96)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=loaded&amp;filter_relational_operator=equals&amp;filter=2014.02.14">2014.02.14 (258)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=loaded&amp;filter_relational_operator=equals&amp;filter=2014.02.28">2014.02.28 (96)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=loaded&amp;filter_relational_operator=equals&amp;filter=2014.03.14">2014.03.14 (282)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/search-filter?field=loaded">... смотреть дальше</a>
+</li>
+</ul>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/">
+<h2 class="ds-sublist-head">Наличию авторских прав</h2>
+<ul xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" class="ds-simple-list sublist">
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=rights&amp;filter_relational_operator=equals&amp;filter=%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%B9+%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF">Открытый доступ (14114)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=rights&amp;filter_relational_operator=equals&amp;filter=%D0%97%D0%B0%D1%89%D0%B8%D1%89%D0%B5%D0%BD%D0%BE+%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%BC+%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%BC">Защищено авторским правом (8350)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="/xmlui/discover?filtertype=rights&amp;filter_relational_operator=equals&amp;filter=%D0%92+%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B8+%D0%A0%D0%93%D0%94%D0%91">В здании РГДБ (2714)</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<script type="text/javascript">$(".discovery_main").appendTo($('#ds-body')).show();var ul = $(".discovery_main ul ul").eq(0);var ul2 = $(".discovery_main ul ul").eq(1);var ul3 = $(".discovery_main ul ul").eq(2);ul.find('li:gt(33)').appendTo(ul2);ul2.find('li:gt(33)').appendTo(ul3);</script>
+<div class="b-right-container">
+<h1 class="ds-option-set-head" id="ds-feed-option-head">Последние добавленные</h1>
+<div xmlns:i18n="http://apache.org/cocoon/i18n/2.1" class="ds-option-set" id="ds-feed-option">
+<ul class="standart-list">
+<li>
+<a href="/xmlui/feed/rss_1.0/site">
+<img src="/xmlui/static/icons/feed.png" />RSS 1.0</a>
+</li>
+<li>
+<a href="/xmlui/feed/rss_2.0/site">
+<img src="/xmlui/static/icons/feed.png" />RSS 2.0</a>
+</li>
+<li>
+<a href="/xmlui/feed/atom_1.0/site">
+<img src="/xmlui/static/icons/feed.png" />Atom</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+</div>
+</div>
+<div class="b-footer" id="ds-footer-wrapper">
+<div class="b-foot1">
+<a href="/xmlui/contact">Контакты</a> | <a xmlns:i18n="http://apache.org/cocoon/i18n/2.1" href="/xmlui/feedback">Отправить отзыв</a> || <a xmlns:i18n="http://apache.org/cocoon/i18n/2.1" target="_blank" href="https://zen.yandex.ru/id/5c3f1ed1f7c3db00ac8a45d4">
+				Яндекс Дзен
+			</a> | <a target="_blank" href="https://vk.com/rgdb_nedb">
+			ВКонтакте
+			</a> | <a target="_blank" href="http://www.ok.ru/group/53901080133757">
+			Одноклассники
+			</a> | <a target="_blank" href="https://t.me/nedbru_pro">
+			Telegram
+			</a>
+</div>
+<div class="b-foot2">
+<p>РГДБ 2012-2022</p>
+</div>
+<div class="b-foot3">
+<p>Информационные партнеры</p>
+<table style="margin-left: auto; margin-right: auto; width: 100%;" align="center" border="0">
+<tr>
+<td align="center">
+<a rel="nofollow" target="blank" href="http://xn--90ax2c.xn--p1ai/">
+<img title="НЭБ" alt="НЭБ" height="35" align="left" src="/xmlui/themes/Mirage/images/partners/footer/logo-neb-solid.png" />
+</a>
+</td>
+<td align="center">
+<a rel="nofollow" target="blank" href="http://gosfilmofond.ru/">
+<img title="Госфильмофонд России" alt="Госфильмофонд России" height="35" align="left" src="/xmlui/themes/Mirage/images/partners/footer/logo-gff-solid.png" />
+</a>
+</td>
+<td align="center">
+<a rel="nofollow" target="blank" href="http://tvkultura.ru/">
+<img title="Телеканал Культура" alt="Телеканал Культура" height="35" align="left" src="/xmlui/themes/Mirage/images/partners/footer/logo-tvcult.png" />
+</a>
+</td>
+<td align="center">
+<a rel="nofollow" target="blank" href="https://www.culture.ru/">
+<img title="культура.рф" alt="культура.рф" height="35" align="left" src="/xmlui/themes/Mirage/images/partners/footer/logo-cultrf-solid.png" />
+</a>
+</td>
+<td align="center">
+<a rel="nofollow" target="blank" href="https://regnum.ru/">
+<img title="ИА Регнум" alt="ИА Регнум" height="35" align="left" src="/xmlui/themes/Mirage/images/partners/footer/logo-regnum.png" />
+</a>
+</td>
+<td align="center">
+<a rel="nofollow" target="blank" href="https://prodetlit.ru/">
+<img title="ПроДетЛит: всероссийская энциклопедия детской литературы" alt="ПроДетЛит: всероссийская энциклопедия детской литературы" height="35" align="left" src="/xmlui/themes/Mirage/images/partners/footer/logo-prodetlit.png" />
+</a>
+</td>
+</tr>
+</table>
+</div>
+<a class="hidden" href="/xmlui/htmlmap"> </a>
+</div>
+</div><!--[if lt IE 7 ]>
+<script type="text/javascript" src="/xmlui/themes/Mirage/lib/js/DD_belatedPNG_0.0.8a.js?v=1"> </script>
+<script type="text/javascript">DD_belatedPNG.fix('#ds-header-logo');DD_belatedPNG.fix('#ds-footer-logo');$.each($('img[src$=png]'), function() {DD_belatedPNG.fixPng(this);});</script><![endif]-->
+<script type="text/javascript">
+            runAfterJSImports.execute();
+        </script></body></html>
+<!-- URL: https://arch.rgdb.ru -->
