@@ -94,19 +94,32 @@ if __name__ == '__main__':
             tokens_tf_idf_file = open(f'tokens/{page_num}_tokens_tf-idf.txt', 'w+', encoding='utf-8')
             lemmas_tf_idf_file = open(f'lemmas/{page_num}_lemmas_tf-idf.txt', 'w+', encoding='utf-8')
 
+            used_tokens = []
+            used_lemmas = []
             for token in doc:
 
                 if token_is_right(token):
-                    token_tf = get_token_tf(token.text, page_num)
-                    token_idf = get_token_idf(token.text)
-                    token_tf_idf = token_tf * token_idf
-                    tokens_tf_idf_file.write(f'{token.text} {token_idf} {token_tf_idf}\n')
 
-                    lemma = token.lemma_
-                    lemma_tf = get_lemma_tf(lemma, page_num)
-                    lemma_idf = get_lemma_idf(lemma)
-                    lemma_tf_idf = lemma_tf * lemma_idf
-                    lemmas_tf_idf_file.write(f'{lemma} {lemma_idf} {lemma_tf_idf}\n')
+                    if token.text not in used_tokens:
+
+                        token_tf = get_token_tf(token.text, page_num)
+                        token_idf = get_token_idf(token.text)
+                        token_tf_idf = token_tf * token_idf
+                        tokens_tf_idf_file.write(f'{token.text} {token_idf} {token_tf_idf}\n')
+
+                        used_tokens.append(token.text)
+
+                        lemma = token.lemma_
+                        if lemma not in used_lemmas:
+                            lemma_tf = get_lemma_tf(lemma, page_num)
+                            lemma_idf = get_lemma_idf(lemma)
+                            lemma_tf_idf = lemma_tf * lemma_idf
+                            lemmas_tf_idf_file.write(f'{lemma} {lemma_idf} {lemma_tf_idf}\n')
+                            used_lemmas.append(lemma)
+                        else:
+                            continue
+                    else:
+                        continue
 
             tokens_tf_idf_file.close()
             lemmas_tf_idf_file.close()
