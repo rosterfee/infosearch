@@ -48,7 +48,7 @@ def write_pages_vectors(page_vectors: dict[int]):
             vectors_file.write(f'{page_num} {vector}\n')
 
 
-# tokens = get_all_tokens()
+tokens = get_all_tokens()
 # vectors = gen_vectors()
 # write_pages_vectors(vectors)
 

@@ -28,11 +28,8 @@ def gen_query_vector(query: str):
 
     for word in split:
         if word in tokens:
-            token = nlp(word)[0]
-            lemma_tokens = lemmas_dict[token.lemma_]
-            for token in lemma_tokens:
-                token_index = tokens.index(token)
-                query_vector[token_index] = 1
+            token_index = tokens.index(word)
+            query_vector[token_index] = 1
         else:
             continue
 
