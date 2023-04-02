@@ -32,7 +32,7 @@ def gen_query_vector(query: str):
             lemma_tokens = lemmas_dict[token.lemma_]
             for token in lemma_tokens:
                 token_index = tokens.index(token)
-                query_vector[token_index] = 1 / len(lemma_tokens)
+                query_vector[token_index] = 1
         else:
             continue
 
