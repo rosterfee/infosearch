@@ -10,7 +10,7 @@ lemmas = defaultdict()
 
 
 def init_lemmas_dict():
-    with open('../2/lemmas.txt', encoding='utf-8') as lemmas_file:
+    with open('../task2/lemmas.txt', encoding='utf-8') as lemmas_file:
         lines = lemmas_file.readlines()
         for line in lines:
             split = line.strip().split(' ')
@@ -19,7 +19,6 @@ def init_lemmas_dict():
 
 
 def gen_query_vector(query: str):
-
     tokens = get_all_tokens()
     query_vector = [0.0 for _ in range(len(tokens))]
 
@@ -52,11 +51,7 @@ def gen_pages_vectors_dict():
     return pages_vectors
 
 
-if __name__ == '__main__':
-
-    query = input('Введите запрос: ')
-
-    lemmas_dict = init_lemmas_dict()
+def get_search_results(query: str):
     query_vector = gen_query_vector(query)
     pages_vectors = gen_pages_vectors_dict()
 
@@ -69,7 +64,10 @@ if __name__ == '__main__':
 
     with open('../links.txt', 'r', encoding='utf-8') as links_file:
         links = links_file.readlines()
-        counter = 1
-        for page_num, rank in pages_rank.items():
-            print(f'{counter}: {links[page_num - 1].strip()}')
-            counter += 1
+        result_links = dict()
+        for page_num in pages_rank.keys():
+            result_links[page_num] = links[page_num - 1].strip()
+        return result_links
+
+
+lemmas_dict = init_lemmas_dict()

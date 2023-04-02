@@ -5,7 +5,7 @@ from numpy import empty
 
 def get_all_tokens():
     tokens = []
-    with open('../2/tokens.txt', 'r', encoding='utf-8') as tokens_file:
+    with open('../task2/tokens.txt', 'r', encoding='utf-8') as tokens_file:
         lines = tokens_file.readlines()
         for line in lines:
             token = line.strip()
@@ -48,7 +48,7 @@ def write_pages_vectors(page_vectors: dict[int]):
             vectors_file.write(f'{page_num} {vector}\n')
 
 
-tokens = get_all_tokens()
+# tokens = get_all_tokens()
 # vectors = gen_vectors()
 # write_pages_vectors(vectors)
 
