@@ -2,11 +2,24 @@ from collections import defaultdict
 from vectors_generator import get_all_tokens
 from numpy import dot
 from numpy.linalg import norm
-
+import spacy
 import ast
+
+nlp = spacy.load('ru_core_news_sm')
+lemmas = defaultdict()
+
+
+def init_lemmas_dict():
+    with open('../2/lemmas.txt', encoding='utf-8') as lemmas_file:
+        lines = lemmas_file.readlines()
+        for line in lines:
+            split = line.strip().split(' ')
+            lemmas[split[0]] = [split[i] for i in range(1, len(split))]
+        return lemmas
 
 
 def gen_query_vector(query: str):
+
     tokens = get_all_tokens()
     query_vector = [0.0 for _ in range(len(tokens))]
 
@@ -16,8 +29,11 @@ def gen_query_vector(query: str):
 
     for word in split:
         if word in tokens:
-            word_index = tokens.index(word)
-            query_vector[word_index] = 1
+            token = nlp(word)[0]
+            lemma_tokens = lemmas_dict[token.lemma_]
+            for token in lemma_tokens:
+                token_index = tokens.index(token)
+                query_vector[token_index] = 1 / len(lemma_tokens)
         else:
             continue
 
@@ -39,8 +55,9 @@ def gen_pages_vectors_dict():
 if __name__ == '__main__':
 
     query = input('Введите запрос: ')
-    query_vector = gen_query_vector(query)
 
+    lemmas_dict = init_lemmas_dict()
+    query_vector = gen_query_vector(query)
     pages_vectors = gen_pages_vectors_dict()
 
     pages_rank = defaultdict(int)
@@ -56,4 +73,3 @@ if __name__ == '__main__':
         for page_num, rank in pages_rank.items():
             print(f'{counter}: {links[page_num - 1].strip()}')
             counter += 1
-
